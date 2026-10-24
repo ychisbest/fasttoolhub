@@ -2478,5 +2478,55 @@
     "url": "https://unhindered.ai/news/elevencreative-chimera-eleven-v4-seedance-2-5-voiced-video",
     "excerpt": "ElevenCreative \"Chimera\" (announced Oct 21): workflow template pairing Eleven v4 voices with ByteDance Seedance 2.5 video to make talking-character videos from an image + script, directed with audio tags like [whispers]/[laughs]/[yells]; not available in the US (Seedance restriction). Ambassador push on X this window: @MonetizationDon (56 likes) https://x.com/MonetizationDon/status/2113682310713286685 ; @blogwithben https://x.com/blogwithben/status/2113683453598196015",
     "review_14d": null
+  },
+  {
+    "id": 249,
+    "term": "Hi3D 1.0",
+    "source": "x+hf",
+    "score": 0.82,
+    "first_seen": "2026-10-24T16:32+08:00",
+    "url": "https://huggingface.co/hi3d-official/Hi3Dv1.0",
+    "excerpt": "Hi3D V1.0 (formerly Sparc3D) open-sourced Oct 23, 2026 (PRNewswire, Beijing): production-validated image-conditioned 3D geometry refinement model, trained on ~2M curated 3D assets, up to 1536³ effective resolution; code github.com/hi3d-official/Hi3Dv1.0, weights on HF, free generation at hi3d.ai/hi3d-1-0-open-source. X: 'Hi3D made its full AI 3D model FREE'.",
+    "review_14d": null
+  },
+  {
+    "id": 250,
+    "term": "Sakana Aquarium",
+    "source": "x+web",
+    "score": 0.8,
+    "first_seen": "2026-10-24T16:32+08:00",
+    "url": "https://sakana.ai/aquarium-release/",
+    "excerpt": "Sakana AI announced 'Sakana Aquarium' on Oct 23, 2026: an ontology-based AI agent build/run/ops platform for enterprise decision-making & execution (Ontology, Governance, Managed Agents; workflows as YAML with human approval). Covered by Nikkei, TRAIL; product page sakana.ai/aquarium. Availability via consultation, no pricing yet.",
+    "review_14d": null
+  },
+  {
+    "id": 251,
+    "term": "IQuest-Q1",
+    "source": "x+hf",
+    "score": 0.72,
+    "first_seen": "2026-10-24T16:32+08:00",
+    "url": "https://huggingface.co/IQuestLab/IQuest-Q1",
+    "excerpt": "IQuest-Q1: open-weight 320B MoE (15B active), 512K context, built for agentic CLI coding (Claude Code/Codex); technical report released Oct 22–23, 2026 (HF paper 2610.30949), 83.2 on Terminal-Bench 2.1; weights on HF/ModelScope (IQuestLab), SGLang cookbook support. Site iquestlab.github.io.",
+    "review_14d": null
+  },
+  {
+    "id": 252,
+    "term": "Gemini API CLI",
+    "source": "x+web",
+    "score": 0.72,
+    "first_seen": "2026-10-24T16:32+08:00",
+    "url": "https://aistudio.google.com/learn/introducing-the-gemini-api-cli",
+    "excerpt": "Google released the experimental Gemini API CLI (`gemini-api`) — zero-dependency Go binary (Apache-2.0, github.com/google-gemini/gemini-api-cli, v0.4.3) letting Claude Code/Codex/Cursor etc. generate images/video/music/speech, analyze/transcribe media and run Managed Agents from the shell. Announced Oct 19; heavy EN/CN/JP X discussion Oct 23–24 about confusion with Gemini CLI / Antigravity CLI.",
+    "review_14d": null
+  },
+  {
+    "id": 253,
+    "term": "Brainobot",
+    "source": "x",
+    "score": 0.6,
+    "first_seen": "2026-10-24T16:32+08:00",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.09.09.750426v1",
+    "excerpt": "Brainobot: biohybrid system where a 3-month-old cortical brain organoid on a MaxOne MEA acts as the decision layer of a ROBOTIS humanoid (grasping, laser chasing, ~92–94% accuracy). Indiana Univ. Brainoware group bioRxiv preprint (Sep 15); trending in X News Oct 24 ('Human Brain Cells Now Power Robots and Prototype Data Centers').",
+    "review_14d": null
   }
 ]
