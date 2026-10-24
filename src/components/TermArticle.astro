@@ -1,0 +1,68 @@
+---
+import { t, type Locale } from '../i18n/ui';
+import { formatDate, homePath } from '../i18n/paths';
+import { sourceKind } from '../lib/source';
+
+interface Props {
+  locale: Locale;
+  term: string;
+  date: string | Date;
+  source: string;
+  score: number;
+  url?: string;
+  slug: string;
+  introHtml: string;
+  explainHtml: string;
+  usageHtml: string;
+}
+
+const { locale, term, date, source, score, url, slug, introHtml, explainHtml, usageHtml } = Astro.props;
+const kind = sourceKind(source);
+const iso = typeof date === 'string' ? date : date.toISOString();
+const sections = [
+  { index: '01', title: t(locale, 'intro'), html: introHtml },
+  { index: '02', title: t(locale, 'explain'), html: explainHtml },
+  { index: '03', title: t(locale, 'usage'), html: usageHtml },
+];
+---
+
+<article class="term-page">
+  <a class="back" href={homePath(locale)}>{t(locale, 'backHome')}</a>
+  <p class="kicker">
+    <span>{t(locale, 'desk')}</span>
+    <span class="kicker-slug">{slug}</span>
+  </p>
+  <h1>{term}</h1>
+  <ul class="term-facts">
+    <li>
+      <span class="fact-k">{t(locale, 'date')}</span>
+      <time datetime={iso}>{formatDate(date, locale)}</time>
+    </li>
+    <li>
+      <span class="fact-k">{t(locale, 'source')}</span>
+      <span class:list={['source-tag', `source-${kind}`]} title={source}>{source}</span>
+    </li>
+    <li>
+      <span class="fact-k">{t(locale, 'score')}</span>
+      <span class="score-num">{score.toFixed(2)}</span>
+    </li>
+    <li>
+      <span class="fact-k">{t(locale, 'slugLabel')}</span>
+      <span class="slug">{slug}</span>
+    </li>
+  </ul>
+  {url && (
+    <p class="origin">
+      <a href={url} rel="noopener noreferrer" target="_blank">{t(locale, 'originalLink')}</a>
+    </p>
+  )}
+  {sections.map((section) => (
+    <section class="section">
+      <div class="section-head">
+        <span class="section-index">{section.index}</span>
+        <h2>{section.title}</h2>
+      </div>
+      <div class="prose" set:html={section.html} />
+    </section>
+  ))}
+</article>

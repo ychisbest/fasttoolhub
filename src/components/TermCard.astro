@@ -3,6 +3,7 @@ import type { CollectionEntry } from 'astro:content';
 import { type Locale } from '../i18n/ui';
 import { formatDate, termPath } from '../i18n/paths';
 import { t } from '../i18n/ui';
+import { displayText, sourceKind } from '../lib/source';
 
 interface Props {
   locale: Locale;
@@ -11,6 +12,10 @@ interface Props {
 
 const { locale, entry } = Astro.props;
 const { term, date, source, score, excerpt, slug } = entry.data;
+const kind = sourceKind(source);
+const iso = typeof date === 'string' ? date : date.toISOString();
+const scoreText = score.toFixed(2);
+const blurb = displayText(excerpt || '');
 ---
 
 <a
@@ -19,16 +24,23 @@ const { term, date, source, score, excerpt, slug } = entry.data;
   data-term-card
   data-term={term.toLowerCase()}
   data-source={source.toLowerCase()}
-  data-excerpt={(excerpt || '').toLowerCase()}
+  data-excerpt={blurb.toLowerCase()}
 >
-  <div class="card-top">
-    <h2>{term}</h2>
-    <span class="badge">{t(locale, 'score')} {score}</span>
+  <div class="card-score">
+    <span class="score-num">{scoreText}</span>
+    <span class="score-label">{t(locale, 'score')}</span>
   </div>
-  <div class="meta">
-    <span>{formatDate(date, locale)}</span>
-    <span>·</span>
-    <span>{t(locale, 'source')}: {source}</span>
+  <div class="card-body">
+    <h3>{term}</h3>
+    {blurb && <p class="excerpt">{blurb}</p>}
+    <div class="meta">
+      <span class:list={['source-tag', `source-${kind}`]} title={source}>{source}</span>
+      <time datetime={iso}>{formatDate(date, locale)}</time>
+    </div>
   </div>
-  {excerpt && <p class="excerpt">{excerpt}</p>}
+  <span class="card-go" aria-hidden="true">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M9 6l6 6-6 6"></path>
+    </svg>
+  </span>
 </a>

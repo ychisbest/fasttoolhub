@@ -12,10 +12,16 @@ const currentPath = Astro.url.pathname;
 ---
 
 <header class="site-header">
-  <div class="container header-inner">
+  <div class="container mast-row">
     <a class="brand" href={homePath(locale)}>
-      <strong>{t(locale, 'siteName')}</strong>
-      <span>{t(locale, 'tagline')}</span>
+      <span class="brand-mark" aria-hidden="true">FT</span>
+      <span class="brand-text">
+        <span class="wordmark-row">
+          <strong>{t(locale, 'siteName')}</strong>
+          <span class="wire-pill">WIRE</span>
+        </span>
+        <span class="brand-tag">{t(locale, 'tagline')}</span>
+      </span>
     </a>
     <div class="header-actions">
       <nav class="lang-switch" aria-label={t(locale, 'language')}>
@@ -25,6 +31,7 @@ const currentPath = Astro.url.pathname;
             href={switchLocalePath(currentPath, lang)}
             hreflang={lang === 'zh' ? 'zh-CN' : 'en'}
             lang={lang === 'zh' ? 'zh-CN' : 'en'}
+            aria-current={lang === locale ? 'true' : undefined}
           >
             {languages[lang]}
           </a>

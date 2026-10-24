@@ -1,8 +1,9 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
+import TermArticle from '../../../components/TermArticle.astro';
 import { getTermsByLocale } from '../../../lib/terms';
-import { formatDate, homePath, termPath } from '../../../i18n/paths';
-import { t } from '../../../i18n/ui';
+import { renderMarkdown } from '../../../lib/markdown';
+import { termPath } from '../../../i18n/paths';
 
 export async function getStaticPaths() {
   const entries = await getTermsByLocale('en');
@@ -24,32 +25,16 @@ const { term, date, source, score, url, excerpt, intro, explain, usage, slug } =
   ogType="article"
   canonicalPath={termPath(locale, slug)}
 >
-  <article class="term-page">
-    <a class="back" href={homePath(locale)}>{t(locale, 'backHome')}</a>
-    <h1>{term}</h1>
-    <div class="meta">
-      <span>{formatDate(date, locale)}</span>
-      <span>·</span>
-      <span>{t(locale, 'source')}: {source}</span>
-      <span>·</span>
-      <span class="badge">{t(locale, 'score')} {score}</span>
-    </div>
-    {url && (
-      <p class="excerpt">
-        <a href={url} rel="noopener noreferrer" target="_blank">{t(locale, 'originalLink')}</a>
-      </p>
-    )}
-    <section class="section">
-      <h2>{t(locale, 'intro')}</h2>
-      <p>{intro}</p>
-    </section>
-    <section class="section">
-      <h2>{t(locale, 'explain')}</h2>
-      <p>{explain}</p>
-    </section>
-    <section class="section">
-      <h2>{t(locale, 'usage')}</h2>
-      <p>{usage}</p>
-    </section>
-  </article>
+  <TermArticle
+    locale={locale}
+    term={term}
+    date={date}
+    source={source}
+    score={score}
+    url={url}
+    slug={slug}
+    introHtml={renderMarkdown(intro)}
+    explainHtml={renderMarkdown(explain)}
+    usageHtml={renderMarkdown(usage)}
+  />
 </BaseLayout>

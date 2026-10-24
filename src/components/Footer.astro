@@ -4,5 +4,11 @@ interface Props { locale: Locale }
 const { locale } = Astro.props;
 ---
 <footer class="site-footer">
-  <div class="container">{t(locale, 'footer')}</div>
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <strong>{t(locale, 'siteName')}</strong>
+      <span>{t(locale, 'tagline')}</span>
+    </div>
+    <p>{t(locale, 'footer')}</p>
+  </div>
 </footer>
