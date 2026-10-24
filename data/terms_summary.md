@@ -1,5 +1,5 @@
 # Radar leads timeline
-Total: 248
+Total: 256
 - **Microsoft-Decision-1** | 2026-10-10T16:40 | X | 0.92 | https://x.com/TheRealKaien/status/2108838430100643846
   Microsoft just launched Microsoft-Decision-1, a 9B model that scores fixed choices instead of generating text.
 - **Qwen-Image-2.1-Turbo** | 2026-10-10T16:40 | Hugging Face | 0.9 | https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo
@@ -496,3 +496,19 @@ Total: 248
   UCLA RoMeLa (Dennis Hong) PhoneBot: open-source 13-DoF bipedal humanoid (48 cm, 1.8 kg, ~$400 hardware) that uses an Android phone as torso/sensors/compute; walks, fall recovery, person following, telepresence; CAD/firmware/Android software
 - **ElevenLabs Chimera** | 2026-10-24T08:32+08:00 | x | 0.6 | https://unhindered.ai/news/elevencreative-chimera-eleven-v4-seedance-2-5-voiced-video
   ElevenCreative "Chimera" (announced Oct 21): workflow template pairing Eleven v4 voices with ByteDance Seedance 2.5 video to make talking-character videos from an image + script, directed with audio tags like [whispers]/[laughs]/[yells]; no
+- **Hi3D 1.0** | 2026-10-24T16:32+08:00 | x+hf | 0.82 | https://huggingface.co/hi3d-official/Hi3Dv1.0
+  Hi3D V1.0 (formerly Sparc3D) open-sourced Oct 23, 2026 (PRNewswire, Beijing): production-validated image-conditioned 3D geometry refinement model, trained on ~2M curated 3D assets, up to 1536³ effective resolution; code github.com/hi3d-offi
+- **Sakana Aquarium** | 2026-10-24T16:32+08:00 | x+web | 0.8 | https://sakana.ai/aquarium-release/
+  Sakana AI announced 'Sakana Aquarium' on Oct 23, 2026: an ontology-based AI agent build/run/ops platform for enterprise decision-making & execution (Ontology, Governance, Managed Agents; workflows as YAML with human approval). Covered by Ni
+- **IQuest-Q1** | 2026-10-24T16:32+08:00 | x+hf | 0.72 | https://huggingface.co/IQuestLab/IQuest-Q1
+  IQuest-Q1: open-weight 320B MoE (15B active), 512K context, built for agentic CLI coding (Claude Code/Codex); technical report released Oct 22–23, 2026 (HF paper 2610.30949), 83.2 on Terminal-Bench 2.1; weights on HF/ModelScope (IQuestLab),
+- **Gemini API CLI** | 2026-10-24T16:32+08:00 | x+web | 0.72 | https://aistudio.google.com/learn/introducing-the-gemini-api-cli
+  Google released the experimental Gemini API CLI (`gemini-api`) — zero-dependency Go binary (Apache-2.0, github.com/google-gemini/gemini-api-cli, v0.4.3) letting Claude Code/Codex/Cursor etc. generate images/video/music/speech, analyze/trans
+- **Brainobot** | 2026-10-24T16:32+08:00 | x | 0.6 | https://www.biorxiv.org/content/10.64898/2026.09.09.750426v1
+  Brainobot: biohybrid system where a 3-month-old cortical brain organoid on a MaxOne MEA acts as the decision layer of a ROBOTIS humanoid (grasping, laser chasing, ~92–94% accuracy). Indiana Univ. Brainoware group bioRxiv preprint (Sep 15); 
+- **1Password for Agents** | 2026-10-25T00:32+08:00 | x+producthunt | 0.8 | https://1password.com/blog/1password-for-ai-agents
+  1Password launched '1Password for Agents' (Oct 22, 2026; TechCrunch + press release), a platform that lets personal AI agents sign in on your behalf without seeing passwords: the agent requests a credential, the user approves on their own d
+- **zCAD AI** | 2026-10-25T00:32+08:00 | x+producthunt | 0.75 | https://zcad.ai/products/ai
+  zCAD AI — #1 Product of the Day on Product Hunt, Oct 24, 2026 (~194 upvotes, 26 comments). AI-native platform that turns plain-language prompts into editable, dimension-driven parametric CAD models (real CAD geometry, not meshes); generates
+- **DEEPRobotics-Brain** | 2026-10-25T00:32+08:00 | x+web | 0.75 | https://www.bjnews.com.cn/detail/1792829104129443.html
+  云深处科技 (DEEP Robotics) on Oct 24, 2026 unveiled its embodied brain 'DEEPRobotics-Brain' with five research results: world model DR-WM-1.0 (physics-consistent world model for quadrupeds with friction/roughness/stiffness priors, pretrained on 

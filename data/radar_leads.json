@@ -2528,5 +2528,35 @@
     "url": "https://www.biorxiv.org/content/10.64898/2026.09.09.750426v1",
     "excerpt": "Brainobot: biohybrid system where a 3-month-old cortical brain organoid on a MaxOne MEA acts as the decision layer of a ROBOTIS humanoid (grasping, laser chasing, ~92–94% accuracy). Indiana Univ. Brainoware group bioRxiv preprint (Sep 15); trending in X News Oct 24 ('Human Brain Cells Now Power Robots and Prototype Data Centers').",
     "review_14d": null
+  },
+  {
+    "id": 254,
+    "term": "1Password for Agents",
+    "source": "x+producthunt",
+    "score": 0.8,
+    "first_seen": "2026-10-25T00:32+08:00",
+    "url": "https://1password.com/blog/1password-for-ai-agents",
+    "excerpt": "1Password launched '1Password for Agents' (Oct 22, 2026; TechCrunch + press release), a platform that lets personal AI agents sign in on your behalf without seeing passwords: the agent requests a credential, the user approves on their own device, and 1Password autofills it directly into the login form. Launch integrations: Meta Muse, Anthropic Claude Duet, OpenAI ChatGPT Work/dots, Grok Bot, Town Townie; coming: Browserbase, Browser Use, Perplexity, Ramp, KERNEL, etc. Free for 1Password.com Individual/Family accounts. Ranked #3 on Product Hunt Oct 24 (~170 upvotes).",
+    "review_14d": null
+  },
+  {
+    "id": 255,
+    "term": "zCAD AI",
+    "source": "x+producthunt",
+    "score": 0.75,
+    "first_seen": "2026-10-25T00:32+08:00",
+    "url": "https://zcad.ai/products/ai",
+    "excerpt": "zCAD AI — #1 Product of the Day on Product Hunt, Oct 24, 2026 (~194 upvotes, 26 comments). AI-native platform that turns plain-language prompts into editable, dimension-driven parametric CAD models (real CAD geometry, not meshes); generates full assemblies with mates from one prompt, browser-based CAD editor for refinement, STEP export. PH: https://www.producthunt.com/products/zcad-ai",
+    "review_14d": null
+  },
+  {
+    "id": 256,
+    "term": "DEEPRobotics-Brain",
+    "source": "x+web",
+    "score": 0.75,
+    "first_seen": "2026-10-25T00:32+08:00",
+    "url": "https://www.bjnews.com.cn/detail/1792829104129443.html",
+    "excerpt": "云深处科技 (DEEP Robotics) on Oct 24, 2026 unveiled its embodied brain 'DEEPRobotics-Brain' with five research results: world model DR-WM-1.0 (physics-consistent world model for quadrupeds with friction/roughness/stiffness priors, pretrained on 2.58M images + 100k+ real-robot clips; arXiv 2610.17630), embodied foundation model DR-VLA-2.0, navigation agent DR-Agent, policy-optimization framework DR-APO (NavDP sim success 70.33%→89.55%), and data-loop platform DR-Benchmark. Co-developed with MIT, UCSD, UIUC, Tsinghua, ZJU, HKUST, BIT. Coverage: 新京报, 环球网, ai123, 机器人大讲堂.",
+    "review_14d": null
   }
 ]
