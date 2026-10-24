@@ -1,0 +1,16 @@
+---
+slug: "deepinfer"
+term: "DeepInfer"
+locale: "en"
+date: "2026-10-21T00:32+08:00"
+source: "X+GitHub+HN"
+score: 0.93
+url: "https://github.com/deepseek-ai/DeepInfer"
+excerpt: "DeepSeek open-sourced DeepInfer (Apache-2.0) on 2026-10-20 (~09:00Z / 17:00 BJT): \\\"High-performance, large-scale inference framework for DeepSeek models\\\", the engine that serves DeepSeek-V4.1-Flash in production; supports NVIDIA SM100 GPUs + Huawei Ascend 950 NPUs, distributed inference, speculative decoding, SWA Bounded Replay, structured output; companion token codec deepseek-recipe. Initially built on vLLM. Repo 10.2k★ (+~2k/day). HN #1 'DeepSeek just open-sourced its inference engine' 1,688 pts; @vllm_project thank-you post 1,482♥/47k imp; wide CN/JP/KR coverage (Quartz etc.). Community spin-offs already: 'DeepInfer Studio', 'DeepInfer Reader'."
+intro: "**DeepInfer** is a recently tracked product, model, or tool in public channels. The radar excerpt reads:\n\n> DeepSeek open-sourced DeepInfer (Apache-2.0) on 2026-10-20 (~09:00Z / 17:00 BJT): \"High-performance, large-scale inference framework for DeepSeek models\", the engine that serves DeepSeek-V4.1-Flash in production; supports NVIDIA SM100 GPUs + Huawei Ascend 950 NPUs, distributed inference, speculative decoding, SWA Bounded Replay, structured output; companion token codec deepseek-recipe. Initially built on vLLM. Repo 10.2k★ (+~2k/day). HN #1 'DeepSeek just open-sourced its inference engine' 1,688 pts; @vllm_project thank-you post 1,482♥/47k imp; wide CN/JP/KR coverage (Quartz etc.). Community spin-offs already: 'DeepInfer Studio', 'DeepInfer Reader'.\n\nThe recorded source label is `X+GitHub+HN`. Use the public URL below to verify the original post or page."
+explain: "Based only on the excerpt, **DeepInfer** should be understood from the facts stated there. This write-up does not invent funding amounts, model sizes, or leaderboard scores that are absent from the excerpt or URL metadata.\n\nConfirmable points from the excerpt:\n\n- DeepSeek open-sourced DeepInfer (Apache-2.0) on 2026-10-20 (~09:00Z / 17:00 BJT): \"High-performance, large-scale inference framework for DeepSeek models\", the engine that serves DeepSeek-V4.1-Flash in production; supports NVIDIA SM100 GPUs + Huawei Ascend 950 NPUs, distributed inference, speculative decoding, SWA Bounded Replay, structured output; companion token codec deepseek-recipe.\n\n- Initially built on vLLM.\n\n- Repo 10.2k★ (+~2k/day).\n\n- HN #1 'DeepSeek just open-sourced its inference engine' 1,688 pts; @vllm_project thank-you post 1,482♥/47k imp; wide CN/JP/KR coverage (Quartz etc.).\n\n- Community spin-offs already: 'DeepInfer Studio', 'DeepInfer Reader'.\n\nThe radar `score` for this entry is `0.93` (an internal ranking field, not a third-party benchmark score)."
+usage: "To learn more or try **DeepInfer**, start from public sources:\n\n1. Open the source link: <https://github.com/deepseek-ai/DeepInfer> and check the official description and availability.\n\n2. Follow any access path mentioned in the excerpt (API, open weights, waitlist, in-product entry) using official instructions.\n\n3. Before production use, verify license terms, regional availability, and safety limits yourself; do not assume quotas, prices, or eval scores that the excerpt does not state."
+---
+
+# DeepInfer
+

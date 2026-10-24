@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+
+# build
+dist/
+.astro/
+
+# env / secrets
+.env
+.env.*
+!.env.example
+
+# logs / local
+*.log
+grok-*.log
+.DS_Store
+
+# grok / agent scratch
+.grok/
+.secrets/
+
+# optional large intermediates (keep data json)
+_batches/

@@ -1,0 +1,70 @@
+---
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { t, type Locale } from '../i18n/ui';
+
+interface Props {
+  locale: Locale;
+  title?: string;
+  description?: string;
+  ogType?: string;
+  canonicalPath?: string;
+}
+
+const {
+  locale,
+  title,
+  description,
+  ogType = 'website',
+  canonicalPath = Astro.url.pathname,
+} = Astro.props;
+
+const siteName = t(locale, 'siteName');
+const pageTitle = title ? `${title} · ${siteName}` : `${siteName} · ${t(locale, 'tagline')}`;
+const desc = description ?? t(locale, 'timelineDesc');
+const canonical = new URL(canonicalPath, Astro.site).toString();
+const htmlLang = locale === 'zh' ? 'zh-CN' : 'en';
+---
+
+<!doctype html>
+<html lang={htmlLang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{pageTitle}</title>
+    <meta name="description" content={desc} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:site_name" content={siteName} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={desc} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:locale" content={htmlLang.replace('-', '_')} />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={desc} />
+    <link rel="alternate" hreflang="zh-CN" href={new URL(canonicalPath.replace(/^\/en(?=\/|$)/, '') || '/', Astro.site).toString()} />
+    <link rel="alternate" hreflang="en" href={new URL(canonicalPath.startsWith('/en') ? canonicalPath : `/en${canonicalPath === '/' ? '/' : canonicalPath}`, Astro.site).toString()} />
+    <link rel="alternate" hreflang="x-default" href={new URL('/', Astro.site).toString()} />
+    <script is:inline>
+      (function () {
+        try {
+          var saved = localStorage.getItem('fth-theme');
+          if (saved === 'light' || saved === 'dark') {
+            document.documentElement.setAttribute('data-theme', saved);
+          }
+        } catch (_) {}
+      })();
+    </script>
+  </head>
+  <body>
+    <Header locale={locale} />
+    <main class="container">
+      <slot />
+    </main>
+    <Footer locale={locale} />
+  </body>
+</html>

@@ -1,0 +1,16 @@
+---
+slug: "canva-craft"
+term: "Canva Craft"
+locale: "en"
+date: "2026-10-23T08:32+08:00"
+source: "X (search_posts_all + search_news) + canva.com/TechCrunch/The Verge"
+score: 0.93
+url: "https://www.canva.com/newsroom/news/canva-craft/"
+excerpt: "\\\"Introducing Canva Craft 🚀 Extraordinary image generation is now available to everyone, powered by our first frontier model built specifically for design.\\\" (@canva, 2026-10-22 19:16Z ≈ Oct 23 03:16 BJT; ~305k views, 1.8k likes, 4.9k reposts). Canva Research's first in-house image model: two-stage plan-then-render architecture, up to 2K in 30+ aspect ratios, text in 55 languages; #4 overall (Elo 1340) on DesignArena; free to all users via Dream Lab + public API (model id craft_v1_2k), MCP coming; Craft-fast / Craft-ultrafast to follow. TechCrunch 12:00 PT and The Verge 21:51Z same day."
+intro: "**Canva Craft** is a recently tracked product, model, or tool in public channels. The radar excerpt reads:\n\n> \"Introducing Canva Craft 🚀 Extraordinary image generation is now available to everyone, powered by our first frontier model built specifically for design.\" (@canva, 2026-10-22 19:16Z ≈ Oct 23 03:16 BJT; ~305k views, 1.8k likes, 4.9k reposts). Canva Research's first in-house image model: two-stage plan-then-render architecture, up to 2K in 30+ aspect ratios, text in 55 languages; #4 overall (Elo 1340) on DesignArena; free to all users via Dream Lab + public API (model id craft_v1_2k), MCP coming; Craft-fast / Craft-ultrafast to follow. TechCrunch 12:00 PT and The Verge 21:51Z same day.\n\nThe recorded source label is `X (search_posts_all + search_news) + canva.com/TechCrunch/The Verge`. Use the public URL below to verify the original post or page."
+explain: "Based only on the excerpt, **Canva Craft** should be understood from the facts stated there. This write-up does not invent funding amounts, model sizes, or leaderboard scores that are absent from the excerpt or URL metadata.\n\nConfirmable points from the excerpt:\n\n- \"Introducing Canva Craft 🚀 Extraordinary image generation is now available to everyone, powered by our first frontier model built specifically for design.\" (@canva, 2026-10-22 19:16Z ≈ Oct 23 03:16 BJT; ~305k views, 1.8k likes, 4.9k reposts).\n\n- Canva Research's first in-house image model: two-stage plan-then-render architecture, up to 2K in 30+ aspect ratios, text in 55 languages; #4 overall (Elo 1340) on DesignArena; free to all users via Dream Lab + public API (model id craft_v1_2k), MCP coming; Craft-fast / Craft-ultrafast to follow.\n\n- TechCrunch 12:00 PT and The Verge 21:51Z same day.\n\nThe radar `score` for this entry is `0.93` (an internal ranking field, not a third-party benchmark score)."
+usage: "To learn more or try **Canva Craft**, start from public sources:\n\n1. Open the source link: <https://www.canva.com/newsroom/news/canva-craft/> and check the official description and availability.\n\n2. Follow any access path mentioned in the excerpt (API, open weights, waitlist, in-product entry) using official instructions.\n\n3. Before production use, verify license terms, regional availability, and safety limits yourself; do not assume quotas, prices, or eval scores that the excerpt does not state."
+---
+
+# Canva Craft
+

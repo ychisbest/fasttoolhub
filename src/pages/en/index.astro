@@ -1,0 +1,13 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Timeline from '../../components/Timeline.astro';
+import { getTermsByLocale } from '../../lib/terms';
+import { t } from '../../i18n/ui';
+
+const locale = 'en' as const;
+const entries = await getTermsByLocale(locale);
+---
+
+<BaseLayout locale={locale} title={t(locale, 'timeline')} description={t(locale, 'timelineDesc')} canonicalPath="/en/">
+  <Timeline locale={locale} entries={entries} />
+</BaseLayout>

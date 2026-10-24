@@ -1,0 +1,36 @@
+---
+import { languages, t, type Locale } from '../i18n/ui';
+import { homePath, switchLocalePath } from '../i18n/paths';
+import ThemeToggle from './ThemeToggle.astro';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const currentPath = Astro.url.pathname;
+---
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href={homePath(locale)}>
+      <strong>{t(locale, 'siteName')}</strong>
+      <span>{t(locale, 'tagline')}</span>
+    </a>
+    <div class="header-actions">
+      <nav class="lang-switch" aria-label={t(locale, 'language')}>
+        {(Object.keys(languages) as Locale[]).map((lang) => (
+          <a
+            class:list={['chip', { active: lang === locale }]}
+            href={switchLocalePath(currentPath, lang)}
+            hreflang={lang === 'zh' ? 'zh-CN' : 'en'}
+            lang={lang === 'zh' ? 'zh-CN' : 'en'}
+          >
+            {languages[lang]}
+          </a>
+        ))}
+      </nav>
+      <ThemeToggle locale={locale} />
+    </div>
+  </div>
+</header>

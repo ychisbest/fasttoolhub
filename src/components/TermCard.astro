@@ -1,0 +1,34 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { type Locale } from '../i18n/ui';
+import { formatDate, termPath } from '../i18n/paths';
+import { t } from '../i18n/ui';
+
+interface Props {
+  locale: Locale;
+  entry: CollectionEntry<'terms'>;
+}
+
+const { locale, entry } = Astro.props;
+const { term, date, source, score, excerpt, slug } = entry.data;
+---
+
+<a
+  class="card"
+  href={termPath(locale, slug)}
+  data-term-card
+  data-term={term.toLowerCase()}
+  data-source={source.toLowerCase()}
+  data-excerpt={(excerpt || '').toLowerCase()}
+>
+  <div class="card-top">
+    <h2>{term}</h2>
+    <span class="badge">{t(locale, 'score')} {score}</span>
+  </div>
+  <div class="meta">
+    <span>{formatDate(date, locale)}</span>
+    <span>·</span>
+    <span>{t(locale, 'source')}: {source}</span>
+  </div>
+  {excerpt && <p class="excerpt">{excerpt}</p>}
+</a>

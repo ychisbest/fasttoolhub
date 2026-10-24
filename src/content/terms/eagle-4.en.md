@@ -1,0 +1,16 @@
+---
+slug: "eagle-4"
+term: "EAGLE-4"
+locale: "en"
+date: "2026-10-21T08:32+08:00"
+source: "X+GitHub+Web"
+score: 0.9
+url: "https://github.com/eagle-hq/EAGLE-4"
+excerpt: "EAGLE-4 (Eagle Corp / Hongyang Zhang, U. Waterloo team) released 2026-10-20 (~14:00–18:00Z = Oct 20 22:00–Oct 21 02:00 BJT): open-source/source-available speculative-decoding drafter. One drafter adapts tree/chain to batch size, hardware and workload (EAGLE-Harness), low-rank 'Efficient LM Head', sliding-window draft attention; lossless. 961.6 tok/s on Qwen3.8-27B on 4×B300 per X News; up to ~3× speedup. Plugins for SGLang/vLLM/TokenSpeed; AMD MI355X support day 0 (AMD tech article). eagle-harness v0.1.0 on PyPI 2026-10-20 17:43Z; GH eagle-hq/EAGLE-4 152★ (created Oct 20). 'EAGLE-4' is a trending topic on X worldwide and US; Scoble post 64♥/11.7k imp; X News story."
+intro: "**EAGLE-4** is a recently tracked product, model, or tool in public channels. The radar excerpt reads:\n\n> EAGLE-4 (Eagle Corp / Hongyang Zhang, U. Waterloo team) released 2026-10-20 (~14:00–18:00Z = Oct 20 22:00–Oct 21 02:00 BJT): open-source/source-available speculative-decoding drafter. One drafter adapts tree/chain to batch size, hardware and workload (EAGLE-Harness), low-rank 'Efficient LM Head', sliding-window draft attention; lossless. 961.6 tok/s on Qwen3.8-27B on 4×B300 per X News; up to ~3× speedup. Plugins for SGLang/vLLM/TokenSpeed; AMD MI355X support day 0 (AMD tech article). eagle-harness v0.1.0 on PyPI 2026-10-20 17:43Z; GH eagle-hq/EAGLE-4 152★ (created Oct 20). 'EAGLE-4' is a trending topic on X worldwide and US; Scoble post 64♥/11.7k imp; X News story.\n\nThe recorded source label is `X+GitHub+Web`. Use the public URL below to verify the original post or page."
+explain: "Based only on the excerpt, **EAGLE-4** should be understood from the facts stated there. This write-up does not invent funding amounts, model sizes, or leaderboard scores that are absent from the excerpt or URL metadata.\n\nConfirmable points from the excerpt:\n\n- EAGLE-4 (Eagle Corp / Hongyang Zhang, U.\n\n- Waterloo team) released 2026-10-20 (~14:00–18:00Z = Oct 20 22:00–Oct 21 02:00 BJT): open-source/source-available speculative-decoding drafter.\n\n- One drafter adapts tree/chain to batch size, hardware and workload (EAGLE-Harness), low-rank 'Efficient LM Head', sliding-window draft attention; lossless.\n\n- 961.6 tok/s on Qwen3.8-27B on 4×B300 per X News; up to ~3× speedup.\n\n- Plugins for SGLang/vLLM/TokenSpeed; AMD MI355X support day 0 (AMD tech article).\n\n- eagle-harness v0.1.0 on PyPI 2026-10-20 17:43Z; GH eagle-hq/EAGLE-4 152★ (created Oct 20).\n\nThe radar `score` for this entry is `0.9` (an internal ranking field, not a third-party benchmark score)."
+usage: "To learn more or try **EAGLE-4**, start from public sources:\n\n1. Open the source link: <https://github.com/eagle-hq/EAGLE-4> and check the official description and availability.\n\n2. Follow any access path mentioned in the excerpt (API, open weights, waitlist, in-product entry) using official instructions.\n\n3. Before production use, verify license terms, regional availability, and safety limits yourself; do not assume quotas, prices, or eval scores that the excerpt does not state."
+---
+
+# EAGLE-4
+

@@ -1,0 +1,38 @@
+---
+import { t, type Locale } from '../i18n/ui';
+interface Props { locale: Locale }
+const { locale } = Astro.props;
+---
+
+<button type="button" class="btn" id="theme-toggle" aria-label={t(locale, 'themeSystem')}>
+  <span data-theme-label>{t(locale, 'themeSystem')}</span>
+</button>
+
+<script define:vars={{ labelLight: t(locale, 'themeLight'), labelDark: t(locale, 'themeDark'), labelSystem: t(locale, 'themeSystem') }}>
+  const btn = document.getElementById('theme-toggle');
+  const label = btn?.querySelector('[data-theme-label]');
+  const order = ['system', 'light', 'dark'];
+
+  function currentMode() {
+    return localStorage.getItem('fth-theme') || 'system';
+  }
+
+  function apply(mode) {
+    if (mode === 'system') {
+      document.documentElement.removeAttribute('data-theme');
+      localStorage.removeItem('fth-theme');
+      if (label) label.textContent = labelSystem;
+    } else {
+      document.documentElement.setAttribute('data-theme', mode);
+      localStorage.setItem('fth-theme', mode);
+      if (label) label.textContent = mode === 'light' ? labelLight : labelDark;
+    }
+    if (btn) btn.setAttribute('aria-label', label?.textContent || labelSystem);
+  }
+
+  apply(currentMode());
+  btn?.addEventListener('click', () => {
+    const i = order.indexOf(currentMode());
+    apply(order[(i + 1) % order.length]);
+  });
+</script>

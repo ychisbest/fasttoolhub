@@ -1,0 +1,94 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import TermCard from './TermCard.astro';
+import { t, type Locale } from '../i18n/ui';
+
+interface Props {
+  locale: Locale;
+  entries: CollectionEntry<'terms'>[];
+}
+
+const { locale, entries } = Astro.props;
+const sources = [...new Set(entries.map((e) => e.data.source))].sort((a, b) =>
+  a.localeCompare(b),
+);
+---
+
+<section class="hero">
+  <h1>{t(locale, 'timeline')}</h1>
+  <p>{t(locale, 'timelineDesc')}</p>
+</section>
+
+<div class="toolbar" data-timeline-toolbar>
+  <label class="sr-only" for="term-search">{t(locale, 'search')}</label>
+  <input
+    id="term-search"
+    class="input"
+    type="search"
+    placeholder={t(locale, 'searchPlaceholder')}
+    autocomplete="off"
+    data-term-search
+  />
+  <label>
+    <span class="sr-only">{t(locale, 'filterSource')}</span>
+    <select class="select" data-source-filter aria-label={t(locale, 'filterSource')}>
+      <option value="">{t(locale, 'allSources')}</option>
+      {sources.map((s) => <option value={s.toLowerCase()}>{s}</option>)}
+    </select>
+  </label>
+</div>
+
+<div class="timeline" data-timeline>
+  {entries.length === 0 ? (
+    <div class="empty">
+      <strong>{t(locale, 'empty')}</strong>
+      <p>{t(locale, 'emptyHint')}</p>
+    </div>
+  ) : (
+    entries.map((entry) => <TermCard locale={locale} entry={entry} />)
+  )}
+  <div class="empty" data-no-results hidden>
+    <strong>{t(locale, 'noResults')}</strong>
+  </div>
+</div>
+
+<style>
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+</style>
+
+<script>
+  const search = document.querySelector('[data-term-search]') as HTMLInputElement | null;
+  const source = document.querySelector('[data-source-filter]') as HTMLSelectElement | null;
+  const cards = Array.from(document.querySelectorAll('[data-term-card]')) as HTMLElement[];
+  const empty = document.querySelector('[data-no-results]') as HTMLElement | null;
+
+  function applyFilter() {
+    const q = (search?.value || '').trim().toLowerCase();
+    const src = (source?.value || '').trim().toLowerCase();
+    let visible = 0;
+    for (const card of cards) {
+      const term = card.dataset.term || '';
+      const excerpt = card.dataset.excerpt || '';
+      const cardSource = card.dataset.source || '';
+      const matchQ = !q || term.includes(q) || excerpt.includes(q) || cardSource.includes(q);
+      const matchS = !src || cardSource === src;
+      const show = matchQ && matchS;
+      card.toggleAttribute('hidden', !show);
+      if (show) visible += 1;
+    }
+    empty?.toggleAttribute('hidden', visible !== 0 || cards.length === 0);
+  }
+
+  search?.addEventListener('input', applyFilter);
+  source?.addEventListener('change', applyFilter);
+</script>
