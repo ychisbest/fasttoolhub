@@ -2,7 +2,7 @@
 import '../styles/global.css';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-import { homePath, switchLocalePath } from '../i18n/paths';
+import { homePath, switchLocalePath, withBase } from '../i18n/paths';
 import { t, type Locale } from '../i18n/ui';
 
 interface Props {
@@ -38,7 +38,7 @@ const htmlLang = locale === 'zh' ? 'zh-CN' : 'en';
     <title>{pageTitle}</title>
     <meta name="description" content={desc} />
     <link rel="canonical" href={canonical} />
-    <link rel="icon" type="image/svg+xml" href={`${import.meta.env.BASE_URL}favicon.svg`} />
+    <link rel="icon" type="image/svg+xml" href={withBase('/favicon.svg')} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
