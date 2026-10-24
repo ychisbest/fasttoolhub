@@ -3,7 +3,7 @@ import { defineConfig } from 'astro/config';
 const pages = process.env.GITHUB_PAGES === 'true';
 
 export default defineConfig({
-  site: pages ? 'https://ychisbest.github.io' : 'https://fasttoolhub.com',
+  site: pages ? 'https://hypackel.xyz' : 'https://fasttoolhub.com',
   base: pages ? '/fasttoolhub' : '/',
   vite: {
     ssr: {

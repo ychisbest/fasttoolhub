@@ -2,12 +2,13 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Timeline from '../components/Timeline.astro';
 import { getTermsByLocale } from '../lib/terms';
+import { homePath } from '../i18n/paths';
 import { t } from '../i18n/ui';
 
 const locale = 'zh' as const;
 const entries = await getTermsByLocale(locale);
 ---
 
-<BaseLayout locale={locale} title={t(locale, 'timeline')} description={t(locale, 'timelineDesc')} canonicalPath="/">
+<BaseLayout locale={locale} title={t(locale, 'timeline')} description={t(locale, 'timelineDesc')} canonicalPath={homePath(locale)}>
   <Timeline locale={locale} entries={entries} />
 </BaseLayout>
