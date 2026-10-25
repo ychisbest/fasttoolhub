@@ -2578,5 +2578,25 @@
     "url": "https://kyutai.org/blog/2026-10-22-cadre/",
     "excerpt": "CADRE (CAusal Diffusion REpresentation autoencoders) — Kyutai's open family of causal video autoencoders for interactive world models, released Oct 22, 2026 with paper ('Rethinking Video Autoencoders for Interactive World Models', arXiv 2610.30129), code (GitHub kyutai-labs/cadre-autoencoders-and-world-models), weights on HF (kyutai/cadre-* — 7 paper autoencoders, 4 multires variants, world models for 4 environments, action probes) and a live demo. Frozen DINOv3 ViT-B/16 encoder + small trained bottleneck + 1–2-step causal diffusion (flow-matching) decoder; 475M trained + 86M frozen params. World models on CADRE latents run at 20 fps on one H100 with <230 ms action latency for manipulation, driving and indoor navigation. Recommended: CADRE-2x16x16-multires.",
     "review_14d": null
+  },
+  {
+    "id": 259,
+    "term": "Lexmount Moli",
+    "source": "x+github",
+    "score": 0.7,
+    "first_seen": "2026-10-25T16:32+08:00",
+    "url": "https://github.com/lexmount/moli",
+    "excerpt": "Moli — Lexmount's open-source (Apache-2.0) Rust headless browser built for AI agents (\"Best headless browser for AI agents. Lite, Fast, High-Compatibility\"). GitHub lexmount/moli created 2026-08-10, now ~20.5k★ / 553 forks, latest release v1.1.19 (2026-10-21). Structure-first design: DOM/JS/network ops skip layout & paint; layout, screenshots and screencast only on demand (--layout / --resource). One binary serves CDP, WebDriver Classic and WebDriver BiDi (Playwright connectOverCDP works); outputs HTML/Markdown/JSON/semantic text trees; Linux/macOS/Windows. Hosted as 'Moli' browser mode (SDK value browser_mode=\"light\") in Lexmount Cloud Browser (browser.lexmount.com). @LexmountAI on X, 2026-10-25 08:00Z: \"Our open-source project Moli just hit 20,000 stars on GitHub! ... We brought Moli, our browser engine built specifically for AI agents, to the cloud.\"",
+    "review_14d": null
+  },
+  {
+    "id": 260,
+    "term": "TextFold",
+    "source": "x+github",
+    "score": 0.55,
+    "first_seen": "2026-10-25T16:32+08:00",
+    "url": "https://github.com/chenxiachan/textfold",
+    "excerpt": "TextFold (formerly PaperFold) — open-source (Apache-2.0, Python 3.9+, runs locally) reader that folds any text into 5 levels of detail: Full → Brief (1–3 verbatim key sentences per paragraph) → Key → Takeaway → Topic (a map of section cards). Reads web pages, arXiv, PubMed Central, bioRxiv/medRxiv, Wikipedia, GitHub READMEs, PDF/Word/PowerPoint/Excel/EPUB etc.; also folds agent replies via a Claude Code mod and a Pi extension; works with Zotero and Obsidian; `python3 -m textfold get` gives agents a document one level at a time. GitHub chenxiachan/textfold created 2026-10-04, ~609★, pushed 2026-10-24; demo at chenxiachan.github.io/textfold. Featured in X roundup @binbin_eth 2026-10-25 02:55Z: \"TextFold：开源阅读器，把长文折成 5 档详细度（章节主题→论点→原句→全文），缓解 AI 摘要丢条件、回原文难定位\".",
+    "review_14d": null
   }
 ]

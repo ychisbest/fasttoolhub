@@ -1,5 +1,5 @@
 # Radar leads timeline
-Total: 258
+Total: 260
 - **Microsoft-Decision-1** | 2026-10-10T16:40 | X | 0.92 | https://x.com/TheRealKaien/status/2108838430100643846
   Microsoft just launched Microsoft-Decision-1, a 9B model that scores fixed choices instead of generating text.
 - **Qwen-Image-2.1-Turbo** | 2026-10-10T16:40 | Hugging Face | 0.9 | https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo
@@ -516,3 +516,7 @@ Total: 258
   Lambda-0 (λ₀) — whole-body humanoid foundation model from Alibaba's Amap and Alibaba Token Hub (ATH), open-sourced (code on GitHub, Apache 2.0) with arXiv 2610.18950; covered by Pandaily Oct 24, 2026.
 - **Kyutai CADRE** | 2026-10-25T08:32+08:00 | x+web | 0.6 | https://kyutai.org/blog/2026-10-22-cadre/
   CADRE (CAusal Diffusion REpresentation autoencoders) — Kyutai's open family of causal video autoencoders for interactive world models, released Oct 22, 2026 with paper ('Rethinking Video Autoencoders 
+- **Lexmount Moli** | 2026-10-25T16:32+08:00 | x+github | 0.7 | https://github.com/lexmount/moli
+  Moli — Lexmount's open-source (Apache-2.0) Rust headless browser built for AI agents ("Best headless browser for AI agents.
+- **TextFold** | 2026-10-25T16:32+08:00 | x+github | 0.55 | https://github.com/chenxiachan/textfold
+  TextFold (formerly PaperFold) — open-source (Apache-2.0, Python 3.9+, runs locally) reader that folds any text into 5 levels of detail: Full → Brief (1–3 verbatim key sentences per paragraph) → Key → 
