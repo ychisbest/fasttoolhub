@@ -2558,5 +2558,25 @@
     "url": "https://www.bjnews.com.cn/detail/1792829104129443.html",
     "excerpt": "云深处科技 (DEEP Robotics) on Oct 24, 2026 unveiled its embodied brain 'DEEPRobotics-Brain' with five research results: world model DR-WM-1.0 (physics-consistent world model for quadrupeds with friction/roughness/stiffness priors, pretrained on 2.58M images + 100k+ real-robot clips; arXiv 2610.17630), embodied foundation model DR-VLA-2.0, navigation agent DR-Agent, policy-optimization framework DR-APO (NavDP sim success 70.33%→89.55%), and data-loop platform DR-Benchmark. Co-developed with MIT, UCSD, UIUC, Tsinghua, ZJU, HKUST, BIT. Coverage: 新京报, 环球网, ai123, 机器人大讲堂.",
     "review_14d": null
+  },
+  {
+    "id": 257,
+    "term": "Lambda-0",
+    "source": "x+web",
+    "score": 0.75,
+    "first_seen": "2026-10-25T08:32+08:00",
+    "url": "https://lambdahumanoid.github.io/",
+    "excerpt": "Lambda-0 (λ₀) — whole-body humanoid foundation model from Alibaba's Amap and Alibaba Token Hub (ATH), open-sourced (code on GitHub, Apache 2.0) with arXiv 2610.18950; covered by Pandaily Oct 24, 2026. Trained on HumanVerse-500, 500 h of robot-free egocentric human loco-manipulation data (GoPro video + PICO body tracking + reconstructed hands; 32,993 episodes, 827 task types), with a 3-stage recipe (egocentric hand-motion pretraining → robot-aligned whole-body human mid-training → robot post-training). Zero-shot transfer to Unitree G1 (BrainCo Revo2 hands, SONIC whole-body controller): 62.5% real-world success (25/40, +22.5 pts over strongest baseline π0.5 40%), 80.4% task progress, 90.0% on SIMPLE. ~3.4× faster data collection than robot teleop.",
+    "review_14d": null
+  },
+  {
+    "id": 258,
+    "term": "Kyutai CADRE",
+    "source": "x+web",
+    "score": 0.6,
+    "first_seen": "2026-10-25T08:32+08:00",
+    "url": "https://kyutai.org/blog/2026-10-22-cadre/",
+    "excerpt": "CADRE (CAusal Diffusion REpresentation autoencoders) — Kyutai's open family of causal video autoencoders for interactive world models, released Oct 22, 2026 with paper ('Rethinking Video Autoencoders for Interactive World Models', arXiv 2610.30129), code (GitHub kyutai-labs/cadre-autoencoders-and-world-models), weights on HF (kyutai/cadre-* — 7 paper autoencoders, 4 multires variants, world models for 4 environments, action probes) and a live demo. Frozen DINOv3 ViT-B/16 encoder + small trained bottleneck + 1–2-step causal diffusion (flow-matching) decoder; 475M trained + 86M frozen params. World models on CADRE latents run at 20 fps on one H100 with <230 ms action latency for manipulation, driving and indoor navigation. Recommended: CADRE-2x16x16-multires.",
+    "review_14d": null
   }
 ]

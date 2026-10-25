@@ -1,5 +1,5 @@
 # Radar leads timeline
-Total: 256
+Total: 258
 - **Microsoft-Decision-1** | 2026-10-10T16:40 | X | 0.92 | https://x.com/TheRealKaien/status/2108838430100643846
   Microsoft just launched Microsoft-Decision-1, a 9B model that scores fixed choices instead of generating text.
 - **Qwen-Image-2.1-Turbo** | 2026-10-10T16:40 | Hugging Face | 0.9 | https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo
@@ -512,3 +512,7 @@ Total: 256
   zCAD AI — #1 Product of the Day on Product Hunt, Oct 24, 2026 (~194 upvotes, 26 comments). AI-native platform that turns plain-language prompts into editable, dimension-driven parametric CAD models (real CAD geometry, not meshes); generates
 - **DEEPRobotics-Brain** | 2026-10-25T00:32+08:00 | x+web | 0.75 | https://www.bjnews.com.cn/detail/1792829104129443.html
   云深处科技 (DEEP Robotics) on Oct 24, 2026 unveiled its embodied brain 'DEEPRobotics-Brain' with five research results: world model DR-WM-1.0 (physics-consistent world model for quadrupeds with friction/roughness/stiffness priors, pretrained on 
+- **Lambda-0** | 2026-10-25T08:32+08:00 | x+web | 0.75 | https://lambdahumanoid.github.io/
+  Lambda-0 (λ₀) — whole-body humanoid foundation model from Alibaba's Amap and Alibaba Token Hub (ATH), open-sourced (code on GitHub, Apache 2.0) with arXiv 2610.18950; covered by Pandaily Oct 24, 2026.
+- **Kyutai CADRE** | 2026-10-25T08:32+08:00 | x+web | 0.6 | https://kyutai.org/blog/2026-10-22-cadre/
+  CADRE (CAusal Diffusion REpresentation autoencoders) — Kyutai's open family of causal video autoencoders for interactive world models, released Oct 22, 2026 with paper ('Rethinking Video Autoencoders 
