@@ -2598,5 +2598,55 @@
     "url": "https://github.com/chenxiachan/textfold",
     "excerpt": "TextFold (formerly PaperFold) — open-source (Apache-2.0, Python 3.9+, runs locally) reader that folds any text into 5 levels of detail: Full → Brief (1–3 verbatim key sentences per paragraph) → Key → Takeaway → Topic (a map of section cards). Reads web pages, arXiv, PubMed Central, bioRxiv/medRxiv, Wikipedia, GitHub READMEs, PDF/Word/PowerPoint/Excel/EPUB etc.; also folds agent replies via a Claude Code mod and a Pi extension; works with Zotero and Obsidian; `python3 -m textfold get` gives agents a document one level at a time. GitHub chenxiachan/textfold created 2026-10-04, ~609★, pushed 2026-10-24; demo at chenxiachan.github.io/textfold. Featured in X roundup @binbin_eth 2026-10-25 02:55Z: \"TextFold：开源阅读器，把长文折成 5 档详细度（章节主题→论点→原句→全文），缓解 AI 摘要丢条件、回原文难定位\".",
     "review_14d": null
+  },
+  {
+    "id": 261,
+    "term": "Nanbeige4.3-33B",
+    "source": "hf+x",
+    "score": 0.85,
+    "first_seen": "2026-10-26T00:32+08:00",
+    "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+    "excerpt": "Nanbeige4.3-33B — flagship 'teacher' model of Kanzhun (BOSS直聘) Nanbeige team's new Nanbeige4.3 series, open weights under Apache-2.0 on Hugging Face (created 2026-10-24, updated 2026-10-25; ~217 likes, #22 HF trending; companion Nanbeige4.3-33B-Base). ~33B dense (llama-arch) bilingual en/zh, 512K (524,288-token) context, thinking mode on by default (enable_thinking / preserve_thinking chat-template flags), XML or JSON tool calling; runs on Transformers, SGLang, vLLM (qwen3 reasoning parser, qwen3_coder tool parser). Self-reported vs Qwen3.8-27B / Muse-Glimmer-30B / Gemma4-31B: Terminal-Bench 2.1 80.9, DeepSWE 65.5, SWE-Bench Pro 60.3, Claw-Eval 78.3, GDPval 84.8, GPQA Diamond 89.5, AIME 2026 95.2. Planned distillation into smaller models (e.g. Nanbeige4.3-3B). In-window X: @kimmonismus 2026-10-25 14:47Z (311 likes) 'Nanbeige just released Nanbeige4.3-33B ... beating similarly sized Qwen 3.8 27b and Gemma models on most benchmarks'; X News story 'Nanbeige4.3-33B Tops Agentic Coding Benchmarks in 30B Class'.",
+    "review_14d": null
+  },
+  {
+    "id": 262,
+    "term": "Avalon-M1",
+    "source": "x",
+    "score": 0.65,
+    "first_seen": "2026-10-26T00:32+08:00",
+    "url": "https://www.gr.inc/releases/avalon-m1",
+    "excerpt": "Avalon-M1 — General Reasoning (gr.inc, Ross Taylor) new model series that runs 'agent organisations': instances of one shared policy act as a CEO plus hired specialists, coordinating through a shared message board and workspace. Trained with RLCR (reinforcement learning from collective rewards): every agent gets the same collective advantage, no per-agent credit assignment, no frozen sub-agents. Announced 2026-10-23 with technical report (gr.inc/avalonm1.pdf). First model Avalon-M1-Mini (120B total / 12B active, post-trained from the Nemotron 3 Super base, still training): organisation mode lifts IMO-ProofBench-Advanced 29.8%→37.5% and FrontierScience 55.9%→63.5% vs the same model alone; on EdgeBench organisations overtake single agents after ~1.7h. Safety finding: refusals stay near-universal but reporting to humans declines ('organisational insularity'). In-window X: @johnp_creates 2026-10-25 13:34Z 'General Reasoning just released early results from Avalon-M1, a model trained to run full teams of AI agents that share one collective reward'.",
+    "review_14d": null
+  },
+  {
+    "id": 263,
+    "term": "Liquid RIPL",
+    "source": "sitemap",
+    "score": 0.6,
+    "first_seen": "2026-10-26T00:32+08:00",
+    "url": "https://www.liquid.ai/blog/low-latency",
+    "excerpt": "Liquid RIPL (Real-time Inference Pipeline) — Liquid AI's new low-latency inference engine announced 2026-10-22 that puts Liquid Foundation Models (LFMs) directly in the path of a live request, returning complete generated responses end-to-end in under 50 ms even at continuous peak load. Targets search ranking, recommendations, fraud/payment decisions. Reported: LFM2.5-1.2B on RIPL has 14.4–28.4× lower p95 latency than Qwen3.5-0.8B on vLLM; LFM2.5-2.6B 5.6–7.7× lower than Qwen3.5-2B. Shopify deploys LFMs for search enhancement at sub-20 ms. Available now for enterprise LFM deployments on NVIDIA GPUs (H100, H200, B200, RTX PRO 6000); interactive latency calculator at liquid.ai/low-latency-calculator-ripl. Found as new URLs in liquid.ai sitemap this run.",
+    "review_14d": null
+  },
+  {
+    "id": 264,
+    "term": "ThinkRail",
+    "source": "github",
+    "score": 0.6,
+    "first_seen": "2026-10-26T00:32+08:00",
+    "url": "https://github.com/JetBrains/thinkrail",
+    "excerpt": "ThinkRail — JetBrains incubator (InnovationHub) open-source (Apache-2.0, TypeScript) agentic IDE built around the 'pi' coding agent: 'the agentic IDE that gets better every time you use it'. Each workspace is an isolated git worktree (own branch/terminals/chats) so several pi sessions run in parallel; Monaco editor tabs, diffs, anchored review comments; a connected graph of SPEC.md 'living specs' the agent reads and maintains via spec_* tools; portable Agent Skills, MCP servers with approval prompts, GitHub PR/CI flow via your own gh; sign in with JetBrains AI or any pi provider; desktop app (macOS/Windows/Linux) or `thinkrail` CLI in browser. Install: curl -fsSL https://raw.githubusercontent.com/JetBrains/thinkrail/main/install.sh | bash. Repo created 2026-07-08, introduced on blog 2026-08-19; ~1,246★/88 forks; latest v0.3.0-nightly.6 (2026-10-25). Newly on GitHub daily trending this run. Site thinkrail.ai.",
+    "review_14d": null
+  },
+  {
+    "id": 265,
+    "term": "OpenVLHarness",
+    "source": "x+github",
+    "score": 0.55,
+    "first_seen": "2026-10-26T00:32+08:00",
+    "url": "https://github.com/uclanlp/OpenVLHarness",
+    "excerpt": "OpenVLHarness — UCLA NLP + Apple training-free multimodal reasoning harness ('Turn any MLLM into an evidence-based visual reasoner that thinks and codes in visual space'). Nine tool capabilities behind task-level interfaces (visual grounding via SAM 3, OCR via PaddleOCR-VL, depth & camera trajectory via Depth Anything 3, zoom, text/image search, webpage visit, Python coding agent) plus per-question persistent multimodal memory of images/boxes/masks/depth maps/web refs. Across 22 benchmarks raises averages 9.7–12.6 points (e.g. Qwen3-VL-8B 34.2→45.4, Kimi K3 56.4→66.1, GPT-6 Astra 60.3→70.2). arXiv 2610.26860 (submitted 2026-10-19), MIT license, repo created 2026-10-15 (~252★), HF Space demo uclanlp/OpenVLHarness, project page openvlharness.github.io. In-window X: @cutetoxicguy 2026-10-25 08:42Z '🚀 UCLA and Apple just released OpenVLHarness...'.",
+    "review_14d": null
   }
 ]

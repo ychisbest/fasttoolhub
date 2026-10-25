@@ -1,5 +1,5 @@
 # Radar leads timeline
-Total: 260
+Total: 265
 - **Microsoft-Decision-1** | 2026-10-10T16:40 | X | 0.92 | https://x.com/TheRealKaien/status/2108838430100643846
   Microsoft just launched Microsoft-Decision-1, a 9B model that scores fixed choices instead of generating text.
 - **Qwen-Image-2.1-Turbo** | 2026-10-10T16:40 | Hugging Face | 0.9 | https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo
@@ -520,3 +520,13 @@ Total: 260
   Moli — Lexmount's open-source (Apache-2.0) Rust headless browser built for AI agents ("Best headless browser for AI agents.
 - **TextFold** | 2026-10-25T16:32+08:00 | x+github | 0.55 | https://github.com/chenxiachan/textfold
   TextFold (formerly PaperFold) — open-source (Apache-2.0, Python 3.9+, runs locally) reader that folds any text into 5 levels of detail: Full → Brief (1–3 verbatim key sentences per paragraph) → Key → 
+- **Nanbeige4.3-33B** | 2026-10-26T00:32+08:00 | hf+x | 0.85 | https://huggingface.co/Nanbeige/Nanbeige4.3-33B
+  Nanbeige4.3-33B — flagship 'teacher' model of Kanzhun (BOSS直聘) Nanbeige team's new Nanbeige4.3 series, open weights under Apache-2.0 on Hugging Face (created 2026-10-24, updated 2026-10-25; ~217 likes
+- **Avalon-M1** | 2026-10-26T00:32+08:00 | x | 0.65 | https://www.gr.inc/releases/avalon-m1
+  Avalon-M1 — General Reasoning (gr.inc, Ross Taylor) new model series that runs 'agent organisations': instances of one shared policy act as a CEO plus hired specialists, coordinating through a shared 
+- **Liquid RIPL** | 2026-10-26T00:32+08:00 | sitemap | 0.6 | https://www.liquid.ai/blog/low-latency
+  Liquid RIPL (Real-time Inference Pipeline) — Liquid AI's new low-latency inference engine announced 2026-10-22 that puts Liquid Foundation Models (LFMs) directly in the path of a live request, returni
+- **ThinkRail** | 2026-10-26T00:32+08:00 | github | 0.6 | https://github.com/JetBrains/thinkrail
+  ThinkRail — JetBrains incubator (InnovationHub) open-source (Apache-2.0, TypeScript) agentic IDE built around the 'pi' coding agent: 'the agentic IDE that gets better every time you use it'.
+- **OpenVLHarness** | 2026-10-26T00:32+08:00 | x+github | 0.55 | https://github.com/uclanlp/OpenVLHarness
+  OpenVLHarness — UCLA NLP + Apple training-free multimodal reasoning harness ('Turn any MLLM into an evidence-based visual reasoner that thinks and codes in visual space').
