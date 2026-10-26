@@ -3,6 +3,7 @@ import type { CollectionEntry } from 'astro:content';
 import { type Locale } from '../i18n/ui';
 import { termPath } from '../i18n/paths';
 import { displayText } from '../lib/source';
+import { plainTextFromMarkdown } from '../lib/markdown';
 
 interface Props {
   locale: Locale;
@@ -11,8 +12,8 @@ interface Props {
 
 const { locale, entry } = Astro.props;
 const { term, source, score, excerpt, slug, intro } = entry.data;
-const blurb = displayText(excerpt || '');
-const summary = displayText((intro || excerpt || '').replace(/\\n/g, ' ').replace(/\s+/g, ' ').trim());
+const blurb = plainTextFromMarkdown(displayText(excerpt || ''));
+const summary = plainTextFromMarkdown(displayText(intro || excerpt || ''));
 const scoreText = score.toFixed(2);
 const initial = term.trim().slice(0, 2);
 const ariaLabel = locale === 'zh' ? `查看 ${term}` : `View ${term}`;
