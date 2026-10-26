@@ -2698,5 +2698,45 @@
     "url": "https://github.com/hevnsnt/CVEngine",
     "excerpt": "AI-first external attack-surface assessment (bbot/nmap/Nuclei + AI CVE proof). Launch 681♥/103RT; GH 240★; GH fresh NEW vs morning",
     "review_14d": null
+  },
+  {
+    "id": 271,
+    "term": "Hy-SimulMT",
+    "source": "huggingface+x",
+    "score": 0.85,
+    "first_seen": "2026-10-27T00:32+08:00",
+    "url": "https://huggingface.co/tencent/Hy-SimulMT-30B-A3B",
+    "excerpt": "Tencent just released Hy-SimulMT on Hugging Face — A real-time simultaneous translation model with ~3s latency and voice cloning. (@HuggingPapers; GitHub news: 2026.10.26 Release)",
+    "review_14d": null
+  },
+  {
+    "id": 272,
+    "term": "Oracle Fusion Companion",
+    "source": "x+x_news",
+    "score": 0.8,
+    "first_seen": "2026-10-27T00:32+08:00",
+    "url": "https://www.oracle.com/news/announcement/ai-world-oracle-introduces-new-ai-powered-ways-to-execute-work-across-oracle-fusion-applications-2026-10-26/",
+    "excerpt": "Oracle today announced Oracle Fusion Companion with Oracle Fusion Agentic Home ... users can access these capabilities through supported AI tools such as ChatGPT (Oracle AI World, Oct 26 2026)",
+    "review_14d": null
+  },
+  {
+    "id": 273,
+    "term": "Flova 1.5",
+    "source": "x_trends+x",
+    "score": 0.6,
+    "first_seen": "2026-10-27T00:32+08:00",
+    "url": "https://x.com/Flovaai/status/2114673394054795679",
+    "excerpt": "Introducing Flova 1.5 — Smarter. More Adaptive. Bring Ideas to Life. Run multiple sessions in parallel ... Build and reuse Skills (375k impressions; worldwide X trend)",
+    "review_14d": null
+  },
+  {
+    "id": 274,
+    "term": "GEOInflow",
+    "source": "github",
+    "score": 0.55,
+    "first_seen": "2026-10-27T00:32+08:00",
+    "url": "https://github.com/yaojingang/GEOInflow",
+    "excerpt": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs ... Jointly published by 猎看科技 · 北京日报社智源GEO. (created 2026-10-26, ~275★ in first day)",
+    "review_14d": null
   }
 ]
