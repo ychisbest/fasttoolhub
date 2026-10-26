@@ -1,4 +1,5 @@
 import { defineConfig } from 'astro/config';
+import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
   site: 'https://fasttoolhub.com',
@@ -15,4 +16,5 @@ export default defineConfig({
       prefixDefaultLocale: false,
     },
   },
+  integrations: [sitemap()],
 });

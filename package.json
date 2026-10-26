@@ -11,6 +11,7 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/sitemap": "^3.7.4",
     "astro": "^5.18.2",
     "isomorphic-dompurify": "^3.19.0",
     "marked": "^18.1.1"
