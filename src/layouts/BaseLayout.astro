@@ -23,7 +23,7 @@ const {
 
 const siteName = t(locale, 'siteName');
 const pageTitle = title ? `${title} · ${siteName}` : `${siteName} · ${t(locale, 'tagline')}`;
-const desc = description ?? t(locale, 'timelineDesc');
+const desc = description ?? t(locale, 'heroSubtitle');
 const canonical = new URL(canonicalPath, Astro.site).toString();
 const htmlLang = locale === 'zh' ? 'zh-CN' : 'en';
 ---
@@ -33,7 +33,7 @@ const htmlLang = locale === 'zh' ? 'zh-CN' : 'en';
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#10161d" />
+    <meta name="theme-color" content="#09090b" />
     <meta name="generator" content={Astro.generator} />
     <title>{pageTitle}</title>
     <meta name="description" content={desc} />
@@ -42,7 +42,7 @@ const htmlLang = locale === 'zh' ? 'zh-CN' : 'en';
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Noto+Sans+SC:wght@400;500;600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=Noto+Sans+SC:wght@400;500;600;700&display=swap"
       rel="stylesheet"
     />
     <meta property="og:type" content={ogType} />
@@ -61,19 +61,29 @@ const htmlLang = locale === 'zh' ? 'zh-CN' : 'en';
       (function () {
         try {
           var saved = localStorage.getItem('fth-theme');
+          var root = document.documentElement;
+          root.classList.remove('light', 'dark');
           if (saved === 'light' || saved === 'dark') {
-            document.documentElement.setAttribute('data-theme', saved);
+            root.classList.add(saved);
+          } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            root.classList.add('dark');
+          } else {
+            root.classList.add('light');
           }
         } catch (_) {}
       })();
     </script>
   </head>
   <body>
-    <a class="skip" href="#content">{t(locale, 'skip')}</a>
-    <Header locale={locale} />
-    <main id="content" class="container">
-      <slot />
-    </main>
-    <Footer locale={locale} />
+    <a class="skip" href="#main-content">{t(locale, 'skip')}</a>
+    <div class="page-shell">
+      <Header locale={locale} />
+      <div class="container" style="display:flex;flex:1;flex-direction:column;width:100%">
+        <main id="main-content" class="main-content">
+          <slot />
+        </main>
+        <Footer locale={locale} />
+      </div>
+    </div>
   </body>
 </html>

@@ -1,9 +1,8 @@
 ---
 import type { CollectionEntry } from 'astro:content';
 import { type Locale } from '../i18n/ui';
-import { formatDate, termPath } from '../i18n/paths';
-import { t } from '../i18n/ui';
-import { displayText, sourceKind } from '../lib/source';
+import { termPath } from '../i18n/paths';
+import { displayText } from '../lib/source';
 
 interface Props {
   locale: Locale;
@@ -11,36 +10,45 @@ interface Props {
 }
 
 const { locale, entry } = Astro.props;
-const { term, date, source, score, excerpt, slug } = entry.data;
-const kind = sourceKind(source);
-const iso = typeof date === 'string' ? date : date.toISOString();
-const scoreText = score.toFixed(2);
+const { term, source, score, excerpt, slug, intro } = entry.data;
 const blurb = displayText(excerpt || '');
+const summary = displayText((intro || excerpt || '').replace(/\\n/g, ' ').replace(/\s+/g, ' ').trim());
+const scoreText = score.toFixed(2);
+const initial = term.trim().slice(0, 2);
+const ariaLabel = locale === 'zh' ? `查看 ${term}` : `View ${term}`;
 ---
 
-<a
-  class="card"
-  href={termPath(locale, slug)}
+<div
+  class="term-card"
+  data-slot="card"
+  data-size="default"
+  data-testid="directory-listing-card"
   data-term-card
   data-term={term.toLowerCase()}
   data-source={source.toLowerCase()}
   data-excerpt={blurb.toLowerCase()}
+  data-score={score}
 >
-  <div class="card-score">
-    <span class="score-num">{scoreText}</span>
-    <span class="score-label">{t(locale, 'score')}</span>
+  <div class="card-top">
+    <span class="card-favicon" data-testid="directory-listing-favicon" aria-hidden="true">{initial}</span>
+    <h2 class="card-title">{term}</h2>
+    <span class="card-stars" data-testid="directory-listing-stars">
+      <svg class="star-icon" viewBox="0 0 24 24" aria-hidden="true">
+        <path d="M12 2.5l2.9 6.1 6.7.7-5 4.6 1.4 6.5L12 16.9 5.9 20.4 7.3 13.9 2.4 9.3l6.7-.7L12 2.5z"></path>
+      </svg>
+      <span>{scoreText}</span>
+    </span>
   </div>
+
   <div class="card-body">
-    <h3>{term}</h3>
-    {blurb && <p class="excerpt">{blurb}</p>}
-    <div class="meta">
-      <span class:list={['source-tag', `source-${kind}`]} title={source}>{source}</span>
-      <time datetime={iso}>{formatDate(date, locale)}</time>
+    <div class="card-default">
+      <p class="card-tagline" data-testid="directory-listing-tagline">{blurb || term}</p>
+      <div class="card-badges">
+        <span class="badge" data-slot="badge" data-variant="outline" title={source}>{source}</span>
+      </div>
     </div>
+    <p class="card-summary" data-testid="directory-listing-summary">{summary || blurb}</p>
   </div>
-  <span class="card-go" aria-hidden="true">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M9 6l6 6-6 6"></path>
-    </svg>
-  </span>
-</a>
+
+  <a class="card-link" data-testid="directory-listing-link" href={termPath(locale, slug)} aria-label={ariaLabel}></a>
+</div>

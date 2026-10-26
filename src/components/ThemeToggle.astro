@@ -1,38 +1,80 @@
 ---
 import { t, type Locale } from '../i18n/ui';
-interface Props { locale: Locale }
-const { locale } = Astro.props;
+interface Props { locale: Locale; id?: string }
+const { locale, id = 'theme-toggle' } = Astro.props;
 ---
 
-<button type="button" class="btn" id="theme-toggle" aria-label={t(locale, 'themeSystem')}>
-  <span data-theme-label>{t(locale, 'themeSystem')}</span>
+<button
+  type="button"
+  class="icon-btn theme-toggle"
+  id={id}
+  data-theme-toggle
+  aria-label={t(locale, 'themeSystem')}
+  title={t(locale, 'themeSystem')}
+>
+  <svg data-theme-icon="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+    <circle cx="12" cy="12" r="4"></circle>
+    <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"></path>
+  </svg>
+  <svg data-theme-icon="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" hidden>
+    <path d="M21 14.5A8.5 8.5 0 1 1 9.5 3a7 7 0 0 0 11.5 11.5z"></path>
+  </svg>
 </button>
 
 <script define:vars={{ labelLight: t(locale, 'themeLight'), labelDark: t(locale, 'themeDark'), labelSystem: t(locale, 'themeSystem') }}>
-  const btn = document.getElementById('theme-toggle');
-  const label = btn?.querySelector('[data-theme-label]');
-  const order = ['system', 'light', 'dark'];
+  (function () {
+    if (window.__fthThemeBound) return;
+    window.__fthThemeBound = true;
 
-  function currentMode() {
-    return localStorage.getItem('fth-theme') || 'system';
-  }
+    const order = ['system', 'light', 'dark'];
 
-  function apply(mode) {
-    if (mode === 'system') {
-      document.documentElement.removeAttribute('data-theme');
-      localStorage.removeItem('fth-theme');
-      if (label) label.textContent = labelSystem;
-    } else {
-      document.documentElement.setAttribute('data-theme', mode);
-      localStorage.setItem('fth-theme', mode);
-      if (label) label.textContent = mode === 'light' ? labelLight : labelDark;
+    function currentMode() {
+      return localStorage.getItem('fth-theme') || 'system';
     }
-    if (btn) btn.setAttribute('aria-label', label?.textContent || labelSystem);
-  }
 
-  apply(currentMode());
-  btn?.addEventListener('click', () => {
-    const i = order.indexOf(currentMode());
-    apply(order[(i + 1) % order.length]);
-  });
+    function resolvedIsDark(mode) {
+      if (mode === 'dark') return true;
+      if (mode === 'light') return false;
+      return window.matchMedia('(prefers-color-scheme: dark)').matches;
+    }
+
+    function syncButtons(mode) {
+      const dark = document.documentElement.classList.contains('dark');
+      const label = mode === 'system' ? labelSystem : mode === 'light' ? labelLight : labelDark;
+      document.querySelectorAll('[data-theme-toggle]').forEach((btn) => {
+        btn.setAttribute('aria-label', label);
+        btn.setAttribute('title', label);
+        const sun = btn.querySelector('[data-theme-icon="sun"]');
+        const moon = btn.querySelector('[data-theme-icon="moon"]');
+        if (sun) sun.toggleAttribute('hidden', dark);
+        if (moon) moon.toggleAttribute('hidden', !dark);
+      });
+    }
+
+    function apply(mode) {
+      const root = document.documentElement;
+      root.classList.remove('light', 'dark');
+      if (mode === 'system') {
+        localStorage.removeItem('fth-theme');
+        root.classList.add(resolvedIsDark('system') ? 'dark' : 'light');
+      } else {
+        localStorage.setItem('fth-theme', mode);
+        root.classList.add(mode);
+      }
+      syncButtons(mode);
+    }
+
+    apply(currentMode());
+
+    document.addEventListener('click', (e) => {
+      const btn = e.target.closest?.('[data-theme-toggle]');
+      if (!btn) return;
+      const i = order.indexOf(currentMode());
+      apply(order[(i + 1) % order.length]);
+    });
+
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
+      if (currentMode() === 'system') apply('system');
+    });
+  })();
 </script>

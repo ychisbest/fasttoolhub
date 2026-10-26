@@ -1,14 +1,43 @@
 ---
 import { t, type Locale } from '../i18n/ui';
+import { homePath } from '../i18n/paths';
+import ThemeToggle from './ThemeToggle.astro';
+
 interface Props { locale: Locale }
 const { locale } = Astro.props;
+const year = new Date().getFullYear();
 ---
-<footer class="site-footer">
-  <div class="container footer-inner">
-    <div class="footer-brand">
-      <strong>{t(locale, 'siteName')}</strong>
-      <span>{t(locale, 'tagline')}</span>
-    </div>
+
+<footer class="site-footer" id="directory-footer" data-testid="directory-footer">
+  <div class="footer-grid">
+    <section class="footer-brand">
+      <a class="brand" href={homePath(locale)}>
+        <span class="brand-mark" aria-hidden="true">FT</span>
+        <span class="brand-wordmark">{t(locale, 'siteName')}</span>
+      </a>
+      <p class="footer-tagline">{t(locale, 'tagline')}</p>
+      <div class="footer-icons">
+        <ThemeToggle locale={locale} id="theme-toggle-footer" />
+      </div>
+    </section>
+
+    <section class="footer-col">
+      <h3>{t(locale, 'footerBrowse')}</h3>
+      <ul>
+        <li><a href={homePath(locale)}>{t(locale, 'navTerms')}</a></li>
+      </ul>
+    </section>
+
+    <section class="footer-col">
+      <h3>{t(locale, 'footerAbout')}</h3>
+      <ul>
+        <li><span style="font-size:0.875rem;color:var(--muted-foreground)">{t(locale, 'footer')}</span></li>
+      </ul>
+    </section>
+  </div>
+
+  <div class="footer-bottom">
+    <p>© {year} {t(locale, 'siteName')}</p>
     <p>{t(locale, 'footer')}</p>
   </div>
 </footer>

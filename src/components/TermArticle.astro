@@ -1,7 +1,6 @@
 ---
 import { t, type Locale } from '../i18n/ui';
 import { formatDate, homePath } from '../i18n/paths';
-import { sourceKind } from '../lib/source';
 
 interface Props {
   locale: Locale;
@@ -17,52 +16,88 @@ interface Props {
 }
 
 const { locale, term, date, source, score, url, slug, introHtml, explainHtml, usageHtml } = Astro.props;
-const kind = sourceKind(source);
 const iso = typeof date === 'string' ? date : date.toISOString();
+const initial = term.trim().slice(0, 2);
 const sections = [
-  { index: '01', title: t(locale, 'intro'), html: introHtml },
-  { index: '02', title: t(locale, 'explain'), html: explainHtml },
-  { index: '03', title: t(locale, 'usage'), html: usageHtml },
+  { title: t(locale, 'intro'), html: introHtml },
+  { title: t(locale, 'explain'), html: explainHtml },
+  { title: t(locale, 'usage'), html: usageHtml },
 ];
+const ctaLabel = url
+  ? (locale === 'zh' ? `访问原文` : 'Visit source')
+  : '';
 ---
 
 <article class="term-page">
-  <a class="back" href={homePath(locale)}>{t(locale, 'backHome')}</a>
-  <p class="kicker">
-    <span>{t(locale, 'desk')}</span>
-    <span class="kicker-slug">{slug}</span>
-  </p>
-  <h1>{term}</h1>
-  <ul class="term-facts">
-    <li>
-      <span class="fact-k">{t(locale, 'date')}</span>
-      <time datetime={iso}>{formatDate(date, locale)}</time>
-    </li>
-    <li>
-      <span class="fact-k">{t(locale, 'source')}</span>
-      <span class:list={['source-tag', `source-${kind}`]} title={source}>{source}</span>
-    </li>
-    <li>
-      <span class="fact-k">{t(locale, 'score')}</span>
-      <span class="score-num">{score.toFixed(2)}</span>
-    </li>
-    <li>
-      <span class="fact-k">{t(locale, 'slugLabel')}</span>
-      <span class="slug">{slug}</span>
-    </li>
-  </ul>
-  {url && (
-    <p class="origin">
-      <a href={url} rel="noopener noreferrer" target="_blank">{t(locale, 'originalLink')}</a>
-    </p>
-  )}
-  {sections.map((section) => (
-    <section class="section">
-      <div class="section-head">
-        <span class="section-index">{section.index}</span>
-        <h2>{section.title}</h2>
+  <div class="term-main">
+    <a class="back" href={homePath(locale)}>
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M15 6l-6 6 6 6"></path>
+      </svg>
+      {t(locale, 'backHome')}
+    </a>
+
+    <div class="term-hero">
+      <span class="term-hero-icon" aria-hidden="true">{initial}</span>
+      <div class="term-hero-text">
+        <h1>{term}</h1>
+        <div class="term-hero-meta">
+          <span class="badge" title={source}>{source}</span>
+          <span class="card-stars">
+            <svg class="star-icon" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M12 2.5l2.9 6.1 6.7.7-5 4.6 1.4 6.5L12 16.9 5.9 20.4 7.3 13.9 2.4 9.3l6.7-.7L12 2.5z"></path>
+            </svg>
+            <span>{score.toFixed(2)}</span>
+          </span>
+        </div>
       </div>
-      <div class="prose" set:html={section.html} />
-    </section>
-  ))}
+      {url && (
+        <a class="term-cta" href={url} rel="noopener noreferrer" target="_blank">
+          {ctaLabel}
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M7 17L17 7"></path>
+            <path d="M8 7h9v9"></path>
+          </svg>
+        </a>
+      )}
+    </div>
+
+    {sections.map((section) => (
+      section.html ? (
+        <section class="section">
+          <h2>{section.title}</h2>
+          <div class="prose" set:html={section.html} />
+        </section>
+      ) : null
+    ))}
+  </div>
+
+  <aside class="term-aside">
+    <div class="info-card">
+      <h2>{t(locale, 'infoCard')}</h2>
+      <ul class="info-rows">
+        <li>
+          <span class="label">{t(locale, 'date')}</span>
+          <time class="value" datetime={iso}>{formatDate(date, locale)}</time>
+        </li>
+        <li>
+          <span class="label">{t(locale, 'source')}</span>
+          <span class="value">{source}</span>
+        </li>
+        <li>
+          <span class="label">{t(locale, 'score')}</span>
+          <span class="value stars">
+            <svg class="star-icon" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M12 2.5l2.9 6.1 6.7.7-5 4.6 1.4 6.5L12 16.9 5.9 20.4 7.3 13.9 2.4 9.3l6.7-.7L12 2.5z"></path>
+            </svg>
+            {score.toFixed(2)}
+          </span>
+        </li>
+        <li>
+          <span class="label">{t(locale, 'slugLabel')}</span>
+          <span class="value" style="font-family:var(--font-mono);font-size:0.8125rem">{slug}</span>
+        </li>
+      </ul>
+    </div>
+  </aside>
 </article>

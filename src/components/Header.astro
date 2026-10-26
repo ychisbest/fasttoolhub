@@ -11,32 +11,41 @@ const { locale } = Astro.props;
 const currentPath = Astro.url.pathname;
 ---
 
-<header class="site-header">
-  <div class="container mast-row">
+<header class="site-header" id="directory-header" data-testid="directory-header">
+  <div class="container header-inner">
     <a class="brand" href={homePath(locale)}>
       <span class="brand-mark" aria-hidden="true">FT</span>
-      <span class="brand-text">
-        <span class="wordmark-row">
-          <strong>{t(locale, 'siteName')}</strong>
-          <span class="wire-pill">WIRE</span>
-        </span>
-        <span class="brand-tag">{t(locale, 'tagline')}</span>
-      </span>
+      <span class="brand-wordmark">{t(locale, 'siteName')}</span>
     </a>
+
+    <nav class="header-nav" aria-label={t(locale, 'home')}>
+      <a href={homePath(locale)} aria-current="page">{t(locale, 'navTerms')}</a>
+    </nav>
+
+    <div class="header-spacer" aria-hidden="true"></div>
+
     <div class="header-actions">
+      <a class="icon-btn" href="#term-search" aria-label={t(locale, 'search')} title={t(locale, 'search')}>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="11" cy="11" r="7"></circle>
+          <path d="M20 20l-3.5-3.5"></path>
+        </svg>
+      </a>
+
       <nav class="lang-switch" aria-label={t(locale, 'language')}>
         {(Object.keys(languages) as Locale[]).map((lang) => (
           <a
-            class:list={['chip', { active: lang === locale }]}
+            class:list={[{ active: lang === locale }]}
             href={switchLocalePath(currentPath, lang)}
             hreflang={lang === 'zh' ? 'zh-CN' : 'en'}
             lang={lang === 'zh' ? 'zh-CN' : 'en'}
             aria-current={lang === locale ? 'true' : undefined}
           >
-            {languages[lang]}
+            {lang === 'zh' ? '中文' : 'EN'}
           </a>
         ))}
       </nav>
+
       <ThemeToggle locale={locale} />
     </div>
   </div>

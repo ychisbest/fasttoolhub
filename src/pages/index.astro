@@ -9,6 +9,6 @@ const locale = 'zh' as const;
 const entries = await getTermsByLocale(locale);
 ---
 
-<BaseLayout locale={locale} title={t(locale, 'timeline')} description={t(locale, 'timelineDesc')} canonicalPath={homePath(locale)}>
+<BaseLayout locale={locale} title={t(locale, 'heroTitle')} description={t(locale, 'heroSubtitle')} canonicalPath={homePath(locale)}>
   <Timeline locale={locale} entries={entries} />
 </BaseLayout>

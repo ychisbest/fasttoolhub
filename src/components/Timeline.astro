@@ -2,7 +2,6 @@
 import type { CollectionEntry } from 'astro:content';
 import TermCard from './TermCard.astro';
 import { t, type Locale } from '../i18n/ui';
-import { formatDate } from '../i18n/paths';
 
 interface Props {
   locale: Locale;
@@ -13,47 +12,23 @@ const { locale, entries } = Astro.props;
 const sources = [...new Set(entries.map((e) => e.data.source))].sort((a, b) =>
   a.localeCompare(b),
 );
-
-const groups: { label: string; items: CollectionEntry<'terms'>[] }[] = [];
-for (const entry of entries) {
-  const label = formatDate(entry.data.date, locale);
-  const last = groups[groups.length - 1];
-  if (last && last.label === label) last.items.push(entry);
-  else groups.push({ label, items: [entry] });
-}
-
-const latest = entries[0] ? formatDate(entries[0].data.date, locale) : '';
 ---
 
-<section class="hero">
-  <div class="hero-copy">
-    <p class="kicker">{t(locale, 'desk')}</p>
-    <h1>{t(locale, 'timeline')}</h1>
-    <p class="lede">{t(locale, 'timelineDesc')}</p>
-  </div>
-  {entries.length > 0 && (
-    <dl class="desk-brief">
-      <div>
-        <dt>{t(locale, 'entriesCount')}</dt>
-        <dd>{entries.length}</dd>
-      </div>
-      <div>
-        <dt>{t(locale, 'latest')}</dt>
-        <dd>{latest}</dd>
-      </div>
-      <div>
-        <dt>{t(locale, 'sourcesCount')}</dt>
-        <dd>{sources.length}</dd>
-      </div>
-    </dl>
-  )}
+<section class="hero" data-testid="directory-discover-hero">
+  <h1>{t(locale, 'heroTitle')}</h1>
+  <p class="hero-sub">{t(locale, 'heroSubtitle')}</p>
 </section>
 
-<div class="toolbar" data-timeline-toolbar>
+<form
+  class="discovery-controls"
+  data-testid="directory-discovery-controls"
+  data-timeline-toolbar
+  onsubmit="return false"
+>
   <div class="search-field">
     <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
-      <circle cx="11" cy="11" r="6.25" fill="none" stroke="currentColor" stroke-width="1.8"></circle>
-      <path d="M16 16.5L20 20.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path>
+      <circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="1.75"></circle>
+      <path d="M20 20l-3.5-3.5" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"></path>
     </svg>
     <label class="sr-only" for="term-search">{t(locale, 'search')}</label>
     <input
@@ -63,37 +38,35 @@ const latest = entries[0] ? formatDate(entries[0].data.date, locale) : '';
       placeholder={t(locale, 'searchPlaceholder')}
       autocomplete="off"
       data-term-search
+      data-slot="input"
     />
   </div>
-  <div class="filter-row">
-    <button type="button" class="btn filter-toggle" data-filter-toggle aria-expanded="false">
-      {t(locale, 'filters')}
-    </button>
-    <label class="source-filter">
-      <span class="sr-only">{t(locale, 'filterSource')}</span>
-      <select class="select" data-source-filter aria-label={t(locale, 'filterSource')}>
-        <option value="">{t(locale, 'allSources')}</option>
-        {sources.map((s) => <option value={s.toLowerCase()}>{s}</option>)}
-      </select>
-    </label>
-  </div>
-</div>
+  <label class="sr-only" for="source-filter">{t(locale, 'filterSource')}</label>
+  <select id="source-filter" class="select source-select" data-source-filter aria-label={t(locale, 'filterSource')}>
+    <option value="">{t(locale, 'allSources')}</option>
+    {sources.map((s) => <option value={s.toLowerCase()}>{s}</option>)}
+  </select>
+  <label class="sr-only" for="sort-filter">{t(locale, 'sortLabel')}</label>
+  <select id="sort-filter" class="select sort-select" data-sort-filter aria-label={t(locale, 'sortLabel')}>
+    <option value="newest">{t(locale, 'sortNewest')}</option>
+    <option value="score">{t(locale, 'sortScore')}</option>
+    <option value="name">{t(locale, 'sortName')}</option>
+  </select>
+</form>
 
-<div class="timeline" data-timeline>
+<div
+  class="listing-grid"
+  data-testid="directory-listing-grid"
+  data-view="grid"
+  data-timeline
+>
   {entries.length === 0 ? (
     <div class="empty">
       <strong>{t(locale, 'empty')}</strong>
       <p>{t(locale, 'emptyHint')}</p>
     </div>
   ) : (
-    groups.map((group) => (
-      <section class="day-group" data-day-group>
-        <h2 class="day-label">{group.label}</h2>
-        <div class="day-list">
-          {group.items.map((entry) => <TermCard locale={locale} entry={entry} />)}
-        </div>
-      </section>
-    ))
+    entries.map((entry) => <TermCard locale={locale} entry={entry} />)
   )}
   <div class="empty" data-no-results hidden>
     <strong>{t(locale, 'noResults')}</strong>
@@ -103,17 +76,19 @@ const latest = entries[0] ? formatDate(entries[0].data.date, locale) : '';
 <script>
   const search = document.querySelector('[data-term-search]') as HTMLInputElement | null;
   const source = document.querySelector('[data-source-filter]') as HTMLSelectElement | null;
-  const cards = Array.from(document.querySelectorAll('[data-term-card]')) as HTMLElement[];
-  const groups = Array.from(document.querySelectorAll('[data-day-group]')) as HTMLElement[];
+  const sort = document.querySelector('[data-sort-filter]') as HTMLSelectElement | null;
+  const grid = document.querySelector('[data-timeline]') as HTMLElement | null;
   const empty = document.querySelector('[data-no-results]') as HTMLElement | null;
-  const filterBtn = document.querySelector('[data-filter-toggle]') as HTMLButtonElement | null;
-  const toolbar = document.querySelector('[data-timeline-toolbar]') as HTMLElement | null;
+
+  function cards(): HTMLElement[] {
+    return Array.from(document.querySelectorAll('[data-term-card]')) as HTMLElement[];
+  }
 
   function applyFilter() {
     const q = (search?.value || '').trim().toLowerCase();
     const src = (source?.value || '').trim().toLowerCase();
     let visible = 0;
-    for (const card of cards) {
+    for (const card of cards()) {
       const term = card.dataset.term || '';
       const excerpt = card.dataset.excerpt || '';
       const cardSource = card.dataset.source || '';
@@ -123,18 +98,31 @@ const latest = entries[0] ? formatDate(entries[0].data.date, locale) : '';
       card.toggleAttribute('hidden', !show);
       if (show) visible += 1;
     }
-    for (const group of groups) {
-      const any = group.querySelector('[data-term-card]:not([hidden])');
-      group.toggleAttribute('hidden', !any);
-    }
-    empty?.toggleAttribute('hidden', visible !== 0 || cards.length === 0);
+    empty?.toggleAttribute('hidden', visible !== 0 || cards().length === 0);
   }
 
-  filterBtn?.addEventListener('click', () => {
-    const open = toolbar?.classList.toggle('is-open') ?? false;
-    filterBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
-  });
+  function applySort() {
+    if (!grid) return;
+    const mode = sort?.value || 'newest';
+    const list = cards();
+    const sorted = [...list].sort((a, b) => {
+      if (mode === 'score') {
+        return (Number(b.dataset.score) || 0) - (Number(a.dataset.score) || 0);
+      }
+      if (mode === 'name') {
+        return (a.dataset.term || '').localeCompare(b.dataset.term || '');
+      }
+      return 0; // newest = original order from server
+    });
+    if (mode === 'newest') return; // keep DOM order
+    for (const card of sorted) grid.appendChild(card);
+    if (empty) grid.appendChild(empty);
+  }
 
   search?.addEventListener('input', applyFilter);
   source?.addEventListener('change', applyFilter);
+  sort?.addEventListener('change', () => {
+    applySort();
+    applyFilter();
+  });
 </script>
