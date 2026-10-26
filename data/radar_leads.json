@@ -2668,5 +2668,35 @@
     "url": "https://github.com/Charonyuu/whatsmyagentdoing",
     "excerpt": "whatsmyagentdoing — open-source (MIT) local dashboard that visualizes Claude Code, Codex and Gemini CLI agent sessions as live characters in a tiny isometric office (or as a plain list). Reads the JSONL session logs those tools already write — no hooks or API keys; does not intervene in agents. Repo created 2026-10-23; ~227★ (v0.3.1).",
     "review_14d": null
+  },
+  {
+    "id": 268,
+    "term": "Pomerado",
+    "source": "x+web",
+    "score": 0.9,
+    "first_seen": "2026-10-26T16:32+08:00",
+    "url": "https://pomerado.ai/",
+    "excerpt": "YC F26: turn any website into API/MCP for agents; alt to browser use. Launch 2518♥/118RT; GH Pomerado/pomerado 517★; docs.pomerado.ai",
+    "review_14d": null
+  },
+  {
+    "id": 269,
+    "term": "tstack",
+    "source": "x+github",
+    "score": 0.6,
+    "first_seen": "2026-10-26T16:32+08:00",
+    "url": "https://github.com/t3dotgg/tstack",
+    "excerpt": "Theo (@theo) published personal Claude Code/Codex agent skills pack as tstack; announce 448♥; repo 290★ (created Oct 24)",
+    "review_14d": null
+  },
+  {
+    "id": 270,
+    "term": "CVEngine",
+    "source": "x+github",
+    "score": 0.6,
+    "first_seen": "2026-10-26T16:32+08:00",
+    "url": "https://github.com/hevnsnt/CVEngine",
+    "excerpt": "AI-first external attack-surface assessment (bbot/nmap/Nuclei + AI CVE proof). Launch 681♥/103RT; GH 240★; GH fresh NEW vs morning",
+    "review_14d": null
   }
 ]
