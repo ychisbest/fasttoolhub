@@ -2648,5 +2648,25 @@
     "url": "https://github.com/uclanlp/OpenVLHarness",
     "excerpt": "OpenVLHarness — UCLA NLP + Apple training-free multimodal reasoning harness ('Turn any MLLM into an evidence-based visual reasoner that thinks and codes in visual space'). Nine tool capabilities behind task-level interfaces (visual grounding via SAM 3, OCR via PaddleOCR-VL, depth & camera trajectory via Depth Anything 3, zoom, text/image search, webpage visit, Python coding agent) plus per-question persistent multimodal memory of images/boxes/masks/depth maps/web refs. Across 22 benchmarks raises averages 9.7–12.6 points (e.g. Qwen3-VL-8B 34.2→45.4, Kimi K3 56.4→66.1, GPT-6 Astra 60.3→70.2). arXiv 2610.26860 (submitted 2026-10-19), MIT license, repo created 2026-10-15 (~252★), HF Space demo uclanlp/OpenVLHarness, project page openvlharness.github.io. In-window X: @cutetoxicguy 2026-10-25 08:42Z '🚀 UCLA and Apple just released OpenVLHarness...'.",
     "review_14d": null
+  },
+  {
+    "id": 266,
+    "term": "Agensh",
+    "source": "x+github",
+    "score": 0.7,
+    "first_seen": "2026-10-26T08:32+08:00",
+    "url": "https://github.com/microsoft/Agensh",
+    "excerpt": "Agensh — Microsoft Research decentralized, self-organized multi-agent harness (MIT) that scales coding agents without a central orchestrator: concurrent workers gather context, claim sub-tasks, act, verify and merge progress asynchronously via shared workspace (Gitea), messaging (Mattermost) and shared context (DeLM-adapted), typically stacked on Copilot harness per-agent loops. Paper arXiv 2609.26781 (2026-09-22); GitHub v1.0 / OSS drop 2026-10-23–24 (repo created 2026-08-27; ~293★/35 forks). On five hardest ProgramBench tasks with GPT-5.6-sol (high), 6h no-Internet: mean final test-pass 19.31% (1 agent) → 28.78% (128); on Pandoc 33.89% → 55.06% at 1,024 agents. Project page agens-harness.github.io/project/; aka.ms/Agensh.",
+    "review_14d": null
+  },
+  {
+    "id": 267,
+    "term": "whatsmyagentdoing",
+    "source": "github+x",
+    "score": 0.55,
+    "first_seen": "2026-10-26T08:32+08:00",
+    "url": "https://github.com/Charonyuu/whatsmyagentdoing",
+    "excerpt": "whatsmyagentdoing — open-source (MIT) local dashboard that visualizes Claude Code, Codex and Gemini CLI agent sessions as live characters in a tiny isometric office (or as a plain list). Reads the JSONL session logs those tools already write — no hooks or API keys; does not intervene in agents. Repo created 2026-10-23; ~227★ (v0.3.1).",
+    "review_14d": null
   }
 ]

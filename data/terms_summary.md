@@ -1,5 +1,5 @@
 # Radar leads timeline
-Total: 265
+Total: 267
 - **Microsoft-Decision-1** | 2026-10-10T16:40 | X | 0.92 | https://x.com/TheRealKaien/status/2108838430100643846
   Microsoft just launched Microsoft-Decision-1, a 9B model that scores fixed choices instead of generating text.
 - **Qwen-Image-2.1-Turbo** | 2026-10-10T16:40 | Hugging Face | 0.9 | https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo
@@ -530,3 +530,7 @@ Total: 265
   ThinkRail — JetBrains incubator (InnovationHub) open-source (Apache-2.0, TypeScript) agentic IDE built around the 'pi' coding agent: 'the agentic IDE that gets better every time you use it'.
 - **OpenVLHarness** | 2026-10-26T00:32+08:00 | x+github | 0.55 | https://github.com/uclanlp/OpenVLHarness
   OpenVLHarness — UCLA NLP + Apple training-free multimodal reasoning harness ('Turn any MLLM into an evidence-based visual reasoner that thinks and codes in visual space').
+- **Agensh** | 2026-10-26T08:32+08:00 | x+github | 0.7 | https://github.com/microsoft/Agensh
+  Agensh — Microsoft Research decentralized, self-organized multi-agent harness (MIT) that scales coding agents without a central orchestrator: concurrent workers gather context, cla
+- **whatsmyagentdoing** | 2026-10-26T08:32+08:00 | github+x | 0.55 | https://github.com/Charonyuu/whatsmyagentdoing
+  whatsmyagentdoing — open-source (MIT) local dashboard that visualizes Claude Code, Codex and Gemini CLI agent sessions as live characters in a tiny isometric office (or as a plain 
