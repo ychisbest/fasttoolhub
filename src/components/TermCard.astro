@@ -12,8 +12,10 @@ interface Props {
 
 const { locale, entry } = Astro.props;
 const { term, source, score, excerpt, slug, intro } = entry.data;
-const blurb = plainTextFromMarkdown(displayText(excerpt || ''));
-const summary = plainTextFromMarkdown(displayText(intro || excerpt || ''));
+// Prefer intro (locale-correct) over excerpt (often English even on zh), then term.
+const description = plainTextFromMarkdown(
+  displayText(intro || excerpt || term || '')
+);
 const scoreText = score.toFixed(2);
 const initial = term.trim().slice(0, 2);
 const ariaLabel = locale === 'zh' ? `查看 ${term}` : `View ${term}`;
@@ -27,7 +29,7 @@ const ariaLabel = locale === 'zh' ? `查看 ${term}` : `View ${term}`;
   data-term-card
   data-term={term.toLowerCase()}
   data-source={source.toLowerCase()}
-  data-excerpt={blurb.toLowerCase()}
+  data-excerpt={description.toLowerCase()}
   data-score={score}
 >
   <div class="card-top">
@@ -42,13 +44,10 @@ const ariaLabel = locale === 'zh' ? `查看 ${term}` : `View ${term}`;
   </div>
 
   <div class="card-body">
-    <div class="card-default">
-      <p class="card-tagline" data-testid="directory-listing-tagline">{blurb || term}</p>
-      <div class="card-badges">
-        <span class="badge" data-slot="badge" data-variant="outline" title={source}>{source}</span>
-      </div>
+    <p class="card-tagline" data-testid="directory-listing-tagline">{description}</p>
+    <div class="card-badges">
+      <span class="badge" data-slot="badge" data-variant="outline" title={source}>{source}</span>
     </div>
-    <p class="card-summary" data-testid="directory-listing-summary">{summary || blurb}</p>
   </div>
 
   <a class="card-link" data-testid="directory-listing-link" href={termPath(locale, slug)} aria-label={ariaLabel}></a>

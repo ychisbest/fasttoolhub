@@ -654,29 +654,17 @@ select {
   flex: 1;
   min-height: 0;
   flex-direction: column;
-}
-
-.card-default {
-  display: flex;
-  height: 100%;
-  flex-direction: column;
   gap: 1rem;
-  transition: opacity 0.2s ease;
-}
-
-.term-card:hover .card-default,
-.term-card:focus-within .card-default {
-  opacity: 0;
 }
 
 .card-tagline {
   margin: 0;
-  min-height: 2.5rem; /* min-h-10 */
+  min-height: 3.75rem; /* ~3 lines at 1.25rem */
   font-size: var(--text-sm);
   line-height: 1.25rem; /* leading-5 */
   color: var(--muted-foreground);
   display: -webkit-box;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
@@ -704,27 +692,6 @@ select {
   max-width: 100%;
   overflow: hidden;
   text-overflow: ellipsis;
-}
-
-.card-summary {
-  pointer-events: none;
-  position: absolute;
-  inset: 0;
-  margin: 0;
-  font-size: var(--text-sm);
-  line-height: 1.25rem;
-  color: var(--muted-foreground);
-  opacity: 0;
-  transition: opacity 0.2s ease;
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-}
-
-.term-card:hover .card-summary,
-.term-card:focus-within .card-summary {
-  opacity: 1;
 }
 
 .card-link {
@@ -1189,8 +1156,6 @@ select {
     scroll-behavior: auto;
   }
 
-  .card-default,
-  .card-summary,
   .term-card {
     transition: none;
   }
