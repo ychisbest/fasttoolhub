@@ -694,6 +694,17 @@ select {
   text-overflow: ellipsis;
 }
 
+.card-date {
+  display: inline-flex;
+  align-items: center;
+  height: 1.25rem;
+  margin-left: auto;
+  color: var(--muted-foreground);
+  font-size: var(--text-xs);
+  line-height: 1;
+  white-space: nowrap;
+}
+
 .card-link {
   position: absolute;
   inset: 0;

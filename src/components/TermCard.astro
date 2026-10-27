@@ -1,7 +1,7 @@
 ---
 import type { CollectionEntry } from 'astro:content';
 import { type Locale } from '../i18n/ui';
-import { termPath } from '../i18n/paths';
+import { termPath, formatDate } from '../i18n/paths';
 import { displayText } from '../lib/source';
 import { plainTextFromMarkdown } from '../lib/markdown';
 
@@ -11,7 +11,8 @@ interface Props {
 }
 
 const { locale, entry } = Astro.props;
-const { term, source, score, excerpt, slug, intro } = entry.data;
+const { term, source, score, excerpt, slug, intro, date } = entry.data;
+const dateText = formatDate(date, locale);
 // Prefer intro (locale-correct) over excerpt (often English even on zh), then term.
 const description = plainTextFromMarkdown(
   displayText(intro || excerpt || term || '')
@@ -47,6 +48,7 @@ const ariaLabel = locale === 'zh' ? `查看 ${term}` : `View ${term}`;
     <p class="card-tagline" data-testid="directory-listing-tagline">{description}</p>
     <div class="card-badges">
       <span class="badge" data-slot="badge" data-variant="outline" title={source}>{source}</span>
+      <time class="card-date" datetime={typeof date === 'string' ? date : date.toISOString()}>{dateText}</time>
     </div>
   </div>
 
