@@ -2838,5 +2838,55 @@
     "url": "https://www.ithome.com/1/018/252.htm",
     "excerpt": "Ant Group released LingGuang (灵光) 2.0 on 2026-10-27: personal AI assistant upgraded from one-shot chat/tasks to proactive long-horizon life/work management with cross-session memory and a cloud host that keeps running after you leave chat. Integrates Alipay/DingTalk/Feishu/email/Mi Home + MCP/CLI; security via Ant APASS. IT之家 + BusinessWire + CN X coverage.",
     "review_14d": null
+  },
+  {
+    "id": 285,
+    "term": "LFM3",
+    "source": "x+web+sitemap",
+    "score": 0.92,
+    "first_seen": "2026-10-28T04:32+08:00",
+    "url": "https://www.liquid.ai/blog/lfm3",
+    "excerpt": "Liquid AI released LFM3 on 2026-10-27 (~01:04 BJT Oct 28 per CN coverage): new generation of open-weight Liquid Foundation Models — six ~2B models (text, vision, audio, omni + two decision models) branched from one LFM3-1.7B-Base tri-hybrid backbone, 22T pretraining tokens, 256K text context, ~1 GB at 4-bit, fine-tunable on a single GPU. Official liquid.ai/blog/lfm3 + HF blog + Unite.AI; X news trend; @omarsar0/@xenovacom posts (130+ likes each).",
+    "review_14d": null
+  },
+  {
+    "id": 286,
+    "term": "Giotto Alto",
+    "source": "x+web",
+    "score": 0.88,
+    "first_seen": "2026-10-28T04:32+08:00",
+    "url": "https://www.giotto.ai/",
+    "excerpt": "Swiss lab Giotto (Giotto.ai SA, Lausanne) launched the Giotto model family on 2026-10-27: flagship reasoning model Giotto Alto (free for everyone, hosted on European cloud, runs on 8×B300; iOS/Android app + free anonymous chat) and Giotto Solo (single-GPU model). Self-reported: AIME 2026 100%, GPQA-Diamond 91.9%, HLE 52%. Official @giotto_ai launch post (~790 likes / 134k impressions) + EQS press release; X news trend; CEO said it builds on Kimi weights with proprietary retraining.",
+    "review_14d": null
+  },
+  {
+    "id": 287,
+    "term": "Bygga",
+    "source": "x+web",
+    "score": 0.75,
+    "first_seen": "2026-10-28T04:32+08:00",
+    "url": "https://www.usebygga.com/",
+    "excerpt": "Hassan El Mghari (@nutlope, Together AI) launched Bygga on 2026-10-27 (19:11Z): free & open-source app that walks you through assembling IKEA furniture step by step with interactive 3D and voice instructions; type the product name from the box; covers every buildable IKEA product; can scan paper manuals for non-IKEA items. Launch post ~360 likes / 14k impressions in-window; live at usebygga.com; repo Nutlope/bygga.",
+    "review_14d": null
+  },
+  {
+    "id": 288,
+    "term": "Nativ",
+    "source": "x+web",
+    "score": 0.72,
+    "first_seen": "2026-10-28T04:32+08:00",
+    "url": "https://www.neywalabs.ai/products/nativ",
+    "excerpt": "Prince Canuma (creator of mlx-vlm / mlx-audio) unveiled Neywa Labs on 2026-10-27 with flagship free, open-source macOS app Nativ: runs open models locally on Apple Silicon (built on mlx-vlm), chat/vision/audio, model library, performance analytics, and OpenAI-/Anthropic-compatible local API for Codex, Claude Code, Pi, Hermes, OpenCode. X news trend 'Neywa Labs Launches Free Local AI App for Macs'; GitHub Blaizzy/nativ ~1.5k stars; brew install --cask nativ.",
+    "review_14d": null
+  },
+  {
+    "id": 289,
+    "term": "Machenta",
+    "source": "x+web",
+    "score": 0.7,
+    "first_seen": "2026-10-28T04:32+08:00",
+    "url": "https://machenta.com/",
+    "excerpt": "Imperial College London spinout Machenta emerged from stealth on 2026-10-27 with a $40M seed (co-led by Creandum and Union Square Ventures; largest UK robotics seed per Imperial). Its 'Instant Robot Learning' foundation model, pretrained entirely in simulation, lets robots learn a new physical task from a single demonstration with no further training, across multiple robot platforms. Founders Edward Johns & Vitalis Vosylius; 11-person team. Imperial News, Business Insider, FinSMEs; X news trend.",
+    "review_14d": null
   }
 ]
