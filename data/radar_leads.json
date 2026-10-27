@@ -2758,5 +2758,25 @@
     "url": "https://github.com/mainplane-ai/mainplane",
     "excerpt": "Alexander Yue (ex Browser Use eng #2) launched Mainplane on X/Show HN Oct 26 16:32Z: open-source Go AI agent control plane that runs on a server and drives workers on your machines over built-in WireGuard. MIT. Launch post ~61 likes / 4.7k impressions; repo ~12★ at scan time.",
     "review_14d": null
+  },
+  {
+    "id": 277,
+    "term": "Entire",
+    "source": "x+web",
+    "score": 0.85,
+    "first_seen": "2026-10-27T12:32+08:00",
+    "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
+    "excerpt": "Ex-GitHub CEO Thomas Dohmke (@ashtom) shipped Entire on 2026-10-26T17:00Z: AI-native Git forge for agent-human collaboration. Replaces PRs with Trails (agent-scored evals on every push), distributed Git hosting claimed up to 89x faster pushes than GitHub, Continuous Memory, CI with Buildkite/Depot. Official post ~476 likes / 93k impressions.",
+    "review_14d": null
+  },
+  {
+    "id": 278,
+    "term": "Cadence Maestro",
+    "source": "x+web",
+    "score": 0.78,
+    "first_seen": "2026-10-27T12:32+08:00",
+    "url": "https://www.cadence.com/en_US/home/ai/agentic-ai-super-agents.html",
+    "excerpt": "Cadence announced Maestro AI Model Portfolio on 2026-10-26 09:00 EDT: domain-specialized models powering Cadence AI Super Agents (AuraStack/ChipStack/InnoStack/ViraStack) for chip/system design. Claims up to 30% higher quality and 5x token efficiency vs general-purpose FMs; NVIDIA collab; early access Q4 2026.",
+    "review_14d": null
   }
 ]
