@@ -2808,5 +2808,35 @@
     "url": "https://hob.chat/",
     "excerpt": "Frigade open-sourced Hob (MIT): local desktop AI for Mac/Windows/Linux that runs open-weight models (Gemma 4 / gpt-oss via llama.cpp) on-device to read/edit files, fill PDFs, run sandboxed code, and draw charts. Show HN 2026-10-26~27 reached ~149 points / 34 comments; site hob.chat; GitHub FrigadeHQ/hob (~207★). Previously dropped at 08:32 for low traction; in-window Show HN + multi-language X coverage now corroborate launch.",
     "review_14d": null
+  },
+  {
+    "id": 282,
+    "term": "Genie 4",
+    "source": "x+web",
+    "score": 0.95,
+    "first_seen": "2026-10-28T00:32+08:00",
+    "url": "https://deepmind.google/models/genie/",
+    "excerpt": "Google DeepMind launched Genie 4 on 2026-10-27: research-preview interactive world model with native audio/dialogue and real-time natural-language steering, grounded by the Gemini family. Trusted testers first; Google AI Ultra / Project Genie waitlist next. Official Google/DeepMind posts + deepmind.google/models/genie; trending WW+US on X.",
+    "review_14d": null
+  },
+  {
+    "id": 283,
+    "term": "Echo-3",
+    "source": "x+web",
+    "score": 0.9,
+    "first_seen": "2026-10-28T00:32+08:00",
+    "url": "https://spaitial.ai/blog",
+    "excerpt": "SpAItial launched Echo-3 and the SpAItial Capture app on 2026-10-27: phone captures become photorealistic, metric-scale 3D worlds (rooms to multi-floor/outdoor). Official @SpAItial_AI post (~35k impressions / 450+ likes) + spaitial.ai blog; available today.",
+    "review_14d": null
+  },
+  {
+    "id": 284,
+    "term": "LingGuang 2.0",
+    "source": "x+web",
+    "score": 0.85,
+    "first_seen": "2026-10-28T00:32+08:00",
+    "url": "https://www.ithome.com/1/018/252.htm",
+    "excerpt": "Ant Group released LingGuang (灵光) 2.0 on 2026-10-27: personal AI assistant upgraded from one-shot chat/tasks to proactive long-horizon life/work management with cross-session memory and a cloud host that keeps running after you leave chat. Integrates Alipay/DingTalk/Feishu/email/Mi Home + MCP/CLI; security via Ant APASS. IT之家 + BusinessWire + CN X coverage.",
+    "review_14d": null
   }
 ]
