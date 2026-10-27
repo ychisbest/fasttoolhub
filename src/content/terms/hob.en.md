@@ -1,0 +1,15 @@
+---
+slug: "hob"
+term: "Hob"
+locale: "en"
+date: "2026-10-27T20:32+08:00"
+source: "x+hn+web"
+score: 0.78
+url: "https://hob.chat/"
+excerpt: "Frigade open-sourced Hob (MIT): a local desktop AI for Mac/Windows/Linux that runs open-weight models (Gemma 4 / gpt-oss via llama.cpp) on-device to read/edit files, fill PDFs, run sandboxed code, and draw charts. Show HN reached ~149 points / 34 comments; site hob.chat; GitHub FrigadeHQ/hob (~207★)."
+intro: "**Hob** is a free, **MIT-licensed** desktop AI app from **Frigade** for Mac (Apple silicon), Windows, and Linux. Models run **on your machine**; chats and files stay local by default. The pitch is Claude/ChatGPT-desktop-style file work without sending your folder to a hosted model — currently advertising **Gemma 4** and **gpt-oss** via **llama.cpp**.\n\nSite: [hob.chat](https://hob.chat/). Code: [FrigadeHQ/hob](https://github.com/FrigadeHQ/hob). Version 0.2.x shipped around **2026-10-26**, then hit Hacker News Show HN (~**149 points / 34 comments**). This radar window (2026-10-27 16:32–20:32 Asia/Shanghai) still saw multi-language posts. An earlier same-day 08:32 pass dropped Hob for low traction; Show HN + official site + GitHub now corroborate the named launch."
+explain: "## What it claims (site / Show HN / README)\n\n1. **Local-first**: no account/subscription; claimed no telemetry. Built-in web search (SearXNG) can be disabled; MCP connectors you add may go online.\n2. **Hardware-aware setup**: on first launch it tries to pick an open-weight model that fits RAM/bandwidth (author examples range from small Gemma 4 on 8 GB Macs up to larger MoE / gpt-oss on high-RAM machines).\n3. **File tools**: read/edit authorized folders, fill PDFs, vision via a small VL model, sandboxed Python (sandbox-exec / Landlock / low-integrity), charts.\n4. **Stack**: Electron shell + llama.cpp in a separate process; optional local Whisper for dictation.\n\n## Positioning\n\nThe author says prior local apps either pasted tiny text into a short context window or defaulted to hosted models/accounts. HN commenters note the category is crowded; Hob's bet is privacy + less setup friction.\n\n## Why this radar term\n\nShort name, but branded domain + Frigade shipping + verifiable Show HN thread in/near this window — recorded as product name **Hob**."
+usage: "## Try it\n\n1. Downloads: https://hob.chat/\n2. Source/releases: https://github.com/FrigadeHQ/hob\n3. Show HN: https://news.ycombinator.com/item?id=50246238\n4. After install, let it fetch a model; turn off Web access in Privacy settings for offline-ish use; grant folder access only as needed\n\n## Good fit\n\n- People handling sensitive local docs who refuse cloud chat uploads\n- Users who want a packaged local assistant instead of hand-wiring Ollama/LM Studio\n\n## Caveats\n\n- Small local models are weaker at reliable tool use than frontier cloud models; quality scales with RAM/GPU\n- Windows SmartScreen may warn on an unsigned/new publisher build\n- Models can consume tens of GB; uninstall carefully\n- Points/stars move; figures are as observed at scan time"
+---
+
+# Hob

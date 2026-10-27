@@ -2798,5 +2798,15 @@
     "url": "https://runway.com/product/app-studio",
     "excerpt": "Runway launched App Studio on 2026-10-26 (missed by prior 00:32/08:32/12:32 scans): no-code builder that turns plain-language descriptions into shareable creative apps using Runway image/video/audio models + Brand Kits; included in paid plans; continued heavy in-window coverage on X.",
     "review_14d": null
+  },
+  {
+    "id": 281,
+    "term": "Hob",
+    "source": "x+hn+web",
+    "score": 0.78,
+    "first_seen": "2026-10-27T20:32+08:00",
+    "url": "https://hob.chat/",
+    "excerpt": "Frigade open-sourced Hob (MIT): local desktop AI for Mac/Windows/Linux that runs open-weight models (Gemma 4 / gpt-oss via llama.cpp) on-device to read/edit files, fill PDFs, run sandboxed code, and draw charts. Show HN 2026-10-26~27 reached ~149 points / 34 comments; site hob.chat; GitHub FrigadeHQ/hob (~207★). Previously dropped at 08:32 for low traction; in-window Show HN + multi-language X coverage now corroborate launch.",
+    "review_14d": null
   }
 ]
