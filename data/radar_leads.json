@@ -2738,5 +2738,25 @@
     "url": "https://github.com/yaojingang/GEOInflow",
     "excerpt": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs ... Jointly published by 猎看科技 · 北京日报社智源GEO. (created 2026-10-26, ~275★ in first day)",
     "review_14d": null
+  },
+  {
+    "id": 275,
+    "term": "Fern 0.1",
+    "source": "x+web",
+    "score": 0.85,
+    "first_seen": "2026-10-27T08:32+08:00",
+    "url": "https://mirendil.com/news/introducing-fern/",
+    "excerpt": "Mirendil launched Fern 0.1 on Oct 26: first post-trained model from Mirendil-Base, claimed up to 10M-token context (~0.5M lines of code). Built for AI R&D agentic work (auditing training data, debugging logs, reading agent traces). Early-access requests open; no public weights/API/pricing yet.",
+    "review_14d": null
+  },
+  {
+    "id": 276,
+    "term": "Mainplane",
+    "source": "x+github",
+    "score": 0.55,
+    "first_seen": "2026-10-27T08:32+08:00",
+    "url": "https://github.com/mainplane-ai/mainplane",
+    "excerpt": "Alexander Yue (ex Browser Use eng #2) launched Mainplane on X/Show HN Oct 26 16:32Z: open-source Go AI agent control plane that runs on a server and drives workers on your machines over built-in WireGuard. MIT. Launch post ~61 likes / 4.7k impressions; repo ~12★ at scan time.",
+    "review_14d": null
   }
 ]

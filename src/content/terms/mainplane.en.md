@@ -1,0 +1,15 @@
+---
+slug: "mainplane"
+term: "Mainplane"
+locale: "en"
+date: "2026-10-27T08:32+08:00"
+source: "x+github"
+score: 0.55
+url: "https://github.com/mainplane-ai/mainplane"
+excerpt: "Alexander Yue (ex Browser Use eng #2) launched Mainplane on X/Show HN Oct 26 16:32Z: open-source Go AI agent control plane that runs on a server and drives workers on your machines over built-in WireGuard. MIT. Launch post ~61 likes / 4.7k impressions; repo ~12★ at scan time."
+intro: "**Mainplane** is an **open-source AI agent control plane** publicly launched on **October 26, 2026** (X + Show HN) by **Alexander Yue** (former engineer #2 at Browser Use). It is written in **Go**, licensed **MIT**, at `mainplane-ai/mainplane`, with site mainplane.ai.\n\nThe pitch: **local agents die when your laptop sleeps; cloud agents cannot reach work that is not in a selected git repo**. Mainplane runs the harness on an always-on server—API keys and sessions stay on the control plane—while tool calls are routed over a built-in **WireGuard** mesh to workers on your other machines that run shell and file tools."
+explain: "## Architecture highlights (from the author and repo)\n\n- **Control plane + workers**: the server makes LLM calls and stores sessions; bash/file tools execute on the worker’s own terminal; keys never leave the server\n- **Session = file**: each session is an append-only state file you can resume; observability is that file\n- **Small by design**: ~3k-token system prompt; tools are mainly shell and file (read/write/edit)\n- **No default compaction path**: when context fills, `/continue` starts a new session that greps the previous state file instead of writing a lossy summary\n- **No permission-prompt philosophy**: put the agent on a machine you trust and give it broad access there, rather than relying on prompts a model can work around\n- **Subscriptions or API keys**: Claude / ChatGPT subscription limits or any API key\n\n## Traction at launch\n\n- Launch post ~**61** likes, **4.7k** impressions, **48** bookmarks, 11 reposts (in-window)\n- Show HN: “Mainplane – Agent in Go that lives on your old PC, drives your laptop”\n- ~**12★** on GitHub at scan time—clear name and story, still early stars → score 0.55"
+usage: "## Self-host quickstart\n\nOn an always-on machine:\n\n```bash\n# Linux / macOS\ncurl -fsSL https://mainplane.ai/install | sh -s -- server quickstart\n\n# Windows (PowerShell)\n& ([scriptblock]::Create((irm https://mainplane.ai/install.ps1))) server quickstart\n```\n\nThe wizard adds a model provider, workers (machines your agents control) and connectors. See `docs/self-hosting.md` in the repo.\n\n```bash\ngit clone https://github.com/mainplane-ai/mainplane.git\n```\n\n## Who it’s for\n\n- Developers with a spare desktop/mini PC who want an always-on “AI shed”\n- People whose work spans multiple machines and is not all in one git repo\n\n## Caveats\n\n- Early project: low star count—review the security model before attaching sensitive machines to the mesh\n- Domains: mainplane.ai / mainplane.net; bug reports per docs to bugs.mainplane.ai"
+---
+
+# Mainplane
