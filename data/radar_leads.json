@@ -2778,5 +2778,25 @@
     "url": "https://www.cadence.com/en_US/home/ai/agentic-ai-super-agents.html",
     "excerpt": "Cadence announced Maestro AI Model Portfolio on 2026-10-26 09:00 EDT: domain-specialized models powering Cadence AI Super Agents (AuraStack/ChipStack/InnoStack/ViraStack) for chip/system design. Claims up to 30% higher quality and 5x token efficiency vs general-purpose FMs; NVIDIA collab; early access Q4 2026.",
     "review_14d": null
+  },
+  {
+    "id": 279,
+    "term": "Unlimited OCR 2",
+    "source": "x+hf+web",
+    "score": 0.92,
+    "first_seen": "2026-10-27T16:32+08:00",
+    "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
+    "excerpt": "Baidu Research open-sourced Unlimited OCR 2 (文心无限 OCR 2) on 2026-10-27: ~3B MIT OCR model with Sparse Reference Sliding Window Attention (SR-SWA) for unbounded-horizon document parsing; SOTA on MPDocBench 84.6 / MarathonDocBench; HF baidu/Unlimited-OCR-2 + GitHub baidu/Unlimited-OCR; official @BaiduResearch post ~1k impressions.",
+    "review_14d": null
+  },
+  {
+    "id": 280,
+    "term": "Runway App Studio",
+    "source": "x+web",
+    "score": 0.85,
+    "first_seen": "2026-10-27T16:32+08:00",
+    "url": "https://runway.com/product/app-studio",
+    "excerpt": "Runway launched App Studio on 2026-10-26 (missed by prior 00:32/08:32/12:32 scans): no-code builder that turns plain-language descriptions into shareable creative apps using Runway image/video/audio models + Brand Kits; included in paid plans; continued heavy in-window coverage on X.",
+    "review_14d": null
   }
 ]

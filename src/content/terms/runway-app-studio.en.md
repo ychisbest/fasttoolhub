@@ -1,0 +1,15 @@
+---
+slug: "runway-app-studio"
+term: "Runway App Studio"
+locale: "en"
+date: "2026-10-27T16:32+08:00"
+source: "x+web"
+score: 0.85
+url: "https://runway.com/product/app-studio"
+excerpt: "Runway launched App Studio on 2026-10-26 (missed by prior 00:32/08:32/12:32 scans): no-code builder that turns plain-language descriptions into shareable creative apps using Runway image/video/audio models + Brand Kits; included in paid plans; continued heavy in-window coverage on X."
+intro: "**Runway App Studio** is Runway’s no-code creative app builder, launched **2026-10-26**. Describe the tool you want in plain language; App Studio writes, tests and deploys a custom app with its own UI that generates images, video and audio with Runway models and can bind your team’s **Brand Kits**, Workflows, Assets and References.\n\nThe product page shipped with an official news post. Built-in starters include Character Swap, AutoComp, Product Portfolio, 3D Camera Control, Precise Edit and Runway Pro. App Studio is included in every **paid** plan (no add-on); building, running and hosting draw from existing credits. Heavy ZH/EN discussion continued in this scan window; the three earlier Oct 27 scans missed it, so this run backfills."
+explain: "## Product highlights (official launch post)\n\n- **Describe → ship** — conversational iteration with preview and rollback; code stays visible for reviewers.\n- **Freeze workflows** — turn an Agent session or Workflow into a reusable app so teammates only fill inputs.\n- **Sharing** — private by default; Team/Enterprise can share with people, projects or the workspace; paid users can publish a public link that visitors run on their own Runway credits.\n- **Enterprise controls** — inherits model kill-switches; admins can disable App Studio per workspace and gate public links.\n\n## Early-access stories (vendor)\n\nArchitecture firm KPF and others are cited building custom tools (driven design videos, fly-throughs, title localization, green-screen plate matching, character galleries). Treat these as **vendor case studies**.\n\n## Radar note\n\nShip date was 10-26; 00:32 / 08:32 / 12:32 all missed it. The 16:32 window still shows ongoing coverage plus verified official pages, so we store the product name **Runway App Studio** (not the umbrella brand Runway)."
+usage: "## Try it\n\n1. Product: https://runway.com/product/app-studio\n2. Launch post: https://runway.com/news/company-news/introducing-runway-app-studio\n3. In a paid Runway workspace, open App Studio, describe an app (or remix a starter), preview, then share or publish\n4. Docs: Runway Help Center “Building apps with App Studio”\n\n## Who it’s for\n\n- Brand, marketing and film teams that want repeatable creative flows as buttons\n- Teams with Brand Kits / Workflows who want less prompt drift across collaborators\n\n## Caveats\n\n- Free users mainly run built-in or shared apps; building your own needs a paid plan\n- Usage burns existing credits; public-link visitors pay their own\n- It packages Runway’s generative stack — not a general-purpose software IDE"
+---
+
+# Runway App Studio
