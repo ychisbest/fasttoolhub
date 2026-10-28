@@ -2998,5 +2998,35 @@
     "url": "https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer",
     "excerpt": "Divyansh Agrawal's experimental Qwen3.5-4B with a 32-bit RISC-V CPU compiled into 11 extra transformer layers, using Gated DeltaNet state as RAM; runs C/MicroPython inside forward passes, passes riscv-tests; arithmetic benchmarks 97.5–100%. Became an X trending story 2026-10-28.",
     "review_14d": null
+  },
+  {
+    "id": 301,
+    "term": "Gemini 4 Carbon",
+    "source": "x",
+    "score": 0.9,
+    "first_seen": "2026-10-29T04:32+08:00",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+    "excerpt": "Google DeepMind's next frontier model, announced 2026-10-28 two weeks after Gemini 4 Argon: #1 on Artificial Analysis Intelligence Index v5.0 (59), SEC-bench Pro 88.2%, ExploitGym 54.8%, CWE-bench 71.0%; first rolled out to selected cyber defenders via the Fairwind Program; intro price $2/$10 per 1M input/output tokens.",
+    "review_14d": null
+  },
+  {
+    "id": 302,
+    "term": "Copilot Fusion",
+    "source": "x",
+    "score": 0.75,
+    "first_seen": "2026-10-29T04:32+08:00",
+    "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/",
+    "excerpt": "GitHub Copilot Fusion is generally available (GitHub Universe, 2026-10-28): instead of picking a model, you choose Copilot Fusion and an effort level (Standard / High / Max), and Copilot routes and orchestrates one or more models per task. It combines Project HydraFusion's multi-model orchestration with auto model selection and replaces the old Auto option.",
+    "review_14d": null
+  },
+  {
+    "id": 303,
+    "term": "Project Quarry",
+    "source": "x",
+    "score": 0.75,
+    "first_seen": "2026-10-29T04:32+08:00",
+    "url": "https://blogs.cisco.com/ai/project-quarry-agent-security-detections",
+    "excerpt": "Cisco open-sourced Project Quarry on 2026-10-28: a neurosymbolic rule language and evaluation engine for detecting harmful multi-step AI-agent behavior across LLM conversations, tool calls, MCP interactions and multimodal inputs. Cisco pitches it as a \"shared language for agent defense\", like Snort for network traffic or YARA for malware. Apache-2.0.",
+    "review_14d": null
   }
 ]
