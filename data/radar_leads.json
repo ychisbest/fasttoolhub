@@ -2938,5 +2938,35 @@
     "url": "https://diffuspace.ai/blog/clover-35b/",
     "excerpt": "DiffuSpace (扩散智能) on 2026-10-28 open-sourced Clover-35B-A3B-Preview, a 35B MoE (~3B active) diffusion language model (dLLM) with 128K context, Apache-2.0 weights on HF/ModelScope, reported 680 tok/s on one GB300 BF16 and SWE-bench Verified 73.6.",
     "review_14d": null
+  },
+  {
+    "id": 295,
+    "term": "Boltbar",
+    "source": "x+web+producthunt",
+    "score": 0.82,
+    "first_seen": "2026-10-28T20:32+08:00",
+    "url": "https://juanluis.me/boltbar",
+    "excerpt": "Native macOS AI chat bar (Swift/AppKit, MIT) launched on Product Hunt 2026-10-28: ⌥Space for GPT/Claude chat; agent mode hands Claude Code/Codex a project with Look/Ask/Edit/Full permissions. brew cask + signed DMG; ~58 PH upvotes (#31).",
+    "review_14d": null
+  },
+  {
+    "id": 296,
+    "term": "WebAI",
+    "source": "x+web",
+    "score": 0.8,
+    "first_seen": "2026-10-28T20:32+08:00",
+    "url": "https://blogs.opera.com/news/2026/10/webai-local-ai-for-the-web-now-in-opera/",
+    "excerpt": "Opera's WebAI early preview (announced 2026-10-27, PH/press chatter 10-28) lets sites/extensions call local on-device models via Prompt/Decision/Semantic Embeddings APIs in Opera One/GX/Neon; proposed web standard with Google/Microsoft backing; TechCrunch coverage.",
+    "review_14d": null
+  },
+  {
+    "id": 297,
+    "term": "Agent Handshake",
+    "source": "x+web+producthunt",
+    "score": 0.74,
+    "first_seen": "2026-10-28T20:32+08:00",
+    "url": "https://www.usefini.com/blog/introducing-agent-handshake",
+    "excerpt": "Fini's Agent Handshake (blog 2026-10-27, Product Hunt 10-28) serves customers' personal AI agents (Muse/Call for Me/Dots): same intent→same decision, reply guardrails, stop-after-answer; open to any support-agent team.",
+    "review_14d": null
   }
 ]
