@@ -2888,5 +2888,25 @@
     "url": "https://machenta.com/",
     "excerpt": "Imperial College London spinout Machenta emerged from stealth on 2026-10-27 with a $40M seed (co-led by Creandum and Union Square Ventures; largest UK robotics seed per Imperial). Its 'Instant Robot Learning' foundation model, pretrained entirely in simulation, lets robots learn a new physical task from a single demonstration with no further training, across multiple robot platforms. Founders Edward Johns & Vitalis Vosylius; 11-person team. Imperial News, Business Insider, FinSMEs; X news trend.",
     "review_14d": null
+  },
+  {
+    "id": 290,
+    "term": "MiniCPM-OCR",
+    "source": "x+hf+web",
+    "score": 0.88,
+    "first_seen": "2026-10-28T08:32+08:00",
+    "url": "https://huggingface.co/openbmb/MiniCPM-OCR-1.0",
+    "excerpt": "OpenBMB (面壁智能) open-sourced the MiniCPM-OCR suite on 2026-10-27/28: MiniCPM-OCR 1.0 (1.3B, first OCR-specific model of the MiniCPM-V/o family, built on MiniCPM-V 4.6) scores 93.68 on Real5-OmniDocBench and 54.7 on OCRBench v2, ~1.49x PaddleOCR-VL-1.6 and 3.62x MinerU2.5 Pro throughput with DSpark decoding; plus MiniCPM-OCR Jev, a 2B model that scores OCR output region-by-region (93.6 on JevOCRBench). Apache-2.0; vLLM/SGLang/llama.cpp/Ollama day-0, pip SDK minicpm-ocr. X news trend; Intel OpenVINO day-0 post; GitHub OpenBMB/MiniCPM-OCR.",
+    "review_14d": null
+  },
+  {
+    "id": 291,
+    "term": "Metatron-v1",
+    "source": "hf+x+web",
+    "score": 0.68,
+    "first_seen": "2026-10-28T08:32+08:00",
+    "url": "https://huggingface.co/nvidia/Metatron-v1",
+    "excerpt": "NVIDIA quietly published nvidia/Metatron-v1 on Hugging Face on 2026-10-27 (~21:43Z): ONNX exports of a learned Unitree G1 humanoid policy unifying walking, scene interaction and fall recovery (epoch-6410 'SAMP-capable unified student'); one single-robot demo graph and a six-robot batched 'Racer' graph, plus nvidia/metatron-browser exports running in-browser via ONNX Runtime Web + MuJoCo WASM. NVIDIA open model license; no press release; HuggingPapers post 'NVIDIA just released the Metatron G1 humanoid walking and recovery policy'.",
+    "review_14d": null
   }
 ]
