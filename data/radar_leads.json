@@ -2968,5 +2968,35 @@
     "url": "https://www.usefini.com/blog/introducing-agent-handshake",
     "excerpt": "Fini's Agent Handshake (blog 2026-10-27, Product Hunt 10-28) serves customers' personal AI agents (Muse/Call for Me/Dots): same intent→same decision, reply guardrails, stop-after-answer; open to any support-agent team.",
     "review_14d": null
+  },
+  {
+    "id": 298,
+    "term": "Nemotron 3.5 Transcribe",
+    "source": "x+huggingface",
+    "score": 0.9,
+    "first_seen": "2026-10-29T00:32+08:00",
+    "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+    "excerpt": "NVIDIA open-weight offline speech model (34B total / ~4.3B active hybrid Mamba-2–Transformer MoE): transcription in 40 languages, speaker attribution, translation, timestamps, audio QA; released 2026-10-28 on HF/NGC/build.nvidia.com; Artificial Analysis: ties #1 open-weights STT at 2.8% AA-WER.",
+    "review_14d": null
+  },
+  {
+    "id": 299,
+    "term": "SenseNova 6.8 Code2Video",
+    "source": "x+huggingface",
+    "score": 0.85,
+    "first_seen": "2026-10-29T00:32+08:00",
+    "url": "https://huggingface.co/sensenova/SenseNova-6.8-Code2Video",
+    "excerpt": "SenseTime's open-source (Apache-2.0) 27B code-driven video creation model fine-tuned from Qwen3.8-27B with 512K context; generates and renders video by writing executable code, run as an agent in Claude Code with the code-video skill. Official 'Introducing' post 2026-10-28.",
+    "review_14d": null
+  },
+  {
+    "id": 300,
+    "term": "Qwenputer",
+    "source": "x+huggingface",
+    "score": 0.65,
+    "first_seen": "2026-10-29T00:32+08:00",
+    "url": "https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer",
+    "excerpt": "Divyansh Agrawal's experimental Qwen3.5-4B with a 32-bit RISC-V CPU compiled into 11 extra transformer layers, using Gated DeltaNet state as RAM; runs C/MicroPython inside forward passes, passes riscv-tests; arithmetic benchmarks 97.5–100%. Became an X trending story 2026-10-28.",
+    "review_14d": null
   }
 ]
