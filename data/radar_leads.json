@@ -2908,5 +2908,25 @@
     "url": "https://huggingface.co/nvidia/Metatron-v1",
     "excerpt": "NVIDIA quietly published nvidia/Metatron-v1 on Hugging Face on 2026-10-27 (~21:43Z): ONNX exports of a learned Unitree G1 humanoid policy unifying walking, scene interaction and fall recovery (epoch-6410 'SAMP-capable unified student'); one single-robot demo graph and a six-robot batched 'Racer' graph, plus nvidia/metatron-browser exports running in-browser via ONNX Runtime Web + MuJoCo WASM. NVIDIA open model license; no press release; HuggingPapers post 'NVIDIA just released the Metatron G1 humanoid walking and recovery policy'.",
     "review_14d": null
+  },
+  {
+    "id": 292,
+    "term": "Mixdog",
+    "source": "x+web+github",
+    "score": 0.66,
+    "first_seen": "2026-10-28T12:32+08:00",
+    "url": "https://github.com/tribgames/mixdog",
+    "excerpt": "Mixdog (by Korean studio tribgames / 트리비게임즈) is a free Apache-2.0 desktop coding agent where a lead model plans and cheaper models search, edit and review. On all 89 Terminal-Bench 2.1 tasks x5 trials with GPT-5.6 Sol xhigh it used 156.5M tokens vs 421.4M for Codex CLI (-63%) at 86.5% vs 86.1% success. v1.4.0/v1.4.1 shipped 2026-10-27; featured in Chinese X open-source roundups on 2026-10-28; ~205 GitHub stars.",
+    "review_14d": null
+  },
+  {
+    "id": 293,
+    "term": "Notra",
+    "source": "x+web",
+    "score": 0.6,
+    "first_seen": "2026-10-28T12:32+08:00",
+    "url": "https://www.usenotra.com/",
+    "excerpt": "Notra (usenotra.com, maker Dominik Koch) relaunched as a GEO (Generative Engine Optimization) tool on Product Hunt on 2026-10-27, finishing #6 Product of the Day with 139 upvotes: it asks ChatGPT, Claude, Gemini, Perplexity and Grok the questions your buyers ask, shows whether your brand appears, who appears instead and how to fix it; includes AI Crawl Analytics (free up to 1M events/month). Featured in Chinese X posts on 2026-10-28.",
+    "review_14d": null
   }
 ]
