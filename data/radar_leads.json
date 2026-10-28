@@ -2928,5 +2928,15 @@
     "url": "https://www.usenotra.com/",
     "excerpt": "Notra (usenotra.com, maker Dominik Koch) relaunched as a GEO (Generative Engine Optimization) tool on Product Hunt on 2026-10-27, finishing #6 Product of the Day with 139 upvotes: it asks ChatGPT, Claude, Gemini, Perplexity and Grok the questions your buyers ask, shows whether your brand appears, who appears instead and how to fix it; includes AI Crawl Analytics (free up to 1M events/month). Featured in Chinese X posts on 2026-10-28.",
     "review_14d": null
+  },
+  {
+    "id": 294,
+    "term": "Clover-35B",
+    "source": "x+web+hf+github",
+    "score": 0.92,
+    "first_seen": "2026-10-28T16:32+08:00",
+    "url": "https://diffuspace.ai/blog/clover-35b/",
+    "excerpt": "DiffuSpace (扩散智能) on 2026-10-28 open-sourced Clover-35B-A3B-Preview, a 35B MoE (~3B active) diffusion language model (dLLM) with 128K context, Apache-2.0 weights on HF/ModelScope, reported 680 tok/s on one GB300 BF16 and SWE-bench Verified 73.6.",
+    "review_14d": null
   }
 ]
