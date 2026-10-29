@@ -997,7 +997,7 @@
     "first_seen": "2026-10-14T16:32+08:00",
     "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
     "excerpt": "NVIDIA Oct 13 officially announces Nemotron 3.5 Bolt 74B-A9B 24GB: open MoE (74B total / ~9B active, 2-bit QAT into 24GB) purpose-built for local agents on RTX Spark; weights/data/recipes open; available Thu Oct 15 via llama.cpp/vLLM/Ollama/Unsloth/LM Studio + Hermes/OpenClaw. Sibling Bolt E4B due Oct 23. Strong X traction (e.g. MiaAI_lab ~303 likes) + multi-outlet corroboration.",
-    "review_14d": null
+    "review_14d": "hit|2026-10-29|q='Nemotron 3.5 Bolt' pre7=0.0 last7=45.1 peak=100"
   },
   {
     "id": 101,
@@ -1007,7 +1007,7 @@
     "first_seen": "2026-10-14T16:32+08:00",
     "url": "https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/",
     "excerpt": "NVIDIA Personal AI Router (PAIR) exits beta as 1.0.0 on Oct 13: free open-source local-network AI inference router across Windows/Linux/macOS + RTX/DGX/Spark; adds llama.cpp, HF model downloads, RTX Spark support. GitHub NVIDIA/Personal-AI-Router v1.0.0; product page + official blog GA announce.",
-    "review_14d": null
+    "review_14d": "hit|2026-10-29|q='NVIDIA PAIR' pre7=23.3 last7=36.0 peak=100"
   },
   {
     "id": 102,
@@ -1017,7 +1017,7 @@
     "first_seen": "2026-10-15T00:32+08:00",
     "url": "https://www.magicpatterns.com/blog/introducing-magicos",
     "excerpt": "Magic Patterns officially launched MagicOS on Oct 13, 2026: an infinite persistent AI design canvas where PRDs, inspiration, variants, rejected directions, and decisions live together; voice + multiplayer + MCP handoff to coding agents. Founder X announce (~1073 likes / 419k impressions) + product blog + X News story in the post-16:32 window.",
-    "review_14d": null
+    "review_14d": "n/a|2026-10-29|generic word, Trends not attributable"
   },
   {
     "id": 103,
@@ -1027,7 +1027,7 @@
     "first_seen": "2026-10-15T00:32+08:00",
     "url": "https://sentient.foundation/news/fingerprinting-for-ai-models",
     "excerpt": "Sentient Foundation launched the Fingerprinting Leaderboard on Oct 14, 2026: open benchmark ranking LLM fingerprinting schemes on robustness/utility/verification, with fingerprint.sentient.foundation + companion mlprints framework. Official X launch (~52 likes / 11k impressions) + Quartz feature + multi-outlet X News summary same day.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-29|no Trends data for 'Fingerprinting Leaderboard'"
   },
   {
     "id": 104,
@@ -1037,7 +1037,7 @@
     "first_seen": "2026-10-15T00:32+08:00",
     "url": "https://entelligence.ai/agentplay",
     "excerpt": "Entelligence AI introduced AgentPlay (~Oct 13–14): local open-source tool that turns Claude Code/Codex/Cursor/Copilot transcripts into interactive maps and replayable timelines (`pipx run agentplay`, Apache-2.0, PyPI 0.1.2 dated Oct 13). Product page + X introduce/demo posts with measurable engagement.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-29|q='AgentPlay' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 105,
@@ -1047,7 +1047,7 @@
     "first_seen": "2026-10-15T00:32+08:00",
     "url": "https://www.datalab.to/blog/indra-ocr",
     "excerpt": "Datalab released Indra OCR (~Oct 13): ~1M-param CPU OCR (~49 pages/s claimed) PDF/image→Markdown/text/JSON with boxes+reading order; HF datalab-to/indra-ocr (~65 likes) + GH datalab-to/indra (created≥2026-10-13, ~177★) + official blog. pip install indra-ocr.",
-    "review_14d": null
+    "review_14d": "hit|2026-10-29|q='Indra OCR' pre7=0.0 last7=45.7 peak=100"
   },
   {
     "id": 106,
@@ -1057,7 +1057,7 @@
     "first_seen": "2026-10-15T08:32+08:00",
     "url": "https://www.paperinstruments.com/blog/ultramarine",
     "excerpt": "Paper Instruments blog (Oct 14, 2026): \"We present Ultramarine 1 Flash, an agentic model for professional knowledge work\" — RL post-train of GLM-5.3 Flash, $0.13/task on PI Knowledge Work vs $8.19 for Claude Fable 5. CEO @bertgodel launch post (Oct 14 16:02Z / 00:02 BJT Oct 15): ~4.6k likes / 806k impressions; API live, weights 'coming soon'; X News story updated 08:24 BJT.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-29|q='Ultramarine 1 Flash' pre7=0.0 last7=2.4 peak=100"
   },
   {
     "id": 107,
@@ -1067,7 +1067,7 @@
     "first_seen": "2026-10-15T08:32+08:00",
     "url": "https://www.ithome.com/1/012/556.htm",
     "excerpt": "IT之家 (Oct 13): 阶跃终端首款大模型原生智能体手机 STEPX Neo 先行版发布，搭载 Step AOS 1.0 与个人智能体阶跃 Amoo，全栈价 3999 元，10 月 16 日 10:13 首销；附 Step Studio IDE。Caixin/InfoQ coverage; English X posts continued into the window (e.g. TopKhoj Oct 14 20:29Z).",
-    "review_14d": null
+    "review_14d": "miss|2026-10-29|q='STEPX Neo' pre7=14.3 last7=5.6 peak=100"
   },
   {
     "id": 108,
@@ -1077,7 +1077,7 @@
     "first_seen": "2026-10-15T08:32+08:00",
     "url": "https://whitecircle.com/research/breaking-frontier-image-models",
     "excerpt": "White Circle (Oct 14 17:21Z / 01:21 BJT Oct 15): \"We are open-sourcing RISE, our red-teaming algorithm that breaks the safeguards of the latest image models\" — ~520 likes / 407k impressions; research page: up to 13% policy-violating images on DALL·E 3, GPT-Image-2, Nano Banana 2. Ars Technica + X News coverage.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-29|q='White Circle RISE' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 109,
@@ -1087,7 +1087,7 @@
     "first_seen": "2026-10-15T08:32+08:00",
     "url": "https://huggingface.co/vllm-sr/d3",
     "excerpt": "HF card: \"d3 is the 27B multimodal foundation decision model of Decision 3.0, the decision models of vLLM Semantic Router\" — Jev Decision Index 0.3.2: 66.3 (#1 text board), Apache-2.0; ~162 likes, in HF trending top 30 (d3-edge 1.4k downloads). DecisionModels launched s1-pro API on d3 (Oct 14 19:55Z, ~10k impressions).",
-    "review_14d": null
+    "review_14d": "miss|2026-10-29|no Trends data for 'vLLM-SR Decision 3.0'"
   },
   {
     "id": 110,
@@ -1097,7 +1097,7 @@
     "first_seen": "2026-10-15T08:32+08:00",
     "url": "https://www.anthropic.com/engineering/redesigning-source-control",
     "excerpt": "Anthropic Engineering: \"we built Scion, an in-house version control system, and fully migrated our monorepo from git in five months\" (plus code-review surface 'Antique'). Merges ~2,500/day (May) → 30,000+/day (Sep). X posts ~400 likes/32k impressions; The Register + X News story still updating (Oct 14 23:24Z).",
-    "review_14d": null
+    "review_14d": "miss|2026-10-29|q='Anthropic Scion' pre7=19.7 last7=4.6 peak=100"
   },
   {
     "id": 111,
@@ -1107,7 +1107,7 @@
     "first_seen": "2026-10-15T08:32+08:00",
     "url": "https://github.com/caveman-ai/trim-1",
     "excerpt": "README: \"trim-1 is a small model that decides which lines of a context an AI agent needs for its current ask, and drops the rest\" — 1.2 MB, 712 gradient-boosted trees, ~7 ms/5k tokens on one CPU core, pure Go; HF card caveman-so/trim-1. Repo created Oct 14 (~70★); founder post (Caveman, YC F26) ~163 likes / 7.5k impressions.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-29|no Trends data for 'trim-1'"
   },
   {
     "id": 112,
@@ -1117,7 +1117,7 @@
     "first_seen": "2026-10-15T08:32+08:00",
     "url": "https://finance.yahoo.com/technology/ai/articles/introducing-gakku-ai-native-learning-050000272.html",
     "excerpt": "Newsfile release (Oct 14, 2026): \"Algorithm of Learning today announced the public launch of Gakku, an immersive, AI-native learning coach for writing, speaking, and thinking\" for ages 6–16, companion 'Raku'; X News story 'Gakku AI Coach Launches…' (Oct 14 16:53Z). Site gakku.ai live with 162-URL sitemap.",
-    "review_14d": null
+    "review_14d": "n/a|2026-10-29|generic word, Trends not attributable"
   },
   {
     "id": 113,
@@ -1127,7 +1127,7 @@
     "first_seen": "2026-10-15T08:32+08:00",
     "url": "https://github.com/Graphicle-AI/graphicle",
     "excerpt": "README: \"Graphicle maps your repository into a code graph, remembers your project's docs, decisions and past agent sessions, and gives your coding agent cited excerpts\" — Rust, Apache-2.0, MCP. Repo created Oct 14 12:25Z, v0.1.0 same day, ~125★; Show HN 'Graphicle, a Rust port of Graphify with memory for coding agents' (Oct 14 20:56Z).",
-    "review_14d": null
+    "review_14d": "miss|2026-10-29|q='Graphicle' pre7=0.0 last7=8.0 peak=100"
   },
   {
     "id": 114,
@@ -1137,7 +1137,7 @@
     "first_seen": "2026-10-15T08:32+08:00",
     "url": "https://github.com/assafkip/claudemy",
     "excerpt": "README: \"Claudemy is a free Claude Code skill that turns any topic into a short audio course\" — ~12 two-minute two-voice audio lessons with cited sources. Repo created Oct 14 01:49Z, ~112★ / 13 forks; author X post 'Meet Claudemy' (Oct 14).",
-    "review_14d": null
+    "review_14d": "miss|2026-10-29|q='Claudemy' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 115,
@@ -3077,6 +3077,26 @@
     "first_seen": "2026-10-29T08:32+08:00",
     "url": "https://x.com/ad1tyaranjan/status/2115556461539627321",
     "excerpt": "\"We're launching GrayPass (@ycombinator F26). We help your software tell when an AI agent is acting on someone's behalf. Before sensitive actions, we check who's in control, then allow, challenge, hold, or deny. 900K+ sessions processed.\" (2026-10-28)",
+    "review_14d": null
+  },
+  {
+    "id": 309,
+    "term": "Vercel CI",
+    "source": "x+web",
+    "score": 0.7,
+    "first_seen": "2026-10-29T12:32+08:00",
+    "url": "https://vercel.com/blog/introducing-vercel-ci",
+    "excerpt": "\"Today, we're announcing Vercel CI in Beta. It runs only the tasks affected by your code change, and spins up only the compute those checks need.\" Vercel says its own time from git push to \"CI passed\" is 2-6x faster. Available on all plans since 2026-10-28; configured with \"tags\": [\"ci\"] in turbo.json.",
+    "review_14d": null
+  },
+  {
+    "id": 310,
+    "term": "ViBench 2.0",
+    "source": "x+web",
+    "score": 0.6,
+    "first_seen": "2026-10-29T12:32+08:00",
+    "url": "https://x.com/Replit/status/2115553116942975013",
+    "excerpt": "\"Today we're releasing ViBench 2.0, a benchmark for long-horizon software building. Agents start from an empty project and build a whole product, one feature at a time, without seeing what comes next.\" (Replit, 2026-10-28) 17 products, 241 features, 544 test plans; GPT-6.1 Sol leads at 64.7% pass@1.",
     "review_14d": null
   }
 ]
