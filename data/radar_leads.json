@@ -3278,5 +3278,45 @@
     "url": "https://www.snaptrude.com/",
     "excerpt": "Official @snaptrude Oct 29: \"Snaptrude Agent is live. It does real design work… from a site to a construction-ready LOD 400 model with structure, MEP and drawings.\" AEC Magazine: AI agent for BIM from concept to construction documentation; user reviews plan then approves.",
     "review_14d": null
+  },
+  {
+    "id": 329,
+    "term": "Joey-1",
+    "source": "x+sitemap+web",
+    "score": 0.92,
+    "first_seen": "2026-10-30T04:32+08:00",
+    "url": "https://www.baseten.co/blog/decisions-for-a-penny-introducing-joey-1/",
+    "excerpt": "Baseten/Base Labs Oct 29: joey-1 is a 2B open-weights decision model (P50 ~20ms, $0.01/M tokens) joining mammoth-1/elephant-1; on OpenRouter as baseten/joey-1; returns calibrated choice/yes-no/scoring probabilities without free-form text.",
+    "review_14d": null
+  },
+  {
+    "id": 330,
+    "term": "Pika H3 Flex",
+    "source": "x+web",
+    "score": 0.93,
+    "first_seen": "2026-10-30T04:32+08:00",
+    "url": "https://pika.art/blog/pika-h3-flex",
+    "excerpt": "Pika Labs Oct 29: Meet Pika H3 Flex — post-trained MiniMax H3 open-weight video model; #1 open t2v on DesignArena; up to 4K, 5 audio stems, ~15s video in as little as 7s compute; creation product Nov 2.",
+    "review_14d": null
+  },
+  {
+    "id": 331,
+    "term": "Canva Brush",
+    "source": "x+web",
+    "score": 0.88,
+    "first_seen": "2026-10-30T04:32+08:00",
+    "url": "https://cryptobriefing.com/canva-unveils-brush-vision-language-model/",
+    "excerpt": "Canva Oct 29 unveiled Brush, its first in-house vision-language model for design editing (layout/layers/style); Pro launch; up to 69% faster / 46% cheaper vs prior agents; follows Canva Craft image model.",
+    "review_14d": null
+  },
+  {
+    "id": 332,
+    "term": "Surya 2.5",
+    "source": "sitemap+web",
+    "score": 0.86,
+    "first_seen": "2026-10-30T04:32+08:00",
+    "url": "https://www.datalab.to/blog/surya-2-5",
+    "excerpt": "Datalab Oct 29: Surya 2.5 is a 689M open OCR model — 1.7x faster than Surya 2 (4.5 vs 2.7 pps on H100), 85.9 OmniParseBench (best open under 1B); pip install surya-ocr ≥0.23.0.",
+    "review_14d": null
   }
 ]
