@@ -3158,5 +3158,75 @@
     "url": "https://x.com/i/trending/2115673733813735858",
     "excerpt": "\"The ForgeKernel Live demo at OpenBMB shows an AI agent building and refining a GPU kernel from scratch, tracking every iteration with graphs, logs, and benchmarks against expert references like FlashMLA... building on ForgeKernel's leaderboard wins on NVIDIA SOL-ExecBench and Huawei CANN-Bench.\" (X trending summary)",
     "review_14d": null
+  },
+  {
+    "id": 317,
+    "term": "Reality-Aware Rendering",
+    "source": "x+web",
+    "score": 0.85,
+    "first_seen": "2026-10-29T20:32+08:00",
+    "url": "https://runtimewire.com/article/simulon-reality-aware-rendering-iphone",
+    "excerpt": "\"Introducing Reality-Aware Rendering in @Simulon, a completely new way to create with the real world. Place neural assets with your phone and act out the scene. When you stop recording, Simulon renders the take... Available now on iPhone.\" (@diveshnaidoo, Oct 28, ~1897 RTs; still circulating Oct 29)",
+    "review_14d": null
+  },
+  {
+    "id": 318,
+    "term": "Amp macOS Satellites",
+    "source": "x+web",
+    "score": 0.85,
+    "first_seen": "2026-10-29T20:32+08:00",
+    "url": "https://ampcode.com/news/macos-satellites",
+    "excerpt": "\"Amp now has macOS Satellites! Agents can now spawn Macs and build, test and run your iOS and macOS applications on them.\" Official Amp news (Oct 29, 2026): cloud Mac boots in ~30s with Xcode+simulators; mac.medium $2/hr, mac.large $4/hr; beta waitlist.",
+    "review_14d": null
+  },
+  {
+    "id": 319,
+    "term": "Tongjiang Lab",
+    "source": "github+web",
+    "score": 0.75,
+    "first_seen": "2026-10-29T20:32+08:00",
+    "url": "https://lab.tongjiang.app/",
+    "excerpt": "\"Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app\" — GitHub smithjohn78390/tongjiang-lab created 2026-10-28, ~789★; 54+ interactive 3D lessons across physics/chemistry/biology/geography.",
+    "review_14d": null
+  },
+  {
+    "id": 320,
+    "term": "AHA3",
+    "source": "x+web",
+    "score": 0.7,
+    "first_seen": "2026-10-29T20:32+08:00",
+    "url": "https://www.agibot.com/article/231/detail/131.html",
+    "excerpt": "\"AGIBOT just unveiled the AHA3 humanoid and the Worken framework at its Shanghai Innovation Day. AHA3 is the new humanoid hardware platform.\" Same event also launched GO-3 Preview, WITA-Omni, Link-U OS 1.0 and G2 Max (Oct 29, 2026).",
+    "review_14d": null
+  },
+  {
+    "id": 321,
+    "term": "GO-3",
+    "source": "x+web",
+    "score": 0.7,
+    "first_seen": "2026-10-29T20:32+08:00",
+    "url": "https://www.agibot.com/article/231/detail/131.html",
+    "excerpt": "\"GO-3 Preview is AGIBOT's next-generation embodied AI foundation model, built around WRAM: World Reasoning Action Model.\" Reported leading results on RoboDojo, RoboTwin and RoboColiseum; open-source planned by year-end (Innovation Day, Oct 29, 2026).",
+    "review_14d": null
+  },
+  {
+    "id": 322,
+    "term": "Link-U",
+    "source": "x+web",
+    "score": 0.65,
+    "first_seen": "2026-10-29T20:32+08:00",
+    "url": "https://www.agibot.com/article/231/detail/131.html",
+    "excerpt": "\"Link-U OS 1.0 launch is a milestone. An OS built for physical robots...\" AGIBOT released Link-U OS 1.0 at Innovation Day 2026 (Oct 29) and said it plans to fully open-source by year-end.",
+    "review_14d": null
+  },
+  {
+    "id": 323,
+    "term": "open-yoki",
+    "source": "github+web",
+    "score": 0.6,
+    "first_seen": "2026-10-29T20:32+08:00",
+    "url": "https://github.com/jacke-pp/open-yoki",
+    "excerpt": "\"An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on.\" — jacke-pp/open-yoki created 2026-10-28, ~340★; MIT open build of the yoki livestream stack (persona/voice/face of commercial yoki excluded).",
+    "review_14d": null
   }
 ]
