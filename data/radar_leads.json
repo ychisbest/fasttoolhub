@@ -7,7 +7,7 @@
     "first_seen": "2026-10-10T16:40",
     "url": "https://x.com/TheRealKaien/status/2108838430100643846",
     "excerpt": "Microsoft just launched Microsoft-Decision-1, a 9B model that scores fixed choices instead of generating text.",
-    "review_14d": null
+    "review_14d": "hit|2026-10-25|q='Microsoft-Decision-1' pre7=0.0 last7=11.4 peak=100"
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "first_seen": "2026-10-10T16:40",
     "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
     "excerpt": "Qwen official model, created 2026-10-09, HF trending",
-    "review_14d": null
+    "review_14d": "miss|2026-10-25|q='Qwen-Image-2.1-Turbo' pre7=0.0 last7=5.4 peak=100"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "first_seen": "2026-10-10T16:40",
     "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
     "excerpt": "Aleph Alpha model, created 2026-10-02, HF trending",
-    "review_14d": null
+    "review_14d": "miss|2026-10-25|q='Kolibri-1' pre7=24.1 last7=3.0 peak=100"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "first_seen": "2026-10-10T16:40",
     "url": "https://huggingface.co/google/embeddinggemma-2",
     "excerpt": "Google embedding model, HF trending #1",
-    "review_14d": null
+    "review_14d": "hit|2026-10-25|q='EmbeddingGemma-2' pre7=0.0 last7=27.1 peak=100"
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "first_seen": "2026-10-10T16:40",
     "url": "https://huggingface.co/Cloudflare/clef",
     "excerpt": "Cloudflare models clef and clef-flash, created 2026-09-30, HF trending",
-    "review_14d": null
+    "review_14d": "miss|2026-10-25|q='Cloudflare clef' pre7=57.7 last7=8.1 peak=100"
   },
   {
     "id": 6,
@@ -57,27 +57,7 @@
     "first_seen": "2026-10-10T16:40",
     "url": "https://huggingface.co/LiquidAI/d1-3B",
     "excerpt": "Liquid AI model, created 2026-10-05, HF trending",
-    "review_14d": null
-  },
-  {
-    "id": 8,
-    "term": "WordCraft / GridCraft / CADCraft",
-    "source": "GitHub",
-    "score": 0.75,
-    "first_seen": "2026-10-10T16:40",
-    "url": "https://github.com/storytold/wordcraft",
-    "excerpt": "Clean-room Rust reimplementations of Word/Excel/AutoCAD; 2275/1393/1504 stars in <1 week",
-    "review_14d": null
-  },
-  {
-    "id": 9,
-    "term": "ARTEX",
-    "source": "GitHub",
-    "score": 0.7,
-    "first_seen": "2026-10-10T16:40",
-    "url": "https://github.com/mhtsec/ARTEX",
-    "excerpt": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目; 2610 stars",
-    "review_14d": null
+    "review_14d": "miss|2026-10-25|no Trends data for 'LiquidAI d1-3B'"
   },
   {
     "id": 7,
@@ -87,7 +67,27 @@
     "first_seen": "2026-10-10T16:40",
     "url": "https://huggingface.co/Cactus-Compute/whistle",
     "excerpt": "Cactus-Compute model, created 2026-09-30, HF trending",
-    "review_14d": null
+    "review_14d": "hit|2026-10-25|q='Cactus whistle' pre7=0.0 last7=40.1 peak=100"
+  },
+  {
+    "id": 8,
+    "term": "WordCraft / GridCraft / CADCraft",
+    "source": "GitHub",
+    "score": 0.75,
+    "first_seen": "2026-10-10T16:40",
+    "url": "https://github.com/storytold/wordcraft",
+    "excerpt": "Clean-room Rust reimplementations of Word/Excel/AutoCAD; 2275/1393/1504 stars in <1 week",
+    "review_14d": "hit|2026-10-25|q='WordCraft' pre7=4.0 last7=33.4 peak=100"
+  },
+  {
+    "id": 9,
+    "term": "ARTEX",
+    "source": "GitHub",
+    "score": 0.7,
+    "first_seen": "2026-10-10T16:40",
+    "url": "https://github.com/mhtsec/ARTEX",
+    "excerpt": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目; 2610 stars",
+    "review_14d": "miss|2026-10-25|q='ARTEX' pre7=59.9 last7=66.9 peak=100"
   },
   {
     "id": 10,
@@ -97,7 +97,7 @@
     "first_seen": "2026-10-10T16:40",
     "url": "https://github.com/alchaincyf/huashu-art-motion",
     "excerpt": "艺术动画skill：35种艺术风格、9种解说语法; 3051 stars",
-    "review_14d": null
+    "review_14d": "hit|2026-10-25|q='huashu-art-motion' pre7=0.0 last7=23.0 peak=100"
   },
   {
     "id": 11,
@@ -107,7 +107,7 @@
     "first_seen": "2026-10-10T16:40",
     "url": "https://github.com/alejandrobujan/tendedero",
     "excerpt": "Screenshots, hung out to dry. A tiny native macOS app; 1313 stars",
-    "review_14d": null
+    "review_14d": "n/a|2026-10-25|generic word, Trends not attributable"
   },
   {
     "id": 12,
@@ -117,7 +117,7 @@
     "first_seen": "2026-10-10T16:40",
     "url": "https://github.com/zhongerxin/iPhone-use",
     "excerpt": "让 Codex 通过 USB 操作真实 iPhone; 2237 stars",
-    "review_14d": null
+    "review_14d": "hit|2026-10-25|q='iPhone-use' pre7=0.0 last7=13.7 peak=100"
   },
   {
     "id": 13,
@@ -127,7 +127,7 @@
     "first_seen": "2026-10-10T16:40",
     "url": "https://x.com/TheAIWorld22/status/2108838628655034557",
     "excerpt": "Today, we're introducing Socavi - Your Autonomous AI Sales Team.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-25|no Trends data for 'Socavi'"
   },
   {
     "id": 14,
@@ -137,17 +137,7 @@
     "first_seen": "2026-10-11T00:40",
     "url": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
     "excerpt": "ConwayResearch/Underdog-Saluki-27B-1.0, created 2026-10-08, HF trending",
-    "review_14d": null
-  },
-  {
-    "id": 16,
-    "term": "Aurelio Finance",
-    "source": "GitHub",
-    "score": 0.7,
-    "first_seen": "2026-10-11T00:40",
-    "url": "https://github.com/LosaLosSantos/aurelio-finance",
-    "excerpt": "Open-source personal finance app with an AI financial advisor (1870 stars)",
-    "review_14d": null
+    "review_14d": "miss|2026-10-25|no Trends data for 'Underdog-Saluki-27B'"
   },
   {
     "id": 15,
@@ -157,7 +147,17 @@
     "first_seen": "2026-10-11T00:40",
     "url": "https://huggingface.co/canberkkkkkk/ema-lightning",
     "excerpt": "canberkkkkkk/ema-lightning, created 2026-10-01, HF trending",
-    "review_14d": null
+    "review_14d": "miss|2026-10-25|no Trends data for 'ema-lightning'"
+  },
+  {
+    "id": 16,
+    "term": "Aurelio Finance",
+    "source": "GitHub",
+    "score": 0.7,
+    "first_seen": "2026-10-11T00:40",
+    "url": "https://github.com/LosaLosSantos/aurelio-finance",
+    "excerpt": "Open-source personal finance app with an AI financial advisor (1870 stars)",
+    "review_14d": "miss|2026-10-25|q='Aurelio Finance' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 17,
@@ -167,7 +167,7 @@
     "first_seen": "2026-10-11T00:40",
     "url": "https://github.com/noahdunnagan/fsearch",
     "excerpt": "Whole-disk file search for macOS (1464 stars)",
-    "review_14d": null
+    "review_14d": "hit|2026-10-25|q='fsearch' pre7=0.0 last7=29.0 peak=100"
   },
   {
     "id": 18,
@@ -177,7 +177,7 @@
     "first_seen": "2026-10-11T08:40",
     "url": "https://x.com/ContextWindow/status/2109077182882390101",
     "excerpt": "Reflection AI open-weight MoE model (≈501B/23B) for coding & agents; Nvidia talks to invest/acquire; launched ~1 week ago.",
-    "review_14d": null
+    "review_14d": "n/a|2026-10-25|generic word, Trends not attributable"
   },
   {
     "id": 19,
@@ -187,7 +187,7 @@
     "first_seen": "2026-10-11T08:40",
     "url": "https://x.com/i/trending/2108245224623358225",
     "excerpt": "Odyssey foundation world model launched Oct 8; tops Physics-IQ (66.1); interactive 3D worlds, robot/driving policies; research preview + API.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-25|q='Odyssey-3' pre7=0.0 last7=9.3 peak=100"
   },
   {
     "id": 20,
@@ -197,7 +197,7 @@
     "first_seen": "2026-10-11T08:40",
     "url": "https://x.com/StepFun_ai/status/2108718161671696522",
     "excerpt": "StepFun flagship ~600B MoE coding/agent model on OpenRouter; 1M context; free week; open weights planned Oct 15; Launch Night Oct 22 SF.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-25|q='Step 5 Preview' pre7=28.9 last7=13.7 peak=100"
   },
   {
     "id": 21,
@@ -207,7 +207,7 @@
     "first_seen": "2026-10-11T08:40",
     "url": "https://x.com/i/trending/2108774375365435751",
     "excerpt": "Google DeepMind frontier model for coding/enterprise/cyber; Fairwind early access; leads DeepSWE etc.; public rollout still limited.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-25|q='Gemini 4 Argon' pre7=10.3 last7=13.3 peak=100"
   },
   {
     "id": 22,
@@ -217,7 +217,7 @@
     "first_seen": "2026-10-11T08:40",
     "url": "https://x.com/i/trending/2108710165797273707",
     "excerpt": "HeyGen's first in-house TTS; #1 on Artificial Analysis Controlled Voice TTS Arena; free on HeyGen platform/API with Avatar V.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-25|q='HeyGen Voice' pre7=33.7 last7=29.0 peak=100"
   },
   {
     "id": 23,
@@ -227,7 +227,7 @@
     "first_seen": "2026-10-11T08:40",
     "url": "https://x.com/i/trending/2108770438478443000",
     "excerpt": "Synthesia brand-style video generator: up to 3-min videos from prompts/docs; learns typography/transitions/pacing from brand footage.",
-    "review_14d": null
+    "review_14d": "hit|2026-10-25|q='Syren Video' pre7=23.4 last7=51.1 peak=100"
   },
   {
     "id": 24,
@@ -237,7 +237,7 @@
     "first_seen": "2026-10-11T08:40",
     "url": "https://x.com/i/trending/2108626072829141334",
     "excerpt": "Anthropic models sharing architecture, differentiated by safeguards/access; strong coding vs Opus 5.5; Mythos seen in API early.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-25|q='Fable 5.1' pre7=81.6 last7=62.9 peak=100"
   },
   {
     "id": 25,
@@ -247,7 +247,7 @@
     "first_seen": "2026-10-11T08:40",
     "url": "https://huggingface.co/convaiinnovations/laya",
     "excerpt": "Convai Innovations multilingual System-1 decision model (~33ms); calibrated probs, Apache-2.0; Jev-compatible; 5.4k+ likes on HF.",
-    "review_14d": null
+    "review_14d": "n/a|2026-10-25|generic word, Trends not attributable"
   },
   {
     "id": 26,
@@ -257,7 +257,7 @@
     "first_seen": "2026-10-11T08:40",
     "url": "https://github.com/debpalash/VoiceStudio",
     "excerpt": "Open-source local ElevenLabs alternative: clone/design/dub/dictate/transcribe/audiobooks in 646 languages; ~57k GitHub stars.",
-    "review_14d": null
+    "review_14d": "hit|2026-10-25|q='VoiceStudio' pre7=27.9 last7=81.7 peak=100"
   },
   {
     "id": 27,
@@ -267,7 +267,7 @@
     "first_seen": "2026-10-11T08:40",
     "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
     "excerpt": "XingChen-AGI 29B-A4B MoE text model (Sep 2026); trending GGUF variants; ~1.8k likes on base repo.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-25|q='Xing4.0' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 28,
@@ -277,7 +277,7 @@
     "first_seen": "2026-10-11T08:40",
     "url": "https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking",
     "excerpt": "JetBrains coding model Mellum2.1-12B-A2.5B-Thinking (Sep 20); cited as topping same-speed agent benchmarks.",
-    "review_14d": null
+    "review_14d": "hit|2026-10-25|q='Mellum 2.1' pre7=0.0 last7=30.3 peak=100"
   },
   {
     "id": 29,
@@ -287,7 +287,7 @@
     "first_seen": "2026-10-11T08:40",
     "url": "https://huggingface.co/Cloudflare/clef-omni",
     "excerpt": "Cloudflare omni multimodal decision/clef variant created Oct 9; Qwen3-Omni MoE finetune; new sibling of clef/clef-flash.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-25|q='Cloudflare clef-omni' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 30,
@@ -297,7 +297,7 @@
     "first_seen": "2026-10-11T08:40",
     "url": "https://x.com/i/trending/2108618271159394545",
     "excerpt": "Ash Hart engineering so open models update weights in real time during use; personalization without KV-cache-only memory.",
-    "review_14d": null
+    "review_14d": "n/a|2026-10-25|generic word, Trends not attributable"
   },
   {
     "id": 31,
@@ -307,7 +307,7 @@
     "first_seen": "2026-10-11T08:40",
     "url": "https://x.com/i/trending/2107900056858722693",
     "excerpt": "OpenAI ChatGPT GPT-6 feature: interactive charts/forms/calculators/tools inline in chat; rolling out to paid then free tiers.",
-    "review_14d": null
+    "review_14d": "n/a|2026-10-25|generic word, Trends not attributable"
   },
   {
     "id": 32,
@@ -317,7 +317,7 @@
     "first_seen": "2026-10-11T08:40",
     "url": "https://github.com/elstongun/leviathan",
     "excerpt": "Single static binary: deep memory/full-text index for agents over JSONL/CSV/SQLite exports; created Oct 5, ~730 stars.",
-    "review_14d": null
+    "review_14d": "n/a|2026-10-25|generic word, Trends not attributable"
   },
   {
     "id": 33,
@@ -327,7 +327,7 @@
     "first_seen": "2026-10-11T08:40",
     "url": "https://github.com/HelixDB/helix-foundry",
     "excerpt": "Local-first company data ontology workspace on HelixDB+DuckDB; created Oct 7, ~994 stars.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-25|q='Helix Foundry' pre7=0.0 last7=9.0 peak=100"
   },
   {
     "id": 34,
@@ -337,7 +337,7 @@
     "first_seen": "2026-10-11T08:40",
     "url": "https://github.com/t4t5/omdrop-owl",
     "excerpt": "AirDrop-like file sharing for non-Apple devices (omdrop-owl); created Oct 8, ~1.4k stars.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-25|q='OmDrop' pre7=0.0 last7=4.7 peak=100"
   },
   {
     "id": 35,
@@ -347,7 +347,7 @@
     "first_seen": "2026-10-11T16:40",
     "url": "https://x.com/i/trending/2108949111592624240",
     "excerpt": "Qwen promising both Qwen4-27B and Qwen4-Max open weights very soon",
-    "review_14d": null
+    "review_14d": "miss|2026-10-26|q='Qwen4-27B' pre7=0.0 last7=7.0 peak=100"
   },
   {
     "id": 36,
@@ -357,7 +357,7 @@
     "first_seen": "2026-10-11T16:40",
     "url": "https://x.com/i/trending/2107458894960418926",
     "excerpt": "public preview of Mistral Large 4, nicknamed 'Le Chonk', 1T params",
-    "review_14d": null
+    "review_14d": "miss|2026-10-26|q='Mistral Large 4' pre7=39.3 last7=3.6 peak=100"
   },
   {
     "id": 37,
@@ -367,7 +367,7 @@
     "first_seen": "2026-10-11T16:40",
     "url": "https://x.com/i/trending/2109020116838994368",
     "excerpt": "Opus 5.5 kicked off Anthropic's 5.5 family",
-    "review_14d": null
+    "review_14d": "miss|2026-10-26|q='Claude Opus 5.5' pre7=92.4 last7=67.6 peak=100"
   },
   {
     "id": 38,
@@ -377,17 +377,7 @@
     "first_seen": "2026-10-11T16:40",
     "url": "https://x.com/i/trending/2108299031051165730",
     "excerpt": "Vidu AI unveiled its Q4 Preview model ... 4K videos for $0.014/s",
-    "review_14d": null
-  },
-  {
-    "id": 40,
-    "term": "pplx-decider-v1.1",
-    "source": "Hugging Face",
-    "score": 0.75,
-    "first_seen": "2026-10-11T16:40",
-    "url": "https://huggingface.co/perplexity-ai/pplx-decider-v1.1-27b",
-    "excerpt": "perplexity-ai/pplx-decider-v1.1-27b, trending",
-    "review_14d": null
+    "review_14d": "miss|2026-10-26|q='Vidu Q4 Preview' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 39,
@@ -397,37 +387,17 @@
     "first_seen": "2026-10-11T16:40",
     "url": "https://x.com/i/trending/2107896357079965855",
     "excerpt": "Tab emerged from stealth ... messaging AI assistant, $300M valuation",
-    "review_14d": null
+    "review_14d": "n/a|2026-10-26|generic word, Trends not attributable"
   },
   {
-    "id": 42,
-    "term": "mailcheap",
-    "source": "GitHub",
-    "score": 0.7,
+    "id": 40,
+    "term": "pplx-decider-v1.1",
+    "source": "Hugging Face",
+    "score": 0.75,
     "first_seen": "2026-10-11T16:40",
-    "url": "https://github.com/marclou/mailcheap",
-    "excerpt": "Self-hosted newsletters on Amazon SES. 609 stars",
-    "review_14d": null
-  },
-  {
-    "id": 43,
-    "term": "talorys",
-    "source": "GitHub",
-    "score": 0.65,
-    "first_seen": "2026-10-11T16:40",
-    "url": "https://github.com/rociiu/talorys",
-    "excerpt": "Your personal AI agent in your own Cloudflare account. 550 stars",
-    "review_14d": null
-  },
-  {
-    "id": 44,
-    "term": "muguet",
-    "source": "GitHub",
-    "score": 0.65,
-    "first_seen": "2026-10-11T16:40",
-    "url": "https://github.com/c22dev/muguet",
-    "excerpt": "A native Mach-O port for iOS/macOS of GTA V. 350 stars",
-    "review_14d": null
+    "url": "https://huggingface.co/perplexity-ai/pplx-decider-v1.1-27b",
+    "excerpt": "perplexity-ai/pplx-decider-v1.1-27b, trending",
+    "review_14d": "miss|2026-10-26|no Trends data for 'pplx-decider-v1.1'"
   },
   {
     "id": 41,
@@ -437,7 +407,37 @@
     "first_seen": "2026-10-11T16:40",
     "url": "https://huggingface.co/speridlabs/iris-3b",
     "excerpt": "speridlabs/iris-3b, trending, created 2026-10-05",
-    "review_14d": null
+    "review_14d": "miss|2026-10-26|q='iris-3b' pre7=0.0 last7=4.4 peak=100"
+  },
+  {
+    "id": 42,
+    "term": "mailcheap",
+    "source": "GitHub",
+    "score": 0.7,
+    "first_seen": "2026-10-11T16:40",
+    "url": "https://github.com/marclou/mailcheap",
+    "excerpt": "Self-hosted newsletters on Amazon SES. 609 stars",
+    "review_14d": "hit|2026-10-26|q='mailcheap' pre7=0.0 last7=45.9 peak=100"
+  },
+  {
+    "id": 43,
+    "term": "talorys",
+    "source": "GitHub",
+    "score": 0.65,
+    "first_seen": "2026-10-11T16:40",
+    "url": "https://github.com/rociiu/talorys",
+    "excerpt": "Your personal AI agent in your own Cloudflare account. 550 stars",
+    "review_14d": "miss|2026-10-26|q='talorys' pre7=0.0 last7=0.0 peak=100"
+  },
+  {
+    "id": 44,
+    "term": "muguet",
+    "source": "GitHub",
+    "score": 0.65,
+    "first_seen": "2026-10-11T16:40",
+    "url": "https://github.com/c22dev/muguet",
+    "excerpt": "A native Mach-O port for iOS/macOS of GTA V. 350 stars",
+    "review_14d": "n/a|2026-10-26|generic word, Trends not attributable"
   },
   {
     "id": 45,
@@ -447,7 +447,7 @@
     "first_seen": "2026-10-12T00:40",
     "url": "https://x.com/ChessifyMe/status/2109320643418181881",
     "excerpt": "Introducing Ziuk — Chessify's new AI chess assistant!",
-    "review_14d": null
+    "review_14d": "miss|2026-10-26|q='Ziuk' pre7=0.0 last7=9.9 peak=100"
   },
   {
     "id": 46,
@@ -457,7 +457,7 @@
     "first_seen": "2026-10-12T00:40",
     "url": "https://x.com/streamoors/status/2108901156986425428",
     "excerpt": "AI influencers are evolving into AI streamers for the first time. Put your freaky character live. Create its own token.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-26|q='streamoors' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 47,
@@ -467,7 +467,7 @@
     "first_seen": "2026-10-12T00:40",
     "url": "https://x.com/HOTHEAD01TH/status/2109319402902442475",
     "excerpt": "introducing Krea Plugin for Photoshop. Nano Banana, Krea 2, GPT IMG 2.5 ... inside Photoshop.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-26|q='Krea 2' pre7=85.7 last7=74.1 peak=100"
   },
   {
     "id": 48,
@@ -477,7 +477,7 @@
     "first_seen": "2026-10-12T00:40",
     "url": "https://github.com/storytold/craft-launcher",
     "excerpt": "The Craft App Launcher (964 stars, created this week)",
-    "review_14d": null
+    "review_14d": "miss|2026-10-26|q='Craft Launcher' pre7=63.0 last7=83.1 peak=100"
   },
   {
     "id": 49,
@@ -487,7 +487,7 @@
     "first_seen": "2026-10-12T08:40+08:00",
     "url": "https://github.com/zeusinsight/FinderSearch",
     "excerpt": "A native macOS file browser with fast fuzzy filename search, powered by fsearch. (620 stars, created in last 4 days)",
-    "review_14d": null
+    "review_14d": "miss|2026-10-26|no Trends data for 'FinderSearch'"
   },
   {
     "id": 50,
@@ -497,7 +497,7 @@
     "first_seen": "2026-10-12T16:40+08:00",
     "url": "https://github.com/morluto/rea",
     "excerpt": "Reverse Engineer Anything: open-source MCP/CLI that lets AI agents inspect apps and binaries without source; topping GitHub daily trending.",
-    "review_14d": null
+    "review_14d": "n/a|2026-10-27|generic word, Trends not attributable"
   },
   {
     "id": 51,
@@ -507,7 +507,7 @@
     "first_seen": "2026-10-12T16:40+08:00",
     "url": "https://x.com/i/trending/2108906527201415526",
     "excerpt": "VivixLabs real-time AI video model at ~$0.003/sec; widely discussed as interactive streaming video.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-27|q='Vivix W1' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 52,
@@ -517,7 +517,7 @@
     "first_seen": "2026-10-12T16:40+08:00",
     "url": "https://x.com/i/trending/2109360590439469091",
     "excerpt": "Meta's Muse personal AI agent; Alexandr Wang podcast + strong early retention chatter.",
-    "review_14d": null
+    "review_14d": "n/a|2026-10-27|generic word, Trends not attributable"
   },
   {
     "id": 53,
@@ -527,7 +527,7 @@
     "first_seen": "2026-10-12T16:40+08:00",
     "url": "https://github.com/heygen-com/hyperframes",
     "excerpt": "HeyGen open-source HTML→video framework built for agents; weekly GitHub trending.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-27|q='hyperframes' pre7=83.6 last7=91.6 peak=100"
   },
   {
     "id": 54,
@@ -537,7 +537,7 @@
     "first_seen": "2026-10-12T16:40+08:00",
     "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
     "excerpt": "Prism ML ternary 2-bit compress of Qwen3.8-27B (~5.9GB) trending on HF with multi-million downloads.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-27|q='Ternary-Bonsai-2' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 55,
@@ -547,7 +547,7 @@
     "first_seen": "2026-10-12T16:40+08:00",
     "url": "https://github.com/wheresryan22/anatomy",
     "excerpt": "Claude skill that builds interactive isometric machine diagrams from prompts; X news + high-star repo.",
-    "review_14d": null
+    "review_14d": "n/a|2026-10-27|generic word, Trends not attributable"
   },
   {
     "id": 56,
@@ -557,7 +557,7 @@
     "first_seen": "2026-10-12T16:40+08:00",
     "url": "https://github.com/ARahim3/DigUp",
     "excerpt": "On-device macOS multimodal file search built on EmbeddingGemma 2; created 2026-10-08, 1.4k stars.",
-    "review_14d": null
+    "review_14d": "hit|2026-10-27|q='DigUp' pre7=0.0 last7=26.3 peak=100"
   },
   {
     "id": 57,
@@ -567,7 +567,7 @@
     "first_seen": "2026-10-12T16:40+08:00",
     "url": "https://github.com/storytold/deckcraft",
     "excerpt": "ArtCraft sibling apps: DeckCraft (PowerPoint), SolidCraft (parametric CAD), SoundCraft (Pro Tools) in pure Rust.",
-    "review_14d": null
+    "review_14d": "hit|2026-10-27|q='DeckCraft' pre7=12.6 last7=22.4 peak=100"
   },
   {
     "id": 58,
@@ -577,7 +577,7 @@
     "first_seen": "2026-10-13T00:32+08:00",
     "url": "https://x.com/alexandr_wang/status/2109689491300794551",
     "excerpt": "Meta frontier model family (aka Watermelon) launched by Zuckerberg & Alexandr Wang; Muse Wonder / Muse Wonder Full for personal & professional agents via Muse Code API.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-27|q='Muse Wonder' pre7=9.3 last7=6.3 peak=100"
   },
   {
     "id": 59,
@@ -587,7 +587,7 @@
     "first_seen": "2026-10-13T00:32+08:00",
     "url": "https://x.com/i/trending/2109659760698003643",
     "excerpt": "Alibaba Qwen team released Oct 12 elastic RL framework for extreme long-horizon agent training (up to 700k tokens/rollout); 1.85× speedup.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-27|q='QwenGyre' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 60,
@@ -597,7 +597,7 @@
     "first_seen": "2026-10-13T00:32+08:00",
     "url": "https://x.com/i/trending/2109644511311700342",
     "excerpt": "AMD Helion rack unveiled at OCP Global Summit Oct 12 for agentic AI workloads; CPU-only and MI350P mixed configs from Nov 2026.",
-    "review_14d": null
+    "review_14d": "n/a|2026-10-27|generic word, Trends not attributable"
   },
   {
     "id": 61,
@@ -607,7 +607,7 @@
     "first_seen": "2026-10-13T00:32+08:00",
     "url": "https://github.com/liseami/CCBaga",
     "excerpt": "Native macOS/Linux/Windows toolkit (Rust+Tauri) for Claude identities, browser fingerprints, system settings; created 2026-10-11, ~1.5k stars, v0.2.34 today.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-27|q='CCBaga' pre7=14.3 last7=6.9 peak=100"
   },
   {
     "id": 62,
@@ -617,7 +617,7 @@
     "first_seen": "2026-10-13T00:32+08:00",
     "url": "https://github.com/shaongitbd/doory",
     "excerpt": "Open-source Canva alternative (doory.art): browser design editor, templates, self-hostable Docker; created 2026-10-10, ~670 stars.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-27|q='Doory' pre7=24.4 last7=22.3 peak=100"
   },
   {
     "id": 63,
@@ -627,7 +627,7 @@
     "first_seen": "2026-10-13T00:32+08:00",
     "url": "https://huggingface.co/tencent/Youtu-Parsing-Omni",
     "excerpt": "Tencent 5B omni-modal parsing model: documents/images/charts/geometry/audio/video → structured JSON; HF created 2026-10-09, X chatter Oct 12.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-27|no Trends data for 'Youtu-Parsing-Omni'"
   },
   {
     "id": 64,
@@ -637,7 +637,7 @@
     "first_seen": "2026-10-13T00:32+08:00",
     "url": "https://x.com/i/trending/2109635644171395487",
     "excerpt": "Microsoft Azure Maia 300 accelerator for multi-GW inference; ~40% more tokens/MW vs leading GPUs, 7× Maia 200 throughput.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-27|q='Maia 300' pre7=14.3 last7=3.3 peak=100"
   },
   {
     "id": 65,
@@ -647,7 +647,7 @@
     "first_seen": "2026-10-13T00:32+08:00",
     "url": "https://x.com/i/trending/2109679112105214444",
     "excerpt": "Open-source AI coding agent relaunched as programmable platform: shared background service, Code Mode, 80+ plugins, SDK.",
-    "review_14d": null
+    "review_14d": "hit|2026-10-27|q='OpenCode 2.0' pre7=14.3 last7=29.3 peak=100"
   },
   {
     "id": 66,
@@ -657,7 +657,7 @@
     "first_seen": "2026-10-13T00:32+08:00",
     "url": "https://x.com/i/trending/2109662429512946148",
     "excerpt": "Google DeepMind AlphaProof Nexus (on Gemini 3.1 Pro) solved decades-old Erdős/OEIS problems with Lean-verified proofs; Science paper.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-27|q='AlphaProof Nexus' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 67,
@@ -667,7 +667,7 @@
     "first_seen": "2026-10-13T00:32+08:00",
     "url": "https://x.com/i/trending/2109010927467061396",
     "excerpt": "Elon Musk rebranded SpaceX AI division to SpaceX Super Intelligence (SpaceXSI); @SpaceXSI handle and job postings updated.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-27|q='SpaceXSI' pre7=46.4 last7=50.7 peak=100"
   },
   {
     "id": 68,
@@ -677,7 +677,7 @@
     "first_seen": "2026-10-13T00:32+08:00",
     "url": "https://huggingface.co/jialinyyzz/humanizer",
     "excerpt": "Named Gemma4-based text-rewriting/humanizer model trending on HF (~1289 likes, 46k downloads).",
-    "review_14d": null
+    "review_14d": "n/a|2026-10-27|generic word, Trends not attributable"
   },
   {
     "id": 69,
@@ -687,7 +687,7 @@
     "first_seen": "2026-10-13T00:32+08:00",
     "url": "https://x.com/i/trending/2109457584432496777",
     "excerpt": "TypeSafe AI's Jev decision model for fast routing/checks paired with heavy LLMs; users report 90%+ cost cuts.",
-    "review_14d": null
+    "review_14d": "n/a|2026-10-27|generic word, Trends not attributable"
   },
   {
     "id": 70,
@@ -697,57 +697,7 @@
     "first_seen": "2026-10-13T00:32+08:00",
     "url": "https://github.com/Atoll92/agent-standup",
     "excerpt": "Live animated team-call view of Claude Code/Codex sessions; VS Code/terminal/desktop; agent-standup.com.",
-    "review_14d": null
-  },
-  {
-    "id": 76,
-    "term": "GLM-Legal",
-    "source": "X",
-    "score": 0.85,
-    "first_seen": "2026-10-13T08:32+08:00",
-    "url": "https://x.com/i/trending/2109789284580671866",
-    "excerpt": "Z.ai legal-domain agentic model on GLM-5.3-Flash (announced Oct 12): 19.2% all-pass on Harvey Legal Agent Benchmark (+12.5 vs base); LegalBench/PLawBench parity; gated API beta; AutoClaw integration coming.",
-    "review_14d": null
-  },
-  {
-    "id": 77,
-    "term": "NewEyes AI",
-    "source": "X",
-    "score": 0.82,
-    "first_seen": "2026-10-13T08:32+08:00",
-    "url": "https://x.com/i/trending/2109690956786086367",
-    "excerpt": "Collov Labs visual personal agent (neweyesai.com) for phones + smart glasses; hardware line Sight/Halo/Clip; perception→reasoning→action with edge+cloud; X chatter Oct 12–13.",
-    "review_14d": null
-  },
-  {
-    "id": 78,
-    "term": "JJ-1",
-    "source": "Web",
-    "score": 0.8,
-    "first_seen": "2026-10-13T08:32+08:00",
-    "url": "https://inference.jurin.ai",
-    "excerpt": "Jurin AI Oct 13 launch: decision-model family (0.8B–9B on Qwen3.5) for structured enterprise agent routing; 79.2% aggregate accuracy vs Jev/GPT-6 Luna Decision; ms latency; inference.jurin.ai.",
-    "review_14d": null
-  },
-  {
-    "id": 73,
-    "term": "Agent Data Services",
-    "source": "Web",
-    "score": 0.75,
-    "first_seen": "2026-10-13T08:32+08:00",
-    "url": "https://www.digitalocean.com/blog/introducing-agent-data-services",
-    "excerpt": "DigitalOcean private preview (announced Oct 12): managed Data Flows + catalog for multimodal context and agent execution traces.",
-    "review_14d": null
-  },
-  {
-    "id": 79,
-    "term": "Axis Robotics",
-    "source": "X",
-    "score": 0.75,
-    "first_seen": "2026-10-13T08:32+08:00",
-    "url": "https://x.com/i/trending/2109670569117716833",
-    "excerpt": "AXIS growable robot-teleop data engine + AXIS Franka Dataset (207 tasks, 50K+ traj) on HF; $12M seed; crowdsourced browser teleop for Physical AI.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-27|q='Agent Standup' pre7=0.0 last7=3.7 peak=100"
   },
   {
     "id": 71,
@@ -757,27 +707,7 @@
     "first_seen": "2026-10-13T08:32+08:00",
     "url": "https://github.com/deeplethe/solid-glass",
     "excerpt": "Design system for AI apps (shadcn/ui theme + agent UI components); created 2026-10-12, ~229 stars; docs at deeplethe.github.io/solid-glass.",
-    "review_14d": null
-  },
-  {
-    "id": 80,
-    "term": "DeepRSI",
-    "source": "X",
-    "score": 0.72,
-    "first_seen": "2026-10-13T08:32+08:00",
-    "url": "https://x.com/i/trending/2109786602960453802",
-    "excerpt": "Hillclimb-linked 48h ML research / recursive self-improvement agent benchmark trending on X; Claude Fable 5.1 reported leading.",
-    "review_14d": null
-  },
-  {
-    "id": 81,
-    "term": "Tracely",
-    "source": "GitHub",
-    "score": 0.72,
-    "first_seen": "2026-10-13T08:32+08:00",
-    "url": "https://github.com/jwuthri-cloud/Tracely-ai",
-    "excerpt": "Trace-native CI/CD for AI agents (tracely-ai.com): grade production traces, freeze failures into hermetic cases, PR gate; MIT self-host; created 2026-10-11, ~481★.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-27|q='Solid Glass' pre7=83.6 last7=45.3 peak=100"
   },
   {
     "id": 72,
@@ -787,7 +717,17 @@
     "first_seen": "2026-10-13T08:32+08:00",
     "url": "https://github.com/aindeev/agent-chrome-relay",
     "excerpt": "Lets coding agents use your signed-in Chrome in background tabs via local relay+extension; homepage agent-chrome-relay.aindeev.com; created 2026-10-10, ~256 stars.",
-    "review_14d": null
+    "review_14d": "hit|2026-10-27|q='Chrome Relay' pre7=0.0 last7=58.1 peak=100"
+  },
+  {
+    "id": 73,
+    "term": "Agent Data Services",
+    "source": "Web",
+    "score": 0.75,
+    "first_seen": "2026-10-13T08:32+08:00",
+    "url": "https://www.digitalocean.com/blog/introducing-agent-data-services",
+    "excerpt": "DigitalOcean private preview (announced Oct 12): managed Data Flows + catalog for multimodal context and agent execution traces.",
+    "review_14d": "miss|2026-10-27|q='Agent Data Services' pre7=46.7 last7=20.0 peak=100"
   },
   {
     "id": 74,
@@ -797,17 +737,7 @@
     "first_seen": "2026-10-13T08:32+08:00",
     "url": "https://www.truefoundry.com/blog/introducing-agent-gateway-a-unified-control-plane-for-enterprise-ai-agents",
     "excerpt": "TrueFoundry control plane announced Oct 12 to register/discover/govern/observe enterprise agents across frameworks (incl. A2A).",
-    "review_14d": null
-  },
-  {
-    "id": 82,
-    "term": "Harakah",
-    "source": "X",
-    "score": 0.68,
-    "first_seen": "2026-10-13T08:32+08:00",
-    "url": "https://x.com/HarakahSi/status/2109803338544058468",
-    "excerpt": "Open-source Arabic motion-graphics fixer for Remotion / HyperFrames / GSAP agent workflows; announced via @HarakahSi.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-27|no Trends data for 'TrueFoundry Agent Gateway'"
   },
   {
     "id": 75,
@@ -817,7 +747,77 @@
     "first_seen": "2026-10-13T08:32+08:00",
     "url": "https://github.com/chekusu/yobiru",
     "excerpt": "Tailscale-based inter-agent messaging (messages/files/wake-ups); yobiru.com; created 2026-10-10, ~116 stars, 19 forks.",
-    "review_14d": null
+    "review_14d": "hit|2026-10-27|q='Yobiru' pre7=0.0 last7=28.3 peak=100"
+  },
+  {
+    "id": 76,
+    "term": "GLM-Legal",
+    "source": "X",
+    "score": 0.85,
+    "first_seen": "2026-10-13T08:32+08:00",
+    "url": "https://x.com/i/trending/2109789284580671866",
+    "excerpt": "Z.ai legal-domain agentic model on GLM-5.3-Flash (announced Oct 12): 19.2% all-pass on Harvey Legal Agent Benchmark (+12.5 vs base); LegalBench/PLawBench parity; gated API beta; AutoClaw integration coming.",
+    "review_14d": "miss|2026-10-27|q='GLM-Legal' pre7=0.0 last7=1.6 peak=100"
+  },
+  {
+    "id": 77,
+    "term": "NewEyes AI",
+    "source": "X",
+    "score": 0.82,
+    "first_seen": "2026-10-13T08:32+08:00",
+    "url": "https://x.com/i/trending/2109690956786086367",
+    "excerpt": "Collov Labs visual personal agent (neweyesai.com) for phones + smart glasses; hardware line Sight/Halo/Clip; perception→reasoning→action with edge+cloud; X chatter Oct 12–13.",
+    "review_14d": "miss|2026-10-27|no Trends data for 'NewEyes AI'"
+  },
+  {
+    "id": 78,
+    "term": "JJ-1",
+    "source": "Web",
+    "score": 0.8,
+    "first_seen": "2026-10-13T08:32+08:00",
+    "url": "https://inference.jurin.ai",
+    "excerpt": "Jurin AI Oct 13 launch: decision-model family (0.8B–9B on Qwen3.5) for structured enterprise agent routing; 79.2% aggregate accuracy vs Jev/GPT-6 Luna Decision; ms latency; inference.jurin.ai.",
+    "review_14d": "miss|2026-10-27|no Trends data for 'JJ-1'"
+  },
+  {
+    "id": 79,
+    "term": "Axis Robotics",
+    "source": "X",
+    "score": 0.75,
+    "first_seen": "2026-10-13T08:32+08:00",
+    "url": "https://x.com/i/trending/2109670569117716833",
+    "excerpt": "AXIS growable robot-teleop data engine + AXIS Franka Dataset (207 tasks, 50K+ traj) on HF; $12M seed; crowdsourced browser teleop for Physical AI.",
+    "review_14d": "hit|2026-10-27|q='Axis Robotics' pre7=0.0 last7=37.9 peak=100"
+  },
+  {
+    "id": 80,
+    "term": "DeepRSI",
+    "source": "X",
+    "score": 0.72,
+    "first_seen": "2026-10-13T08:32+08:00",
+    "url": "https://x.com/i/trending/2109786602960453802",
+    "excerpt": "Hillclimb-linked 48h ML research / recursive self-improvement agent benchmark trending on X; Claude Fable 5.1 reported leading.",
+    "review_14d": "miss|2026-10-27|q='DeepRSI' pre7=0.0 last7=0.0 peak=100"
+  },
+  {
+    "id": 81,
+    "term": "Tracely",
+    "source": "GitHub",
+    "score": 0.72,
+    "first_seen": "2026-10-13T08:32+08:00",
+    "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+    "excerpt": "Trace-native CI/CD for AI agents (tracely-ai.com): grade production traces, freeze failures into hermetic cases, PR gate; MIT self-host; created 2026-10-11, ~481★.",
+    "review_14d": "miss|2026-10-27|q='Tracely' pre7=14.3 last7=0.0 peak=100"
+  },
+  {
+    "id": 82,
+    "term": "Harakah",
+    "source": "X",
+    "score": 0.68,
+    "first_seen": "2026-10-13T08:32+08:00",
+    "url": "https://x.com/HarakahSi/status/2109803338544058468",
+    "excerpt": "Open-source Arabic motion-graphics fixer for Remotion / HyperFrames / GSAP agent workflows; announced via @HarakahSi.",
+    "review_14d": "hit|2026-10-27|q='Harakah' pre7=0.0 last7=64.4 peak=100"
   },
   {
     "id": 83,
@@ -827,7 +827,7 @@
     "first_seen": "2026-10-13T16:32+08:00",
     "url": "https://subq.ai/introducing-subq-snap",
     "excerpt": "Subquadratic Oct 12 public-preview decision model: up to 384K multimodal context, ~1s for 100K tokens, Decision Index 0.2.1 at 61.7 vs Jev 57.9; $0.05/M input tokens; API subq-snap-preview.",
-    "review_14d": null
+    "review_14d": "hit|2026-10-28|q='SubQ Snap' pre7=0.0 last7=13.4 peak=100"
   },
   {
     "id": 84,
@@ -837,7 +837,7 @@
     "first_seen": "2026-10-13T16:32+08:00",
     "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
     "excerpt": "OpenBMB Oct 12 formal launch of on-device MLLM series (35B-A3B MoE + 1B): LES scheduling, 17+ tok/s on iPad Pro M4 / 13+ on iPhone 17 Pro Max ~3GB; Apache-2.0; HF trending (~229★) + official X post 540k+ impressions.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-28|q='MiniCPM-V 4.7' pre7=0.0 last7=8.0 peak=100"
   },
   {
     "id": 85,
@@ -847,7 +847,7 @@
     "first_seen": "2026-10-13T16:32+08:00",
     "url": "https://pinecomputer.io",
     "excerpt": "Pine AI sandboxed cloud computer for agents (private beta): structure-not-screenshot page reads; SDK/API; claims 2–5× faster / ~1/25 model cost vs ordinary computer-use; pinecomputer.io waitlist; X chatter Oct 13.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-28|q='Pine Computer' pre7=39.7 last7=19.7 peak=100"
   },
   {
     "id": 86,
@@ -857,7 +857,7 @@
     "first_seen": "2026-10-13T16:32+08:00",
     "url": "https://github.com/NVIDIA-Omniverse/usd-brep",
     "excerpt": "NVIDIA Omniverse open-source NURBS BRep CAD kernel (Apache-2.0) v1.0.0 ~Oct 8; C++/Python + OpenUSD; ~766★; X news on SMLIB CAD kernel open-sourcing.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-28|q='usd-brep' pre7=14.3 last7=0.0 peak=100"
   },
   {
     "id": 87,
@@ -867,7 +867,7 @@
     "first_seen": "2026-10-13T16:32+08:00",
     "url": "https://github.com/awv-informatik/smlibpy",
     "excerpt": "AWV ClassCAD Python CAD library bundling NVIDIA SMLib/usd-brep kernel; CadQuery-like API + optional MCP server for agents; created 2026-10-12; smlibpy.classcad.ch; PyPI wheels.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-28|no Trends data for 'smlibpy'"
   },
   {
     "id": 88,
@@ -877,7 +877,7 @@
     "first_seen": "2026-10-14T00:32+08:00",
     "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
     "excerpt": "Apple Oct 13 Welcome Home event: $299 HomeView smart display (7-inch) with Siri AI, face recognition, and home controls; ships Nov 13. Trending US/WW alongside HomePod/Siri; dedicated Apple Newsroom + CNBC/Verge coverage.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-28|q='HomeView' pre7=12.1 last7=3.3 peak=100"
   },
   {
     "id": 89,
@@ -887,7 +887,7 @@
     "first_seen": "2026-10-14T00:32+08:00",
     "url": "https://openrouter.ai/scaledown/classify-1",
     "excerpt": "ScaleDown Constrained Decoding Models live Oct 13 on OpenRouter/docs: Classify-1 (Decisions API), Extract, Summarize—up to 1M multimodal tokens, ~200× faster / 467× cheaper than frontier LLMs for structured tasks; LangChain middleware + docs.scaledown.ai.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-28|no Trends data for 'ScaleDown Classify-1'"
   },
   {
     "id": 90,
@@ -897,7 +897,7 @@
     "first_seen": "2026-10-14T00:32+08:00",
     "url": "https://www.naturewill.com/blog/natura-1?lang=en",
     "excerpt": "Nature Will Oct 13 unveils Natura-1: 50B MoE physical foundation model for dexterous robot hands, pretrained on 1M+ hours egocentric human video; zero-shot language instructions, 100ms control loop. PR Newswire + Yahoo/Forbes coverage.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-28|q='Natura-1' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 91,
@@ -907,7 +907,7 @@
     "first_seen": "2026-10-14T00:32+08:00",
     "url": "https://scuba.app",
     "excerpt": "Slack alums Noah Desai Weiss & Dolapo Falola emerge from stealth Oct 13 with Scuba, shared context engine for teams and AI agents; $34M (Accel/IVP); limited beta at scuba.app. X launch posts + Business Wire.",
-    "review_14d": null
+    "review_14d": "n/a|2026-10-28|generic word, Trends not attributable"
   },
   {
     "id": 92,
@@ -917,7 +917,7 @@
     "first_seen": "2026-10-14T00:32+08:00",
     "url": "https://aetherlabs.ai/articles/real-world-autonomous-robotic-system-with-causality-driven-agent-and-world-model",
     "excerpt": "Aether AI (Biwei Huang / UCSD) CRIS-0 Causal Robotic Intelligence System: causal agent + causal world model that verifies outcomes and replans (~2s recovery). First public demos Oct 8; still in X news Oct 13; ~$20M seed; aetherlabs.ai.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-28|no Trends data for 'CRIS-0'"
   },
   {
     "id": 93,
@@ -927,7 +927,7 @@
     "first_seen": "2026-10-14T00:32+08:00",
     "url": "https://f-droid.org/packages/com.scariflabs.horus/",
     "excerpt": "Scarif Labs Horus: MIT Android app putting Alpine Linux ARM64 workspace on-phone (no root/Termux) to run Claude Code, Codex, OpenCode; F-Droid since ~Oct 7, v1.0.4 Oct 12; X introduce post Oct 13 from @scarif_labs.",
-    "review_14d": null
+    "review_14d": "n/a|2026-10-28|generic word, Trends not attributable"
   },
   {
     "id": 94,
@@ -937,7 +937,7 @@
     "first_seen": "2026-10-14T00:32+08:00",
     "url": "https://routerplus.com/",
     "excerpt": "RouterPlus (EVO HQ, YC F26) live AI inference router: OpenAI-compatible EVO Router learns from production traffic to pick model/provider/cascade; X launch chatter Oct 13 (useRouterPlus); routerplus.com + blog.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-28|no Trends data for 'RouterPlus'"
   },
   {
     "id": 95,
@@ -947,7 +947,7 @@
     "first_seen": "2026-10-14T00:32+08:00",
     "url": "https://marvinaziz.de/blog/how-i-make-videos-with-claude-code",
     "excerpt": "Marvin Aziz Takes for Mac: free MIT OSS macOS app—record talking-head, Claude Code edits (cut silence, captions, vertical). X introduce Oct 13; Product Hunt listing; Apple Silicon + macOS 15.",
-    "review_14d": null
+    "review_14d": "n/a|2026-10-28|generic word, Trends not attributable"
   },
   {
     "id": 96,
@@ -957,7 +957,7 @@
     "first_seen": "2026-10-14T08:32+08:00",
     "url": "https://fish.audio/blog/fish-audio-drama-3/",
     "excerpt": "Fish Audio Oct 13 launches Drama 3: open-weight 35B-A3B TTS with plain-language direction, mid-sentence emotion control, 83 languages; #1 Artificial Analysis Pronunciation Robustness (93.2%); API model drama-3; HF fishaudio/drama-3; $52M seed mention; X announce ~9.2k likes / 5M+ impressions.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-28|q='Drama 3' pre7=85.6 last7=74.3 peak=100"
   },
   {
     "id": 97,
@@ -967,7 +967,7 @@
     "first_seen": "2026-10-14T08:32+08:00",
     "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
     "excerpt": "Liquid AI Oct 13 releases LFM2.5-24B-A2B: largest LFM2.5 family MoE (24B total / ~2B active, 131K context) for on-device agents; HF LiquidAI/LFM2.5-24B-A2B (~154 likes day-one), OpenRouter listing, official Liquid announce ~2k likes / 140k impressions; distinct from tracked LiquidAI d1-3B.",
-    "review_14d": null
+    "review_14d": "hit|2026-10-28|q='LFM2.5-24B-A2B' pre7=0.0 last7=11.6 peak=100"
   },
   {
     "id": 98,
@@ -977,7 +977,7 @@
     "first_seen": "2026-10-14T08:32+08:00",
     "url": "https://www.pi.website/blog/api-beta",
     "excerpt": "Physical Intelligence Oct 13 opens Pi API beta: upload robot data, fine-tune π models on managed compute, cloud-hosted inference; waitlist; partners across agriculture/manufacturing; official @physical_int announce ~792 likes / 72k impressions; Unite.AI + Superpower Daily coverage.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-28|q='Pi API' pre7=75.6 last7=59.1 peak=100"
   },
   {
     "id": 99,
@@ -987,7 +987,7 @@
     "first_seen": "2026-10-14T08:32+08:00",
     "url": "https://opencode.ai/v2/docs/console/models/",
     "excerpt": "OpenCode Oct 13 lists Cat Jam (cat-jam-free) stealth coding model free in OpenCode Zen: 262K context, 131K max out, reasoning levels, tool/JSON; official @opencode posts (~2.2k likes); catalog + LLM Directory release date 2026-10-12; tracker speculation links to Reflection Beam.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-28|q='Cat Jam' pre7=39.1 last7=31.9 peak=100"
   },
   {
     "id": 100,
@@ -1030,16 +1030,6 @@
     "review_14d": null
   },
   {
-    "id": 105,
-    "term": "Indra OCR",
-    "source": "GitHub+Hugging Face+Web",
-    "score": 0.86,
-    "first_seen": "2026-10-15T00:32+08:00",
-    "url": "https://www.datalab.to/blog/indra-ocr",
-    "excerpt": "Datalab released Indra OCR (~Oct 13): ~1M-param CPU OCR (~49 pages/s claimed) PDF/image→Markdown/text/JSON with boxes+reading order; HF datalab-to/indra-ocr (~65 likes) + GH datalab-to/indra (created≥2026-10-13, ~177★) + official blog. pip install indra-ocr.",
-    "review_14d": null
-  },
-  {
     "id": 104,
     "term": "AgentPlay",
     "source": "X+Web+GitHub",
@@ -1047,6 +1037,16 @@
     "first_seen": "2026-10-15T00:32+08:00",
     "url": "https://entelligence.ai/agentplay",
     "excerpt": "Entelligence AI introduced AgentPlay (~Oct 13–14): local open-source tool that turns Claude Code/Codex/Cursor/Copilot transcripts into interactive maps and replayable timelines (`pipx run agentplay`, Apache-2.0, PyPI 0.1.2 dated Oct 13). Product page + X introduce/demo posts with measurable engagement.",
+    "review_14d": null
+  },
+  {
+    "id": 105,
+    "term": "Indra OCR",
+    "source": "GitHub+Hugging Face+Web",
+    "score": 0.86,
+    "first_seen": "2026-10-15T00:32+08:00",
+    "url": "https://www.datalab.to/blog/indra-ocr",
+    "excerpt": "Datalab released Indra OCR (~Oct 13): ~1M-param CPU OCR (~49 pages/s claimed) PDF/image→Markdown/text/JSON with boxes+reading order; HF datalab-to/indra-ocr (~65 likes) + GH datalab-to/indra (created≥2026-10-13, ~177★) + official blog. pip install indra-ocr.",
     "review_14d": null
   },
   {
@@ -1070,16 +1070,6 @@
     "review_14d": null
   },
   {
-    "id": 109,
-    "term": "vLLM-SR Decision 3.0 / d3",
-    "source": "Hugging Face+X",
-    "score": 0.77,
-    "first_seen": "2026-10-15T08:32+08:00",
-    "url": "https://huggingface.co/vllm-sr/d3",
-    "excerpt": "HF card: \"d3 is the 27B multimodal foundation decision model of Decision 3.0, the decision models of vLLM Semantic Router\" — Jev Decision Index 0.3.2: 66.3 (#1 text board), Apache-2.0; ~162 likes, in HF trending top 30 (d3-edge 1.4k downloads). DecisionModels launched s1-pro API on d3 (Oct 14 19:55Z, ~10k impressions).",
-    "review_14d": null
-  },
-  {
     "id": 108,
     "term": "White Circle RISE",
     "source": "X+Web",
@@ -1087,6 +1077,16 @@
     "first_seen": "2026-10-15T08:32+08:00",
     "url": "https://whitecircle.com/research/breaking-frontier-image-models",
     "excerpt": "White Circle (Oct 14 17:21Z / 01:21 BJT Oct 15): \"We are open-sourcing RISE, our red-teaming algorithm that breaks the safeguards of the latest image models\" — ~520 likes / 407k impressions; research page: up to 13% policy-violating images on DALL·E 3, GPT-Image-2, Nano Banana 2. Ars Technica + X News coverage.",
+    "review_14d": null
+  },
+  {
+    "id": 109,
+    "term": "vLLM-SR Decision 3.0 / d3",
+    "source": "Hugging Face+X",
+    "score": 0.77,
+    "first_seen": "2026-10-15T08:32+08:00",
+    "url": "https://huggingface.co/vllm-sr/d3",
+    "excerpt": "HF card: \"d3 is the 27B multimodal foundation decision model of Decision 3.0, the decision models of vLLM Semantic Router\" — Jev Decision Index 0.3.2: 66.3 (#1 text board), Apache-2.0; ~162 likes, in HF trending top 30 (d3-edge 1.4k downloads). DecisionModels launched s1-pro API on d3 (Oct 14 19:55Z, ~10k impressions).",
     "review_14d": null
   },
   {
@@ -1740,16 +1740,6 @@
     "review_14d": null
   },
   {
-    "id": 176,
-    "term": "Dream-1",
-    "source": "X+Web+sitemap",
-    "score": 0.84,
-    "first_seen": "2026-10-21T00:32+08:00",
-    "url": "https://dreamlabs.ai/research/dream-1/",
-    "excerpt": "Dream Labs (ex-NVIDIA GR00T / DreamZero researchers, SF) emerged from stealth 2026-10-19 (~17:00Z / Oct 20 01:00 BJT) with $90M seed (B Capital, Kindred) and Dream-1, a 'World Action Model' that zero-shot controls unseen bimanual parallel-gripper robots via public Dream API ($3/h; Dream-1-flash $2/h). Leads RoboDojo-RC Tier 1 at 59 vs Opus 5.5/Gemini 4 Argon 48 (@chooi_jeq 184♥/10.8k imp; @robocurve). Coverage: Forbes, SiliconANGLE, BusinessWire. Sitemap baseline: dreamlabs.ai/research/dream-1/, /playground/, /sim/.",
-    "review_14d": null
-  },
-  {
     "id": 175,
     "term": "TorchTPU",
     "source": "sitemap+Web",
@@ -1757,6 +1747,16 @@
     "first_seen": "2026-10-21T00:32+08:00",
     "url": "https://pytorch.org/blog/introducing-torchtpu/",
     "excerpt": "PyTorch blog 'Introducing TorchTPU' (2026-10-20): \"TorchTPU is an open source collaboration between Google and Meta that introduces a native and principled PyTorch backend for Google TPUs\" — out-of-the-box model execution/TPU migration, eager optimizations, torch.compile integration. Repo github.com/google-pytorch/torch_tpu (97★); ecosystem repos vllm-project/vllm-torchtpu (75★), sgl-project/sglang-torchtpu. Found as a NEW path in the pytorch.org sitemap diff. Sister to AWS TorchNeuron (tracked, Oct 20).",
+    "review_14d": null
+  },
+  {
+    "id": 176,
+    "term": "Dream-1",
+    "source": "X+Web+sitemap",
+    "score": 0.84,
+    "first_seen": "2026-10-21T00:32+08:00",
+    "url": "https://dreamlabs.ai/research/dream-1/",
+    "excerpt": "Dream Labs (ex-NVIDIA GR00T / DreamZero researchers, SF) emerged from stealth 2026-10-19 (~17:00Z / Oct 20 01:00 BJT) with $90M seed (B Capital, Kindred) and Dream-1, a 'World Action Model' that zero-shot controls unseen bimanual parallel-gripper robots via public Dream API ($3/h; Dream-1-flash $2/h). Leads RoboDojo-RC Tier 1 at 59 vs Opus 5.5/Gemini 4 Argon 48 (@chooi_jeq 184♥/10.8k imp; @robocurve). Coverage: Forbes, SiliconANGLE, BusinessWire. Sitemap baseline: dreamlabs.ai/research/dream-1/, /playground/, /sim/.",
     "review_14d": null
   },
   {
@@ -1980,16 +1980,6 @@
     "review_14d": null
   },
   {
-    "id": 200,
-    "term": "Vision-Force-Action",
-    "source": "x+web",
-    "score": 0.72,
-    "first_seen": "2026-10-21T16:32+08:00",
-    "url": "https://ekarobotics.com/blog/eka-robotics-raises-150m-to-build-superhuman-intelligence-for-the-physical-world",
-    "excerpt": "Eka Robotics (MIT Pulkit Agrawal + ex-DeepMind Tuomas Haarnoja) raised $150M Series A at $1.45B led by a16z/F-Prime for its Vision-Force-Action (VFA) robot foundation model — vision+force feedback, ~1500 picks/hr claimed. a16z announcement post ~187 likes Oct 20; still discussed Oct 21 Asia morning.",
-    "review_14d": null
-  },
-  {
     "id": 199,
     "term": "Searchtok",
     "source": "x",
@@ -1997,6 +1987,16 @@
     "first_seen": "2026-10-21T16:32+08:00",
     "url": "https://searchtok.app",
     "excerpt": "Jack Mitchell launching Searchtok on Product Hunt today (Oct 21): MCP/CLI that makes Instagram and TikTok searchable for AI agents — outliers, hooks, formats, niche research from public organic metrics. searchtok.app + ClawHub skill mitchell2398/searchtok.",
+    "review_14d": null
+  },
+  {
+    "id": 200,
+    "term": "Vision-Force-Action",
+    "source": "x+web",
+    "score": 0.72,
+    "first_seen": "2026-10-21T16:32+08:00",
+    "url": "https://ekarobotics.com/blog/eka-robotics-raises-150m-to-build-superhuman-intelligence-for-the-physical-world",
+    "excerpt": "Eka Robotics (MIT Pulkit Agrawal + ex-DeepMind Tuomas Haarnoja) raised $150M Series A at $1.45B led by a16z/F-Prime for its Vision-Force-Action (VFA) robot foundation model — vision+force feedback, ~1500 picks/hr claimed. a16z announcement post ~187 likes Oct 20; still discussed Oct 21 Asia morning.",
     "review_14d": null
   },
   {
@@ -2120,16 +2120,6 @@
     "review_14d": null
   },
   {
-    "id": 214,
-    "term": "Mirendil-Base",
-    "source": "X (search_news + posts) + mirendil.com",
-    "score": 0.88,
-    "first_seen": "2026-10-22T08:32+08:00",
-    "url": "https://mirendil.com/news/pretraining-at-scale-without-a-pretraining-team/",
-    "excerpt": "Mirendil (Behnam Neyshabur's RSI startup, $200M seed) announced Mirendil-Base (Oct 21, 9am PT / 16:16Z), a 100B–500B coding-specialized pretrained model built by one researcher with agents in 3.5 months for <$10M compute; agents wrote >99% of code. Larger Mirendil-Base-Large (~80% trained) and -XL (~19%) in progress. Founder post 890 likes / 106k views; X news story.",
-    "review_14d": null
-  },
-  {
     "id": 213,
     "term": "Elephant-1",
     "source": "X (search_posts_all + search_news) + Hugging Face",
@@ -2137,6 +2127,16 @@
     "first_seen": "2026-10-22T08:32+08:00",
     "url": "https://huggingface.co/baselabs/elephant-1",
     "excerpt": "Companion to mammoth-1: Base Labs' elephant-1 (9B) decision model, tied #1 on Artificial Analysis Decision Index, best under 15B; open weights (MIT), free on Baseten/Vercel AI Gateway through Oct 27.",
+    "review_14d": null
+  },
+  {
+    "id": 214,
+    "term": "Mirendil-Base",
+    "source": "X (search_news + posts) + mirendil.com",
+    "score": 0.88,
+    "first_seen": "2026-10-22T08:32+08:00",
+    "url": "https://mirendil.com/news/pretraining-at-scale-without-a-pretraining-team/",
+    "excerpt": "Mirendil (Behnam Neyshabur's RSI startup, $200M seed) announced Mirendil-Base (Oct 21, 9am PT / 16:16Z), a 100B–500B coding-specialized pretrained model built by one researcher with agents in 3.5 months for <$10M compute; agents wrote >99% of code. Larger Mirendil-Base-Large (~80% trained) and -XL (~19%) in progress. Founder post 890 likes / 106k views; X news story.",
     "review_14d": null
   },
   {
@@ -2656,7 +2656,7 @@
     "score": 0.7,
     "first_seen": "2026-10-26T08:32+08:00",
     "url": "https://github.com/microsoft/Agensh",
-    "excerpt": "Agensh — Microsoft Research decentralized, self-organized multi-agent harness (MIT) that scales coding agents without a central orchestrator: concurrent workers gather context, claim sub-tasks, act, verify and merge progress asynchronously via shared workspace (Gitea), messaging (Mattermost) and shared context (DeLM-adapted), typically stacked on Copilot harness per-agent loops. Paper arXiv 2609.26781 (2026-09-22); GitHub v1.0 / OSS drop 2026-10-23–24 (repo created 2026-08-27; ~293★/35 forks). On five hardest ProgramBench tasks with GPT-5.6-sol (high), 6h no-Internet: mean final test-pass 19.31% (1 agent) → 28.78% (128); on Pandoc 33.89% → 55.06% at 1,024 agents. Project page agens-harness.github.io/project/; aka.ms/Agensh.",
+    "excerpt": "Agensh — Microsoft Research decentralized, self-organized multi-agent harness (MIT) that scales coding agents without a central orchestrator: concurrent workers gather context, claim sub-tasks, act, verify and merge progress asynchronously via shared workspace (Gitea), messaging (Mattermost) and shared context (DeLM-adapted), typically stacked on Copilot harness per-agent loops. Paper arXiv 2609.26781 (2026-09-22); GitHub v1.0 / OSS drop 2026-10-23–24 (repo created 2026-08-27; ~293★/35 forks). On five hardest ProgramBench tasks with GPT-5.6-sol (high), 6h no-Internet: mean final test-pass 19.31% (1 agent) → 28.78% (128); on Pandoc 33.89% → 55.06% at 1,024 agents. Project page agens-harness.github.io/project/; aka.ms/Agensh. In-window X: @Marktechpost coverage RT'd through Oct 25–26; CN digests (e.g. @mingganggao 今日AI速览; @RichardWang889).",
     "review_14d": null
   },
   {
@@ -2666,7 +2666,7 @@
     "score": 0.55,
     "first_seen": "2026-10-26T08:32+08:00",
     "url": "https://github.com/Charonyuu/whatsmyagentdoing",
-    "excerpt": "whatsmyagentdoing — open-source (MIT) local dashboard that visualizes Claude Code, Codex and Gemini CLI agent sessions as live characters in a tiny isometric office (or as a plain list). Reads the JSONL session logs those tools already write — no hooks or API keys; does not intervene in agents. Repo created 2026-10-23; ~227★ (v0.3.1).",
+    "excerpt": "whatsmyagentdoing — open-source (MIT) local dashboard that visualizes Claude Code, Codex and Gemini CLI agent sessions as live characters in a tiny isometric office (or as a plain list). Reads the JSONL session logs those tools already write — no hooks or API keys; does not intervene in agents. Repo created 2026-10-23; ~227★ as of this scan (v0.3.1). In-window X: @RoundtableSpace feature posts (~45k impressions / 81–113 likes) still RT'd Oct 25–26; CN tip post noting active commits.",
     "review_14d": null
   },
   {
@@ -2746,7 +2746,7 @@
     "score": 0.85,
     "first_seen": "2026-10-27T08:32+08:00",
     "url": "https://mirendil.com/news/introducing-fern/",
-    "excerpt": "Mirendil launched Fern 0.1 on Oct 26: first post-trained model from Mirendil-Base, claimed up to 10M-token context (~0.5M lines of code). Built for AI R&D agentic work (auditing training data, debugging logs, reading agent traces). Early-access requests open; no public weights/API/pricing yet.",
+    "excerpt": "Mirendil launched Fern 0.1 on Oct 26: first post-trained model from Mirendil-Base, claimed up to 10M-token context (~0.5M lines of code). Built for AI R&D agentic work (auditing training data, debugging logs, reading agent traces). Early-access requests open; no public weights/API/pricing yet. Official @mirendil post ~564 likes / 30k impressions.",
     "review_14d": null
   },
   {
@@ -2756,7 +2756,7 @@
     "score": 0.55,
     "first_seen": "2026-10-27T08:32+08:00",
     "url": "https://github.com/mainplane-ai/mainplane",
-    "excerpt": "Alexander Yue (ex Browser Use eng #2) launched Mainplane on X/Show HN Oct 26 16:32Z: open-source Go AI agent control plane that runs on a server and drives workers on your machines over built-in WireGuard. MIT. Launch post ~61 likes / 4.7k impressions; repo ~12★ at scan time.",
+    "excerpt": "Alexander Yue (ex Browser Use eng #2) launched Mainplane on X/Show HN Oct 26 16:32Z: open-source Go AI agent control plane that runs on a server and drives workers on your machines over built-in WireGuard. MIT. Launch post ~61 likes / 4.7k impressions / 48 bookmarks; repo ~12★ at scan time.",
     "review_14d": null
   },
   {
@@ -2766,7 +2766,7 @@
     "score": 0.85,
     "first_seen": "2026-10-27T12:32+08:00",
     "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
-    "excerpt": "Ex-GitHub CEO Thomas Dohmke (@ashtom) shipped Entire on 2026-10-26T17:00Z: AI-native Git forge for agent-human collaboration. Replaces PRs with Trails (agent-scored evals on every push), distributed Git hosting claimed up to 89x faster pushes than GitHub, Continuous Memory, CI with Buildkite/Depot. Official post ~476 likes / 93k impressions.",
+    "excerpt": "Ex-GitHub CEO Thomas Dohmke (@ashtom) shipped Entire on 2026-10-26T17:00Z: AI-native Git forge for agent-human collaboration. Replaces PRs with Trails (agent-scored evals on every push: security/slop/human-review), distributed Git hosting claimed up to 89x faster pushes than GitHub (418 vs 4.7 pps), Continuous Memory (entire-graph + entire-brain), CI with Buildkite/Depot. Live in US/EU/AU/IN. Official post ~476 likes / 93k impressions / 296 bookmarks. Missed by 08:32 scan (launch was 28 min into that window).",
     "review_14d": null
   },
   {
@@ -2776,7 +2776,7 @@
     "score": 0.78,
     "first_seen": "2026-10-27T12:32+08:00",
     "url": "https://www.cadence.com/en_US/home/ai/agentic-ai-super-agents.html",
-    "excerpt": "Cadence announced Maestro AI Model Portfolio on 2026-10-26 09:00 EDT: domain-specialized models powering Cadence AI Super Agents (AuraStack/ChipStack/InnoStack/ViraStack) for chip/system design. Claims up to 30% higher quality and 5x token efficiency vs general-purpose FMs; NVIDIA collab; early access Q4 2026.",
+    "excerpt": "Cadence (Nasdaq: CDNS) announced Maestro AI Model Portfolio on 2026-10-26 09:00 EDT: domain-specialized models (post-trained LLMs, decision models, self-improving skills) powering Cadence AI Super Agents (AuraStack/ChipStack/InnoStack/ViraStack) for chip/system design. Claims up to 30% higher quality and 5x token efficiency vs general-purpose FMs; NVIDIA Nemotron/OpenShell collab; early access Q4 2026 on-prem or cloud. Missed by 00:32 scan (PR ~28 min into that window); continued X coverage in this window.",
     "review_14d": null
   },
   {
@@ -2816,7 +2816,7 @@
     "score": 0.95,
     "first_seen": "2026-10-28T00:32+08:00",
     "url": "https://deepmind.google/models/genie/",
-    "excerpt": "Google DeepMind launched Genie 4 on 2026-10-27: research-preview interactive world model with native audio/dialogue and real-time natural-language steering, grounded by the Gemini family. Trusted testers first; Google AI Ultra / Project Genie waitlist next. Official Google/DeepMind posts + deepmind.google/models/genie; trending WW+US on X.",
+    "excerpt": "Google DeepMind launched Genie 4 (2026-10-27): research-preview interactive world model with native audio/dialogue, real-time natural-language steering, Gemini-family grounding; Project Genie waitlist / AI Ultra coming soon. Official Google/@GoogleDeepMind posts + deepmind.google/models/genie + Verge/Ars coverage; worldwide+US X trend.",
     "review_14d": null
   },
   {
@@ -2826,7 +2826,7 @@
     "score": 0.9,
     "first_seen": "2026-10-28T00:32+08:00",
     "url": "https://spaitial.ai/blog",
-    "excerpt": "SpAItial launched Echo-3 and the SpAItial Capture app on 2026-10-27: phone captures become photorealistic, metric-scale 3D worlds (rooms to multi-floor/outdoor). Official @SpAItial_AI post (~35k impressions / 450+ likes) + spaitial.ai blog; available today.",
+    "excerpt": "SpAItial launched Echo-3 + SpAItial Capture app (2026-10-27): phone captures → photorealistic metric-scale 3D worlds (rooms to multi-floor/outdoor). Official @SpAItial_AI post (~35k impressions / 450+ likes) + spaitial.ai blog; available today.",
     "review_14d": null
   },
   {
@@ -2836,7 +2836,7 @@
     "score": 0.85,
     "first_seen": "2026-10-28T00:32+08:00",
     "url": "https://www.ithome.com/1/018/252.htm",
-    "excerpt": "Ant Group released LingGuang (灵光) 2.0 on 2026-10-27: personal AI assistant upgraded from one-shot chat/tasks to proactive long-horizon life/work management with cross-session memory and a cloud host that keeps running after you leave chat. Integrates Alipay/DingTalk/Feishu/email/Mi Home + MCP/CLI; security via Ant APASS. IT之家 + BusinessWire + CN X coverage.",
+    "excerpt": "Ant Group released 灵光 (LingGuang) 2.0 (2026-10-27): personal AI assistant upgraded from one-shot chat/tasks to proactive long-horizon life/work management (cross-session memory, cloud host continues after exit). Integrates Alipay/DingTalk/Feishu/email/Mi Home + MCP/CLI; APASS auth. IT之家 + BusinessWire + CN X coverage.",
     "review_14d": null
   },
   {
@@ -3027,6 +3027,56 @@
     "first_seen": "2026-10-29T04:32+08:00",
     "url": "https://blogs.cisco.com/ai/project-quarry-agent-security-detections",
     "excerpt": "Cisco open-sourced Project Quarry on 2026-10-28: a neurosymbolic rule language and evaluation engine for detecting harmful multi-step AI-agent behavior across LLM conversations, tool calls, MCP interactions and multimodal inputs. Cisco pitches it as a \"shared language for agent defense\", like Snort for network traffic or YARA for malware. Apache-2.0.",
+    "review_14d": null
+  },
+  {
+    "id": 304,
+    "term": "GPT-6.1 Terra",
+    "source": "x+web",
+    "score": 0.85,
+    "first_seen": "2026-10-29T08:32+08:00",
+    "url": "https://x.com/OpenAI/status/2114780711664398349",
+    "excerpt": "OpenAI launched GPT-6.1 Terra on 2026-10-26: \"delivering fast and capable computer use at a lower price.\" It matches GPT-6 Astra on Agents' Last Exam at one-tenth the price per token, finishes tasks over 3x faster than Astra and GPT-6.1 Sol, and costs 50% less than GPT-5.6 Terra in the API (gpt-6.1-terra).",
+    "review_14d": null
+  },
+  {
+    "id": 305,
+    "term": "Rime Prism",
+    "source": "x+web",
+    "score": 0.8,
+    "first_seen": "2026-10-29T08:32+08:00",
+    "url": "https://x.com/lilyjclifford/status/2115521147890520503",
+    "excerpt": "\"introducing prism, the world's first speech-to-speech model you can't tell from a human in conversation\": Rime (CEO Lily Clifford) launched Prism on 2026-10-28, with ~300ms response time, an inspectable text layer for guardrails before it speaks, and fine-tuning via reinforcement learning. τ-Voice score 56.6.",
+    "review_14d": null
+  },
+  {
+    "id": 306,
+    "term": "Particle-1",
+    "source": "x+web",
+    "score": 0.8,
+    "first_seen": "2026-10-29T08:32+08:00",
+    "url": "https://particle.ai/blog/introducing-particle-1",
+    "excerpt": "Suhail announced his new company Particle on 2026-10-28 with particle-1, \"our first step in a series of models focused on developers\": post-trained on DeepSeek V4.1 Flash, it keeps performance at parity while using ~45% fewer tokens. Live on Particle's API, OpenRouter and Vercel AI Gateway.",
+    "review_14d": null
+  },
+  {
+    "id": 307,
+    "term": "HelixCove",
+    "source": "x+web",
+    "score": 0.75,
+    "first_seen": "2026-10-29T08:32+08:00",
+    "url": "https://x.com/ArbiumInc/status/2115473711646322776",
+    "excerpt": "\"Today we're releasing HelixCove, a dataset of work unfolding across an organization.\" Arbium (2026-10-28): three weeks of work at a fictional 12-person biotech company, 1,912 work sessions and 59,768 actions across Word, Outlook, Teams, Excel, SharePoint and more, plus 430 questions to test AI systems.",
+    "review_14d": null
+  },
+  {
+    "id": 308,
+    "term": "GrayPass",
+    "source": "x+web",
+    "score": 0.6,
+    "first_seen": "2026-10-29T08:32+08:00",
+    "url": "https://x.com/ad1tyaranjan/status/2115556461539627321",
+    "excerpt": "\"We're launching GrayPass (@ycombinator F26). We help your software tell when an AI agent is acting on someone's behalf. Before sensitive actions, we check who's in control, then allow, challenge, hold, or deny. 900K+ sessions processed.\" (2026-10-28)",
     "review_14d": null
   }
 ]
