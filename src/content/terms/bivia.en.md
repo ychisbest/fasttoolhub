@@ -1,0 +1,13 @@
+---
+slug: "bivia"
+term: "Bivia"
+locale: "en"
+date: "2026-10-29T16:32+08:00"
+source: "x"
+score: 0.85
+url: "https://x.com/i/trending/2115664655162982655"
+excerpt: "\"Articul8, an Intel spinout from early 2024, unveiled Bivia on October 28—a multimodal model that processes text, images, video, audio, and sensor data to deliver structured decisions with confidence scores... Available now via API with pay-per-token pricing and a billion free tokens for the first 10,000 users.\" (X trending summary)"
+intro: "**Bivia** is a **multimodal decision model from Articul8**, the enterprise AI company spun out of Intel in early 2024. It was unveiled on **October 28, 2026**. Instead of only answering questions, Bivia is built to walk through **sequences of decisions** and return structured choices with confidence scores, using text, images, video, audio and sensor data as input.\n\nSource: [X trending story on Bivia](https://x.com/i/trending/2115664655162982655)"
+explain: "## Key points\n\n1. **Decision workflows, not chat**: Bivia is aimed at multi-step choices where each decision affects the next, such as tuning a data center's cooling. The launch story says it handled that example in about 15 seconds for a few cents.\n2. **Multimodal inputs**: text, images, video, audio and sensor readings, which fits industrial and operations settings where data comes from many sources.\n3. **Structured output with confidence**: answers come back as structured decisions with confidence scores, and early users praised it for signalling when it is unsure.\n4. **Lookahead reasoning**: demos include strategy games like Gomoku and Tetris, where the model weighs moves several steps ahead.\n5. **Languages**: support for over 50 languages.\n6. **Training data**: Articul8 says it draws on billions of real production decisions.\n\n## Who it is for\n\nStartups and industrial teams that want an API to make or recommend operational decisions, rather than a general chatbot."
+usage: "## How to use it\n\n1. **Get API access** from Articul8. Pricing is pay-per-token, and the first 10,000 users get **one billion free tokens**.\n2. **Describe the decision**: give the goal, constraints and the current state (for example sensor readings or a camera frame).\n3. **Read the structured result**: use the returned choice and its confidence score; route low-confidence decisions to a human.\n4. **Loop**: feed the outcome of each step back in so the model can plan the next decision.\n\n## Good first tests\n\n- Operations tuning (cooling, scheduling, inventory)\n- Triage flows where you want a decision plus a confidence number\n- Comparing its recommendations against your current rules before trusting it in production"
+---

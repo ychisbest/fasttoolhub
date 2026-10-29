@@ -3098,5 +3098,65 @@
     "url": "https://x.com/Replit/status/2115553116942975013",
     "excerpt": "\"Today we're releasing ViBench 2.0, a benchmark for long-horizon software building. Agents start from an empty project and build a whole product, one feature at a time, without seeing what comes next.\" (Replit, 2026-10-28) 17 products, 241 features, 544 test plans; GPT-6.1 Sol leads at 64.7% pass@1.",
     "review_14d": null
+  },
+  {
+    "id": 311,
+    "term": "GPT Image 2.6",
+    "source": "x",
+    "score": 0.85,
+    "first_seen": "2026-10-29T16:32+08:00",
+    "url": "https://x.com/aitrackerbot/status/2115667559630373301",
+    "excerpt": "\"OpenAI's own API docs now mention GPT Image 2.6, which hasn't been announced. A new image-editing option added today, \\\"markup\\\", lets you lay a transparent PNG over an image to guide the edit. Its description says it \\\"Supports GPT Image 2.5 and 2.6.\\\"\" (@aitrackerbot, 2026-10-29)",
+    "review_14d": null
+  },
+  {
+    "id": 312,
+    "term": "Bivia",
+    "source": "x",
+    "score": 0.85,
+    "first_seen": "2026-10-29T16:32+08:00",
+    "url": "https://x.com/i/trending/2115664655162982655",
+    "excerpt": "\"Articul8, an Intel spinout from early 2024, unveiled Bivia on October 28—a multimodal model that processes text, images, video, audio, and sensor data to deliver structured decisions with confidence scores... Available now via API with pay-per-token pricing and a billion free tokens for the first 10,000 users.\" (X trending summary)",
+    "review_14d": null
+  },
+  {
+    "id": 313,
+    "term": "Chromagraph Camera",
+    "source": "x",
+    "score": 0.8,
+    "first_seen": "2026-10-29T16:32+08:00",
+    "url": "https://x.com/rianjohnson/status/2115436064458621189",
+    "excerpt": "\"So I recently badgered my cinematographer @steveyedlin into making my ideal iPhone still camera app. It shoots RAW, bypasses the iPhone's look processing and instead uses the same image processing we use on our movies.\" (@rianjohnson, 2026-10-28, 27K likes)",
+    "review_14d": null
+  },
+  {
+    "id": 314,
+    "term": "Worken",
+    "source": "x",
+    "score": 0.7,
+    "first_seen": "2026-10-29T16:32+08:00",
+    "url": "https://x.com/AGIBOTofficial/status/2115694835579666505",
+    "excerpt": "\"At AGIBOT Innovation Day 2026, we introduced Worken, a proposed framework for measuring the productive work robots perform in real-world...\" Another post sums it up: \"Worken = active robots × autonomous hours × output-efficiency — measuring productive robot work, not just unit counts.\"",
+    "review_14d": null
+  },
+  {
+    "id": 315,
+    "term": "WITA-Omni",
+    "source": "x",
+    "score": 0.75,
+    "first_seen": "2026-10-29T16:32+08:00",
+    "url": "https://x.com/RobotDollLab/status/2115694119464935614",
+    "excerpt": "\"@AGIBOTofficial just released WITA-OMNI, its first full-modal end-to-end interaction model for humanoids. It supports 100+ languages and 29 dialects, with response times as low as 400 ms (average ~600 ms). The model handles noisy environments, wake-word-free interaction...\" (@RobotDollLab, 2026-10-29)",
+    "review_14d": null
+  },
+  {
+    "id": 316,
+    "term": "ForgeKernel",
+    "source": "x",
+    "score": 0.75,
+    "first_seen": "2026-10-29T16:32+08:00",
+    "url": "https://x.com/i/trending/2115673733813735858",
+    "excerpt": "\"The ForgeKernel Live demo at OpenBMB shows an AI agent building and refining a GPU kernel from scratch, tracking every iteration with graphs, logs, and benchmarks against expert references like FlashMLA... building on ForgeKernel's leaderboard wins on NVIDIA SOL-ExecBench and Huawei CANN-Bench.\" (X trending summary)",
+    "review_14d": null
   }
 ]
