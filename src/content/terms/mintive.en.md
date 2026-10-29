@@ -1,0 +1,13 @@
+---
+slug: "mintive"
+term: "Mintive"
+locale: "en"
+date: "2026-10-30T00:32+08:00"
+source: "x+web"
+score: 0.92
+url: "https://www.mintive.com/"
+excerpt: "\"Today we're launching @mintive: every agent gets its own identity and permissions, the same way every employee does. We've raised $11M, with @cowboyvc leading our latest…\" — @JiquanNgiam Oct 29 (~129k impressions); TechCrunch: agent identity startup, formerly MintMCP."
+intro: "**Mintive** is an **agent identity and governance platform** (formerly **MintMCP**) that gives every workplace AI agent its own credentials, delegated per-tool permissions, spend controls and an audit trail. Co-founder/CEO **Jiquan Ngiam** announced the public launch on **October 29, 2026**, alongside **$11M** total funding led by Cowboy Ventures (with Coatue and angels including Jeff Dean and Andrej Karpathy).\n\nOfficial: [mintive.com](https://www.mintive.com/) · Blog: [Agent Identities](https://www.mintive.com/blog/agent-identities) · Launch: [@JiquanNgiam](https://x.com/JiquanNgiam/status/2115823843067691019) · [TechCrunch](https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/)"
+explain: "## Key points\n\n1. **Agent as principal**: each agent authenticates to the Mintive gateway with its own short-lived token instead of borrowing a human's OAuth tokens.\n2. **Agent bundles**: package multiple tool connections under one agent identity with per-connection delegated credentials (e.g. GitHub via one teammate, Linear via another).\n3. **MCP + LLM gateways**: admins approve which MCP servers/actions are allowed, route models, and set spending limits; Agent Monitor logs every tool call.\n4. **Customers cited**: Ro, Modern Treasury, University of Michigan, Coursera, Apax, Stability AI (~50 enterprises since Feb product start).\n5. **Founders**: Jiquan Ngiam (Coursera #1 engineer / Google Brain) and Vijay Vasudevan (TensorFlow co-creator).\n\n## Why it matters\n\nSearchers looking for \"agent identity\" / Mintive / MintMCP will hit a distinct product name shipping this window with clear funding and viral launch traction."
+usage: "## How to try it\n\n1. Visit [mintive.com](https://www.mintive.com/) or the [agent identities docs](https://www.mintive.com/agent-identities).\n2. Create an **agent bundle**, bind MCP connectors with delegated credentials, and issue the agent its own gateway token.\n3. Use the LLM gateway to set model routing and spend caps; review Agent Monitor for tool-call audit.\n\n> Enterprise sales / eval walks available for teams already running Claude Code, Cursor or other MCP agents."
+---

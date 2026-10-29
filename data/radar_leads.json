@@ -3228,5 +3228,55 @@
     "url": "https://github.com/jacke-pp/open-yoki",
     "excerpt": "\"An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on.\" — jacke-pp/open-yoki created 2026-10-28, ~340★; MIT open build of the yoki livestream stack (persona/voice/face of commercial yoki excluded).",
     "review_14d": null
+  },
+  {
+    "id": 324,
+    "term": "Mintive",
+    "source": "x+web",
+    "score": 0.92,
+    "first_seen": "2026-10-30T00:32+08:00",
+    "url": "https://www.mintive.com/",
+    "excerpt": "\"Today we're launching @mintive: every agent gets its own identity and permissions, the same way every employee does. We've raised $11M, with @cowboyvc leading our latest…\" — @JiquanNgiam Oct 29 (~129k impressions); TechCrunch: agent identity startup, formerly MintMCP.",
+    "review_14d": null
+  },
+  {
+    "id": 325,
+    "term": "Cresta Conductor",
+    "source": "web+pr",
+    "score": 0.88,
+    "first_seen": "2026-10-30T00:32+08:00",
+    "url": "https://www.prnewswire.com/news-releases/cresta-opens-its-ai-agent-platform-with-end-to-end-self-service-for-developers-302922987.html",
+    "excerpt": "Cresta PR Oct 29, 2026: opens end-to-end self-service AI agent platform for developers. Cresta Conductor (built on Claude Agent SDK with Anthropic) + Cresta CLI + AI Agent SDK + Cresta Academy certification — build/test/deploy customer-facing agents from your own repo/CI.",
+    "review_14d": null
+  },
+  {
+    "id": 326,
+    "term": "Island Enterprise Browser for Agents",
+    "source": "web",
+    "score": 0.87,
+    "first_seen": "2026-10-30T00:32+08:00",
+    "url": "https://www.island.io/press/island-brings-the-enterprise-browser-to-ai-agents",
+    "excerpt": "Island press Oct 29, 2026: introduces Enterprise Browser for Agents — purpose-built enterprise browser for AI agents with governed browser tools, identity binding, human-vs-agent attribution, read-only mode, credential vault injection, ZTNA, and agent digital-experience monitoring.",
+    "review_14d": null
+  },
+  {
+    "id": 327,
+    "term": "GitLab Orbit",
+    "source": "x+web",
+    "score": 0.86,
+    "first_seen": "2026-10-30T00:32+08:00",
+    "url": "https://about.gitlab.com/blog/gitlab-orbit-ga/",
+    "excerpt": "Official @gitlab Oct 29: \"GitLab Orbit is now generally available. Agents with full SDLC context… up to 45x fewer retries and 4.5x fewer tokens in our testing.\" Live permission-aware context graph of code, MRs, pipelines, vulns and ownership for Premium/Ultimate on GitLab.com.",
+    "review_14d": null
+  },
+  {
+    "id": 328,
+    "term": "Snaptrude Agent",
+    "source": "x+web",
+    "score": 0.82,
+    "first_seen": "2026-10-30T00:32+08:00",
+    "url": "https://www.snaptrude.com/",
+    "excerpt": "Official @snaptrude Oct 29: \"Snaptrude Agent is live. It does real design work… from a site to a construction-ready LOD 400 model with structure, MEP and drawings.\" AEC Magazine: AI agent for BIM from concept to construction documentation; user reviews plan then approves.",
+    "review_14d": null
   }
 ]
