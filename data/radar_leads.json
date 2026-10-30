@@ -1147,7 +1147,7 @@
     "first_seen": "2026-10-15T16:32+08:00",
     "url": "https://chenglou.me/handwired/",
     "excerpt": "Cheng Lou (@_chenglou, Midjourney) launch post Oct 15 02:24Z (10:24 BJT): \"Introducing Handwired: turn your regular JavaScript code into a neural net\" — ~1,967 likes / 106k impressions / 1.6k bookmarks; X News story; GH chenglou/handwired created same day (~182★); demos at chenglou.me/handwired (mini OS 9,909 weights, JSON search over 100k docs via WebGPU).",
-    "review_14d": null
+    "review_14d": "hit|2026-10-30|q='Handwired' pre7=0.0 last7=24.6 peak=100"
   },
   {
     "id": 116,
@@ -1157,7 +1157,7 @@
     "first_seen": "2026-10-15T16:32+08:00",
     "url": "https://qvac.tether.io/blog/on-device-speech-recognition-transcribepsy",
     "excerpt": "Tether AI Research / QVAC (Oct 14): open Apache-2.0 254M on-device ASR — 25 EU languages on laptop / 8 on phone; Core ML claims 10 min audio in 1.65s on iPhone 17 Pro Max. Official @qvac post (~46 likes / 12k impr); Paolo Ardoino (~107 likes / 15k); The Block coverage; HF collection qvac/TranscribePsy-*.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-30|no Trends data for 'QVAC TranscribePsy'"
   },
   {
     "id": 117,
@@ -1167,7 +1167,7 @@
     "first_seen": "2026-10-15T16:32+08:00",
     "url": "https://www.figma.com/release-notes/",
     "excerpt": "Official @figma Config India post (Oct 15 05:39Z / 13:39 BJT): \"Introducing Specs: a new medium for markdown that brings context into, out of, and across Figma\" — ~412 likes / 304k impressions; open beta on paid plans; TechCrunch + Config India coverage alongside Code Layers open beta.",
-    "review_14d": null
+    "review_14d": "hit|2026-10-30|q='Figma Specs' pre7=0.0 last7=30.9 peak=100"
   },
   {
     "id": 118,
@@ -1177,7 +1177,7 @@
     "first_seen": "2026-10-16T00:32+08:00",
     "url": "https://bfl.ai/models/flux-3-image-klein",
     "excerpt": "Official @bfl_ai open-weights launch Oct 15 15:14Z (23:14 BJT): \"FLUX 3 Image Klein is here\" — 5.6B, consumer GPU, native 4K + bounding-box editing; ~1,108 likes / 40k impressions / 500 bookmarks / 149 RTs. HF black-forest-labs/flux-3-image-klein (+base); Diffusers day-0 blog; VentureBeat coverage.",
-    "review_14d": null
+    "review_14d": "hit|2026-10-30|q='FLUX 3 Image Klein' pre7=7.3 last7=17.1 peak=100"
   },
   {
     "id": 119,
@@ -1187,7 +1187,7 @@
     "first_seen": "2026-10-16T00:32+08:00",
     "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-BF16",
     "excerpt": "NVIDIA official Oct 15: open 120B-A12B multimodal MoE for long-running agents (text/image/doc/video). @NVIDIAAI post + Artificial Analysis (~262 likes / 18k impr: leading US open-weight on AA Index 26). US X trend; HF BF16/NVFP4; day-0 vLLM/Baseten/LangChain. Distinct from already-tracked Nemotron 3.5 Bolt.",
-    "review_14d": null
+    "review_14d": "hit|2026-10-30|q='Nemotron 3.5 Super VL' pre7=7.7 last7=15.4 peak=100"
   },
   {
     "id": 120,
@@ -1197,7 +1197,7 @@
     "first_seen": "2026-10-16T08:32+08:00",
     "url": "https://www.respan.ai/blog/introducing-span-2",
     "excerpt": "Respan @RespanAI official Oct 15 17:00Z intro: \"Introducing Span-02: anytime reasoning for decisions\" — 280 likes / 85,260 impressions / 131 bookmarks / 44 RTs. Open-weight deadline-aware decision model (budget_ms); beats Jev at 1/4 price with reasoning off; multimodal+computer-use demos. HF respanai/span-02 (Apache-2.0, created Oct 13, public push Oct 15); X News story; OpenRouter detection.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-30|no Trends data for 'Span-02'"
   },
   {
     "id": 121,
@@ -1207,7 +1207,7 @@
     "first_seen": "2026-10-16T08:32+08:00",
     "url": "https://research.meta.ai/blog/muse-spark-open",
     "excerpt": "Meta official Oct 15: open weights for Muse Spark Open — 816B-A42B multimodal MoE, 1M context, coding/agentic; runs on two M5 Ultra Mac Studios via MLX. HF meta-models/Muse-Spark-Open-816B-A42B (+NVFP4); @testingcatalog 101 likes / 7.2k impr; Alexandr Wang quote ~244 likes / 16.7k. Distinct from already-tracked Muse / Muse Wonder.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-30|q='Muse Spark Open' pre7=9.0 last7=5.7 peak=100"
   },
   {
     "id": 122,
@@ -1217,7 +1217,7 @@
     "first_seen": "2026-10-16T08:32+08:00",
     "url": "https://www.aboutamazon.com/news/devices/amazon-personal-ai-bee-frontier-bee-eclipse",
     "excerpt": "Amazon Oct 15 personal-AI hardware line: Bee Frontier ($74.99 wristband/clip always-listening AI note-taker) and Bee Eclipse ($99.99 phone attachment, coming soon); Bee Pro $11.99/mo. Covered by CNBC/Verge/Engadget/CBS; mentioned in overnight X AI digests as \"Amazon Bee\".",
-    "review_14d": null
+    "review_14d": "miss|2026-10-30|q='Bee Frontier' pre7=14.3 last7=12.6 peak=100"
   },
   {
     "id": 123,
@@ -1227,7 +1227,7 @@
     "first_seen": "2026-10-16T08:32+08:00",
     "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
     "excerpt": "IBM Granite HF blog Oct 15: Granite Switch 4.1 8B/30B — chat + Decision aLoRA + Guardian + embedded Granite-Speech-5.0-Turbo-CTC from one endpoint; batteries-included modular Switch models. Unite.AI coverage; HF ibm-granite/granite-switch-4.1-*-preview checkpoints refreshed.",
-    "review_14d": null
+    "review_14d": "miss|2026-10-30|q='Granite Switch 4.1' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 124,
@@ -3347,6 +3347,56 @@
     "first_seen": "2026-10-30T08:32+08:00",
     "url": "https://x.com/shobhitbanga/status/2115862853852995907",
     "excerpt": "VoiceArena co-founder @shobhitbanga Oct 29 Drop 1/15: Introducing Joy — dual-channel conversational dataset; 100,000 hours, 50,000 speakers, 10 languages; real unscripted talk with overlaps/backchannels. ~298k impressions; roadmap v2 1M / v3 10M hours.",
+    "review_14d": null
+  },
+  {
+    "id": 336,
+    "term": "Phonic-1",
+    "source": "x+web",
+    "score": 0.95,
+    "first_seen": "2026-10-30T12:32+08:00",
+    "url": "https://phonic.ai/blog/phonic-1",
+    "excerpt": "Phonic launched Phonic-1 on Oct 29, 2026: speech-to-speech model for agentic voice tasks; #1 on Artificial Analysis Speech to Speech Index (87.1); tool calls while caller still talking; ~$0.07/min; $27.5M Series A (First Round).",
+    "review_14d": null
+  },
+  {
+    "id": 337,
+    "term": "SFX v3",
+    "source": "x+web",
+    "score": 0.92,
+    "first_seen": "2026-10-30T12:32+08:00",
+    "url": "https://elevenlabs.io/blog/sound-effects-v3",
+    "excerpt": "ElevenLabs launched SFX v3 on Oct 29, 2026: newest text-to-sound-effects model; better multi-sound prompts, music/vocals, cleaner audio vs SFX v2; live in ElevenCreative + ElevenAPI (model_id eleven_text_to_sound_v3).",
+    "review_14d": null
+  },
+  {
+    "id": 338,
+    "term": "Cartesia Managed Agents",
+    "source": "x+web",
+    "score": 0.9,
+    "first_seen": "2026-10-30T12:32+08:00",
+    "url": "https://www.cartesia.ai/blog/managed-agents",
+    "excerpt": "Cartesia launched Managed Agents on Oct 29, 2026: end-to-end enterprise voice-agent platform (#1 Speech Agent Arena Elo 1115; EVA-Bench accuracy 87% / experience 91%); prompt + voice + LLM → telephony-ready agent; ~$0.03/min.",
+    "review_14d": null
+  },
+  {
+    "id": 339,
+    "term": "Poke-Aurora",
+    "source": "x+web",
+    "score": 0.9,
+    "first_seen": "2026-10-30T12:32+08:00",
+    "url": "https://pokebot.com/ai",
+    "excerpt": "PokeBot (Tsinghua IIIS spinout) unveiled Poke-Aurora on Oct 29–30, 2026: world-action model for robot arms; ~74.2% success on ~1k unseen objects / ~10k unseen tasks; served via new RoboAPI technical preview.",
+    "review_14d": null
+  },
+  {
+    "id": 340,
+    "term": "RoboAPI",
+    "source": "x+web",
+    "score": 0.88,
+    "first_seen": "2026-10-30T12:32+08:00",
+    "url": "https://pokebot.com/ai",
+    "excerpt": "PokeBot opened RoboAPI technical preview Oct 29–30, 2026: natural-language control API for compatible robot arms powered by Poke-Aurora; free non-commercial; registration via email on platform.pokebot.com.",
     "review_14d": null
   }
 ]
