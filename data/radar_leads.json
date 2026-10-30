@@ -3528,5 +3528,25 @@
     "url": "https://openai.com/business/private-intelligence/",
     "excerpt": "OpenAI launched Private Intelligence (\"Frontier intelligence. Private by design.\") in late Oct 2026: an enterprise privacy offering combining Zero Data Retention for eligible API workflows, a Private Inference confidential-computing preview, access restrictions, agent permissions and customer data ownership.",
     "review_14d": null
+  },
+  {
+    "id": 354,
+    "term": "FLUX 3 Max",
+    "source": "sitemap(fal.ai)",
+    "score": 0.88,
+    "first_seen": "2026-10-31T04:32+08:00",
+    "url": "https://fal.ai/blog/introducing-flux-3-max-by-fal",
+    "excerpt": "\"Today, fal Research launches FLUX 3 Max, our latest post-trained video generation model, in collaboration with Black Forest Labs.\" fal says it renders a 10-second video in 12.45 s versus 277.80 s for Seedance 2.5, with a 47-point Elo gain over the original FLUX 3.",
+    "review_14d": null
+  },
+  {
+    "id": 355,
+    "term": "Open Yap 1K",
+    "source": "huggingface(datasets trending)",
+    "score": 0.78,
+    "first_seen": "2026-10-31T04:32+08:00",
+    "url": "https://huggingface.co/datasets/TheAgenticDataCompany/open-yap-1k",
+    "excerpt": "\"Today we're releasing Open Yap 1K: 1,000 hours of dual-channel English conversation, capturing how people speak together naturally in real-world environments recorded in 48kHz. The dataset ships free for both commercial and research use.\"",
+    "review_14d": null
   }
 ]
