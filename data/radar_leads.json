@@ -3398,5 +3398,35 @@
     "url": "https://pokebot.com/ai",
     "excerpt": "PokeBot opened RoboAPI technical preview Oct 29–30, 2026: natural-language control API for compatible robot arms powered by Poke-Aurora; free non-commercial; registration via email on platform.pokebot.com.",
     "review_14d": null
+  },
+  {
+    "id": 341,
+    "term": "herdr-core",
+    "source": "x+web+github",
+    "score": 0.9,
+    "first_seen": "2026-10-30T16:32+08:00",
+    "url": "https://herdr.dev/core/",
+    "excerpt": "herdr launched herdr-core + native desktop app (Apache 2.0): local terminal runtime where coding agents keep running after the window closes; agents can rewrite every UI file. Official X ~3.8k likes / 261k views; HN frontpage; herdr.dev/core.",
+    "review_14d": null
+  },
+  {
+    "id": 342,
+    "term": "Droid 1.0",
+    "source": "x+web",
+    "score": 0.88,
+    "first_seen": "2026-10-30T16:32+08:00",
+    "url": "https://factory.com/news/frontier-harness",
+    "excerpt": "Factory launched Droid 1.0 (Oct 29): enterprise coding-agent harness with programmatic tool calling (Code Mode) as default; up to ~20% more efficient vs native model harnesses; Desktop + CLI + Droid SDK. Official X Introducing post ~903 likes / 136k impressions.",
+    "review_14d": null
+  },
+  {
+    "id": 343,
+    "term": "Open-H3-Regenerate-2K",
+    "source": "hf+web+x",
+    "score": 0.75,
+    "first_seen": "2026-10-30T16:32+08:00",
+    "url": "https://huggingface.co/Efficient-Large-Model/Open-H3-Regenerate-2K",
+    "excerpt": "NVIDIA open-sourced Open-H3-Regenerate-2K: open replacement for MiniMax closed H3-Regenerate-2K API; 3-step diffusion refiner that regenerates low-res H3 drafts at 768P–4K. HF Efficient-Large-Model (~129 likes); ComfyUI ports circulating.",
+    "review_14d": null
   }
 ]
