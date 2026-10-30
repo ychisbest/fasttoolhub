@@ -3468,5 +3468,65 @@
     "url": "https://github.com/wangzan101/Mika",
     "excerpt": "wangzan101/Mika (created Oct 29, ~354 stars): open-source on-device Android AI agent that operates apps and the web (Kotlin/Compose, accessibility). Author demo post ~10k views; Chinese X coverage today.",
     "review_14d": null
+  },
+  {
+    "id": 348,
+    "term": "SenseNova-Loop-9B",
+    "source": "x+huggingface+web",
+    "score": 0.85,
+    "first_seen": "2026-10-31T00:32+08:00",
+    "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B-Preview",
+    "excerpt": "SenseTime open-sourced SenseNova-Loop-9B-Preview on Oct 30, 2026 (Apache-2.0): a ~9B multimodal looped-decoder model that runs a shared 24-layer block twice (32 stored layers, 56 executed), with two-stream mHC and 256K training context, aimed at long-context and agentic work.",
+    "review_14d": null
+  },
+  {
+    "id": 349,
+    "term": "Mage-VL-Cowork",
+    "source": "x+web",
+    "score": 0.85,
+    "first_seen": "2026-10-31T00:32+08:00",
+    "url": "https://microsoft.github.io/Mage/cowork/",
+    "excerpt": "Microsoft Mage team released Mage-VL-Cowork on Oct 30, 2026: a 4B Apache-2.0 hybrid computer-use agent whose single policy chooses between GUI clicks and bash/code each turn, scoring 66.0% on OSWorld-Verified (50 steps), ahead of 27B–30B agents.",
+    "review_14d": null
+  },
+  {
+    "id": 350,
+    "term": "Aura Autopilot",
+    "source": "x+web",
+    "score": 0.8,
+    "first_seen": "2026-10-31T00:32+08:00",
+    "url": "https://www.tryaura.dev/autopilot/",
+    "excerpt": "Ramen launched Aura Autopilot on Oct 30, 2026: an open-source, continually learning real-time playtesting agent for Unreal Engine 5, Unity 6 and Godot 4 that plays games, finds bugs and works with Claude Code/Codex subscriptions or BYOK. Covered by Business Wire, GamesBeat and an X trending story.",
+    "review_14d": null
+  },
+  {
+    "id": 351,
+    "term": "TokenEconomizer",
+    "source": "x+github+web",
+    "score": 0.72,
+    "first_seen": "2026-10-31T00:32+08:00",
+    "url": "https://github.com/microsoft/TokenEconomizer",
+    "excerpt": "Microsoft's TokenEconomizer (Apache-2.0, ~1.5k GitHub stars, arXiv 2610.22732) is a plugin for Claude Code, Codex, Copilot CLI and Pi that learns repo-specific micro-skills, prunes unused tools and breaks failure loops, cutting mean SWE-Bench cost 18.4–30.9%.",
+    "review_14d": null
+  },
+  {
+    "id": 352,
+    "term": "Buddy One",
+    "source": "x+web",
+    "score": 0.72,
+    "first_seen": "2026-10-31T00:32+08:00",
+    "url": "https://www.infoq.cn/article/IqHuYdSuUHw6XK6aCBU5",
+    "excerpt": "Tencent launched Buddy One on Oct 29, 2026 at its Global Digital Ecosystem Summit: a cross-app AI collaboration suite built on the WorkBuddy agent that unifies accounts (Buddy One ID), credits and context across Tencent Docs, Meeting, ima and the new Tencent Netdisk.",
+    "review_14d": null
+  },
+  {
+    "id": 353,
+    "term": "OpenAI Private Intelligence",
+    "source": "x+web",
+    "score": 0.7,
+    "first_seen": "2026-10-31T00:32+08:00",
+    "url": "https://openai.com/business/private-intelligence/",
+    "excerpt": "OpenAI launched Private Intelligence (\"Frontier intelligence. Private by design.\") in late Oct 2026: an enterprise privacy offering combining Zero Data Retention for eligible API workflows, a Private Inference confidential-computing preview, access restrictions, agent permissions and customer data ownership.",
+    "review_14d": null
   }
 ]

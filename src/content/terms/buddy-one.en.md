@@ -1,0 +1,13 @@
+---
+slug: "buddy-one"
+term: "Buddy One"
+locale: "en"
+date: "2026-10-31T00:32+08:00"
+source: "x+web"
+score: 0.72
+url: "https://www.infoq.cn/article/IqHuYdSuUHw6XK6aCBU5"
+excerpt: "Tencent launched Buddy One on Oct 29, 2026 at its Global Digital Ecosystem Summit: a cross-app AI collaboration suite built on the WorkBuddy agent that unifies accounts (Buddy One ID), credits and context across Tencent Docs, Meeting, ima and the new Tencent Netdisk."
+intro: "**Buddy One** is a **cross-application AI collaboration suite** unveiled by **Tencent** on **October 29, 2026** at the Tencent Global Digital Ecosystem Summit, announced by Dowson Tong (Tang Daosheng), CEO of Tencent's Cloud and Smart Industries Group. It uses **WorkBuddy** — Tencent's AI office agent launched in March 2026 — as the central workbench and connects **Tencent Docs, Tencent Meeting, ima, Tencent Netdisk** and more under one identity, one credit pool and one shared context.\n\nTencent pitches it as \"the Office suite for the agent era\": instead of moving work into one app, all apps collaborate around the same context, identity and credits."
+explain: "## Key points\n\n1. **Buddy One ID**: free account linking — bind Docs, Meeting, ima and Netdisk inside WorkBuddy (PC 5.9.0+) and you no longer need to re-authorize or copy-paste context between them.\n2. **Unified credit pool**: WorkBuddy credits become Buddy One credits usable across WorkBuddy, Tencent Docs, ima and Netdisk (Meeting doesn't consume credits for now).\n3. **Shared agent harness**: AI features inside Netdisk, Docs and ima call WorkBuddy's agent harness under the hood; memory sharing is planned.\n4. **Cross-product retrieval**: one question can search and combine authorized docs, meeting notes and knowledge bases, with cited sources.\n5. **Tencent Netdisk**: launched alongside as the \"memory space\" that stores agent context and outputs as organizational assets.\n6. **Context**: WorkBuddy has handled 9B+ task requests, is used by 50% of China's top-500 enterprises, and has 200k+ skills; Tencent also previewed its upcoming Hy4 / Hy4 Flash models at the same event."
+usage: "## How to use it\n\n1. Update the WorkBuddy PC client to **5.9.0 or later**.\n2. Click the pop-up or go to your nickname (bottom-left) → Settings → Profile, and link your Tencent Meeting, Docs, ima and Netdisk accounts. Linking is free and new binders get 100 bonus credits.\n3. Ask WorkBuddy cross-app questions (e.g. \"summarize last week's meetings and draft a report in Docs\"); answers cite their sources.\n4. Enterprises can look at the WorkBuddy Enterprise suite, which integrates Docs, Lexiang, Netdisk and Ardot design. Background: [InfoQ report](https://www.infoq.cn/article/IqHuYdSuUHw6XK6aCBU5)."
+---

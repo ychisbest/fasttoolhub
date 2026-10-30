@@ -1,0 +1,13 @@
+---
+slug: "openai-private-intelligence"
+term: "OpenAI Private Intelligence"
+locale: "en"
+date: "2026-10-31T00:32+08:00"
+source: "x+web"
+score: 0.7
+url: "https://openai.com/business/private-intelligence/"
+excerpt: "OpenAI launched Private Intelligence (\"Frontier intelligence. Private by design.\") in late Oct 2026: an enterprise privacy offering combining Zero Data Retention for eligible API workflows, a Private Inference confidential-computing preview, access restrictions, agent permissions and customer data ownership."
+intro: "**OpenAI Private Intelligence** is an **enterprise privacy offering** introduced by **OpenAI** in **late October 2026** under the slogan *\"Frontier intelligence. Private by design.\"* It bundles controls that let companies use OpenAI's most capable models while limiting who — including OpenAI — can see their data.\n\nThe two headline pieces are **Zero Data Retention (ZDR)** for eligible API workflows and **Private Inference**, a preview option based on **confidential computing** with strict, verifiable controls. Around them sit access restrictions, approval flows, agent permissions, encryption, customer data ownership and compliance support, plus eligible ChatGPT Work controls."
+explain: "## Key points\n\n1. **Zero Data Retention**: eligible API requests are processed without being stored.\n2. **Private Inference (preview)**: inference runs inside confidential-computing environments designed so that data stays protected even from the operator, with verifiable guarantees.\n3. **Access & approvals**: enterprises can restrict which people, apps and agents can reach data, and require approvals.\n4. **Agent permissions**: as agents take actions (connectors, automations), admins control what they may access or do; ChatGPT Work adds role-based access and app-connection controls.\n5. **Ownership & compliance**: customers own inputs/outputs; encryption and compliance support are part of the package.\n\n## Why it matters\n\nData-access concerns are one of the biggest blockers for enterprise and government adoption of frontier models — especially for agents that touch internal systems. Private Intelligence is OpenAI's answer to on-prem / sovereign-AI pressure from open-weight rivals."
+usage: "## How to get it\n\n1. Read the [Private Intelligence page](https://openai.com/business/private-intelligence/) and the \"Privacy by product\" breakdown.\n2. Check whether your API workflows qualify for Zero Data Retention.\n3. For Private Inference (preview), [register interest](https://openai.com/form/private-intelligence-interest/) or contact OpenAI sales.\n4. In ChatGPT Work, configure app connections, automation permissions and role-based access to match your policies."
+---
