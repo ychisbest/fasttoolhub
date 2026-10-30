@@ -3318,5 +3318,35 @@
     "url": "https://www.datalab.to/blog/surya-2-5",
     "excerpt": "Datalab Oct 29: Surya 2.5 is a 689M open OCR model — 1.7x faster than Surya 2 (4.5 vs 2.7 pps on H100), 85.9 OmniParseBench (best open under 1B); pip install surya-ocr ≥0.23.0.",
     "review_14d": null
+  },
+  {
+    "id": 333,
+    "term": "Mischief-1",
+    "source": "sitemap+web+x",
+    "score": 0.9,
+    "first_seen": "2026-10-30T08:32+08:00",
+    "url": "https://openrouter.ai/tbc/mischief-1",
+    "excerpt": "OpenRouter Video API Oct 30, 2026: tbc/mischief-1 — TBC Mischief 1, billed as the world's first neuron-derived video model from The Biological Computing Co. Image-to-video; 3/5s; 480p/720p; from ~$0.005/s. Official @BioComputingCo demoing generations on X.",
+    "review_14d": null
+  },
+  {
+    "id": 334,
+    "term": "RLNF",
+    "source": "x+web",
+    "score": 0.85,
+    "first_seen": "2026-10-30T08:32+08:00",
+    "url": "https://x.com/rahulchhabra07/status/2115918744308658325",
+    "excerpt": "Sabi CEO @rahulchhabra07 Oct 29: Introducing RL with Neural Feedback (RLNF)—train AI on human preferences purely from brain/EEG signals (face self-transforms toward subject taste). ~417k impressions / 468 likes; Sabi is the $50M Khosla-led BCI/cap company.",
+    "review_14d": null
+  },
+  {
+    "id": 335,
+    "term": "Joy",
+    "source": "x",
+    "score": 0.83,
+    "first_seen": "2026-10-30T08:32+08:00",
+    "url": "https://x.com/shobhitbanga/status/2115862853852995907",
+    "excerpt": "VoiceArena co-founder @shobhitbanga Oct 29 Drop 1/15: Introducing Joy — dual-channel conversational dataset; 100,000 hours, 50,000 speakers, 10 languages; real unscripted talk with overlaps/backchannels. ~298k impressions; roadmap v2 1M / v3 10M hours.",
+    "review_14d": null
   }
 ]
