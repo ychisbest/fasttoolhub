@@ -3428,5 +3428,45 @@
     "url": "https://huggingface.co/Efficient-Large-Model/Open-H3-Regenerate-2K",
     "excerpt": "NVIDIA open-sourced Open-H3-Regenerate-2K: open replacement for MiniMax closed H3-Regenerate-2K API; 3-step diffusion refiner that regenerates low-res H3 drafts at 768P–4K. HF Efficient-Large-Model (~129 likes); ComfyUI ports circulating.",
     "review_14d": null
+  },
+  {
+    "id": 344,
+    "term": "Samaya Sterling",
+    "source": "x+web",
+    "score": 0.85,
+    "first_seen": "2026-10-30T20:32+08:00",
+    "url": "https://samaya.ai/blog/rl-post-trained-agentic-model",
+    "excerpt": "Samaya AI released Sterling (Oct 29): LoRA post-trained Nemotron 3.5 Lightning (30B MoE, 3B active) finance research agent; 58.9% on FrontierFinance vs Claude Fable 5.1 55.9%, $0.61 vs $6.89/query. MarkTechPost + NVIDIA coverage.",
+    "review_14d": null
+  },
+  {
+    "id": 345,
+    "term": "EdgeRock-4B",
+    "source": "x+web+huggingface",
+    "score": 0.82,
+    "first_seen": "2026-10-30T20:32+08:00",
+    "url": "https://huggingface.co/rockmatrix-ai/EdgeRock",
+    "excerpt": "Rock Matrix's open-source EdgeRock-4B: 256K context with fixed 72 MiB attention KV (Rock Memory Anchors), 82.9% AIME, 6.42x Qwen3.5-4B throughput. @DataChaz post ~7k views/56 likes; GitHub ~800 stars; arXiv 2610.10118.",
+    "review_14d": null
+  },
+  {
+    "id": 346,
+    "term": "Wowoker",
+    "source": "x+web",
+    "score": 0.75,
+    "first_seen": "2026-10-30T20:32+08:00",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34361157",
+    "excerpt": "深兰科技 10/29 联合华为发布全球首款大模型智能体工作手机 Wowoker：麒麟芯片 + HarmonyOS，集成多模态大模型、Decision Model 与 AgentOS，AI 外呼、多平台营销与 CRM。澎湃/CNMO 报道。",
+    "review_14d": null
+  },
+  {
+    "id": 347,
+    "term": "Mika",
+    "source": "github+x",
+    "score": 0.6,
+    "first_seen": "2026-10-30T20:32+08:00",
+    "url": "https://github.com/wangzan101/Mika",
+    "excerpt": "wangzan101/Mika (created Oct 29, ~354 stars): open-source on-device Android AI agent that operates apps and the web (Kotlin/Compose, accessibility). Author demo post ~10k views; Chinese X coverage today.",
+    "review_14d": null
   }
 ]

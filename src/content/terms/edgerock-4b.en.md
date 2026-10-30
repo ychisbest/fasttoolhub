@@ -1,0 +1,13 @@
+---
+slug: "edgerock-4b"
+term: "EdgeRock-4B"
+locale: "en"
+date: "2026-10-30T20:32+08:00"
+source: "x+web+huggingface"
+score: 0.82
+url: "https://huggingface.co/rockmatrix-ai/EdgeRock"
+excerpt: "Rock Matrix's open-source EdgeRock-4B keeps a fixed 72 MiB attention KV per sequence at 256K context via Rock Memory Anchors, scores 82.9% mean AIME pass@1 and delivers up to 6.42x Qwen3.5-4B throughput. Viral X thread (~7k views) on Oct 30."
+intro: "**EdgeRock-4B** is the first open-source release of **EdgeRock**, the **fixed-memory model family** from **Rock Matrix**. It is a 4B-parameter text+image reasoning model (derived from Qwen3.5-4B) whose history memory does **not grow** with context length: at 256K tokens it needs only **72 MiB** of attention KV per sequence—**99.1% less** than Qwen3.5-4B's 8 GiB.\n\nWeights: [huggingface.co/rockmatrix-ai/EdgeRock](https://huggingface.co/rockmatrix-ai/EdgeRock) · Code: [github.com/rockmatrix-ai/edgerock](https://github.com/rockmatrix-ai/edgerock) · Paper: [arXiv 2610.10118](https://arxiv.org/html/2610.10118) · Site: [rockmatrix.ai/models](https://rockmatrix.ai/models/)"
+explain: "## Key points\n\n1. **Architecture**: 24 recurrent layers + 8 RMA attention layers. Recurrent state summarizes context, a 1,024-token local window handles recent tokens, and **Rock Memory Anchors (RMA)**—a fixed bank of 1,024 learned key-value records per KV group—pin important distant details.\n2. **O(1) memory**: 72 MiB attention KV (97.76 MiB total persistent history) per sequence, regardless of whether it reasons for 4K or 256K tokens.\n3. **Reasoning**: 82.9% mean pass@1 on AIME 2024–2026 vs at most 18.8% for 16 other bounded-state models (e.g. RWKV-7 class); 84.9% mean across six visual benchmarks.\n4. **Serving**: 512 concurrent long-generation sequences on one Hopper 80GB GPU; 4.94x Qwen3.5-4B throughput on average, up to 6.42x; 233.7 tok/s decode at batch 1 with 128K in / 128K out.\n5. **Ablation**: disabling RMA drops long-context query accuracy from 94.1% to 0.4%.\n\n## Why it matters\n\nEdgeRock is a named, open alternative to ever-growing KV caches—relevant for long-running agents, on-device and high-concurrency serving."
+usage: "## How to try it\n\n1. Download weights from [Hugging Face](https://huggingface.co/rockmatrix-ai/EdgeRock) and follow the inference instructions in the [GitHub repo](https://github.com/rockmatrix-ai/edgerock).\n2. Use it for long reasoning, coding and agent workflows where context keeps growing; budget memory per sequence as a constant (~98 MiB history + weights).\n3. Read the [technical report](https://rockmatrix.ai/documents/edgerock-report-en.pdf) for memory math, benchmarks and RMA ablations before comparing with full-attention 4B models."
+---
