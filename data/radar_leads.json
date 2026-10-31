@@ -3748,5 +3748,25 @@
     "url": "https://x.com/ephraimduncan/status/2116506521077186947",
     "excerpt": "@ephraimduncan: \"#4 on Product Hunt, help us get to #1\" (60♥/2k views). Product Hunt Oct 31 2026: telemetry.dev — \"LLM observability for AI agents\", #3 of the day, 128 upvotes; OpenTelemetry-based traces, prompt management, evals, alerts, CLI + MCP server.",
     "review_14d": null
+  },
+  {
+    "id": 376,
+    "term": "OpenCode Hex",
+    "source": "x",
+    "score": 0.85,
+    "first_seen": "2026-11-01T04:32+08:00",
+    "url": "https://x.com/opencode/status/2116555630236577819",
+    "excerpt": "@opencode Oct 31 2026 (4.2k♥/240k views): \"hex is the best way to use your voice: fast, runs locally, works on mac, windows, linux — stable release now available.\" Hex 3.0.0 (anomalyco/hex, MIT, ~1.8k★, released Oct 31 00:38Z) — local-first Rust voice dictation by Anomaly (OpenCode team); site anoma.ly/hex.",
+    "review_14d": null
+  },
+  {
+    "id": 377,
+    "term": "TimeH2O-v1",
+    "source": "x",
+    "score": 0.62,
+    "first_seen": "2026-11-01T04:32+08:00",
+    "url": "https://huggingface.co/h2oai/timeh2o-v1",
+    "excerpt": "H2O.ai (press release Oct 26 2026; @h2oai Oct 31 post): 108M-param zero-shot time-series foundation model, #1 of 32 on fev-bench (91.9% win rate, skill 50.8), lowest MASE/CRPS on GIFT-Eval; open weights on HF (non-commercial), plus TimeH2O-v1-tiny.",
+    "review_14d": null
   }
 ]
