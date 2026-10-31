@@ -3678,5 +3678,25 @@
     "url": "https://runtimewire.com/article/kinedb-pre-seed-offline-database",
     "excerpt": "RuntimeWire: \"KineDB raises €850K to put offline sync inside the database — KineDB co-founders Axel Loewenhoff and Allan Zimmermann are building one engine for local devices and backend infrastructure. Superhero Capital led the pre-seed round.\"",
     "review_14d": null
+  },
+  {
+    "id": 369,
+    "term": "Xiaomi-OCR-0",
+    "source": "x+huggingface",
+    "score": 0.85,
+    "first_seen": "2026-10-31T16:32+08:00",
+    "url": "https://x.com/XiaomiTech_/status/2116154468358316380",
+    "excerpt": "@XiaomiTech_: \"From recognizing text to understanding documents. Meet Xiaomi-OCR-0, an open-source document understanding model with just 0.8B parameters.\" (2.5k+ likes; HF xiaomi-research/Xiaomi-OCR-0, ~15k downloads last month)",
+    "review_14d": null
+  },
+  {
+    "id": 370,
+    "term": "Godwit",
+    "source": "x",
+    "score": 0.6,
+    "first_seen": "2026-10-31T16:32+08:00",
+    "url": "https://godwit.email",
+    "excerpt": "godwit.email: \"An open-source, AI-native email client you can extend. Works with any IMAP/SMTP account. Its assistant, Wit, reads, summarizes, translates and drafts mail with the model you choose.\" — launched on Product Hunt Oct 31, 2026 (v1.21.0 released Oct 30).",
+    "review_14d": null
   }
 ]
