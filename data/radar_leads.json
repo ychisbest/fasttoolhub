@@ -3728,5 +3728,25 @@
     "url": "https://x.com/AgenticGenesis/status/2116457650745401468",
     "excerpt": "@AgenticGenesis: \"Why do GUI agent evaluation and training 'each run their own way'? Alibaba's MAI-Gym unifies the execution stack, evaluation and RL training, supporting 10 benchmarks and 20,000 parallel environments. The 9B model leads open models under 10B in the paper.\" (arXiv:2610.20939; project page tongyi-mai.github.io/MAI-Gym)",
     "review_14d": null
+  },
+  {
+    "id": 374,
+    "term": "dsh-superagent",
+    "source": "github",
+    "score": 0.88,
+    "first_seen": "2026-11-01T00:32+08:00",
+    "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+    "excerpt": "deepseek-ai/dsh-superagent-prototype (created 2026-10-31 17:32 BJT, 1.3k★ in <7h): \"a proactive coding agent for one GitHub repository, packaged as a bundle for DeepSeek Harness. It listens to GitHub and, optionally, Feishu...\" MIT, research prototype. X: @leo114119 60♥/7.2k views, @Mashiro_0619 42♥/4.8k, @teortaxesTex 43♥/3k.",
+    "review_14d": null
+  },
+  {
+    "id": 375,
+    "term": "telemetry.dev",
+    "source": "x",
+    "score": 0.62,
+    "first_seen": "2026-11-01T00:32+08:00",
+    "url": "https://x.com/ephraimduncan/status/2116506521077186947",
+    "excerpt": "@ephraimduncan: \"#4 on Product Hunt, help us get to #1\" (60♥/2k views). Product Hunt Oct 31 2026: telemetry.dev — \"LLM observability for AI agents\", #3 of the day, 128 upvotes; OpenTelemetry-based traces, prompt management, evals, alerts, CLI + MCP server.",
+    "review_14d": null
   }
 ]
