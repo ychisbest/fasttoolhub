@@ -1247,7 +1247,7 @@
     "first_seen": "2026-10-16T16:32+08:00",
     "url": "https://www.perplexity.ai/hub/blog/open-sourcing-space",
     "excerpt": "Perplexity @perplexity_ai Oct 15 17:03Z open-sources SPACE (Sandboxed Platform for Agentic Code Execution) — Firecracker microVM sandbox behind Perplexity Computer; Apache 2.0. Official post 1,679 likes / 143k impr / 1,297 bookmarks; CEO Aravind Srinivas 1,119 likes / 66k; Nate Kupp eng post 59 likes. GH perplexityai/SPACE ~773★ (created Oct 1, OSS announce Oct 15); Semafor/Cointelegraph; partners CoreWeave/Akamai/Crusoe. Docs: space.docs.perplexity.ai.",
-    "review_14d": null
+    "review_14d": "n/a|2026-10-31|generic word, Trends not attributable"
   },
   {
     "id": 126,
@@ -1297,7 +1297,7 @@
     "first_seen": "2026-10-17T00:32+08:00",
     "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
     "excerpt": "Elorian (ex-DeepMind Andrew Dai; $55M seed) launched Glimpse on 2026-10-16 as research preview — visual reasoning model that re-visits images/video mid-thought (crop, frames, code). Claims beat GPT-6 Astra on scientific chart reasoning; early access at elorian.ai/models.",
-    "review_14d": null
+    "review_14d": "n/a|2026-10-31|generic word, Trends not attributable"
   },
   {
     "id": 131,
@@ -3607,6 +3607,76 @@
     "first_seen": "2026-10-31T08:32+08:00",
     "url": "https://github.com/dbreunig/nesformer",
     "excerpt": "\"An NES CPU compiled into the weights of a stock Qwen3.5 model. ... Nobody trained these weights; a compiler computed every one. When you play a game, the model predicts the CPU's execution log one token at a time.\" (149★ within a day)",
+    "review_14d": null
+  },
+  {
+    "id": 362,
+    "term": "Simlock",
+    "source": "x",
+    "score": 0.8,
+    "first_seen": "2026-10-31T12:32+08:00",
+    "url": "https://x.com/ChmalSzymon/status/2116118360270495865",
+    "excerpt": "Szymon Chmal (@ChmalSzymon): \"Introducing Simlock: a free, open-source tool that turns your machine into a simulator cloud that manages itself, so every coding agent gets its own iOS or Android device, simulator or real phone.\" (813 likes, ~42.5k views)",
+    "review_14d": null
+  },
+  {
+    "id": 363,
+    "term": "Ludi 0.2",
+    "source": "x",
+    "score": 0.8,
+    "first_seen": "2026-10-31T12:32+08:00",
+    "url": "https://x.com/SiliconANGLE/status/2116230519503405166",
+    "excerpt": "SiliconANGLE (@SiliconANGLE): \"Krafton-backed Ludo Robotics releases robot intelligence model designed around human intent\"; NXTDAY (@nxtday): \"Ludo Robotics just released Ludi 0.2, a robot model aimed at reading human intent in the real world… 0.2 adds social memory, gesture reading, and tool…\"",
+    "review_14d": null
+  },
+  {
+    "id": 364,
+    "term": "Lightberry Lumi",
+    "source": "x",
+    "score": 0.7,
+    "first_seen": "2026-10-31T12:32+08:00",
+    "url": "https://x.com/i/trending/2116357500177981716",
+    "excerpt": "X News: \"Lightberry's pint-sized Lumi robot just cleared a major U.S. security hurdle, becoming the only humanoid cleared for American shelves amid a ban on foreign rivals.\"",
+    "review_14d": null
+  },
+  {
+    "id": 365,
+    "term": "Glif UGC Studio",
+    "source": "x",
+    "score": 0.7,
+    "first_seen": "2026-10-31T12:32+08:00",
+    "url": "https://x.com/i/trending/2116361596922413067",
+    "excerpt": "X News: \"Imagine uploading a sneaker photo and getting a full unboxing video with a consistent AI model handling every detail. Glif just made that real with its new UGC Studio feature.\"",
+    "review_14d": null
+  },
+  {
+    "id": 366,
+    "term": "Project Suncatcher",
+    "source": "x",
+    "score": 0.6,
+    "first_seen": "2026-10-31T12:32+08:00",
+    "url": "https://x.com/i/trending/2116219625428209768",
+    "excerpt": "X News: \"A tiny satellite in orbit just powered up Google's AI chips with solar energy and beamed back a poetic haiku about Earth from above.\" … \"Google's Project Suncatcher satellite, launched October 1 on a SpaceX rocket with Planet, successfully ran the Gemma 4 model on four TPUs this week.\"",
+    "review_14d": null
+  },
+  {
+    "id": 367,
+    "term": "ROCm HRX Loom",
+    "source": "x",
+    "score": 0.65,
+    "first_seen": "2026-10-31T12:32+08:00",
+    "url": "https://x.com/spx680/status/2116355586971598878",
+    "excerpt": "@spx680: \"10月31日：AMD发布ROCm Loom 0.1实现CPU/GPU/NPU统一编译…\" (Oct 31: AMD released ROCm Loom 0.1, unified compilation for CPU/GPU/NPU); corroborated by Phoronix \"AMD's ROCm HRX Loom v0.1 Released For Targeting AMD CPUs, GPUs & NPUs\".",
+    "review_14d": null
+  },
+  {
+    "id": 368,
+    "term": "KineDB",
+    "source": "sitemap",
+    "score": 0.55,
+    "first_seen": "2026-10-31T12:32+08:00",
+    "url": "https://runtimewire.com/article/kinedb-pre-seed-offline-database",
+    "excerpt": "RuntimeWire: \"KineDB raises €850K to put offline sync inside the database — KineDB co-founders Axel Loewenhoff and Allan Zimmermann are building one engine for local devices and backend infrastructure. Superhero Capital led the pre-seed round.\"",
     "review_14d": null
   }
 ]

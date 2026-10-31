@@ -1,0 +1,13 @@
+---
+slug: "lightberry-lumi"
+term: "Lightberry Lumi"
+locale: "en"
+date: "2026-10-31T12:32+08:00"
+source: "x"
+score: 0.7
+url: "https://x.com/i/trending/2116357500177981716"
+excerpt: "X News: \"Lightberry's pint-sized Lumi robot just cleared a major U.S. security hurdle, becoming the only humanoid cleared for American shelves amid a ban on foreign rivals.\""
+intro: "**Lumi** is an interactive humanoid robot line from **Lightberry**, a San Francisco startup building autonomous robots that \"live and work around people\". On **October 30, 2026**, Lightberry announced that Lumi had passed a national-security review by the U.S. Department of War, and the FCC's Public Safety and Homeland Security Bureau exempted \"Lumi Interactive mobile robots\" from the **FCC Covered List** (Public Notice DA 26-1181).\n\nThat makes Lightberry, by its own account, the first and so far only humanoid-robot company cleared under the July 2026 rule that bars new foreign-produced advanced robots from the U.S. market."
+explain: "## Key facts\n\n- **Size**: about 4 ft 2 in (1.3 m), roughly 40 kg; 34 degrees of freedom with a G1-compatible 29-DoF body.\n- **Battery**: around 2.5–3.5 hours of operation.\n- **Use cases**: conversation, storytelling, guiding visitors — an \"interactive\" social humanoid rather than an industrial worker.\n- **Price**: Founder Editions reported at **$39,990**.\n\n## Why it was approved\n\nLightberry made two commitments to the Department of War:\n\n1. **Full control of the stack** – replacing the robot's sensors, onboard computer and software with its own.\n2. **American manufacturing** – starting with Lumi's body, head and hands in the U.S., with the rest to follow.\n\nThe exemption is **conditional**: it depends on continued compliance with that onshoring plan and ongoing vetting.\n\n## Context\n\nIn July 2026 the FCC added foreign-produced advanced robotic devices, including humanoids, to the Covered List, meaning they cannot get the FCC authorization needed to be imported or sold. Approved devices are carved out one by one through DoW Conditional Approvals."
+usage: "## Learn more\n\n- Official announcement: [lightberry.com/press/dow-approval](https://lightberry.com/press/dow-approval)\n- Product page & specs: [lightberry.com/lumi](https://lightberry.com/lumi)\n- FCC notice summary: [DA 26-1181](https://fccid.io/news/fcc-pshsb-conditional-approvals-covered-list-exemption-da-26-1181)\n\n## Who should care\n\n- Businesses looking for a reception / guide / education robot that can legally ship in the U.S.\n- Robotics founders tracking how the FCC Covered List and DoW Conditional Approvals shape the U.S. humanoid market."
+---

@@ -1,0 +1,13 @@
+---
+slug: "project-suncatcher"
+term: "Project Suncatcher"
+locale: "en"
+date: "2026-10-31T12:32+08:00"
+source: "x"
+score: 0.6
+url: "https://x.com/i/trending/2116219625428209768"
+excerpt: "X News: \"A tiny satellite in orbit just powered up Google's AI chips with solar energy and beamed back a poetic haiku about Earth from above.\" … \"Google's Project Suncatcher satellite, launched October 1 on a SpaceX rocket with Planet, successfully ran the Gemma 4 model on four TPUs this week.\""
+intro: "**Project Suncatcher** is Google's research moonshot to explore **solar-powered AI data centers in space**: constellations of satellites carrying TPUs, powered by near-continuous sunlight. Its first **prototype satellite**, built with Planet and launched on **October 1, 2026**, went online in late October 2026 and ran Google's **Gemma 4** model on data-center-class TPUs in orbit.\n\nThe first downlinked response was a haiku: *\"Blue marble below / Data streams in silent grace / Starlight feeds my core.\"* Sundar Pichai called it a \"hello world\" moment for AI compute in space."
+explain: "## What happened\n\n- The prototype carries **four TPUs** and is powered by solar energy.\n- Engineers sent prompts from the ground; the chips powered on, ran inference with **Gemma 4**, and returned the result — the first time Google commanded AI chips in space end-to-end.\n- Follow-up tests included limericks and telemetry prompts.\n\n## Why it matters\n\n- **Energy**: in the right orbit, solar panels receive far more steady energy than on the ground, a possible answer to AI's growing power demand.\n- **Hardware resilience**: the mission tests how TPUs tolerate **space radiation** and large **temperature swings**.\n- **Next steps**: Google plans **two more satellites in 2027** to study distributed computing across spacecraft, plus further thermal and radiation testing.\n\nIt is a research prototype, not a commercial service."
+usage: "## Read more\n\n- Google blog: [Project Suncatcher satellite response](https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/)\n- Google blog: [The prototype is in orbit](https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/)\n- Coverage: [TechCrunch](https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/), [The Verge](https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission)\n\n## Who should care\n\nAnyone following AI infrastructure, data-center energy, space tech, or edge deployment of open models like Gemma."
+---
