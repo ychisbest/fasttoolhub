@@ -3548,5 +3548,65 @@
     "url": "https://huggingface.co/datasets/TheAgenticDataCompany/open-yap-1k",
     "excerpt": "\"Today we're releasing Open Yap 1K: 1,000 hours of dual-channel English conversation, capturing how people speak together naturally in real-world environments recorded in 48kHz. The dataset ships free for both commercial and research use.\"",
     "review_14d": null
+  },
+  {
+    "id": 356,
+    "term": "Ampersand Tutor",
+    "source": "x",
+    "score": 0.86,
+    "first_seen": "2026-10-31T08:32+08:00",
+    "url": "https://x.com/humansand/status/2116186245802127411",
+    "excerpt": "humans& (@humansand): \"Introducing Ampersand Tutor (&Tutor) - we trained a model to learn like people, then trained &Tutor to teach it. On a widely-used tutor model eval, &Tutor performed best.\" (455 likes, ~60k views)",
+    "review_14d": null
+  },
+  {
+    "id": 357,
+    "term": "agent-desktop",
+    "source": "x",
+    "score": 0.8,
+    "first_seen": "2026-10-31T08:32+08:00",
+    "url": "https://x.com/ctatedev/status/2116323148706771302",
+    "excerpt": "Chris Tate (@ctatedev): \"Introducing agent-desktop — agent-browser, for your whole computer. → Computer Use for any coding agent → macOS, Windows and Linux → Runs in bg while you keep working → Agents use your computer in parallel\". Guillermo Rauch: \"New from Vercel Labs: agent-desktop\".",
+    "review_14d": null
+  },
+  {
+    "id": 358,
+    "term": "Sperid Idol",
+    "source": "huggingface",
+    "score": 0.78,
+    "first_seen": "2026-10-31T08:32+08:00",
+    "url": "https://huggingface.co/speridlabs/idol",
+    "excerpt": "\"Idol turns one picture of an object into a 3D Gaussian splat. Give it a render, a generated image or a photo: it removes the background, frames the object and generates up to 1,048,576 Gaussians... It runs on consumer GPUs, using 7.2 GB of VRAM and can run in under 2 seconds.\" (HF trending, 147 likes; Apache-2.0)",
+    "review_14d": null
+  },
+  {
+    "id": 359,
+    "term": "PrimeSim",
+    "source": "x",
+    "score": 0.72,
+    "first_seen": "2026-10-31T08:32+08:00",
+    "url": "https://www.woshipm.com/digest/525690",
+    "excerpt": "\"On October 30, Qiyuan Robotics launched PrimeSim, a world-model simulator for robot training... PrimeSim topped the WorldSimProbe LIBERO overall board, taking first place in three of five tests. RL with PrimeSim lifted policy success from 61.7% to 73.2%.\"",
+    "review_14d": null
+  },
+  {
+    "id": 360,
+    "term": "Mundo",
+    "source": "x",
+    "score": 0.72,
+    "first_seen": "2026-10-31T08:32+08:00",
+    "url": "https://mundo-world-model.github.io/",
+    "excerpt": "\"Take a few photos of a room, and Mundo turns them into a world you can explore and simulate. You can explore the room from any viewpoint, make a drawer slide open and an apple fly out, or have a robot walk in and set a bag on the bed.\"",
+    "review_14d": null
+  },
+  {
+    "id": 361,
+    "term": "nesformer",
+    "source": "github",
+    "score": 0.62,
+    "first_seen": "2026-10-31T08:32+08:00",
+    "url": "https://github.com/dbreunig/nesformer",
+    "excerpt": "\"An NES CPU compiled into the weights of a stock Qwen3.5 model. ... Nobody trained these weights; a compiler computed every one. When you play a game, the model predicts the CPU's execution log one token at a time.\" (149★ within a day)",
+    "review_14d": null
   }
 ]
