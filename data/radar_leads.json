@@ -3768,5 +3768,35 @@
     "url": "https://huggingface.co/h2oai/timeh2o-v1",
     "excerpt": "H2O.ai (press release Oct 26 2026; @h2oai Oct 31 post): 108M-param zero-shot time-series foundation model, #1 of 32 on fev-bench (91.9% win rate, skill 50.8), lowest MASE/CRPS on GIFT-Eval; open weights on HF (non-commercial), plus TimeH2O-v1-tiny.",
     "review_14d": null
+  },
+  {
+    "id": 378,
+    "term": "Stageshow",
+    "source": "x",
+    "score": 0.82,
+    "first_seen": "2026-11-01T08:32+08:00",
+    "url": "https://x.com/benjitaylor/status/2116593247854453244",
+    "excerpt": "@benjitaylor (X head of design), Oct 31 2026, ~4.7k likes: \"Stageshow: a skill that helps your agent make better faux UI stills, animations, bento grids, and more. npx skills add benjitaylor/skills --skill stageshow\" — MIT-licensed agent skill with React kit + film.mjs frame review; write-up at benji.org/stageshow.",
+    "review_14d": null
+  },
+  {
+    "id": 379,
+    "term": "HackerTube",
+    "source": "sitemap",
+    "score": 0.78,
+    "first_seen": "2026-11-01T08:32+08:00",
+    "url": "https://karpathy.bearblog.dev/hacker-tube/",
+    "excerpt": "Andrej Karpathy, Oct 31 2026: built HackerTube (hackertube.org), a YouTube alternative of 6,454 videos recommended in Hacker News comments 2007–2026, using Claude Opus 5.5 in ~2 hours. HN story 592 points / 214 comments; covered by RuntimeWire.",
+    "review_14d": null
+  },
+  {
+    "id": 380,
+    "term": "DSH Go",
+    "source": "github",
+    "score": 0.72,
+    "first_seen": "2026-11-01T08:32+08:00",
+    "url": "https://github.com/ccch1mneyyy/dsh-Go",
+    "excerpt": "ccch1mneyyy/dsh-Go (AGPL-3.0, Flutter, ~3.6k stars, 163 forks; v1.0 Oct 30 → v1.0.7 Oct 31 2026): unofficial Android client that runs DeepSeek Harness (DSH) locally on the phone with a bundled Linux env (no root/Termux) or remote-controls DSH on your computer. GitHub trending; widely shared on X.",
+    "review_14d": null
   }
 ]
