@@ -1237,7 +1237,7 @@
     "first_seen": "2026-10-16T16:32+08:00",
     "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
     "excerpt": "OpenAI @OpenAI official Oct 15 21:15Z: \"We're expanding access to GPT-Rosalind for academic research. The new Rosalind Academic Plan...\" — 2,226 likes / 236k impressions / 414 bookmarks / 212 RTs. Dedicated life-sciences model + Rosalind Workbench (chem/genomics/wet-lab). Eligible U.S. university labs: up to 30 free ChatGPT Business seats for 12 months after trusted-access. Blog: openai.com/index/introducing-the-rosalind-academic-plan; product hub openai.com/rosalind/. X News included in AI launch digests.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-01|q='GPT-Rosalind' pre7=0.0 last7=9.3 peak=100"
   },
   {
     "id": 125,
@@ -1257,7 +1257,7 @@
     "first_seen": "2026-10-16T16:32+08:00",
     "url": "https://github.com/Leonxlnx/earshot",
     "excerpt": "Leon Lin @LexnLin Oct 15 23:40Z \"Introducing earshot — ears for AI coding agents\" — 1,307 likes / 38.8k impressions / 1,363 bookmarks / 55 RTs. CPU-only local audio describe/match/critique + earshot forge (code→listen→score loop). GH Leonxlnx/earshot created 2026-10-15, ~134★; Claude Code MCP `python -m earshot mcp`; RuntimeWire coverage Oct 15.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-01|q='earshot' pre7=21.3 last7=9.4 peak=100"
   },
   {
     "id": 127,
@@ -1267,7 +1267,7 @@
     "first_seen": "2026-10-17T00:32+08:00",
     "url": "https://memory.hunyuan.tencent.com/",
     "excerpt": "Tencent Hunyuan open-sourced Hy Memory 2.0 on 2026-10-16: Hy-Memory-30B-A3B (~3B active memory writer, HF 90 likes), hy-memory SDK, and MemHub (CLI+Mac) syncing memory across 10+ AI tools. Official @TencentHunyuan post ~37k impressions / 741 likes; claims 55.49 macro avg vs Opus 5 54.62 across 4 memory harnesses.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-01|q='Hy Memory 2.0' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 128,
@@ -1277,7 +1277,7 @@
     "first_seen": "2026-10-17T00:32+08:00",
     "url": "https://www.liquid.ai/blog/d1-ultra",
     "excerpt": "Liquid AI released d1-ultra on 2026-10-15: multimodal decision model (text+images) returning calibrated Boolean/Choice/Score probabilities with zero output tokens; $0.042/M input. Tops Decision Index vs Jev 1.14; on Liquid API, Vercel AI Gateway, OpenRouter (liquid/d1-ultra). Distinct from earlier LiquidAI d1-3B.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-01|q='d1-ultra' pre7=0.0 last7=35.7 peak=100"
   },
   {
     "id": 129,
@@ -1287,7 +1287,7 @@
     "first_seen": "2026-10-17T00:32+08:00",
     "url": "https://kling.ai/blog/kling40-kling-visual-realism-creative-control-introducing-storytelling",
     "excerpt": "Kuaishou Kling AI made Kling 4.0 fully available ~2026-10-15/16: native 3–30s video, up to 10 keyframes / 15 Omni Reference inputs, MCP+CLI access. Official @Kling_ai announcement ~111k impressions / 942 likes; GlobeNewswire global launch PR Oct 16.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-01|q='Kling 4.0' pre7=36.4 last7=61.0 peak=100"
   },
   {
     "id": 130,
@@ -1307,7 +1307,7 @@
     "first_seen": "2026-10-17T00:32+08:00",
     "url": "https://github.com/feder-cr/git-ai",
     "excerpt": "feder-cr/git-ai — \"Git designed for AI agents.\" Created 2026-10-15, already ~1038 stars within ~1 day. Distinctive coinage among fresh high-star agent tooling repos.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-01|q='git-ai' pre7=0.0 last7=23.0 peak=100"
   },
   {
     "id": 132,
@@ -1317,7 +1317,7 @@
     "first_seen": "2026-10-17T08:32+08:00",
     "url": "https://github.com/OpenMOSS/MOSS-Image",
     "excerpt": "OpenMOSS released MOSS-Image Base and SFT on Oct 16: 5B single-stream DiT text-to-image models, Apache 2.0, bilingual text rendering, JSON/bounding-box layout control. HF MOSS-Image-SFT 134 likes, Base 125; HF Space trending; GH repo created 2026-10-16 (207★); ComfyUI native support, 8-step finetune/LoRAs, kohya support, JP/EN community calling it better than FLUX 3 Klein / Qwen-Image-2.1.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-01|q='MOSS-Image' pre7=8.9 last7=49.4 peak=100"
   },
   {
     "id": 133,
@@ -1327,7 +1327,7 @@
     "first_seen": "2026-10-17T08:32+08:00",
     "url": "https://github.com/NVlabs/ASPIRE",
     "excerpt": "NVIDIA GEAR lab (Jim Fan) open-sourced ASPIRE v1.0 (Agentic Skills Discovery for Robotics) on Oct 16: coding agents write, debug and save reusable robot skills; dual-arm robot solved a real Rubik's Cube in 16 moves; ~99% on 80 LIBERO-Pro tasks after swapping in GPT-6 Astra; Apache 2.0. Jim Fan's post had 35k views / 589 likes; X trending story. Project page research.nvidia.com/labs/gear/aspire/.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-01|q='NVIDIA ASPIRE' pre7=39.4 last7=39.0 peak=100"
   },
   {
     "id": 134,
@@ -1337,7 +1337,7 @@
     "first_seen": "2026-10-17T08:32+08:00",
     "url": "https://developers.reflection.ai/mirror-overview",
     "excerpt": "Reflection open-sourced Mirror CLI (beta), the terminal coding agent / harness Beam was trained against, alongside Beam 1.0 open weights on Oct 16. Install via `uv tool install reflection-mirror` or the reflection-oss/mirror-beta installer; defaults to Beam-1.0-501B-A23B, supports worktrees, MCP, ACP. Launch post by @nayshins had 17k views; Misha Laskin's and Reflection's posts mention it.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-01|q='Mirror CLI' pre7=0.0 last7=38.9 peak=100"
   },
   {
     "id": 135,
@@ -1347,7 +1347,7 @@
     "first_seen": "2026-10-17T08:32+08:00",
     "url": "https://getartcraft.com/apps/photocraft",
     "excerpt": "Core apps of the ArtCraft open-source Rust creative suite (storytold): PhotoCraft (Photoshop alternative, 65k★, created Sep 30), VectorCraft (9.5k★), PdfCraft (15k★). Lots of X chatter in the window (Wes Bos testing PhotoCraft with PSD files, 'uninstall Photoshop/Illustrator/Acrobat → PhotoCraft/VectorCraft/PDFCraft', Arabic/Spanish/PT/JP posts).",
-    "review_14d": null
+    "review_14d": "miss|2026-11-01|q='PhotoCraft' pre7=83.1 last7=20.3 peak=100"
   },
   {
     "id": 136,
@@ -1357,7 +1357,7 @@
     "first_seen": "2026-10-17T08:32+08:00",
     "url": "https://blog.cloudflare.com/deploy-with-void/",
     "excerpt": "Cloudflare and VoidZero (the Vite team) open-sourced Void on Oct 16: Void SDK + Void CLI + self-hostable Void Platform in one npm package (`npm install void`, `void deploy`). It builds Vite apps, infers and provisions D1/queues/AI bindings, and deploys to Workers. Site: void.cloud. Many EN/JP/ZH posts.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-01|q='Cloudflare Void' pre7=5.6 last7=1.4 peak=100"
   },
   {
     "id": 137,
@@ -1367,7 +1367,7 @@
     "first_seen": "2026-10-17T08:32+08:00",
     "url": "https://www.prnewswire.com/news-releases/meshy-debuts-new-in-house-ai-model-with-meshy-edit-letting-users-change-selected-parts-of-a-3d-model-with-one-prompt-302911259.html",
     "excerpt": "Meshy launched Meshy Edit on Oct 16 (PR Newswire), running on a new in-house model. You lasso part of a 3D model, describe the change, and get a new model in about 1 minute. 20 credits per edit, works on Meshy 6 / 7.1 high-poly drafts. Posts in EN/ZH/JP/DE.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-01|q='Meshy Edit' pre7=0.0 last7=57.6 peak=100"
   },
   {
     "id": 138,
@@ -1377,7 +1377,7 @@
     "first_seen": "2026-10-17T08:32+08:00",
     "url": "https://github.com/Niko1221/Strata",
     "excerpt": "Strata (Niko1221/Strata, by @coldniko) is an inference engine with a one-click installer that runs the 125B Qwen3.8-Flash-Next on a 12GB consumer GPU + 32GB RAM (RTX 5070: 94 tok/s at Q2). It serves OpenAI/Anthropic APIs on localhost. 26k★ (created Sep 24). Viral posts on Oct 15–16 (QwenAIFans 105k views, RoundtableSpace 55k), plus a community UI and ongoing 'Strata engine' chatter in the window.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-01|q='Strata engine' pre7=14.3 last7=55.1 peak=100"
   },
   {
     "id": 139,
@@ -1387,7 +1387,7 @@
     "first_seen": "2026-10-17T08:32+08:00",
     "url": "https://getartcraft.com/apps",
     "excerpt": "New ArtCraft suite apps found in the getartcraft.com sitemap (first baseline this run): FigCraft (Figma-like interface design, created Oct 9, 2k★, 'inserted as #9' per X), FilmCraft (video editor, 14k★), LightCraft (photo library/raw developer, 13k★), EffectCraft (motion graphics, 7k★), DesignCraft (page layout, 4k★).",
-    "review_14d": null
+    "review_14d": "miss|2026-11-01|q='FigCraft' pre7=46.9 last7=36.0 peak=100"
   },
   {
     "id": 140,
@@ -1397,7 +1397,7 @@
     "first_seen": "2026-10-17T16:32+08:00",
     "url": "https://amos.scira.ai/",
     "excerpt": "Zaid Mukaddam (Scira) launched Amos 1 on Oct 13: four Apache-2.0 open-weight decision models (0.5B mini → 27B large) that read text/JSON/photos and return typed probabilities (no text generation) in 27–122 ms. Decision Bench 94.9% (#1 vs Perplexity Decider / Gemini / Jev); JevBench hard 84.7 vs Jev 74.1. Free API api.amos.scira.ai. Launch tweet ~32k views / 857 likes; still compared vs Mercury Decide / Jev 1.14 in this window. HF mukaddamzaid/amos-1-large 16★.",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-01|generic word, Trends not attributable"
   },
   {
     "id": 141,
@@ -1407,7 +1407,7 @@
     "first_seen": "2026-10-17T16:32+08:00",
     "url": "https://launa-model.github.io/",
     "excerpt": "Salesforce AI Research (Resonance, with Arcanum) introduced Launa Omni v1 (voice agent) and Launa Transcribe v2 (ASR). Omni leads VoiceBench at 90.60% and Audio MultiChallenge 59.07%; Transcribe v2 competes with Cartesia Ink 2 / AssemblyAI Universal-3.5 Pro on MU-Bench/FLEURS. BenchLeader first listed Salesforce Launa Omni 1 on Oct 17. Proprietary; project page launa-model.github.io.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-01|no Trends data for 'Launa Omni'"
   },
   {
     "id": 142,
@@ -1417,7 +1417,7 @@
     "first_seen": "2026-10-17T16:32+08:00",
     "url": "https://basal.si5.pl/en/blog/basal-2-1/",
     "excerpt": "Remek Kinas (basal.si5.pl) released basal-omni multimodal typed-decision models (Gemma 4): mini/max Oct 14, and basal-omni-1.0-ultra (31B) + experimental 1.1-max made public on HF Sat Oct 17. Ultra scores 0.879 on Werdykt vs Jev 1.14 0.822, level with Liquid d1-ultra; engine basal 2.1 adds classify/verify/compress/extract. HF Remek/basal-omni-*; PL community comparing vs Jev/Amos. Sitemap baseline added this run.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-01|q='basal-omni' pre7=0.0 last7=2.7 peak=100"
   },
   {
     "id": 143,
@@ -1427,7 +1427,7 @@
     "first_seen": "2026-10-17T16:32+08:00",
     "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
     "excerpt": "CERN + Mistral signed a statement of intent (Oct 15) to build Flare, a named Large Physics Model billed as the first foundation model for collider physics, pretrained on billions of simulated LHC collisions for reconstruction / particle ID / anomaly detection. Reuters/CNA coverage; CERN AI Lighthouse LH7; first models targeted ~2029. No weights or timeline yet. Ongoing EN posts in this window (~567 views on one Oct 17 explainer).",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-01|generic word, Trends not attributable"
   },
   {
     "id": 144,
@@ -1437,7 +1437,7 @@
     "first_seen": "2026-10-18T00:32+08:00",
     "url": "https://rek.com/sim",
     "excerpt": "REK (@REK, verified) announced REK Sim for iOS (beta) on Oct 16: a 1:1 physics + robot-AI sim on iPhone/iPad so anyone can train as a robot pilot. Launch tweet ~25k impressions / 344 likes / 63 RTs; also on Steam & Meta Quest. Official site rek.com/sim; TestFlight beta for touch controls. Digital twin of REK live robot fights.",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-01|generic word, Trends not attributable"
   },
   {
     "id": 145,
@@ -1447,7 +1447,7 @@
     "first_seen": "2026-10-18T00:32+08:00",
     "url": "https://github.com/apple-aiml-research/ml-rsi-inference-bench",
     "excerpt": "Apple ML Research introduced RSI-Inference Bench (~Oct 16): benchmark + environments from real vLLM/SGLang inference-engineering tasks (day-0 model support, optimization, bugfix). Best agent 26.7% pass@1 after ~$100K API tokens and 50K GPU hours. Site rsi-inference.com; GH apple-aiml-research/ml-rsi-inference-bench.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-01|no Trends data for 'RSI-Inference Bench'"
   },
   {
     "id": 146,
@@ -1457,7 +1457,7 @@
     "first_seen": "2026-10-18T00:32+08:00",
     "url": "https://www.lighton.ai/research/lightonocr-3",
     "excerpt": "LightOn released LightOnOCR-3 on Oct 8 (Apache 2.0): 0.8B/1B/4B end-to-end OCR family with layout boxes, image descriptions, and chart-data extraction in one model. Leads open-weight ParseBench; HF models + trending demo space LightOnOCR-3-Demo. On OpenDocRouter ~$3.19/1k pages.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-01|q='LightOnOCR-3' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 147,
@@ -1467,7 +1467,7 @@
     "first_seen": "2026-10-18T00:32+08:00",
     "url": "https://www.datalab.to/blog/chandra-2-5",
     "excerpt": "Datalab blog (new sitemap path) Chandra 2.5: live in API/playground as of ~Oct 14, replaces Chandra OCR 2.4. Adds structured image-description fields (alt/text/axes/data/mermaid/description), cuts median single-page latency ~40–43%, reduces script confusions ~7x. Used by fast/balanced/accurate modes.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-01|no Trends data for 'Chandra 2.5'"
   },
   {
     "id": 148,
@@ -1477,7 +1477,7 @@
     "first_seen": "2026-10-18T08:32+08:00",
     "url": "https://reasonmachines.com/network",
     "excerpt": "Reason (@reasonmachines) launched Reason Network (engine Apache 2.0): P2P mesh so Grok Bot/Muse/Claude Code/Codex/Cursor/Gemini CLI/opencode/Pi sessions see each other and hand work over LAN or relay. Launch post ~495k impressions / 3.6k likes (Oct 16); docs + GH reason-machines/reason-network; CLI `reason network setup` / `serve claude|grok|codex`. Sustained chatter through Oct 17–18 window.",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-01|generic word, Trends not attributable"
   },
   {
     "id": 149,
@@ -1487,7 +1487,7 @@
     "first_seen": "2026-10-18T08:32+08:00",
     "url": "https://x.com/HuggingPapers/status/2111550571547144486",
     "excerpt": "Google Cloud AI Research released Harness² (Harness squared): refines a task harness without ground-truth verifiers, then learns from edits to improve future harnessing; up to +11.5 points with model weights frozen. Circulating via HuggingPapers Oct 17 (~1.3k impressions on seed post).",
-    "review_14d": null
+    "review_14d": "hit|2026-11-01|q='Harness²' pre7=0.0 last7=15.1 peak=100"
   },
   {
     "id": 150,
@@ -1497,7 +1497,7 @@
     "first_seen": "2026-10-18T08:32+08:00",
     "url": "https://thecontext.dev/en/briefing/2026-10-18/",
     "excerpt": "Obsidian CEO kepano released Pele: open-source Mermaid-syntax→SVG library, CSS-variable theming, ~230 KB gzip, claims up to ~500x faster than Mermaid.js; HN ~112 points in the Oct 17 window.",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-01|generic word, Trends not attributable"
   },
   {
     "id": 151,
@@ -3797,6 +3797,36 @@
     "first_seen": "2026-11-01T08:32+08:00",
     "url": "https://github.com/ccch1mneyyy/dsh-Go",
     "excerpt": "ccch1mneyyy/dsh-Go (AGPL-3.0, Flutter, ~3.6k stars, 163 forks; v1.0 Oct 30 → v1.0.7 Oct 31 2026): unofficial Android client that runs DeepSeek Harness (DSH) locally on the phone with a bundled Linux env (no root/Termux) or remote-controls DSH on your computer. GitHub trending; widely shared on X.",
+    "review_14d": null
+  },
+  {
+    "id": 381,
+    "term": "Reducto Office",
+    "source": "sitemap",
+    "score": 0.82,
+    "first_seen": "2026-11-01T12:32+08:00",
+    "url": "https://www.prnewswire.com/news-releases/introducing-reducto-office-bringing-full-fidelity-document-editing-to-chatgpt-and-codex-302924156.html",
+    "excerpt": "PR Newswire, Oct 29, 2026: \"Reducto today introduced Reducto Office, a free plugin that brings document editing into ChatGPT and Codex. Office lets users work with AI agents on existing DOCX, PPTX and XLSX files, make targeted changes and review the results in a live editor.\" CEO Adit Abraham's launch post drew ~244k views.",
+    "review_14d": null
+  },
+  {
+    "id": 382,
+    "term": "Prospero",
+    "source": "x",
+    "score": 0.76,
+    "first_seen": "2026-11-01T12:32+08:00",
+    "url": "https://nullprogram.com/blog/2026/10/31/",
+    "excerpt": "Chris Wellons (nullprogram), Oct 31, 2026: \"At its core a coding harness is essentially curl glued to popen(). This should not require gigabytes of RAM. So I built my own: Prospero.\" — Hacker News front page, 181 points / 120 comments; repo skeeto/prospero.",
+    "review_14d": null
+  },
+  {
+    "id": 383,
+    "term": "NEAR AI RED",
+    "source": "x",
+    "score": 0.7,
+    "first_seen": "2026-11-01T12:32+08:00",
+    "url": "https://near.ai/blog/cybersecurity-models-and-near-ai-red-launch",
+    "excerpt": "NEAR AI blog, Oct 29, 2026: \"we're launching abliterated models for cybersecurity and NEAR AI Red, a program that helps security teams put powerful AI to work with confidential inference and protections they can verify.\" @NEARProtocol's post drew ~478 likes; Illia Polosukhin promoted the open-source RED Sandbox (~297 likes).",
     "review_14d": null
   }
 ]
