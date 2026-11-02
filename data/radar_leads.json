@@ -3948,5 +3948,25 @@
     "url": "https://plugins.jetbrains.com/plugin/33386-storybook-connect",
     "excerpt": "Callstack (Nov 2, 2026): \"Storybook Connect is now available across JetBrains IDEs! We built it with @WebStormIDE and @storybookjs, bringing story browsing, setup, and agent-ready tooling into the IDE.\"",
     "review_14d": null
+  },
+  {
+    "id": 396,
+    "term": "Hydrogen-1.0",
+    "source": "x",
+    "score": 0.9,
+    "first_seen": "2026-11-03T00:32+08:00",
+    "url": "https://x.com/DeepPrinciple/status/2117249008972550447",
+    "excerpt": "Deep Principle (Nov 2, 2026): \"Introducing Hydrogen-1.0, Deep Principle's first general-purpose large AI model, built to support scientific discovery.\" Open weights, post-trained from GLM-5.3 on lab records; 38.3% on FrontierScience-Research vs GPT-6 Astra's 33.3% (self-reported).",
+    "review_14d": null
+  },
+  {
+    "id": 397,
+    "term": "Sentira Single Cell",
+    "source": "sitemap",
+    "score": 0.75,
+    "first_seen": "2026-11-03T00:32+08:00",
+    "url": "https://www.prnewswire.com/news-releases/10x-genomics-launches-sentira-single-cell-a-new-agentic-ai-experience-for-chromium-analysis-302925391.html",
+    "excerpt": "10x Genomics (Nov 2, 2026): \"today announced the commercial launch of Sentira Single Cell, a cloud-based agentic analysis application... Powered by Anthropic's Claude... an AI agent plans and executes the analysis, then returns and documents experimental conclusions.\"",
+    "review_14d": null
   }
 ]
