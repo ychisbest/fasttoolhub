@@ -3928,5 +3928,25 @@
     "url": "https://huggingface.co/ServiceNow-AI/Apriel-Voice-27B-preview",
     "excerpt": "ServiceNow AI Research: \"Meet Apriel Voice 27B Preview: an open-weight voice AI built to get work done\" — Whisper large-v3-turbo encoder + Gemma 4 26B-A4B backbone, MIT license; speech in, text and tool calls out. Tech report posted Nov 2, 2026.",
     "review_14d": null
+  },
+  {
+    "id": 394,
+    "term": "Hyra 2.0",
+    "source": "x",
+    "score": 0.86,
+    "first_seen": "2026-11-02T20:32+08:00",
+    "url": "https://hy.tencent.ai/research",
+    "excerpt": "Tencent Hunyuan released Hyra 2.0 on Nov 2, 2026: an AutoResearch agent system with an Overall/Mission/Worker hierarchy that builds reusable scientific models and tools (HyInv, HyPLM-Flash, HyFF, HyQEC, HyProver) instead of one-off answers.",
+    "review_14d": null
+  },
+  {
+    "id": 395,
+    "term": "Storybook Connect",
+    "source": "x",
+    "score": 0.6,
+    "first_seen": "2026-11-02T20:32+08:00",
+    "url": "https://plugins.jetbrains.com/plugin/33386-storybook-connect",
+    "excerpt": "Callstack (Nov 2, 2026): \"Storybook Connect is now available across JetBrains IDEs! We built it with @WebStormIDE and @storybookjs, bringing story browsing, setup, and agent-ready tooling into the IDE.\"",
+    "review_14d": null
   }
 ]
