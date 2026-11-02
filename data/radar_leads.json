@@ -3828,5 +3828,85 @@
     "url": "https://near.ai/blog/cybersecurity-models-and-near-ai-red-launch",
     "excerpt": "NEAR AI blog, Oct 29, 2026: \"we're launching abliterated models for cybersecurity and NEAR AI Red, a program that helps security teams put powerful AI to work with confidential inference and protections they can verify.\" @NEARProtocol's post drew ~478 likes; Illia Polosukhin promoted the open-source RED Sandbox (~297 likes).",
     "review_14d": null
+  },
+  {
+    "id": 384,
+    "term": "LongCat-2.5",
+    "source": "x",
+    "score": 0.92,
+    "first_seen": "2026-11-02T12:32+08:00",
+    "url": "https://longcat.ai/blog/longcat-2.5",
+    "excerpt": "Meituan released LongCat-2.5 on Nov 2, 2026: native multimodal 1.6T/48B-active MoE for long-horizon agentic coding; API + longcat.ai live.",
+    "review_14d": null
+  },
+  {
+    "id": 385,
+    "term": "GDPx",
+    "source": "x",
+    "score": 0.88,
+    "first_seen": "2026-11-02T12:32+08:00",
+    "url": "https://gdpx.semianalysis.com/",
+    "excerpt": "SemiAnalysis launched GDPx on Nov 2, 2026: 206 agentic tasks across 11 high-ROI domains; top score Claude Opus 5.5 at 12.0%.",
+    "review_14d": null
+  },
+  {
+    "id": 386,
+    "term": "CivSwitch",
+    "source": "github",
+    "score": 0.85,
+    "first_seen": "2026-11-02T12:32+08:00",
+    "url": "https://github.com/Gezine/CivSwitch",
+    "excerpt": "Gezine released CivSwitch Nov 1, 2026: Switch/Switch 2 userland code execution via Civilization 7 physical cartridge XSS + Pico HID.",
+    "review_14d": null
+  },
+  {
+    "id": 387,
+    "term": "agentmash",
+    "source": "x",
+    "score": 0.82,
+    "first_seen": "2026-11-02T12:32+08:00",
+    "url": "https://agentmash.dev/",
+    "excerpt": "Open-source multiplayer layer for team coding agents; Product Hunt launch Nov 1, 2026 — agents warn each other before conflicting edits.",
+    "review_14d": null
+  },
+  {
+    "id": 388,
+    "term": "Agav",
+    "source": "x",
+    "score": 0.78,
+    "first_seen": "2026-11-02T12:32+08:00",
+    "url": "https://agav.dev/",
+    "excerpt": "Open-source terminal-native AI coding agent/harness emphasizing cost efficiency (49% cheaper than Codex on TB2.1 in their run); v0.2.1.",
+    "review_14d": null
+  },
+  {
+    "id": 389,
+    "term": "TextureCraft",
+    "source": "sitemap",
+    "score": 0.76,
+    "first_seen": "2026-11-02T12:32+08:00",
+    "url": "https://getartcraft.com/apps/texturecraft",
+    "excerpt": "ArtCraft open-source 3D PBR texture painting app rewritten in pure Rust; GPU bake, 8K, MCP/CLI agent-ready; new sitemap page this window.",
+    "review_14d": null
+  },
+  {
+    "id": 390,
+    "term": "HackerBooks",
+    "source": "sitemap",
+    "score": 0.72,
+    "first_seen": "2026-11-02T12:32+08:00",
+    "url": "https://hackerbooks.org",
+    "excerpt": "Show HN Nov 1, 2026: catalog of 16,543 books recommended in Hacker News comments with a daily reshuffled shelf (HackerTube for books).",
+    "review_14d": null
+  },
+  {
+    "id": 391,
+    "term": "uncut",
+    "source": "github",
+    "score": 0.7,
+    "first_seen": "2026-11-02T12:32+08:00",
+    "url": "https://github.com/Balanov/uncut",
+    "excerpt": "Balanov/uncut created Nov 1, 2026: lossless headless coding-agent harness — one ~7 MB static binary, four tools, plain stdin/stdout; 336★ same day.",
+    "review_14d": null
   }
 ]
