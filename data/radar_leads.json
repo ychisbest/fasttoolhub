@@ -3908,5 +3908,25 @@
     "url": "https://github.com/Balanov/uncut",
     "excerpt": "Balanov/uncut created Nov 1, 2026: lossless headless coding-agent harness — one ~7 MB static binary, four tools, plain stdin/stdout; 336★ same day.",
     "review_14d": null
+  },
+  {
+    "id": 392,
+    "term": "XuanYuan 4.5 (轩辕4.5)",
+    "source": "x",
+    "score": 0.82,
+    "first_seen": "2026-11-02T16:32+08:00",
+    "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724736.shtml",
+    "excerpt": "Nov 2, 2026 (Hong Kong FinTech Week): Du Xiaoman, HKUST and HKGAI jointly launched XuanYuan 4.5, a finance-enhanced LLM + multimodal model built with self-evolving RSI training; claims +30% in acquisition/risk/customer ops at ~10% the cost of general models.",
+    "review_14d": null
+  },
+  {
+    "id": 393,
+    "term": "Apriel Voice 27B",
+    "source": "x",
+    "score": 0.78,
+    "first_seen": "2026-11-02T16:32+08:00",
+    "url": "https://huggingface.co/ServiceNow-AI/Apriel-Voice-27B-preview",
+    "excerpt": "ServiceNow AI Research: \"Meet Apriel Voice 27B Preview: an open-weight voice AI built to get work done\" — Whisper large-v3-turbo encoder + Gemma 4 26B-A4B backbone, MIT license; speech in, text and tool calls out. Tech report posted Nov 2, 2026.",
+    "review_14d": null
   }
 ]
