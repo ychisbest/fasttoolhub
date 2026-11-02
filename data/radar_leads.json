@@ -3968,5 +3968,45 @@
     "url": "https://www.prnewswire.com/news-releases/10x-genomics-launches-sentira-single-cell-a-new-agentic-ai-experience-for-chromium-analysis-302925391.html",
     "excerpt": "10x Genomics (Nov 2, 2026): \"today announced the commercial launch of Sentira Single Cell, a cloud-based agentic analysis application... Powered by Anthropic's Claude... an AI agent plans and executes the analysis, then returns and documents experimental conclusions.\"",
     "review_14d": null
+  },
+  {
+    "id": 398,
+    "term": "Weight-Space Programming",
+    "source": "x",
+    "score": 0.85,
+    "first_seen": "2026-11-03T04:32+08:00",
+    "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+    "excerpt": "Rikiya Takehi (MIT CSAIL, Nov 2, 2026): \"We asked GPT-6 Astra to edit Qwen3.5-0.8B weights to improve math. It directly changed only 0.016% of weights ... without gradients or training. We call this Weight-Space Programming.\"",
+    "review_14d": null
+  },
+  {
+    "id": 399,
+    "term": "LifeVal",
+    "source": "sitemap",
+    "score": 0.85,
+    "first_seen": "2026-11-03T04:32+08:00",
+    "url": "https://openai.com/index/lifeval/",
+    "excerpt": "OpenAI (Nov 2, 2026): \"LifeVal — Measuring AI progress on the tasks that matter in everyday life,\" covering childcare, government services, budgets, groceries and more; GPT-6 Astra averages 80.6% vs 49.3% for GPT-5.2.",
+    "review_14d": null
+  },
+  {
+    "id": 400,
+    "term": "HogLake",
+    "source": "sitemap",
+    "score": 0.7,
+    "first_seen": "2026-11-03T04:32+08:00",
+    "url": "https://posthog.com/blog/moving-off-duckdb",
+    "excerpt": "PostHog (Nov 2, 2026): \"We rebuilt everything around our own flavor of Trino and created our own open table format, HogLake.\" HogLake: a petabyte-scale open table format, an evolution of DuckLake and Iceberg.",
+    "review_14d": null
+  },
+  {
+    "id": 401,
+    "term": "Collinear Zero",
+    "source": "x",
+    "score": 0.65,
+    "first_seen": "2026-11-03T04:32+08:00",
+    "url": "https://blog.collinear.ai/p/collinear-zero",
+    "excerpt": "Collinear AI (Nov 2, 2026): \"Introducing Collinear Zero: a Pareto-optimal defensive cyber agent. Zero adds independent attack testing, one fix round, and a final recheck to security patching.\" Open source; installs into OpenCode, Claude Code and Codex.",
+    "review_14d": null
   }
 ]
