@@ -4078,5 +4078,55 @@
     "url": "https://www.meshy.ai/blog/meshy-n1-texture",
     "excerpt": "Meshy N1 Texture live on web+API (ai_model=meshy-n1); 2K base-color retexture from 1–4 refs; ~3× faster than Meshy 7; sitemap + @MeshyAI launch",
     "review_14d": null
+  },
+  {
+    "id": 409,
+    "term": "SenseNova 6.8 Flash",
+    "source": "x+web",
+    "score": 0.92,
+    "first_seen": "2026-11-03T20:32+08:00",
+    "url": "https://www.sensetime.com/cn/news/sensenova-6-8-flash-release-20261103-1421",
+    "excerpt": "商汤正式发布日日新 SenseNova 6.8 Flash：多模态办公/设计 Agent，长期记忆与跨会话协作，支持动态PPT/海报/网页/SVG/Blender，并接入 Figma；已开放体验与 Token Plan。",
+    "review_14d": null
+  },
+  {
+    "id": 410,
+    "term": "FlashProve",
+    "source": "x+web",
+    "score": 0.9,
+    "first_seen": "2026-11-03T20:32+08:00",
+    "url": "https://www.anthropic.com/research/provable-inference",
+    "excerpt": "Anthropic open-sourced FlashProve, a zkSNARK research prototype for provable LLM inference (Llama 4 Maverick on 1×H100 ~110 tok/s proofs); Apache-2.0 code + Lean proofs.",
+    "review_14d": null
+  },
+  {
+    "id": 411,
+    "term": "NorthCUA-Pro",
+    "source": "hf+web+x",
+    "score": 0.88,
+    "first_seen": "2026-11-03T20:32+08:00",
+    "url": "https://huggingface.co/china-beipo/NorthCUA-Pro",
+    "excerpt": "Open-source 397B-A17B computer-use MoE agent (Qwen3.5-based) with NorthCUA Harness; reports 93.3% ScreenSpot-Pro and strong OSWorld/WebArena results; Apache-2.0 weights.",
+    "review_14d": null
+  },
+  {
+    "id": 412,
+    "term": "StackRails",
+    "source": "sitemap+web",
+    "score": 0.8,
+    "first_seen": "2026-11-03T20:32+08:00",
+    "url": "https://stackrails.ai/",
+    "excerpt": "Enterprise context/governance layer for AI coding agents: Architecture Graph + read-only MCP into Claude Code/Copilot/Cursor/Codex with pre-gen context and policy checks.",
+    "review_14d": null
+  },
+  {
+    "id": 413,
+    "term": "Floci",
+    "source": "gh+x+web",
+    "score": 0.76,
+    "first_seen": "2026-11-03T20:32+08:00",
+    "url": "https://floci.io/",
+    "excerpt": "Open-source MIT local multi-cloud emulator (AWS/Azure/GCP/OCI) aimed at AI coding agents—Docker-based, no cloud credentials; newly trending on GitHub.",
+    "review_14d": null
   }
 ]
