@@ -4008,5 +4008,35 @@
     "url": "https://blog.collinear.ai/p/collinear-zero",
     "excerpt": "Collinear AI (Nov 2, 2026): \"Introducing Collinear Zero: a Pareto-optimal defensive cyber agent. Zero adds independent attack testing, one fix round, and a final recheck to security patching.\" Open source; installs into OpenCode, Claude Code and Codex.",
     "review_14d": null
+  },
+  {
+    "id": 402,
+    "term": "ChefNMR2",
+    "source": "x",
+    "score": 0.85,
+    "first_seen": "2026-11-03T08:32+08:00",
+    "url": "https://x.com/SGRodriques/status/2117359453330956289",
+    "excerpt": "Sam Rodriques (Edison Scientific), Nov 2, 2026: \"Can AI discover new molecules from NMR spectra? Introducing ChefNMR2, a new model trained in collaboration with Ellen Zhong at Princeton, now available in Kosmos. Across 2,031 molecules: 82% top-1 accuracy...\"",
+    "review_14d": null
+  },
+  {
+    "id": 403,
+    "term": "Hume Audio Decision API",
+    "source": "x",
+    "score": 0.78,
+    "first_seen": "2026-11-03T08:32+08:00",
+    "url": "https://www.hume.ai/blog/introducing-hume-audio-decision-api",
+    "excerpt": "Hume AI (Nov 2, 2026): \"Today we're introducing Hume's Audio Decision API, the first audio-native model that answers questions about speech and sound. You choose the questions and the possible answers... Raw audio goes in, an answer with a confidence score comes out.\"",
+    "review_14d": null
+  },
+  {
+    "id": 404,
+    "term": "Wanaka Studio",
+    "source": "x",
+    "score": 0.72,
+    "first_seen": "2026-11-03T08:32+08:00",
+    "url": "https://wanaka.app/",
+    "excerpt": "X News (Nov 2, 2026): \"Wanaka Studio unveiled version 1.0 on November 2, a from-scratch AI workspace that turns ideas into playable 3D multiplayer games handling models, logic, physics, and sound all in one spot... instant browser sharing for cross-platform play.\"",
+    "review_14d": null
   }
 ]
