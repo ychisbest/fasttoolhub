@@ -1507,7 +1507,7 @@
     "first_seen": "2026-10-18T16:32+08:00",
     "url": "https://mistral.ai/news/timestral",
     "excerpt": "Mistral page: \"Timestral: Mistral's time-series foundation models — State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.\" HF mistralai/Timestral-5M/28M/123M/209M (created Oct 14; 209M: 86 likes / 1.5k dl). HuggingPapers launch post (~13.7k impressions, RT by @ClementDelangue): \"Mistral just released Timestral, a time series foundation model… with 21 quantiles and up to 32k context.\" Still on GH Hot Picks Oct 18 (mistralai/timestral, 279★).",
-    "review_14d": null
+    "review_14d": "hit|2026-11-03|q='Timestral' pre7=7.7 last7=24.7 peak=100"
   },
   {
     "id": 152,
@@ -1517,7 +1517,7 @@
     "first_seen": "2026-10-18T16:32+08:00",
     "url": "https://kyutai.org/reki/",
     "excerpt": "Kyutai: \"We introduce REKI, a 2.4B vision-language-action model (VLA) pretrained exclusively on public data… we endow it with a memory… makes oscillations between poses about four times rarer.\" Weights kyutai/reki-2b, code github.com/kyutai-labs/reki (MIT code, non-commercial weights); released Oct 16, FrameSignal coverage Oct 18; X: \"Kyutai open-sourced REKI: a 2.4B robot model with built-in memory.\"",
-    "review_14d": null
+    "review_14d": "miss|2026-11-03|q='REKI' pre7=88.4 last7=81.9 peak=100"
   },
   {
     "id": 153,
@@ -1527,7 +1527,7 @@
     "first_seen": "2026-10-18T16:32+08:00",
     "url": "https://x.com/AndrewCurran_/status/2111656899338973391",
     "excerpt": "@AndrewCurran_ (Oct 18 11:13 BJT, ~84k impressions / 1.5k likes): \"Three mysterious new models just showed up in the OpenAI API: aurora-red-alpha aurora-green-alpha aurora-blue-alpha\". X News: no announcement or pricing; red returns 503, green/blue 404; echoes Feb 2026 aurora-alpha that preceded GPT-5.3-Codex-Spark.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-03|no Trends data for 'aurora-red-alpha'"
   },
   {
     "id": 154,
@@ -1537,7 +1537,7 @@
     "first_seen": "2026-10-18T16:32+08:00",
     "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
     "excerpt": "Repo (created Oct 11, 3,040★): \"Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.\" Multilingual X coverage Oct 15–18; listed #2 in \"GitHub Hot Picks (Oct 18)\".",
-    "review_14d": null
+    "review_14d": "miss|2026-11-03|q='esp32-iphone-agent' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 155,
@@ -1547,7 +1547,7 @@
     "first_seen": "2026-10-18T16:32+08:00",
     "url": "https://github.com/Gathin23/tv-vibehack",
     "excerpt": "Repo (created Oct 17, 594★): \"Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.\" Rode the X News story \"Smart TV Owners Use AI to Remove Ads\"; Oct 18 posts: \"Found a Git repo (tv-vibehack)… 25 bloat apps disabled\", CN forks for Huawei TV.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-03|q='tv-vibehack' pre7=0.0 last7=1.4 peak=100"
   },
   {
     "id": 156,
@@ -1557,7 +1557,7 @@
     "first_seen": "2026-10-19T00:32+08:00",
     "url": "https://github.com/cranebeaker/coop-anything",
     "excerpt": "Repo (created 2026-10-16, 331★): \"Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.\" Press Oct 17–18: vgtimes, m4.games, REA MCP case study — Deus Ex co-op revived; Dungeon Keeper / S.T.A.L.K.E.R. / Ocarina of Time / Fallout NV WIP. X: @cranebeaker launch + AIGameIntel summary.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-03|q='coop-anything' pre7=0.0 last7=9.3 peak=100"
   },
   {
     "id": 157,
@@ -1567,7 +1567,7 @@
     "first_seen": "2026-10-19T00:32+08:00",
     "url": "https://eleven.chizi.app/",
     "excerpt": "Zfinix/eleven (created 2026-10-13, v0.1.0 same day, ~738★; site eleven.chizi.app): \"Agent-first reverse engineering for macOS, Windows and Linux… any ACP agent reads, renames and patches binaries, Android apps and GPU kernels.\" Branded as a READE / Hopper successor; uses Ghidra via REA + Rizin + jadx. Author @chiziaruhoma intro post ~139 RTs; follow-up \"Shipped a big Eleven update\". Not ElevenLabs.",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-03|generic word, Trends not attributable"
   },
   {
     "id": 158,
@@ -1577,7 +1577,7 @@
     "first_seen": "2026-10-19T08:32+08:00",
     "url": "https://github.com/alchaincyf/huashu-motion",
     "excerpt": "@AlchainHust (2026-10-18 22:07 BJT, 235♥/35RT): \"以假乱真，做出了被认为是官方产品宣传片的skill——Huashu-motion正式开源了！\"; repo (created 2026-10-18 20:19 BJT, MIT, 297★): \"让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent\"",
-    "review_14d": null
+    "review_14d": "miss|2026-11-03|q='huashu-motion' pre7=0.0 last7=4.1 peak=100"
   },
   {
     "id": 159,
@@ -1587,7 +1587,7 @@
     "first_seen": "2026-10-19T08:32+08:00",
     "url": "https://github.com/atria-asi/Atria-Dawn",
     "excerpt": "@AtriaASI (RT'd 2026-10-16 ~09:19 BJT): \"Atria Dawn officially launches today. From research questions to verifiable results—now with a 512K context window…\"; @Yi_2026 (2026-10-19 04:32 BJT): \"上海AI实验室发布Atria Dawn完整版：744B智能体模型，JobBench涨至57.5分\" — https://x.com/Yi_2026/status/2111918408321159660",
-    "review_14d": null
+    "review_14d": "hit|2026-11-03|q='Atria Dawn' pre7=0.0 last7=47.4 peak=100"
   },
   {
     "id": 160,
@@ -1597,7 +1597,7 @@
     "first_seen": "2026-10-19T16:32+08:00",
     "url": "https://github.com/Tongyi-MAI/OpenGCUA",
     "excerpt": "阿里通义 MAI-UI 团队开源通用计算机使用智能体完整技术栈「OpenGCUA」：harness、跨设备 SDK、原生 macOS 应用、评测轨迹与参考 agent。@shao__meng (2026-10-19 09:54 BJT, 23♥/17🔖): https://x.com/shao__meng/status/2111999471588679916 ; @alacheng (2026-10-17 21:44 BJT, 35♥): 论文《OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use》 https://x.com/alacheng/status/2111453381382582282 ; repo created 2026-10-15, 140★, homepage https://tongyi-mai.github.io/OpenGCUA/ ; arXiv:2610.22200. OSWorld-v2 上相对 GUI-only +19.6 分、步数 −53%。",
-    "review_14d": null
+    "review_14d": "hit|2026-11-03|q='OpenGCUA' pre7=0.0 last7=13.1 peak=100"
   },
   {
     "id": 161,
@@ -1607,7 +1607,7 @@
     "first_seen": "2026-10-19T16:32+08:00",
     "url": "https://github.com/nexu-io/open-design/releases/tag/open-design-v0.25.0",
     "excerpt": "@OpenDesignHQ / @tuturetom (2026-10-16 ~18:39 BJT): \"正式推出 OpenDesign Motion… Claude Motion 开源替代\" — https://x.com/tuturetom/status/2111044476273910123 (730♥/90RT/898🔖); EN launch https://x.com/OpenDesignHQ-linked quoted 1694♥. Release open-design-v0.25.0 (2026-10-15): codename OpenDesign Motion — agent+any-model → editable HTML/CSS/GSAP + MP4 via HyperFrames. Site https://open-design.ai ; parent repo nexu-io/open-design ~102k★.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-03|q='OpenDesign Motion' pre7=0.0 last7=18.7 peak=100"
   },
   {
     "id": 162,
@@ -1617,7 +1617,7 @@
     "first_seen": "2026-10-19T16:32+08:00",
     "url": "https://github.com/interplains/zero-breach",
     "excerpt": "@xIsraelExposedx (2026-10-19 04:23 BJT, 11177♥/2882RT/8304🔖): \"We have released a free open source tool 'Zero Breach' - that can identify whether a recent Israeli spyware campaign left traces on your PC\" — https://x.com/xIsraelExposedx/status/2111916188234088549 ; repo interplains/zero-breach created 2026-10-18, 273★: local read-only Python scanner for AdFection/Candiru IOCs (Citizen Lab), no network/admin.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-03|q='Zero Breach' pre7=0.0 last7=31.4 peak=100"
   },
   {
     "id": 163,
@@ -1627,7 +1627,7 @@
     "first_seen": "2026-10-20T00:32+08:00",
     "url": "https://viggle.ai/jst2",
     "excerpt": "ViggleAI (@ViggleAI, verified) 2026-10-19 15:20Z: \"Today we are releasing JST-2, the world's first full-stack physics-native world foundation model… Generate a 3D scene in seconds\" — https://x.com/ViggleAI/status/2112202242048528540 (221♥ / 60RT / 128🔖 / ~57.5k impressions). Official launch page dated October 19, 2026: Joint Space-and-Time gen 2.0; ~1s scene gen, characters with motion built-in, free try via PINOC. Corroborated: X news \"ViggleAI Launches JST-2\"; sitemap https://viggle.ai/jst2 + /research/jst2-character.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-03|q='JST-2' pre7=0.0 last7=3.6 peak=100"
   },
   {
     "id": 164,
@@ -1637,7 +1637,7 @@
     "first_seen": "2026-10-20T00:32+08:00",
     "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/",
     "excerpt": "@amazon 2026-10-19 14:01Z: \"Introducing TorchNeuron, a new open-source tool that lets developers take their PyTorch code and run it on @awscloud Trainium chips, no rewrite required.\" — https://x.com/amazon/status/2112182407256277095 (53♥ / 16RT / ~17k impressions). PyTorch blog + aboutamazon.com same day; public beta Apache-2.0 open-source at PyTorch Conference Oct 20; github.com/aws-neuron/torch-neuronx. Techmeme/GeekWire pickup.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-03|q='TorchNeuron' pre7=0.0 last7=1.6 peak=100"
   },
   {
     "id": 165,
@@ -1647,7 +1647,7 @@
     "first_seen": "2026-10-20T00:32+08:00",
     "url": "https://github.com/VAST-AI-Research/EdenLive",
     "excerpt": "VAST open-sourced EdenLive (real-time generative rendering for interactive worlds; engine keeps state, model paints frames). Repo created 2026-10-12, now ~215★; HF VAST-AI/EdenLive (11 likes) + Diffusers 5B/14B ports uploaded 2026-10-19. Project page https://vast-eden.ai/?p=edenlive. CN/EN X chatter Oct 18–19 (e.g. @Techub_News, @lmoroney, @LightX2V claiming 24+ FPS 720p on RTX 5090 for 5B). Never previously in radar_leads.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-03|q='EdenLive' pre7=0.0 last7=27.6 peak=100"
   },
   {
     "id": 166,
@@ -1657,7 +1657,7 @@
     "first_seen": "2026-10-20T08:32+08:00",
     "url": "https://blog.cloudflare.com/clairic-extraction-model/",
     "excerpt": "Cloudflare (@Cloudflare, verified) 2026-10-19 18:06Z: \"Introducing Clairic, from Cloudflare. A System One extraction model, capable of extracting, computing, estimating, and forecasting data from unstructured inputs.\" — https://x.com/Cloudflare/status/2112244042658423149 (938♥ / 110RT / 711🔖 / ~56k impressions). Co-author @michellechen thread 1085♥ / ~109k impressions. Official blog 2026-10-19 + Workers AI preview @cf/cloudflare/clairic ($0.10/1M input, 65K ctx, images); open weights planned. Techmeme pickup. Cascade Clairic+Clef+GLM 3.2× faster / 49% cheaper vs all-LLM.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-03|q='Clairic' pre7=0.0 last7=8.7 peak=100"
   },
   {
     "id": 167,
@@ -1667,7 +1667,7 @@
     "first_seen": "2026-10-20T08:32+08:00",
     "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
     "excerpt": "Inception Labs blog Product · Oct 19, 2026: \"Diffusion at Scale: Introducing Mercury 3\" — most capable diffusion LLM to date; outperforms GPT-6 Luna and Claude Haiku 5.5 while running 4–8× faster at 1,068 tok/s; 1M context (up from 260K); launch price 50% off $0.10/$0.35 per 1M. Live on Inception API, OpenRouter, Baseten, Vercel AI Gateway. Sitemap: /blog/introducing-mercury-3. CN/EN overnight chatter Oct 19–20. Distinct from skipped Mercury Decide sibling.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-03|q='Mercury 3' pre7=52.7 last7=42.9 peak=100"
   },
   {
     "id": 168,
@@ -1677,7 +1677,7 @@
     "first_seen": "2026-10-20T08:32+08:00",
     "url": "https://skyfall.ai/blog/introducing-sky-001",
     "excerpt": "Skyfall AI (Sam Pasupalak / ex-Maluuba) research-preview launch Oct 19, 2026: SKY-001 \"first Engineering World Model\" — text/2D sketch → hierarchical CAD/BIM construction steps (part trees, sketches, extrusions, assemblies for Autodesk Fusion). Claims 79.7% IoU vs GPT-6 Astra 79.1% at 3.9s/$0.005 vs 199s/$0.75 (~51× faster, ~150× cheaper). Product page https://skyfall.ai/sky-001; waitlist research preview; commercial target early 2027. Sitemap baselined /sky-001 + /blog/introducing-sky-001. X news story same day.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-03|q='SKY-001' pre7=0.0 last7=3.0 peak=100"
   },
   {
     "id": 169,
@@ -1687,7 +1687,7 @@
     "first_seen": "2026-10-20T08:32+08:00",
     "url": "https://huggingface.co/collections/inclusionAI/ming-30",
     "excerpt": "Ant Ling (@AntLingAGI) 2026-10-19 ~15:54Z: \"Today, we're open-sourcing 5 Ming-3.0 models across 3 speech families\" — Ming-3.0-tts (0.5B + Tiny 7.9B A1.3B), Ming-3.0-audio (Flash 126B A6.5B + Tiny), Ming-3.0-asr Tiny; MIT; HF+ModelScope; day-0 SGLang/vLLM. Official post ~659♥ / 93RT / ~385k impressions. Vendor: tts-0.5B #1 open-weight on Artificial Analysis Controlled Voice (1069 Elo). Collection https://huggingface.co/collections/inclusionAI/ming-30; GitHub inclusionAI/Ming-3.0-tts. Weights uploaded Sept–Oct but public open-source announcement Oct 19.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-03|q='Ming-3.0' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 170,
@@ -4037,6 +4037,26 @@
     "first_seen": "2026-11-03T08:32+08:00",
     "url": "https://wanaka.app/",
     "excerpt": "X News (Nov 2, 2026): \"Wanaka Studio unveiled version 1.0 on November 2, a from-scratch AI workspace that turns ideas into playable 3D multiplayer games handling models, logic, physics, and sound all in one spot... instant browser sharing for cross-platform play.\"",
+    "review_14d": null
+  },
+  {
+    "id": 405,
+    "term": "Sage2",
+    "source": "x",
+    "score": 0.88,
+    "first_seen": "2026-11-03T12:32+08:00",
+    "url": "https://x.com/levantolabs/status/2117304026911908020",
+    "excerpt": "Levanto Labs (Nov 2, 2026): \"Software can now understand human language and act on it, in real time. Introducing Sage2 — Extract: natural language in, structured data out. 166x cheaper than Opus 5.5, beats Cloudflare's Clairic — Decide: the first decision model with streaming. 3x faster...\" (781 likes / 98 RTs / 512K impressions). Docs+playground at levanto.ai.",
+    "review_14d": null
+  },
+  {
+    "id": 406,
+    "term": "Cyclon",
+    "source": "x",
+    "score": 0.76,
+    "first_seen": "2026-11-03T12:32+08:00",
+    "url": "https://cyclon.ai/",
+    "excerpt": "Adam Zinebi / Cyclon (YC F26), Nov 2, 2026: \"An AI phone to replace your iPhone. That's what we're building at Cyclon (YC F26). AI uses the apps you already have, builds the ones you're missing, and handles tasks in the background.\" (~2.4k likes / 888K impressions). Pre-order $199 deposit; Pixel 8a OS beta for first batch; hardware est. Q2 2027.",
     "review_14d": null
   }
 ]
