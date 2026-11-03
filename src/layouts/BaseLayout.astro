@@ -4,6 +4,7 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { homePath, switchLocalePath, withBase } from '../i18n/paths';
 import { t, type Locale } from '../i18n/ui';
+import { ads } from '../config/ads';
 
 interface Props {
   locale: Locale;
@@ -85,5 +86,8 @@ const htmlLang = locale === 'zh' ? 'zh-CN' : 'en';
         <Footer locale={locale} />
       </div>
     </div>
+    {ads.adsterra.socialBarSrc && (
+      <script is:inline data-cfasync="false" src={ads.adsterra.socialBarSrc}></script>
+    )}
   </body>
 </html>

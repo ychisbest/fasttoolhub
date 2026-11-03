@@ -1,6 +1,7 @@
 ---
 import { t, type Locale } from '../i18n/ui';
 import { formatDate, homePath } from '../i18n/paths';
+import AdSlot from './AdSlot.astro';
 
 interface Props {
   locale: Locale;
@@ -70,6 +71,8 @@ const ctaLabel = url
         </section>
       ) : null
     ))}
+
+    <AdSlot locale={locale} />
   </div>
 
   <aside class="term-aside">
