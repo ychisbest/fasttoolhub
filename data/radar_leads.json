@@ -4128,5 +4128,45 @@
     "url": "https://floci.io/",
     "excerpt": "Open-source MIT local multi-cloud emulator (AWS/Azure/GCP/OCI) aimed at AI coding agents—Docker-based, no cloud credentials; newly trending on GitHub.",
     "review_14d": null
+  },
+  {
+    "id": 414,
+    "term": "Sarvam Prism",
+    "source": "x+web",
+    "score": 0.95,
+    "first_seen": "2026-11-04T00:32+08:00",
+    "url": "https://www.sarvam.ai/blogs/sarvam-prism",
+    "excerpt": "Sarvam AI 于 2026-11-03 发布 Sarvam Prism：基于 Sarvam 105B 的 System One 决策模型，单次前向返回校准概率（非生成文本）；官方测得平均分 71.8、B200 中位延迟 44ms；Apache-2.0 开源权重 sarvamai/prism，并提供 Indus API。",
+    "review_14d": null
+  },
+  {
+    "id": 415,
+    "term": "Orbital 2.0",
+    "source": "sitemap+web",
+    "score": 0.9,
+    "first_seen": "2026-11-04T00:32+08:00",
+    "url": "https://appliedcomputing.com/newsroom/orbital-world-model",
+    "excerpt": "Applied Computing 于 ADIPEC（2026-11-03）发布新一代 Orbital：以能源 world model 重建，学习全厂因果物理；工程师可用自然语言建仪表盘与自运行 App，模型私有部署不出境。",
+    "review_14d": null
+  },
+  {
+    "id": 416,
+    "term": "Pando",
+    "source": "x+web",
+    "score": 0.86,
+    "first_seen": "2026-11-04T00:32+08:00",
+    "url": "https://openai.com/index/scaling-git-at-openai/",
+    "excerpt": "OpenAI 公开其 Git 兼容 monorepo 后端 Pando（Rust）：按分支因果一致性并发推送、复用 packfile；中位 push 延迟约降 80%，日均近 PB 级 Git 数据；为 Codex 级 agent 提交量而建，生产自 2026-04。",
+    "review_14d": null
+  },
+  {
+    "id": 417,
+    "term": "AnswerRails",
+    "source": "x+web",
+    "score": 0.72,
+    "first_seen": "2026-11-04T00:32+08:00",
+    "url": "https://answerrails.com/",
+    "excerpt": "AnswerRails：WordPress 站前 AI 客服插件，答案必须 grounded 于本站内容并带引用，不知则拒答；BYO API key（OpenAI/Anthropic/Mistral），含同意收据、留存与 DSAR 合规层。",
+    "review_14d": null
   }
 ]
