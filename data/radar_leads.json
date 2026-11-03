@@ -4168,5 +4168,35 @@
     "url": "https://answerrails.com/",
     "excerpt": "AnswerRails：WordPress 站前 AI 客服插件，答案必须 grounded 于本站内容并带引用，不知则拒答；BYO API key（OpenAI/Anthropic/Mistral），含同意收据、留存与 DSAR 合规层。",
     "review_14d": null
+  },
+  {
+    "id": 418,
+    "term": "P-H3-Image",
+    "source": "x+hf+web",
+    "score": 0.94,
+    "first_seen": "2026-11-04T04:32+08:00",
+    "url": "https://www.pruna.ai/blog/oss-p-h3-image-launch",
+    "excerpt": "Pruna AI 于 2026-11-03 开源 P-H3-Image：由 MiniMax-H3 视频模型改造的开源图像生成/编辑模型；8 步约 5× 加速，4MP 约 2.6s，体积约 7× 更小；Diffusers/ComfyUI 与 HF 权重 PrunaAI/P-H3-Image。",
+    "review_14d": null
+  },
+  {
+    "id": 419,
+    "term": "Soniox STT v6",
+    "source": "x+web",
+    "score": 0.92,
+    "first_seen": "2026-11-04T04:32+08:00",
+    "url": "https://soniox.com/blog/soniox-stt-v6",
+    "excerpt": "Soniox 于 2026-11-03 发布 STT v6：面向语音 Agent 的识别模型，支持 Agent text input 与 Agent voice echo cancellation，自动滤除 Agent 自身播放；60+ 语言实时/异步转录可用。",
+    "review_14d": null
+  },
+  {
+    "id": 420,
+    "term": "Locus",
+    "source": "x+web",
+    "score": 0.86,
+    "first_seen": "2026-11-04T04:32+08:00",
+    "url": "https://www.intology.ai/blog/automating-ai-rd-for-molecular-discovery",
+    "excerpt": "Intology 于 2026-11-03 介绍 Locus：自动化分子设计科研系统，可自主提出实验、在 GPU 上并行跑批并迭代；宣称在属性预测/小分子效力/抗体设计等基准上超过专家工具与通用 LLM agent。",
+    "review_14d": null
   }
 ]
