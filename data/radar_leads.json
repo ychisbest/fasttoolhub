@@ -4058,5 +4058,25 @@
     "url": "https://cyclon.ai/",
     "excerpt": "Adam Zinebi / Cyclon (YC F26), Nov 2, 2026: \"An AI phone to replace your iPhone. That's what we're building at Cyclon (YC F26). AI uses the apps you already have, builds the ones you're missing, and handles tasks in the background.\" (~2.4k likes / 888K impressions). Pre-order $199 deposit; Pixel 8a OS beta for first batch; hardware est. Q2 2027.",
     "review_14d": null
+  },
+  {
+    "id": 407,
+    "term": "Endeavor 1.1",
+    "source": "x",
+    "score": 0.88,
+    "first_seen": "2026-11-03T16:32+08:00",
+    "url": "https://flower.ai/blog/2026-11-03-introducing-endeavor-1.1",
+    "excerpt": "Flower Labs official launch Nov 3: frontier model with multimodal, EU inference, on-prem; GPQA 94.4 / HumanEval 99.9; @flwrlabs post + flower.ai blog/docs",
+    "review_14d": null
+  },
+  {
+    "id": 408,
+    "term": "Meshy N1",
+    "source": "sitemap",
+    "score": 0.82,
+    "first_seen": "2026-11-03T16:32+08:00",
+    "url": "https://www.meshy.ai/blog/meshy-n1-texture",
+    "excerpt": "Meshy N1 Texture live on web+API (ai_model=meshy-n1); 2K base-color retexture from 1–4 refs; ~3× faster than Meshy 7; sitemap + @MeshyAI launch",
+    "review_14d": null
   }
 ]
