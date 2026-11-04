@@ -1697,7 +1697,7 @@
     "first_seen": "2026-10-20T16:32+08:00",
     "url": "https://www.embodied-first-exam.ai",
     "excerpt": "Manling Li (@ManlingLi_, Northwestern MLL Lab) launch post 2026-10-19 22:17Z (Oct 20 06:17 BJT): \"Introducing Embodied First Exam: One line of code to run coding agents in 1,090 embodied tasks across 31 simulation suites and 44 robots\" — spatial puzzles, multi-robot \"Embodied Olympics\" sports, real-time eval, whole-body control; runs via Harbor (`harbor run -d embodied-first-exam -a <harness> -m <model>`). Top agent (GPT-6 Astra) solves ~33%. Launch post ~409♥ / 71RT / ~53k impressions; co-author quote posts (Ruohan Zhang ~16k imp, Guanya Shi ~3.9k imp), Digg AI #15. GitHub mll-lab-nu/embodied-first-exam (README: \"2026-10-19: Embodied First Exam is released!\"); HF datasets MLL-Lab/embodied-first-exam-public + embodied-exam-media. Abbrev. EFE.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-04|q='Embodied First Exam' pre7=0.0 last7=8.1 peak=100"
   },
   {
     "id": 171,
@@ -1707,7 +1707,7 @@
     "first_seen": "2026-10-20T16:32+08:00",
     "url": "https://github.com/VictorTaelin/uniichat",
     "excerpt": "Victor Taelin (@VictorTaelin, HigherOrderCO/Bend) open-sourced UniiChat 2026-10-19 17:16Z (Oct 20 01:16 BJT): \"Source is out… I've been using Unii as my only agent for a month… free from the torture of /compact, AGENTS.md, managing Claude sessions\" — ~1,577♥ / 55RT / ~60k impressions. README: \"UniiChat is an AI agent with one chat that never ends\" — memory tree of per-message one-line summaries merged into a binary tree, agent can \"zoom\" into any line; hosted at https://uniichat.com (BYO API billing). Repo created Oct 19, 402★ in <1 day. Hosted version teased Oct 6–8 (recipe post ~275k imp).",
-    "review_14d": null
+    "review_14d": "miss|2026-11-04|q='UniiChat' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 172,
@@ -1717,7 +1717,7 @@
     "first_seen": "2026-10-20T16:32+08:00",
     "url": "https://github.com/ELY-Open-Source/ElyOffice",
     "excerpt": "ELY Office Suite by @ZacharyZhang (雷电芽衣): \"one of the first complete native office suites built with Rust and GPUI\" — ElyDoc (DOCX/ODT via LibreOfficeKit), ElyTable, ElyShow, ElyPDF (MuPDF+Tesseract), ElyTree (Git client), ElyMark (Markdown), ELY Terminal; ElyMail/ElyAgent next. Oct 9 announce post ~2.2M impressions / 360♥; >10k downloads by Oct 15; v0.1.8 released Oct 19. Official GitHub repo ELY-Open-Source/ElyOffice created 2026-10-19 23:04Z (Oct 20 07:04 BJT), 358★ within hours, MIT for native code. Site https://office.elygpui.com (component kit elygpui.com). CN users already asking for 百度搜索 \"ELY Office\" official downloads.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-04|q='Ely Office' pre7=14.3 last7=21.6 peak=100"
   },
   {
     "id": 173,
@@ -1727,7 +1727,7 @@
     "first_seen": "2026-10-20T16:32+08:00",
     "url": "https://cleanyour.tv",
     "excerpt": "GitHub Gathin23/cleanyourtv — \"Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.\" 7,610★ (created 2026-10-17; #1 in gh search for repos created since Oct 17). Homepage https://cleanyour.tv (title \"CleanYourTV\", demo TV launcher). This is the renamed/rebranded repo previously tracked as tv-vibehack (594★ on Oct 18; github.com/Gathin23/tv-vibehack now redirects here). Same smart-TV debloat wave: free-my-tv (freemytv.io, 689★), tv-detox (663★), dumbtv (712★).",
-    "review_14d": null
+    "review_14d": "hit|2026-11-04|q='CleanYourTV' pre7=0.7 last7=44.1 peak=100"
   },
   {
     "id": 174,
@@ -1737,7 +1737,7 @@
     "first_seen": "2026-10-21T00:32+08:00",
     "url": "https://github.com/deepseek-ai/DeepInfer",
     "excerpt": "DeepSeek open-sourced DeepInfer (Apache-2.0) on 2026-10-20 (~09:00Z / 17:00 BJT): \"High-performance, large-scale inference framework for DeepSeek models\", the engine that serves DeepSeek-V4.1-Flash in production; supports NVIDIA SM100 GPUs + Huawei Ascend 950 NPUs, distributed inference, speculative decoding, SWA Bounded Replay, structured output; companion token codec deepseek-recipe. Initially built on vLLM. Repo 10.2k★ (+~2k/day). HN #1 'DeepSeek just open-sourced its inference engine' 1,688 pts; @vllm_project thank-you post 1,482♥/47k imp; wide CN/JP/KR coverage (Quartz etc.). Community spin-offs already: 'DeepInfer Studio', 'DeepInfer Reader'.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-04|q='DeepInfer' pre7=12.1 last7=8.6 peak=100"
   },
   {
     "id": 175,
@@ -1747,7 +1747,7 @@
     "first_seen": "2026-10-21T00:32+08:00",
     "url": "https://pytorch.org/blog/introducing-torchtpu/",
     "excerpt": "PyTorch blog 'Introducing TorchTPU' (2026-10-20): \"TorchTPU is an open source collaboration between Google and Meta that introduces a native and principled PyTorch backend for Google TPUs\" — out-of-the-box model execution/TPU migration, eager optimizations, torch.compile integration. Repo github.com/google-pytorch/torch_tpu (97★); ecosystem repos vllm-project/vllm-torchtpu (75★), sgl-project/sglang-torchtpu. Found as a NEW path in the pytorch.org sitemap diff. Sister to AWS TorchNeuron (tracked, Oct 20).",
-    "review_14d": null
+    "review_14d": "miss|2026-11-04|q='TorchTPU' pre7=0.0 last7=7.6 peak=100"
   },
   {
     "id": 176,
@@ -1757,7 +1757,7 @@
     "first_seen": "2026-10-21T00:32+08:00",
     "url": "https://dreamlabs.ai/research/dream-1/",
     "excerpt": "Dream Labs (ex-NVIDIA GR00T / DreamZero researchers, SF) emerged from stealth 2026-10-19 (~17:00Z / Oct 20 01:00 BJT) with $90M seed (B Capital, Kindred) and Dream-1, a 'World Action Model' that zero-shot controls unseen bimanual parallel-gripper robots via public Dream API ($3/h; Dream-1-flash $2/h). Leads RoboDojo-RC Tier 1 at 59 vs Opus 5.5/Gemini 4 Argon 48 (@chooi_jeq 184♥/10.8k imp; @robocurve). Coverage: Forbes, SiliconANGLE, BusinessWire. Sitemap baseline: dreamlabs.ai/research/dream-1/, /playground/, /sim/.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-04|q='Dream-1' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 177,
@@ -1767,7 +1767,7 @@
     "first_seen": "2026-10-21T00:32+08:00",
     "url": "https://blog.cloudflare.com/typescript-rust-port/",
     "excerpt": "Cloudflare blog 'Introducing tsrs: a Port of TypeScript to Rust' (2026-10-20 13:00Z / 21:00 BJT): Cloudflare + VoidZero with Max Schwenk (Owner.com) build tsrs, a Rust port of the TypeScript 7 type checker, incubated in the Oxc toolchain in collaboration with the TypeScript team; up to 8x faster and ~70% less memory vs TypeScript 7.0. Repo github.com/oxc-project/tsrs (695★). HN front page 130 pts ('Tsrs: A Port of TypeScript to Rust').",
-    "review_14d": null
+    "review_14d": "miss|2026-11-04|q='tsrs' pre7=34.6 last7=26.1 peak=100"
   },
   {
     "id": 178,
@@ -1777,7 +1777,7 @@
     "first_seen": "2026-10-21T00:32+08:00",
     "url": "https://ropedia.github.io/ropedia-w0/",
     "excerpt": "Singapore embodied-AI startup Ropedia open-sourced Ropedia W0 (Day 1 of 'Ropedia Super Week', 2026-10-19 16:26Z / Oct 20 00:26 BJT; with NTU, Duke, UCSD, Tsinghua): first egocentric loco-manipulation world foundation model across humans and robots — camera poses + projected skeletons, 10k h human + 3k h robot data, 5B dense and A14B MoE (Wan2.2 backbone), distilled 5B streams 21.3 fps for VR. SOTA on 5 benchmarks. HF ropedia-ai/Ropedia-W0, GitHub Ropedia/ropedia-w0, arXiv 2610.26855. X: @liuziwei7 launch thread ~8.3k imp, @Scobleizer 5.2k imp, @AdinaYakup (HF) re-share Oct 20 15:33Z; @TheHumanoidHub 2.4k imp.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-04|no Trends data for 'Ropedia W0'"
   },
   {
     "id": 179,
@@ -1787,7 +1787,7 @@
     "first_seen": "2026-10-21T00:32+08:00",
     "url": "https://mistral.ai/news/voxtral-3/",
     "excerpt": "Mistral released Voxtral 3 on 2026-10-20 (~16:00Z / Oct 21 00:00 BJT): Voxtral 3 TTS plus Voxtral Small Transcribe 3, Voxtral Mini Transcribe 3 and Voxtral Mini Transcribe Realtime 3, and a new voice-agent API/SDK with tool calling, 50+ languages. Artificial Analysis: Voxtral Small Transcribe 3 #3 on Speech-to-Text leaderboard, Voxtral 3 TTS top-12 in TTS arenas (3.7k imp). HN front page 'Voxtral 3' 43 pts; new paths mistral.ai/news/voxtral-3 (+fr/it) in sitemap diff.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-04|q='Voxtral 3' pre7=12.7 last7=6.7 peak=100"
   },
   {
     "id": 180,
@@ -1797,7 +1797,7 @@
     "first_seen": "2026-10-21T00:32+08:00",
     "url": "https://huggingface.co/ornith-ai/Ornith-1.5-122B",
     "excerpt": "Ornith (@ornith_) released Ornith-1.5-122B on 2026-10-20 (~15:00Z): 122B MoE coding/agent model, MIT open weights, 256K context, runs on a single 80GB GPU/DGX; 84.5 SWE-bench Verified, 78.5 BrowseComp; FP8/GGUF/MLX + Mobile variants, Ollama ornith-1.5:122b, unsloth GGUF. X news story 'Ornith-1.5-122B Delivers Strong Coding AI for Local Use'; posts @markfenner, @ItsCuthulhu, @iamfakhrealam. Family Ornith-1.5 (9B/35B-A3B/397B) dates to Aug 18–19 with ~5M+ downloads on 9B GGUF — the Ornith line was never tracked.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-04|q='Ornith-1.5-122B' pre7=0.0 last7=10.1 peak=100"
   },
   {
     "id": 181,
@@ -1807,7 +1807,7 @@
     "first_seen": "2026-10-21T00:32+08:00",
     "url": "https://anam.ai/blog/cara-4-1-express",
     "excerpt": "Anam (@Anam__AI) launched Cara-4.1 Express on 2026-10-20 (~14:00Z): real-time avatar model with more expressive animation, better lip sync, Director Notes out of beta, wider custom-avatar framing, 1.24 s median reply; blind eval 85% preferred vs HeyGen, 88% vs Tavus, 92% vs LemonSlice. API id `cara-4.1-express`; landing anam.ai/cara-4-1. Heavy creator push on X: @Rixhabh__ 11.8k imp, @benatanam 11k imp, @techxutkarsh 7.4k imp, @Ronycoder 6.8k imp.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-04|no Trends data for 'Cara-4.1 Express'"
   },
   {
     "id": 182,
@@ -1817,7 +1817,7 @@
     "first_seen": "2026-10-21T00:32+08:00",
     "url": "https://github.com/MemTensor/MemT-1.0",
     "excerpt": "MemTensor (记忆张量, maker of MemOS) announced MemT 1.0 on 2026-10-20: memory module built into the model so past experience is reused without re-feeding raw text; claims top-2 on 11 memory benchmarks, coding 66%→~70%, 4x faster 256K long-context, memory at 1/66 size; open-sourced. HF MemTensor/MemT-1.0-Flash (base DeepSeek-V4-Flash, MIT, 50 likes) and MemT-1.0-Nano (52 likes); GitHub MemTensor/MemT-1.0 187★ (created Oct 19); arXiv 2610.26825. CN X post @ahsuzm (low reach).",
-    "review_14d": null
+    "review_14d": "miss|2026-11-04|q='MemT-1.0' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 183,
@@ -1827,7 +1827,7 @@
     "first_seen": "2026-10-21T00:32+08:00",
     "url": "https://huggingface.co/lodestones/Kromoss",
     "excerpt": "lodestones (Chroma author) released Kromoss on HF 2026-10-19 01:34Z: full fine-tune of MOSS-Image-Base at 1024px, drop-in replacement for MOSS-Image-SFT, ships 8-step DMD/DMD2 turbo LoRAs; Apache-2.0. 154 likes / 5.4k downloads, entered HF trending top-30 this run; sibling lodestones/MOSS-Image-SFT-8-steps-dmd (173 likes, 54.8k dl) and community quant repos (Clybius/Kromoss-Quantizations).",
-    "review_14d": null
+    "review_14d": "hit|2026-11-04|q='Kromoss' pre7=0.0 last7=32.3 peak=100"
   },
   {
     "id": 184,
@@ -1837,7 +1837,7 @@
     "first_seen": "2026-10-21T08:32+08:00",
     "url": "https://github.com/eagle-hq/EAGLE-4",
     "excerpt": "EAGLE-4 (Eagle Corp / Hongyang Zhang, U. Waterloo team) released 2026-10-20 (~14:00–18:00Z = Oct 20 22:00–Oct 21 02:00 BJT): open-source/source-available speculative-decoding drafter. One drafter adapts tree/chain to batch size, hardware and workload (EAGLE-Harness), low-rank 'Efficient LM Head', sliding-window draft attention; lossless. 961.6 tok/s on Qwen3.8-27B on 4×B300 per X News; up to ~3× speedup. Plugins for SGLang/vLLM/TokenSpeed; AMD MI355X support day 0 (AMD tech article). eagle-harness v0.1.0 on PyPI 2026-10-20 17:43Z; GH eagle-hq/EAGLE-4 152★ (created Oct 20). 'EAGLE-4' is a trending topic on X worldwide and US; Scoble post 64♥/11.7k imp; X News story.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-04|q='EAGLE-4' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 185,
@@ -1847,7 +1847,7 @@
     "first_seen": "2026-10-21T08:32+08:00",
     "url": "https://humansand.ai/",
     "excerpt": "humans& (ex-DeepMind/OpenAI/Anthropic/xAI founders; $480M seed in Jan) released Ampersand v0.1 on 2026-10-20 (~22:00Z / Oct 21 ~06:00 BJT): its first 'collaborator' assistant model for multi-user group apps, trained against its Persimmon simulated-user model on multi-month long-horizon tasks; available now via Agents API with no waitlist. Claims beats Fable and other frontier models on 'Collaboration Over Time' eval, but scores below Fable 5.1 / GPT-6 Astra on Teamwork test. Digg aggregated 32 sources; X News story.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-04|q='Ampersand' pre7=90.1 last7=80.0 peak=100"
   },
   {
     "id": 186,
@@ -1857,7 +1857,7 @@
     "first_seen": "2026-10-21T08:32+08:00",
     "url": "https://research.nvidia.com/labs/gear/flora/",
     "excerpt": "NVIDIA GEAR (Jim Fan / Yuke Zhu team) open-sourced Flora on 2026-10-20: model suite for annotating robot & human manipulation video — Flora-Captioner-27B (timestamped captions), Flora-Rewarder-27B (outcome + dense process rewards), Flora-TempSeg (Qwen3.5-9B LoRA). Data engine behind GR00T; labels 200k hours/day on 512 GB300s; claims ~125× cheaper than GPT-6 Astra ($0.72 vs $88.49 per video hour). Non-commercial license. HF nvidia/Flora-Captioner (13 likes), X News story.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-04|q='NVIDIA Flora' pre7=0.0 last7=14.6 peak=100"
   },
   {
     "id": 187,
@@ -1867,7 +1867,7 @@
     "first_seen": "2026-10-21T08:32+08:00",
     "url": "https://haoailab.com/blogs/fastvideo-omniref-update/",
     "excerpt": "Hao AI Lab (UCSD FastVideo) + Nuva Lab open-sourced FastH3 Omni on 2026-10-20: distilled MiniMax H3 for reference-guided video+audio (text + up to 9 images, 3 videos, 3 audio refs → 5–15s 24fps clips with synced audio) in 8 transformer steps; 5.6–11.9× lower latency on 8×GB200; NVFP4 QAD weights for DGX Spark / RTX 5090; ComfyUI support. HF collection FastVideo/fasth3-omni (Comfy repo 41 likes). Nuva Lab pitches it as open-source 'Unlimited Seedance'. Local AI release post planned Oct 21. X News story.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-04|q='FastH3 Omni' pre7=0.0 last7=14.4 peak=100"
   },
   {
     "id": 188,
@@ -1877,7 +1877,7 @@
     "first_seen": "2026-10-21T08:32+08:00",
     "url": "https://elevenlabs.io/blog/realtime",
     "excerpt": "ElevenLabs launched Eleven Realtime (2026-10-20): new class of speech-to-speech voice-agent models — Eleven Realtime v1 Mini (natural conversation, 0.62s TTFA, Full-Duplex-Bench 95.8%) and v1 Max (reasoning + tool calling, Big Bench Audio 98.8%, 0.57s TTFA). 90+ languages, 17k voices, in ElevenAgents and an OpenAI-Realtime-compatible WebSocket API (model ids eleven_realtime_v1_mini / _max). Product page elevenlabs.io/realtime; X News story.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-04|q='Eleven Realtime' pre7=0.0 last7=5.7 peak=100"
   },
   {
     "id": 189,
@@ -1887,7 +1887,7 @@
     "first_seen": "2026-10-21T08:32+08:00",
     "url": "https://www.businesswire.com/news/home/20261020333491/en/Radical-Numerics-Launches-Omnii-1-a-New-Generation-of-Biological-AI-as-First-AI-Designed-Phage-Therapy-Reaches-Human-Patient",
     "excerpt": "Radical Numerics launched Omnii-1 on 2026-10-20 ('a new generation of biological AI'); says Omnii-1-designed T7 phage variants were given to a patient with antibiotic-resistant E. coli under FDA single-patient expanded access — first AI-generated phages to reach a human patient (clinical outcome not disclosed). Blog radicalnumerics.ai/blog/omnii-1 and /blog/omnii-phage; X News story.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-04|q='Omnii-1' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 190,
@@ -1897,7 +1897,7 @@
     "first_seen": "2026-10-21T08:32+08:00",
     "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16",
     "excerpt": "NVIDIA Nemotron Labs Dory1.0-4B: open looped / latent-recurrent 4B LLM with 'elastic depth' — 8 input layers, shared 20-layer recurrent block, 8 output layers; n_recurrent_loops 1 (low latency) / 2 (default) / 4 (hard agentic tasks) on one checkpoint. HF repo created Oct 16, 145 likes / 2.5k downloads; NVFP4 & MXFP8 variants; write-ups Oct 19 (Laurence Moroney) and CN X post 'NVIDIA 正式开源循环语言模型 Dory 1.0' (Oct 20 23:49Z).",
-    "review_14d": null
+    "review_14d": "hit|2026-11-04|q='Dory 1.0' pre7=0.0 last7=25.4 peak=100"
   },
   {
     "id": 191,
@@ -1907,7 +1907,7 @@
     "first_seen": "2026-10-21T08:32+08:00",
     "url": "https://cocolabs.ai/blog/introducing-vyb",
     "excerpt": "Coco Labs (Anusha Ramesh, ex-Google image models) unveiled Vyb on 2026-10-20 after two years in stealth: 'first design model that understands taste' — builds editable layered marketing designs from a brand's real logos/fonts/colors/photos (text stays text, vectors stay vectors), exports to Figma; private beta/waitlist. Also published VybBench (cocolabs.ai/research/vybbench). X News story.",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-04|generic word, Trends not attributable"
   },
   {
     "id": 192,
@@ -1917,7 +1917,7 @@
     "first_seen": "2026-10-21T08:32+08:00",
     "url": "https://www.runrehearsals.com/human-behavior-bench",
     "excerpt": "Rehearsals launched Human Behavior Bench with Google DeepMind and Kaggle (2026-10-20): 750 everyday scenarios from surveys of ~1.2k US adults. Rehearsals' proprietary Engram 1.0 (simulated 'AI twins' aggregated to predict survey distributions) tops the leaderboard at 94.1 vs Gemini 4 Argon 80.6 / GPT-5.6 Sol 79.5. Kaggle leaderboard kaggle.com/benchmarks/rehearsals/human-behavior-bench; X News story.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-04|q='Engram 1.0' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 193,
@@ -1927,7 +1927,7 @@
     "first_seen": "2026-10-21T08:32+08:00",
     "url": "https://github.com/SoMarkAI/OXR",
     "excerpt": "SoMark open-sourced OXR-1.0 (2026-10-20 announcement): 1.3B-param document parser (PDF/image → Markdown/JSON with layout + reading order), claims #1 on olmOCR-Bench (87.84 on official leaderboard), OmniDocBench and DocParsingBench, faster than GLM-OCR on one RTX PRO 6000; trained with a 'Recursive Self-Improvement' loop. HF SoMarkAI/OXR-1.0 21 likes; GH 10★; demo free-oxr.somark.ai; X News story.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-04|no Trends data for 'OXR-1.0'"
   },
   {
     "id": 194,
@@ -1937,7 +1937,7 @@
     "first_seen": "2026-10-21T08:32+08:00",
     "url": "https://motion.so/gva",
     "excerpt": "Adish Jain (Mosaic/Motion, ex-YC) launched the 'General Video Agent' (GVA) from Motion on 2026-10-20 17:00Z: give it footage, writing or an idea and it plans, builds and checks a finished film; open public beta, no waitlist. Launch post 283♥ / 79 RT / 246 replies / 16k imp (comment 'GVA' for 1,000 credits).",
-    "review_14d": null
+    "review_14d": "miss|2026-11-04|no Trends data for 'Motion General Video Agent'"
   },
   {
     "id": 195,
@@ -1947,7 +1947,7 @@
     "first_seen": "2026-10-21T08:32+08:00",
     "url": "https://dev.to/sparkllm/spark-x26-4b-stronger-on-device-agents-coding-and-controllable-thinking-2fh",
     "excerpt": "iFlytek SparkLLM released Spark-X2.6-4B (Oct 19, 2026): open-weight 4B model with native 1M-token context for on-device agents, coding and controllable thinking; Apache-2.0; on Ollama as SparkLLM/Spark-X2.6-4B, HF org XHToken. X mention Oct 20 23:08Z (low engagement).",
-    "review_14d": null
+    "review_14d": "hit|2026-11-04|q='Spark-X2.6-4B' pre7=0.0 last7=39.3 peak=100"
   },
   {
     "id": 196,
@@ -1957,7 +1957,7 @@
     "first_seen": "2026-10-21T08:32+08:00",
     "url": "https://beacon.sh/",
     "excerpt": "Asymptote Labs (Justin D'Souza) launched Beacon publicly with a $5.5M seed (Tower Research Ventures) on 2026-10-20: open-source, local-first self-improving memory layer for coding agents — captures Claude Code / Cursor / Codex / OpenCode sessions (20+ harnesses) and turns them into reusable project memory / Agent Skills via MCP. GH Asymptote-Labs/agent-beacon 2.1k★ (repo since May 2026). X News story.",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-04|generic word, Trends not attributable"
   },
   {
     "id": 197,
@@ -4207,6 +4207,36 @@
     "first_seen": "2026-11-04T08:32+08:00",
     "url": "https://openrouter.ai/stealth/crouton-alpha",
     "excerpt": "OpenRouter 于 2026-11-03 上线匿名 stealth 模型 Crouton Alpha：免费、1M 上下文、多模态输入（文/图/音/视频/文件），面向高并发 agent 子任务与工具调用；model id stealth/crouton-alpha；亦登陆 OpenCode / Perch。",
+    "review_14d": null
+  },
+  {
+    "id": 422,
+    "term": "Hy4",
+    "source": "openrouter+x+sitemap",
+    "score": 0.92,
+    "first_seen": "2026-11-04T12:32+08:00",
+    "url": "https://openrouter.ai/tencent/hy4",
+    "excerpt": "Tencent Hunyuan Hy4 official release on OpenRouter (1M context); previously preview-only; Wuzhen summit open-source buzz.",
+    "review_14d": null
+  },
+  {
+    "id": 423,
+    "term": "Agent37",
+    "source": "x+web",
+    "score": 0.88,
+    "first_seen": "2026-11-04T12:32+08:00",
+    "url": "https://www.agent37.com/",
+    "excerpt": "YC-backed cheap always-on AI agent sandboxes; viral $4.76/mo vs Vercel $249 pricing debate; gVisor isolation.",
+    "review_14d": null
+  },
+  {
+    "id": 424,
+    "term": "Agent Autoloop",
+    "source": "github+x",
+    "score": 0.8,
+    "first_seen": "2026-11-04T12:32+08:00",
+    "url": "https://github.com/KKKKhazix/agent-autoloop",
+    "excerpt": "MIT open-source agent automation hub: background job loop for Claude Code/Codex, zero-token suspend, Feishu/DingTalk/Slack cards; ★979 after 1.0.0.",
     "review_14d": null
   }
 ]
