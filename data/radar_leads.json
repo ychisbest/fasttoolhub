@@ -4318,5 +4318,55 @@
     "url": "https://zenteiq.ai/dhir/",
     "excerpt": "ZenteiQ Dhīr 2B (dense 2.03B) and Dhīr 5B MoE (5.09B total / 1.79B active), pretrained from scratch in India on TPUs; English + 10 Indic languages; offline/edge; Apache-2.0 lineage via IndiaAI Mission unveil Nov 4; tech report + deploy paths on zenteiq.ai/dhir/.",
     "review_14d": null
+  },
+  {
+    "id": 433,
+    "term": "Ripple-65B Preview",
+    "source": "x+web+hf",
+    "score": 0.93,
+    "first_seen": "2026-11-05T04:32+08:00",
+    "url": "https://www.ricursive.com/ripple",
+    "excerpt": "Ricursive Intelligence 于 2026-11-04 发布 Ripple-65B Preview：65B 稠密开源权重模型，TerminalBench 2.1 自报 80.52（美方开源 agentic coding SOTA 宣称），12T tokens / 至多 1M 上下文；HF / Together / OpenRouter 可用。",
+    "review_14d": null
+  },
+  {
+    "id": 434,
+    "term": "TwIL-8B",
+    "source": "x+hf+web",
+    "score": 0.91,
+    "first_seen": "2026-11-05T04:32+08:00",
+    "url": "https://huggingface.co/webAI-Official/TwIL-8B",
+    "excerpt": "webAI CEO David Stout 于 2026-11-04 宣布开源 TwIL-8B（8.8B）：面向数学/代码/指令跟随的本地推理模型；宣称 LiveCodeBench 达 frontier ~93%；HF webAI-Official/TwIL-8B。",
+    "review_14d": null
+  },
+  {
+    "id": 435,
+    "term": "Together Compiler",
+    "source": "x+web",
+    "score": 0.88,
+    "first_seen": "2026-11-05T04:32+08:00",
+    "url": "https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference",
+    "excerpt": "Together AI 于 2026-11-04 发布 Together Compiler（TKCC）：用 agent + 持久引擎做持续推理编译优化，自报至多 2.6× TPS，服务数万亿 token；Polymorphic Inference 首个产品。",
+    "review_14d": null
+  },
+  {
+    "id": 436,
+    "term": "SWE-2 Flash",
+    "source": "x+web",
+    "score": 0.87,
+    "first_seen": "2026-11-05T04:32+08:00",
+    "url": "https://cognition.com/blog/swe-2-flash",
+    "excerpt": "Cognition 于 2026-11-04 在 Devin 内发布 SWE-2 Flash：高速低成本美方编码模型（约 276B/12B active），免费至 11/30；官方称在多项评测上优于美方开源权重模型。",
+    "review_14d": null
+  },
+  {
+    "id": 437,
+    "term": "IOTA Decide 4B",
+    "source": "x+hf",
+    "score": 0.78,
+    "first_seen": "2026-11-05T04:32+08:00",
+    "url": "https://huggingface.co/macrocosm-os/iota-decide-4b",
+    "excerpt": "Macrocosmos 于 2026-11-04 发布首个公开模型 IOTA Decide 4B：4B 决策模型，单次前向给出带校准概率的多问题答案；Apache-2.0，Bittensor SN9 分布式训练；HF macrocosm-os/iota-decide-4b。",
+    "review_14d": null
   }
 ]
