@@ -4268,5 +4268,55 @@
     "url": "https://github.com/RUC-NLPIR/CoworkOS",
     "excerpt": "RUC-NLPIR et al. open-source cowork harness for long-horizon human-in-the-loop work (Main Agent / Coordinator / Subagents); npm coworkos-app; arXiv:2611.03178; repo created 2026-11-03 (~109★); continued X discussion into Nov 4 window.",
     "review_14d": null
+  },
+  {
+    "id": 428,
+    "term": "Phone Harness",
+    "source": "x+web+github",
+    "score": 0.92,
+    "first_seen": "2026-11-05T00:32+08:00",
+    "url": "https://phone-harness.com/",
+    "excerpt": "YC F26 Phone Harness: open-source MCP/CLI so AI agents control a real personal phone or cloud iPhone/Android (test apps, message/call, grab 2FA). Founder @shawn_pana launch + Y Combinator RT Nov 4; github.com/phone-harness/mcp (~620★).",
+    "review_14d": null
+  },
+  {
+    "id": 429,
+    "term": "RoboColosseum",
+    "source": "x+web",
+    "score": 0.88,
+    "first_seen": "2026-11-05T00:32+08:00",
+    "url": "https://arxiv.org/abs/2611.02497",
+    "excerpt": "Hugging Face + BitRobot Network + EAIC et al. launch RoboColosseum: large-scale in-the-wild real-world robot eval (100+ robots / 140+ scenes, 10k free academic eval hours); paper arXiv:2611.02497 (submitted Nov 2); Unitree/HF partner posts Nov 4.",
+    "review_14d": null
+  },
+  {
+    "id": 430,
+    "term": "BioSimBench",
+    "source": "x+web",
+    "score": 0.9,
+    "first_seen": "2026-11-05T00:32+08:00",
+    "url": "https://x.com/celltypeinc/status/2117986897729335638",
+    "excerpt": "CellType (@celltypeinc) launches BioSimBench (built on NVIDIA AI): benchmark where models predict gene-expression / cellular responses to drugs, knockdowns, immune signals vs held-out wet-lab truth; official launch thread ~422 likes / 143 RTs / 192k impressions Nov 4.",
+    "review_14d": null
+  },
+  {
+    "id": 431,
+    "term": "Case",
+    "source": "x+web",
+    "score": 0.82,
+    "first_seen": "2026-11-05T00:32+08:00",
+    "url": "https://plsn.ai/",
+    "excerpt": "Polished Snow (plsn.ai) exits stealth with first model/product Case — energy-based reasoning for keeping critical systems (grids/industrial) working; waitlist open; multi-language X amplification + X News Nov 4 (17yo founder David angle).",
+    "review_14d": null
+  },
+  {
+    "id": 432,
+    "term": "Dhīr",
+    "source": "x+web",
+    "score": 0.86,
+    "first_seen": "2026-11-05T00:32+08:00",
+    "url": "https://zenteiq.ai/dhir/",
+    "excerpt": "ZenteiQ Dhīr 2B (dense 2.03B) and Dhīr 5B MoE (5.09B total / 1.79B active), pretrained from scratch in India on TPUs; English + 10 Indic languages; offline/edge; Apache-2.0 lineage via IndiaAI Mission unveil Nov 4; tech report + deploy paths on zenteiq.ai/dhir/.",
+    "review_14d": null
   }
 ]

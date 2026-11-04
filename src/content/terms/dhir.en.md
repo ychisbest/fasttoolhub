@@ -1,0 +1,13 @@
+---
+slug: "dhir"
+term: "Dhīr"
+locale: "en"
+date: "2026-11-05T00:32+08:00"
+source: "x+web"
+score: 0.86
+url: "https://zenteiq.ai/dhir/"
+excerpt: "ZenteiQ Dhīr 2B (dense 2.03B) and Dhīr 5B MoE (5.09B total / 1.79B active), pretrained from scratch in India on TPUs; English + 10 Indic languages; offline/edge; Apache-2.0 lineage via IndiaAI Mission unveil Nov 4; tech report + deploy paths on zenteiq.ai/dhir/."
+intro: "**Dhīr** is **ZenteiQ**’s compact India-pretrained foundation-model family ([zenteiq.ai/dhir/](https://zenteiq.ai/dhir/)): **Dhīr 2B** (dense **2.03B**) and **Dhīr 5B MoE** (**5.09B** total, **1.79B** active per token, 2-of-12 experts). Shared tokenizer and recipe; instruction-tuned checkpoints; **16,384** context; aimed at **offline** use on laptops, boards, and edge devices.\n\nZenteiQ says both were **pretrained from scratch in India** (not continued from another vendor’s checkpoint) on Google Cloud **TPU v6e** in Mumbai with data/checkpoints in-region; **6T+** tokens each; languages: English plus Hindi, Bengali, Tamil, Telugu, Marathi, Gujarati, Kannada, Malayalam, Punjabi, and Odia. Tied to an **IndiaAI Mission** unveil on **2026-11-04**. Note: the same window also mentioned early-access **EKA-1**; this page tracks the openly specified Dhīr family."
+explain: "## Problem\n\nMultilingual Indic + edge/air-gapped settings need small models that run locally with a verifiable training lineage. Dhīr offers dense 2B and small MoE 5B for offline deploy, with public eval tooling and SHA-256 checkpoint-lineage claims.\n\n## Differentiation\n\n- **From-scratch India pretraining** narrative for billion-parameter generative models (per vendor), not overseas-base adaptation.\n- **Two sizes**: 2B leads 13/15 Indic benches in-class (vendor tables); 5B MoE leads on agentic, code+math, and English averages.\n- **Edge numbers**: public llama.cpp 4-bit decode rates on Iris Xe / Jetson Orin NX / Pi 4.\n\n## Limits\n\n- Vendor flags weak unsupported fact recall, no reasoning mode, text-only; law/finance/medicine need retrieval + human review.\n- Instruction-following measurements disclosed mainly in English so far.\n- Enterprise paths are pilot/license; distinct from early-access-only EKA-1."
+usage: "## Who it is for\n\nTeams needing English+Indic offline/edge LLMs, or tracking IndiaAI domestic bases.\n\n## Getting started\n\n1. Read [zenteiq.ai/dhir/](https://zenteiq.ai/dhir/) and the tech report for sizes, languages, and safety tables.\n2. Fetch checkpoints via the site paths; run 4-bit with llama.cpp on target hardware.\n3. For enterprise: ZenteiQ pilot → adapt → cloud / private cloud / on-prem / fully offline."
+---

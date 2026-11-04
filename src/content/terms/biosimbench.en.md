@@ -1,0 +1,13 @@
+---
+slug: "biosimbench"
+term: "BioSimBench"
+locale: "en"
+date: "2026-11-05T00:32+08:00"
+source: "x+web"
+score: 0.9
+url: "https://x.com/celltypeinc/status/2117986897729335638"
+excerpt: "CellType (@celltypeinc) launches BioSimBench (built on NVIDIA AI): benchmark where models predict gene-expression / cellular responses to drugs, knockdowns, immune signals vs held-out wet-lab truth; official launch thread ~422 likes / 143 RTs / 192k impressions Nov 4; also celltype.com."
+intro: "**BioSimBench** is a biology-AI **benchmark** launched by **CellType** ([celltype.com](https://www.celltype.com/), X [@celltypeinc](https://x.com/celltypeinc)) on **2026-11-04**. Models must predict cellular responses to drugs, knockdowns, immune signals, and related perturbations (e.g. gene expression) against **held-out wet-lab ground truth**. The stack is described as built on **NVIDIA AI**; the launch thread drew ~**422 likes / 143 RTs / 192k impressions**.\n\nCellType itself is an R&D platform for simulating biology and prioritizing drugs (virtual screen → cross-species safety → clinical translation), with Yale **Cell2Sentence** inventors on the team and prior DeepMind collaboration. BioSimBench turns “do predictions match wet lab?” into a comparable benchmark rather than an internal demo."
+explain: "## Problem\n\nBiological foundation models often report in-house metrics that are hard to check against real wet-lab outcomes, while drug R&D needs high-conviction hits before running assays. BioSimBench scores cellular-response prediction against held-out wet-lab truth.\n\n## Differentiation\n\n- **Named benchmark**: BioSimBench as a public proper noun, not just “CellType platform power.”\n- **Perturbation coverage**: drugs, knockdowns, immune signals—not only static cell embeddings.\n- **Industry context**: sits on CellType’s screen/safety/translate workflow and an NVIDIA AI stack.\n\n## Limits\n\n- Exact task cards, leaderboard, and data licenses follow official docs; this page follows the launch thread + site positioning.\n- Wet-lab labels still carry batch/cell-line noise; bench scores ≠ clinical efficacy.\n- Platform emphasizes on-prem/VPC; benchmark entry may differ from commercial deploy."
+usage: "## Who it is for\n\nTeams doing single-cell / perturbation prediction, virtual compound screening, and model–wet-lab alignment.\n\n## Getting started\n\n1. Read the [@celltypeinc launch](https://x.com/celltypeinc/status/2117986897729335638) and [celltype.com](https://www.celltype.com/) for task framing.\n2. Ask CellType for benchmark docs / submission if a public board opens.\n3. Align your model on public perturbation datasets first, then match BioSimBench’s held-out wet-lab protocol."
+---
