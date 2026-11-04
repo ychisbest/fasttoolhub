@@ -4248,5 +4248,25 @@
     "url": "https://www.liberai.com/blog/liber0/",
     "excerpt": "LiberAI World Action Model Liber-0: pretrained on 2.2M hours human experience; 36% zero-shot success on 60 GPT-6 tasks / 600 trials without task-specific robot demos.",
     "review_14d": null
+  },
+  {
+    "id": 426,
+    "term": "SpecPilot",
+    "source": "x+web+github",
+    "score": 0.88,
+    "first_seen": "2026-11-04T20:32+08:00",
+    "url": "https://github.com/StargazerX0/SpecPilot",
+    "excerpt": "Berkeley/Princeton/Stanford/NVIDIA SpecPilot: agentic loop that discovers lossless speculative-decoding optimizations; raises stock speedup 4.46×→10.87× (single request) / 1.94×→3.93× (batch) on DFlash2-class systems; paper arXiv:2611.02501; author announce + CN buzz Nov 4.",
+    "review_14d": null
+  },
+  {
+    "id": 427,
+    "term": "CoworkOS",
+    "source": "github+x+web",
+    "score": 0.82,
+    "first_seen": "2026-11-04T20:32+08:00",
+    "url": "https://github.com/RUC-NLPIR/CoworkOS",
+    "excerpt": "RUC-NLPIR et al. open-source cowork harness for long-horizon human-in-the-loop work (Main Agent / Coordinator / Subagents); npm coworkos-app; arXiv:2611.03178; repo created 2026-11-03 (~109★); continued X discussion into Nov 4 window.",
+    "review_14d": null
   }
 ]
