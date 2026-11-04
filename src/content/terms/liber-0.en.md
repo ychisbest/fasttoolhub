@@ -1,0 +1,13 @@
+---
+slug: "liber-0"
+term: "Liber-0"
+locale: "en"
+date: "2026-11-04T16:32+08:00"
+source: "x+web"
+score: 0.9
+url: "https://www.liberai.com/blog/liber0/"
+excerpt: "LiberAI launches Liber-0 World Action Model pretrained on 2.2M+ hours of human experience; ~36% zero-shot success across 60 GPT-6 tasks / 600 trials without task-specific robot demos."
+intro: "**Liber-0** is a **World Action Model (WAM)** from Beijing physical-AI startup **LiberAI** ([technical post](https://www.liberai.com/blog/liber0/)). It is pretrained on **2.2M+ hours** of human experience, combining action grounding from the **LiberSense Glove**, a Unified Embodiment Representation, and the human-aligned **LEO** robot platform to transfer everyday manipulation skill into robot policies.\n\nOn **60 GPT-6–proposed tasks / 600 trials**, Liber-0 reports **36.0%** overall zero-shot success (63.5% PnP / 34.0% short Non-PnP / 10.5% multi-step), without robot demos collected for those target tasks. Company posts plus Access Newswire, Robotics & Automation News, and Chinese tech coverage circulated around **2026-11-03–11-04**; earlier radar passes had not stored the name—this scan inserts on blog + press + X corroboration."
+explain: "## Problem\n\nClassic robot manipulation depends on costly, task- and robot-specific demonstrations. Liber-0 aims to scale from human experience—video plus measured glove motion and embodiment alignment—so robots can attempt new tasks with far fewer target-task robot demos, including some multi-step skills.\n\n## Differentiation\n\n- Framed as a **World Action Model** that jointly predicts future frames and actions.\n- **LiberSense Glove** supplies scalable action anchors without an on-site robot; **LEO** reduces visual/kinematic shift vs human demos.\n- Publishes stratified zero-shot rates on a GPT-6–authored task suite.\n\n## Limits\n\n- Multi-step success remains modest (~10.5%); treat claims as research/product preview until independently reproduced.\n- Weights, API, and commercial access follow LiberAI announcements.\n- Pairing with planner agents (e.g. Astra) is a workflow story, not a guaranteed SLA."
+usage: "## Who it is for\n\nEmbodied-AI researchers and robot-product teams watching zero-shot manipulation and human-to-robot skill transfer; evaluators tracking WAM / glove-collection recipes.\n\n## Getting started\n\n1. Read the [Liber-0 technical post](https://www.liberai.com/blog/liber0/) and homepage demos; note the exact task definitions and success metrics.\n2. Watch LiberAI channels for weights, interactive sim demos, or LEO/glove partnership interfaces.\n3. For reproduction, keep the PnP / Non-PnP / multi-step split rather than cherry-picking highlight clips."
+---

@@ -4238,5 +4238,15 @@
     "url": "https://github.com/KKKKhazix/agent-autoloop",
     "excerpt": "MIT open-source agent automation hub: background job loop for Claude Code/Codex, zero-token suspend, Feishu/DingTalk/Slack cards; ★979 after 1.0.0.",
     "review_14d": null
+  },
+  {
+    "id": 425,
+    "term": "Liber-0",
+    "source": "x+web",
+    "score": 0.9,
+    "first_seen": "2026-11-04T16:32+08:00",
+    "url": "https://www.liberai.com/blog/liber0/",
+    "excerpt": "LiberAI World Action Model Liber-0: pretrained on 2.2M hours human experience; 36% zero-shot success on 60 GPT-6 tasks / 600 trials without task-specific robot demos.",
+    "review_14d": null
   }
 ]
