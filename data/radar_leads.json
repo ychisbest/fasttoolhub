@@ -4198,5 +4198,15 @@
     "url": "https://www.intology.ai/blog/automating-ai-rd-for-molecular-discovery",
     "excerpt": "Intology 于 2026-11-03 介绍 Locus：自动化分子设计科研系统，可自主提出实验、在 GPU 上并行跑批并迭代；宣称在属性预测/小分子效力/抗体设计等基准上超过专家工具与通用 LLM agent。",
     "review_14d": null
+  },
+  {
+    "id": 421,
+    "term": "Crouton Alpha",
+    "source": "x+web+sitemap",
+    "score": 0.9,
+    "first_seen": "2026-11-04T08:32+08:00",
+    "url": "https://openrouter.ai/stealth/crouton-alpha",
+    "excerpt": "OpenRouter 于 2026-11-03 上线匿名 stealth 模型 Crouton Alpha：免费、1M 上下文、多模态输入（文/图/音/视频/文件），面向高并发 agent 子任务与工具调用；model id stealth/crouton-alpha；亦登陆 OpenCode / Perch。",
+    "review_14d": null
   }
 ]
