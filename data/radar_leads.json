@@ -4568,5 +4568,55 @@
     "url": "https://www.businesswire.com/news/home/20261105637007/en/Dropbox-Announces-Plans-to-Acquire-Tigris-Data-Inc.-and-Unveils-DBX-Agent-Cloud-as-Part-of-AI-Powered-Product-Evolution",
     "excerpt": "Dropbox 于 2026-11-05 宣布以约 3.5 亿美元收购 Tigris Data，并同步推出 DBX Agent Cloud：面向 AI 应用/Agent 的独立 S3 兼容对象存储（后续规划文件系统与内容处理）。",
     "review_14d": null
+  },
+  {
+    "id": 458,
+    "term": "GPT-6 Cyber",
+    "source": "x+web",
+    "score": 0.92,
+    "first_seen": "2026-11-06T04:32+08:00",
+    "url": "https://openai.com/index/introducing-gpt-6-cyber",
+    "excerpt": "On 2026-11-05 OpenAI launched GPT-6 Cyber, a specialized cybersecurity research model offered to vetted Daybreak Red customers; 48.5% on ExploitGym (vs 32.1% for GPT-5.6 Cyber), helped build 948 Linux privilege-escalation exploits and found 81 high-severity Firefox bugs; rated Critical under the Preparedness Framework.",
+    "review_14d": null
+  },
+  {
+    "id": 459,
+    "term": "Perplexity Teammates",
+    "source": "x+web",
+    "score": 0.86,
+    "first_seen": "2026-11-06T04:32+08:00",
+    "url": "https://www.perplexity.ai/hub/products/teammate",
+    "excerpt": "On 2026-11-05 Perplexity launched Teammates: persistent, proactive AI agents built on Perplexity Computer that own ongoing work (bug triage, metric tracking, market research), collaborate with each other and message coworkers in Slack; research preview for individual Max subscribers on the web.",
+    "review_14d": null
+  },
+  {
+    "id": 460,
+    "term": "Wealthsimple Penny",
+    "source": "x+web",
+    "score": 0.8,
+    "first_seen": "2026-11-06T04:32+08:00",
+    "url": "https://newsroom.wealthsimple.com/wealthsimple-announces-ai-assistant-penny-and-11-more-releases-at-wealthsimple-presents-something-good-is-going-to-happen",
+    "excerpt": "At its 2026-11-05 Toronto event, Canadian fintech Wealthsimple unveiled Penny, an AI assistant for e-Transfers, bill pay, spending insights, stock/ETF trades and RRSP/TFSA planning — every action needs client confirmation; ChatGPT/Claude account connections planned for early 2027.",
+    "review_14d": null
+  },
+  {
+    "id": 461,
+    "term": "CCORE GLB-3D-Coder",
+    "source": "hf",
+    "score": 0.62,
+    "first_seen": "2026-11-06T04:32+08:00",
+    "url": "https://huggingface.co/ccore/Qwen3.5-4B-GLB-3D-Coder",
+    "excerpt": "CCORE GLB-3D-Coder is a 4B coding model fine-tuned from Qwen3.5-4B that turns a text prompt into a Three.js page with preview and an Export GLB button for low-poly game assets (Godot-ready); 2026-11-05 release weights (Q4_K_M/Q8_0/Safetensors, Apache 2.0) hit HF trending.",
+    "review_14d": null
+  },
+  {
+    "id": 462,
+    "term": "Accentus",
+    "source": "x+web",
+    "score": 0.6,
+    "first_seen": "2026-11-06T04:32+08:00",
+    "url": "https://luel.work/lab/models/accentus",
+    "excerpt": "Luel Lab launched Accentus, a model that decides whether a speaker sounds American in real conversation/phone audio, returning Pass / Review / Reject (naming the group); self-reported only 5 of 233 Americans rejected and ~93–98% of non-American accents stopped; closed beta.",
+    "review_14d": null
   }
 ]
