@@ -4518,5 +4518,55 @@
     "url": "https://www.scalekit.com/agentkit",
     "excerpt": "Scalekit 的 AgentKit 于 2026-11-03 登上 Product Hunt 当日第一：一个 MCP 网关让 Agent 以“发起请求的用户身份”调用 600+ 应用的 30,000+ 工具，支持 Virtual MCP Servers、自定义连接器、事件触发与全量审计日志；免费额度每月 1 万次工具调用。",
     "review_14d": null
+  },
+  {
+    "id": 453,
+    "term": "VFlash",
+    "source": "x+web",
+    "score": 0.92,
+    "first_seen": "2026-11-06T00:32+08:00",
+    "url": "https://research.nvidia.com/labs/lpr/vflash/",
+    "excerpt": "NVIDIA LPR/GEAR 于 2026-11-05 发布 VFlash：面向 Physical AI 的 System-1 视觉规划并行解码框架，整块生成轨迹/框等视觉原语，机器人推理最高约 5× 加速，3D 航点误差最高降约 61%。",
+    "review_14d": null
+  },
+  {
+    "id": 454,
+    "term": "Meridian Air CivoE",
+    "source": "x+web+sitemap",
+    "score": 0.88,
+    "first_seen": "2026-11-06T00:32+08:00",
+    "url": "https://www.webai.com/research/meridian-1-civoe",
+    "excerpt": "webAI 于 2026-11-05 发布 Meridian Air CivoE（Civilization of Experts）：12B 固定底座 + 任务专家；自报在精选套件上从 59.8 提到 85.5，与 Gemini 4 统计持平；Meridian Air 已于 11-04 进 app。",
+    "review_14d": null
+  },
+  {
+    "id": 455,
+    "term": "Arlo",
+    "source": "x+web",
+    "score": 0.85,
+    "first_seen": "2026-11-06T00:32+08:00",
+    "url": "https://www.dubapp.com/arlo",
+    "excerpt": "社交投资应用 dub 于 2026-11-05 正式推出 Arlo：应用内 AI 投资助手，由 dub Advisors（SEC 注册投顾）提供分析与组合建议，不直接下单；PR 与产品页同日上线。",
+    "review_14d": null
+  },
+  {
+    "id": 456,
+    "term": "Aina Ring",
+    "source": "x+web+sitemap",
+    "score": 0.84,
+    "first_seen": "2026-11-06T00:32+08:00",
+    "url": "https://www.aina.com",
+    "excerpt": "前 Ultrahuman 硬件负责人 Apoorv Shankar 的 Aina 于 2026-11-05 开售 Aina Ring：钛合金智能戒指（OLED+摇杆+麦），用滑动批准 AI agent 动作；早鸟约 $399，计划 2027-01 发货。",
+    "review_14d": null
+  },
+  {
+    "id": 457,
+    "term": "DBX Agent Cloud",
+    "source": "web+sitemap",
+    "score": 0.76,
+    "first_seen": "2026-11-06T00:32+08:00",
+    "url": "https://www.businesswire.com/news/home/20261105637007/en/Dropbox-Announces-Plans-to-Acquire-Tigris-Data-Inc.-and-Unveils-DBX-Agent-Cloud-as-Part-of-AI-Powered-Product-Evolution",
+    "excerpt": "Dropbox 于 2026-11-05 宣布以约 3.5 亿美元收购 Tigris Data，并同步推出 DBX Agent Cloud：面向 AI 应用/Agent 的独立 S3 兼容对象存储（后续规划文件系统与内容处理）。",
+    "review_14d": null
   }
 ]
