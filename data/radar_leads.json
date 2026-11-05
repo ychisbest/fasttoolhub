@@ -1967,7 +1967,7 @@
     "first_seen": "2026-10-21T16:32+08:00",
     "url": "https://huggingface.co/KRAFTON/Raon-1-mini-preview",
     "excerpt": "KRAFTON AI (PUBG) released Raon-1 mini preview today: 30B MoE / 4B active, trained from scratch, Apache 2.0 on HF (KRAFTON/Raon-1-mini-preview). Official @Krafton_AI post ~210 likes; claims Muse Glimmer parity on coding/agentic with better speed/memory; DFlash2 drafter; Korean+EN; AIME 2026 93.3 / SWE-Verified 70.8. Korean press same-day.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-05|q='Raon-1 mini' pre7=0.0 last7=9.3 peak=100"
   },
   {
     "id": 198,
@@ -1977,7 +1977,7 @@
     "first_seen": "2026-10-21T16:32+08:00",
     "url": "https://sophont.med/holon/",
     "excerpt": "SophontAI launched Holon-S1 (first product): pan-cancer model predicting spatial gene/pathway activity from routine H&E pathology slides. PR Newswire/Yahoo Oct 20; product page sophont.med/holon; CEO Tanishq Abraham on MTS. Circulating through Asia morning Oct 21; missed prior 08:32 insert.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-05|no Trends data for 'Holon-S1'"
   },
   {
     "id": 199,
@@ -1987,7 +1987,7 @@
     "first_seen": "2026-10-21T16:32+08:00",
     "url": "https://searchtok.app",
     "excerpt": "Jack Mitchell launching Searchtok on Product Hunt today (Oct 21): MCP/CLI that makes Instagram and TikTok searchable for AI agents — outliers, hooks, formats, niche research from public organic metrics. searchtok.app + ClawHub skill mitchell2398/searchtok.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-05|q='Searchtok' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 200,
@@ -1997,7 +1997,7 @@
     "first_seen": "2026-10-21T16:32+08:00",
     "url": "https://ekarobotics.com/blog/eka-robotics-raises-150m-to-build-superhuman-intelligence-for-the-physical-world",
     "excerpt": "Eka Robotics (MIT Pulkit Agrawal + ex-DeepMind Tuomas Haarnoja) raised $150M Series A at $1.45B led by a16z/F-Prime for its Vision-Force-Action (VFA) robot foundation model — vision+force feedback, ~1500 picks/hr claimed. a16z announcement post ~187 likes Oct 20; still discussed Oct 21 Asia morning.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-05|no Trends data for 'Vision-Force-Action'"
   },
   {
     "id": 201,
@@ -2007,7 +2007,7 @@
     "first_seen": "2026-10-21T16:32+08:00",
     "url": "https://dropto.run",
     "excerpt": "dropto.run / Drop2Run on Product Hunt today: agents publish pages/docs as links, clients pin comments, agent reads comments via MCP and ships fixes. Hosted MCP mcp.dropto.run; CLI npx drop2run. Product existed earlier Oct but PH push today.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-05|no Trends data for 'Drop2Run'"
   },
   {
     "id": 202,
@@ -2017,7 +2017,7 @@
     "first_seen": "2026-10-22T00:32+08:00",
     "url": "https://huggingface.co/InternScience/Sage-A1.5",
     "excerpt": "Shanghai AI Lab (InternScience) open-sourced Sage-A1.5: 35B MoE agentic model, ~3B active, 256K context; agentic orchestration of parallel subagents + opt-in 'Verification protocol' (BrowseComp 81.0→85.5); SWE-Bench Pro 61.2; GGUF/FP8 builds published Oct 21. Top CN X post 1.3k likes / 85k views (@NFT_Chen); HF paper 2610.28578.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-05|q='Sage-A1.5' pre7=0.0 last7=8.1 peak=100"
   },
   {
     "id": 203,
@@ -2027,7 +2027,7 @@
     "first_seen": "2026-10-22T00:32+08:00",
     "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
     "excerpt": "PHP2Shell = two critical unauthenticated RCE flaws in PHP core (CVE-2026-109618 / 109619, CVSS 9.2–10, affects PHP ≥5.4, ~70% of web). Found by Calif (with OpenAI models via Patch the Planet) and independently by Wiz Research; fixed in PHP 8.5.12 / 8.4.27 / 8.3.36 / 8.2.35 on Oct 21. OpenAI post 8.4k likes / 1.5M views; JP trend 'PHPの脆弱性'; PoC repos ikow/php2shell-poc (624★) trending on GitHub.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-05|q='PHP2Shell' pre7=11.0 last7=4.7 peak=100"
   },
   {
     "id": 204,
@@ -2037,7 +2037,7 @@
     "first_seen": "2026-10-22T00:32+08:00",
     "url": "https://www.recursive.com/updates/introducing-recursive-flint",
     "excerpt": "Recursive launched Flint: open-weight (Apache-2.0) MoE coding model, 39.8B total / ~2.5B active, 262K ctx; 74.2% SWE-bench Verified, 54.9% Terminal-Bench 2.1; >125 tok/s on M4 Pro MacBook; built via its 'Eureka Machine' recursive self-improvement. HF RecursiveSI/flint (+int4, nvfp4-gguf) created Oct 21; vLLM day-0 blog (vllm.ai/blog/2026-10-21-flint); Wall St Engine post 5k views.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-05|q='Recursive Flint' pre7=3.7 last7=7.0 peak=100"
   },
   {
     "id": 205,
@@ -2047,7 +2047,7 @@
     "first_seen": "2026-10-22T00:32+08:00",
     "url": "https://www.agile-robots.com/en/news/detail/agile-robots-launches-agile-one-sn/",
     "excerpt": "Agile Robots unveiled Agile ONE SN at NVIDIA GTC Berlin (Oct 21): 1.40 m / 40 kg reference research humanoid, 31 DoF, tactile 5-finger hands, Jetson Thor + Isaac GR00T preconfigured; availability early 2027, 1,000–2,000 units planned. @NVIDIARobotics post 156 likes / 28k views; X trending story; NVIDIA newsroom release.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-05|q='Agile ONE SN' pre7=0.0 last7=4.0 peak=100"
   },
   {
     "id": 206,
@@ -2057,7 +2057,7 @@
     "first_seen": "2026-10-22T00:32+08:00",
     "url": "https://www.indiatoday.in/technology/news/story/deepinder-goyal-unveils-dark-ai-a-private-chatbot-where-no-one-can-read-your-chats-3022056-2026-10-21",
     "excerpt": "Eternal (Zomato/Blinkit parent) announced Dark.ai in its Q2 FY27 shareholder letter (Oct 21): privacy-first AI assistant on fine-tuned open-weight models, end-to-end encryption + user-controlled encrypted memory ('we cannot read your conversations, even if forced'); for founders/researchers/enterprises/governments; global launch hoped within 2026. Goyal teaser on X; X trending news story; covered by ET, Moneycontrol, Inc42, Fortune India.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-05|q='Dark.ai' pre7=14.3 last7=2.1 peak=100"
   },
   {
     "id": 207,
@@ -2067,7 +2067,7 @@
     "first_seen": "2026-10-22T00:32+08:00",
     "url": "https://x.com/nvidia/status/2112882448530800716",
     "excerpt": "NVIDIA introduced DSX POD at GTC Berlin (Oct 21): prefabricated, factory-tested Vera Rubin 'AI factories' in modular containers (racks, networking, power, liquid cooling) deployable at prepared sites in as little as 14 days; built by Dell, HPE, Lenovo, Schneider, Vertiv; deliveries from early 2027. @nvidia post 797 likes / 50k views; X trending story.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-05|q='NVIDIA DSX POD' pre7=14.3 last7=10.1 peak=100"
   },
   {
     "id": 208,
@@ -2077,7 +2077,7 @@
     "first_seen": "2026-10-22T00:32+08:00",
     "url": "https://venturebeat.com/technology/deel-launches-pangaea-ai-models-for-hr-and-payroll-betting-specialists-can-cut-the-cost-of-answers",
     "excerpt": "Deel CEO Alex Bouaziz: 'Today we're launching Emet, our AI lab for model evaluation and training, and Pangaea, our first family of models for global work' (payroll/HR/compliance across 150+ countries). X post 75 likes / 5k views (Oct 21 15:01Z); VentureBeat coverage 16:28Z. Related: Emet 8-country payroll benchmark used by AI21 to post-train Nemotron 3.5 Super VL (72% acc, 33× cheaper than Opus 5.5).",
-    "review_14d": null
+    "review_14d": "miss|2026-11-05|no Trends data for 'Deel Pangaea'"
   },
   {
     "id": 209,
@@ -2087,7 +2087,7 @@
     "first_seen": "2026-10-22T00:32+08:00",
     "url": "https://openai.com/index/patch-the-planet/",
     "excerpt": "OpenAI's 'Patch the Planet' — a Daybreak initiative with Trail of Bits using AI-assisted security research to help open-source maintainers find, validate, patch and coordinate disclosure; surfaced publicly Oct 21 via the PHP2Shell disclosure (OpenAI post 8.4k likes). Also a Codex skill repo to check affected sites (OpenAI post 226 likes).",
-    "review_14d": null
+    "review_14d": "miss|2026-11-05|q='Patch the Planet' pre7=13.6 last7=11.3 peak=100"
   },
   {
     "id": 210,
@@ -2097,7 +2097,7 @@
     "first_seen": "2026-10-22T00:32+08:00",
     "url": "https://vllm.ai/blog/2026-10-21-humming",
     "excerpt": "Ant Group + vLLM open-sourced Humming (Apache-2.0): ~100 KB JIT GEMM kernel library for quantized inference (INT1–8, FP4–FP8; dense + MoE; NVIDIA Turing+ and T-Head Zhenwu 810E); ships with vLLM 0.29 (--moe-backend humming); +14–43% E2E throughput on DeepSeek-V4.1-Flash 8×H20. GitHub vllm-project/humming 280★; CN post 25 likes / 3.6k views.",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-05|generic word, Trends not attributable"
   },
   {
     "id": 211,
@@ -2107,7 +2107,7 @@
     "first_seen": "2026-10-22T08:32+08:00",
     "url": "https://claude.com/resources/articles/claude-duet",
     "excerpt": "Anthropic opened a research preview of Claude Duet (Oct 21, ~19:00Z): a standalone proactive-agent app (iOS/Android/claude.ai) running on Opus 5.5 that sends morning briefs, monitors connected apps (Gmail, Slack, Stripe, Shopify, Canva, Airtable…), works on its own cloud computer and asks before sending/paying/signing/deleting. Waitlist for US Pro/Max. Trending on X worldwide and US; CNBC/TestingCatalog coverage.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-05|q='Claude Duet' pre7=3.0 last7=11.9 peak=100"
   },
   {
     "id": 212,
@@ -2117,7 +2117,7 @@
     "first_seen": "2026-10-22T08:32+08:00",
     "url": "https://huggingface.co/baselabs/mammoth-1",
     "excerpt": "Base Labs (Baseten's research lab) released mammoth-1 (27B) open-weight decision model (Oct 21 ~17:14Z), #1 of 208 on Jev Decision Index v0.4 (71.24); returns a probability per answer instead of text. MIT license, Qwen3.5 fine-tune, free on Baseten API and Vercel AI Gateway until Oct 27. @baselabs post 400 likes / 40k views; @baseten 240 likes.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-05|q='Mammoth-1' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 213,
@@ -2127,7 +2127,7 @@
     "first_seen": "2026-10-22T08:32+08:00",
     "url": "https://huggingface.co/baselabs/elephant-1",
     "excerpt": "Companion to mammoth-1: Base Labs' elephant-1 (9B) decision model, tied #1 on Artificial Analysis Decision Index, best under 15B; open weights (MIT), free on Baseten/Vercel AI Gateway through Oct 27.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-05|q='Elephant-1' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 214,
@@ -2137,7 +2137,7 @@
     "first_seen": "2026-10-22T08:32+08:00",
     "url": "https://mirendil.com/news/pretraining-at-scale-without-a-pretraining-team/",
     "excerpt": "Mirendil (Behnam Neyshabur's RSI startup, $200M seed) announced Mirendil-Base (Oct 21, 9am PT / 16:16Z), a 100B–500B coding-specialized pretrained model built by one researcher with agents in 3.5 months for <$10M compute; agents wrote >99% of code. Larger Mirendil-Base-Large (~80% trained) and -XL (~19%) in progress. Founder post 890 likes / 106k views; X news story.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-05|no Trends data for 'Mirendil-Base'"
   },
   {
     "id": 215,
@@ -2147,7 +2147,7 @@
     "first_seen": "2026-10-22T08:32+08:00",
     "url": "https://www.phoneuse.com/",
     "excerpt": "PhoneUse launched (Oct 21 ~18:30Z): gives AI agents their own phones — cloud Android ($0.024/min, boots ~4s) or real retail iPhones/Androids in an SF rack tapped by a robot stylus with real SIMs for SMS/2FA; MCP/API/CLI for Claude Code, Codex, Cursor. Founder ex-CEO of Interview Coder. X news story; launch-demo reposts 80 likes / 20k views.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-05|q='PhoneUse' pre7=0.0 last7=7.7 peak=100"
   },
   {
     "id": 216,
@@ -2157,7 +2157,7 @@
     "first_seen": "2026-10-22T08:32+08:00",
     "url": "https://www.frontiermemory.com/blog/v1/",
     "excerpt": "Letta Research released FrontierMemory 1.0 (Oct 21), a benchmark that scores agent memory by how much generated memory improves downstream coding/knowledge tasks (6h memory-generation limit). Leaderboard: Opus 5.5 and GLM-5.3 73.3%, Kimi K3 66.7%; Letta Dream top harness at 73.3%.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-05|no Trends data for 'FrontierMemory'"
   },
   {
     "id": 217,
@@ -2167,7 +2167,7 @@
     "first_seen": "2026-10-22T08:32+08:00",
     "url": "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers",
     "excerpt": "Walmart announced (Oct 21) the Walmart Agent Gateway — an MCP-based beta for developers letting AI agents (ChatGPT, Gemini, Muse) search Walmart/Sam's Club and buy — plus Agent Profiles (launching in November; per-agent profiles, spending limits/approvals) and Terms for AI Agents. Reuters/TechCrunch/PYMNTS coverage; X news story.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-05|q='Walmart Agent Gateway' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 218,
@@ -2177,7 +2177,7 @@
     "first_seen": "2026-10-22T08:32+08:00",
     "url": "https://www.respan.ai/models/drex-max",
     "excerpt": "Nace.AI's Drex Max: largest multimodal decision model (successor to Drex v2.0) for computer-use agents; reads text/screenshots/video, returns calibrated option probabilities (~34–183ms), $0.06 per 1M input tokens, 262K context, 67.59 on Decision Index 0.3.2. Announced Oct 19 (TestingCatalog 225 likes/17k views; JayminS 399 likes/77k views); Respan gateway listing (released Oct 21) appeared in sitemap this run.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-05|q='Drex Max' pre7=0.0 last7=26.6 peak=100"
   },
   {
     "id": 219,
@@ -4367,6 +4367,66 @@
     "first_seen": "2026-11-05T04:32+08:00",
     "url": "https://huggingface.co/macrocosm-os/iota-decide-4b",
     "excerpt": "Macrocosmos 于 2026-11-04 发布首个公开模型 IOTA Decide 4B：4B 决策模型，单次前向给出带校准概率的多问题答案；Apache-2.0，Bittensor SN9 分布式训练；HF macrocosm-os/iota-decide-4b。",
+    "review_14d": null
+  },
+  {
+    "id": 438,
+    "term": "Axion 1.0",
+    "source": "x+web+hf",
+    "score": 0.88,
+    "first_seen": "2026-11-05T12:32+08:00",
+    "url": "https://github.com/bytedance/axion1_0",
+    "excerpt": "字节跳动发布 Axion 1.0「Open Agent Foundation Models, Simplified」：35B-A3B 与 122B-A10B 两档，约 18K SFT 样本 + 异步 GRPO RL；Axion 1.0-35B SEAL-0 62.2%，122B HLE 59.0%；GitHub bytedance/axion1_0。",
+    "review_14d": null
+  },
+  {
+    "id": 439,
+    "term": "PLaMo 3 Translate",
+    "source": "x+web+hf",
+    "score": 0.86,
+    "first_seen": "2026-11-05T12:32+08:00",
+    "url": "https://www.preferred.jp/en/blog/tech/plamo-3-translate-weight-release",
+    "excerpt": "Preferred Networks（PFN）于 2026-11-05 以开放权重发布翻译专用 LLM PLaMo 3 Translate：0.8B/2B/8B/31B 四档，含 FP8/W4A16/NVFP4/GGUF/MLX 量化版，支持 53 种语言，PLaMo 社区许可。",
+    "review_14d": null
+  },
+  {
+    "id": 440,
+    "term": "Apollo World",
+    "source": "x+web",
+    "score": 0.8,
+    "first_seen": "2026-11-05T12:32+08:00",
+    "url": "https://www.news.cn/tech/20261104/38e7bae3b4094da796b3f51e2252cefe/c.html",
+    "excerpt": "11 月 3 日深圳百度 AI Day·Apollo 专场，百度 Apollo 首次披露面向物理 AI 的智能体驱动全模态世界模型 Apollo World，并提出世界模型“2+3”判断标准；已用于萝卜快跑全球化测试与验证。",
+    "review_14d": null
+  },
+  {
+    "id": 441,
+    "term": "Kinference",
+    "source": "sitemap+web",
+    "score": 0.8,
+    "first_seen": "2026-11-05T12:32+08:00",
+    "url": "https://vllm.ai/blog/2026-11-04-introducing-kinference",
+    "excerpt": "vLLM 官方博客 2026-11-04 发布《Introducing Kinference》：Buoyant 开源的推理控制平面，基于 vLLM 与 Kubernetes，提供 token 限流、租户用量/成本追踪、KV 缓存感知负载均衡与推理策略；基准中中位 TTFT 降 95%。",
+    "review_14d": null
+  },
+  {
+    "id": 442,
+    "term": "Baseten Grid",
+    "source": "sitemap+web+x",
+    "score": 0.76,
+    "first_seen": "2026-11-05T12:32+08:00",
+    "url": "https://www.baseten.co/blog/introducing-baseten-grid",
+    "excerpt": "Baseten 于 2026-11-04 推出 Baseten Grid：面向企业编码 Agent 的网关 + 智能路由 + 护栏一体层，统一路由请求、监控用量、治理访问；Opendoor 为具名客户，报道称基准节省约 70%，已开放候补名单。",
+    "review_14d": null
+  },
+  {
+    "id": 443,
+    "term": "r-1 mini",
+    "source": "sitemap+web",
+    "score": 0.7,
+    "first_seen": "2026-11-05T12:32+08:00",
+    "url": "https://reducto.ai/blog/reducto-r-1-mini-parse-model",
+    "excerpt": "Reducto 于 2026-11-04 推出 r-1 mini：高质量文档解析模型，每 1,000 页 1 美元，宣称优于贵至 25 倍的方案；同时发布 ParseArena 评测与开源 AI 评审框架 PAIR。",
     "review_14d": null
   }
 ]

@@ -1,0 +1,13 @@
+---
+slug: "baseten-grid"
+term: "Baseten Grid"
+locale: "en"
+date: "2026-11-05T12:32+08:00"
+source: "sitemap+web+x"
+score: 0.76
+url: "https://www.baseten.co/blog/introducing-baseten-grid"
+excerpt: "On 2026-11-04 Baseten launched Baseten Grid, a combined gateway, intelligent routing and guardrails layer for enterprise coding agents that routes requests, monitors usage and governs access; Opendoor is a named customer, a ~70% benchmark saving was reported, and early access is via waitlist."
+intro: "**Baseten Grid** is a new product launched on **2026-11-04** by AI inference platform **Baseten** (CEO Tuhin Srivastava). Baseten describes it as \"**gateway, intelligent routing and guardrails in one layer**, so enterprises get more done with their AI spend.\"\n\nIt targets enterprises where many teams use **coding agents** (Claude Code, Codex, Cursor and others). Sitting above inference, Grid takes over model traffic across teams, tools and credentials, handling **routing, usage monitoring and access governance**, and can steer suitable requests to cheaper models, including ones Baseten hosts. Early access is via waitlist, with **Opendoor** named as a customer."
+explain: "## What problem it solves\n\nCoding agents turn model choice into a recurring enterprise expense spread across teams, tools and API keys. Platform teams struggle to set budgets, keep audit trails or automatically send easy work to cheaper models.\n\n## Key capabilities\n\n- **Gateway**: one entry point with centralized credentials and access control.\n- **Intelligent routing**: matches requests to models by difficulty and cost; reports cite about **70%** savings on a benchmark.\n- **Guardrails and governance**: budgets, usage monitoring and audit records.\n\n## Compared with alternatives\n\nSimilar in spirit to OpenRouter, LiteLLM and other AI gateways, but Grid focuses explicitly on **enterprise coding agents** and ties into Baseten's own inference.\n\n## Limitations\n\n- Early access via waitlist.\n- The 70% figure is vendor/press-reported; real savings depend on workload and model mix.\n- Routing to cheaper models can hurt quality on hard tasks, so pair it with evals."
+usage: "## Who it's for\n\n- Enterprise platform teams with many engineers on coding agents who need to control AI spend and compliance;\n- Teams already on Baseten inference that want one place to manage multi-model traffic.\n\n## Getting started\n\n1. Join the waitlist from the [Baseten Grid announcement](https://www.baseten.co/blog/introducing-baseten-grid).\n2. Inventory your coding agents' model calls and credentials and plan to route them through the Grid gateway.\n3. Set team budgets and routing rules, pilot with a small group, and compare cost and code quality before rolling out."
+---
