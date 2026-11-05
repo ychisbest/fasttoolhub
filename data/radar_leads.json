@@ -4428,5 +4428,55 @@
     "url": "https://reducto.ai/blog/reducto-r-1-mini-parse-model",
     "excerpt": "Reducto 于 2026-11-04 推出 r-1 mini：高质量文档解析模型，每 1,000 页 1 美元，宣称优于贵至 25 倍的方案；同时发布 ParseArena 评测与开源 AI 评审框架 PAIR。",
     "review_14d": null
+  },
+  {
+    "id": 444,
+    "term": "ERNIE-5.5-Flash-Base",
+    "source": "x+web+hf",
+    "score": 0.95,
+    "first_seen": "2026-11-05T16:32+08:00",
+    "url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Base",
+    "excerpt": "百度于 2026-11-05 开源 ERNIE-5.5-Flash-Base：280B 总参、每 token 激活 14B 的稀疏 MoE 预训练底座，训练 33.5T tokens，上下文训练 128K / 微调与推理可达 1M；HF 提供 FP8 与 BF16，SGLang/vLLM 已适配。",
+    "review_14d": null
+  },
+  {
+    "id": 445,
+    "term": "Kimi Hosted Agents",
+    "source": "x+web",
+    "score": 0.92,
+    "first_seen": "2026-11-05T16:32+08:00",
+    "url": "https://platform.kimi.com/docs/hosted-agents/overview",
+    "excerpt": "月之暗面于 2026-11-05 发布 Kimi Hosted Agents（托管智能体）：将 Agent Harness 作为云服务，提供 7×24 沙箱、会话持久化、140+ Skills / 30+ 插件；沙箱约 ¥0.072/小时，另计 token 与插件。",
+    "review_14d": null
+  },
+  {
+    "id": 446,
+    "term": "FAiE",
+    "source": "x+web",
+    "score": 0.88,
+    "first_seen": "2026-11-05T16:32+08:00",
+    "url": "https://oumi.ai/product-launch/fall26",
+    "excerpt": "Oumi 于 2026-11-04 通过 Business Wire 发布 FAiE（Frontier AI Engineer）：端到端自动化 Agent 开发与模型再训练，支持 Bring Your Own Harness、SFT/DPO 与 GRPO（私有预览）。",
+    "review_14d": null
+  },
+  {
+    "id": 447,
+    "term": "Atmee v2",
+    "source": "x+web",
+    "score": 0.85,
+    "first_seen": "2026-11-05T16:32+08:00",
+    "url": "https://www.atmee.ai/",
+    "excerpt": "Atmanity（创始人 Chen-Ping Yu）于 2026-11-04 发布 Atmee v2：实时全帧视频 Avatar 模型，一张肖像+短语音即可驱动，号称较竞品快约 50 倍、成本低 10–100 倍；API 与 Studio 已开放，Growth/邀请码可用。",
+    "review_14d": null
+  },
+  {
+    "id": 448,
+    "term": "Aether",
+    "source": "x+web",
+    "score": 0.78,
+    "first_seen": "2026-11-05T16:32+08:00",
+    "url": "https://docs.runaether.dev/introduction",
+    "excerpt": "Aether（docs.runaether.dev）为编码 Agent 提供可观察的云 Devbox：接入自有 Claude Code/Codex/OpenCode，约数秒启动 Firecracker VM，支持实时预览、PR 撰写与评审 Agent 闭环；按计算计费，推理走用户自己的订阅。",
+    "review_14d": null
   }
 ]
