@@ -4478,5 +4478,45 @@
     "url": "https://docs.runaether.dev/introduction",
     "excerpt": "Aether（docs.runaether.dev）为编码 Agent 提供可观察的云 Devbox：接入自有 Claude Code/Codex/OpenCode，约数秒启动 Firecracker VM，支持实时预览、PR 撰写与评审 Agent 闭环；按计算计费，推理走用户自己的订阅。",
     "review_14d": null
+  },
+  {
+    "id": 449,
+    "term": "IBM Palette",
+    "source": "x+web",
+    "score": 0.82,
+    "first_seen": "2026-11-05T20:32+08:00",
+    "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "excerpt": "IBM Research 于 2026-11-03 在 Hugging Face 博客发布 Palette：基于 20B 开源权重底座、单个 LoRA 同时扮演“设计师+程序员”，用 pptxgenjs 逐页生成符合 IBM Design Language 的 .pptx；PresentBench 三领域均分 59.7，仅次于 NotebookLM（60.8）。",
+    "review_14d": null
+  },
+  {
+    "id": 450,
+    "term": "Mira Sterling",
+    "source": "x+web",
+    "score": 0.78,
+    "first_seen": "2026-11-05T20:32+08:00",
+    "url": "https://sterling.mira.network/",
+    "excerpt": "Mira Network 于 2026-11-05 推出 Sterling（“Inference from verified providers”）：一把 API Key 访问 Claude、GPT、Gemini 等模型，先实时测试各推理提供商是否偷换小模型、破坏工具调用或截短上下文，只把请求路由到通过验证的提供商；首发主流模型 5 折。",
+    "review_14d": null
+  },
+  {
+    "id": 451,
+    "term": "FineART",
+    "source": "hf+web",
+    "score": 0.75,
+    "first_seen": "2026-11-05T20:32+08:00",
+    "url": "https://huggingface.co/datasets/lerobot/FineART",
+    "excerpt": "Scale AI 与 Hugging Face LeRobot 联合发布 FineART：40,543 条双臂遥操作轨迹（1,718 小时）、533,913 条带时间戳的子任务标注、151 个任务，CC BY 4.0；同时开源基于 π0.5 的 FineART-VLA；数据集已超 84 万次下载并登上 HF 趋势榜。",
+    "review_14d": null
+  },
+  {
+    "id": 452,
+    "term": "Scalekit AgentKit",
+    "source": "x+web",
+    "score": 0.72,
+    "first_seen": "2026-11-05T20:32+08:00",
+    "url": "https://www.scalekit.com/agentkit",
+    "excerpt": "Scalekit 的 AgentKit 于 2026-11-03 登上 Product Hunt 当日第一：一个 MCP 网关让 Agent 以“发起请求的用户身份”调用 600+ 应用的 30,000+ 工具，支持 Virtual MCP Servers、自定义连接器、事件触发与全量审计日志；免费额度每月 1 万次工具调用。",
+    "review_14d": null
   }
 ]
