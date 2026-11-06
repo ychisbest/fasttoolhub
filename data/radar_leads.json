@@ -4858,5 +4858,65 @@
     "url": "https://distributed.inc/research/solving-1v1-catan/",
     "excerpt": "Distributed Cognition unveiled VINCO (~0.5M-param specialist) for competitive 1v1 Catan; claimed #1/#2 on Colonist.io 2026-11-01 and playable at catan.dcog.com. Technical report published Nov 5; X news amplification into this window.",
     "review_14d": null
+  },
+  {
+    "id": 487,
+    "term": "DeepFinance",
+    "source": "x+web",
+    "score": 0.9,
+    "first_seen": "2026-11-06T16:32+08:00",
+    "url": "https://www.juliusresearch.ai/deep-finance",
+    "excerpt": "Julius Research released DeepFinance on 2026-11-05: ultra-long-horizon PE/IB benchmark — 21 real-deal tasks, avg 27.1 human hours, 84 rubric criteria each. Claude Opus 5.5 leads at 54.8%. Official site juliusresearch.ai/deep-finance; X amplification into 12:32–16:32 BJT.",
+    "review_14d": null
+  },
+  {
+    "id": 488,
+    "term": "Kanana-2-v-decide",
+    "source": "x+web",
+    "score": 0.88,
+    "first_seen": "2026-11-06T16:32+08:00",
+    "url": "https://www.kakaocorp.com/page/detail/12193",
+    "excerpt": "Kakao open-sourced Kanana-2-v-decide on 2026-11-06: ~3B multimodal decision model outputting probabilities/choices/scores for agent tool-routing; HF kakaocorp/kanana-2-v-decide-3b-2611 under Kanana Open License; official Kakao press same day.",
+    "review_14d": null
+  },
+  {
+    "id": 489,
+    "term": "TailorRig",
+    "source": "hf+sitemap",
+    "score": 0.88,
+    "first_seen": "2026-11-06T16:32+08:00",
+    "url": "https://huggingface.co/datasets/tencent/TailorRig",
+    "excerpt": "Tencent LIGHTSPEED TailorRig — garment-aware humanoid auto-rigging. HF dataset tencent/TailorRig created 2026-11-04 (39k meshes / Human-Mix), lastModified 2026-11-05; arXiv 2611.02902; newly trending on HF datasets.",
+    "review_14d": null
+  },
+  {
+    "id": 490,
+    "term": "Cicada",
+    "source": "github",
+    "score": 0.86,
+    "first_seen": "2026-11-06T16:32+08:00",
+    "url": "https://github.com/wquguru/cicada",
+    "excerpt": "知了 Cicada — free OSS live bilingual subtitles, simultaneous interpreting, and AI meeting notes for Mac/Windows/Linux/Android. Site cicada.indaloop.app; v1.0 Nov 3, cross-platform Nov 4, 1.3.0 Nov 5; ~1525★.",
+    "review_14d": null
+  },
+  {
+    "id": 491,
+    "term": "Build Live Apps",
+    "source": "x+web",
+    "score": 0.82,
+    "first_seen": "2026-11-06T16:32+08:00",
+    "url": "https://cursor.com/changelog/build-live-apps",
+    "excerpt": "Cursor shipped Build Live Apps on 2026-11-05: cloud agents scaffold a web app, provision Postgres + Cursor SSO auth + hosting, run security checks, then publish a shareable link. Official changelog + docs; available on paid plans with Cloud Agents.",
+    "review_14d": null
+  },
+  {
+    "id": 492,
+    "term": "Sand3D",
+    "source": "github",
+    "score": 0.74,
+    "first_seen": "2026-11-06T16:32+08:00",
+    "url": "https://github.com/Sandflow-ai/sand3d",
+    "excerpt": "Sand3D — Python 3D-modeling library built for LLMs (CAD-as-code over Blender bpy). Repo created 2026-11-03 (~484★); sites sand3d.sandflow.ai / sandflow.ai; PyPI sand3d.",
+    "review_14d": null
   }
 ]

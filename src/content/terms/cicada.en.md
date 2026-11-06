@@ -1,0 +1,13 @@
+---
+slug: "cicada"
+term: "Cicada"
+locale: "en"
+date: "2026-11-06T16:32+08:00"
+source: "github"
+score: 0.86
+url: "https://github.com/wquguru/cicada"
+excerpt: "知了 Cicada — free OSS live bilingual subtitles, simultaneous interpreting, and AI meeting notes for Mac/Windows/Linux/Android. Site cicada.indaloop.app; v1.0 ~Nov 3, cross-platform Nov 4, 1.3.0 ~Nov 5."
+intro: "**Cicada (知了)** is **@wquguru**'s open-source **cross-platform meeting/live-stream assistant**: live bilingual captions, simultaneous interpreting and structured AI notes. Site: https://cicada.indaloop.app ; source: https://github.com/wquguru/cicada (Apache-2.0).\n\nIt listens to **system audio or the mic** — no bot joins the call; the other side installs nothing. Works anywhere sound plays: Zoom, Teams, Feishu, Tencent Meeting, Meet, Discord, X Spaces, YouTube, Bilibili, etc.\n\nPlatforms:\n\n- **Mac** (macOS 14.4+): fullest feature set; Apple Silicon can do on-device ASR so captions/translate/transcripts work without a key;\n- **Windows 10+, Ubuntu 22.04/24.04, Android 10+**: need Ling / OpenRouter / ZenMux (or compatible) AI service;\niPhone still upcoming.\n\nInterpreting: hold Right ⌥ (Right Ctrl on Windows), speak Chinese; translated speech goes into the call via a virtual mic (BlackHole / VB-Cable)."
+explain: "## Positioning\n\nBuilt-in meeting captions are often locked to one app and rarely speak for you. Cicada takes a **system-audio + on-device/BYO model** path and turns notes into structured, click-to-source records (conclusions, todos, fishbone charts).\n\n## Privacy\n\nNo telemetry / no first-party servers per the docs. On Apple Silicon Macs, audio stays on-device for ASR; mainly text leaves the machine (plus optional interpreting audio). Windows/Linux/Android send audio chunks to your chosen cloud ASR.\n\n## Limits\n\n- Not yet Apple-notarized / Windows code-signed — first launch needs a manual allow;\n- \"My speech\" in notes is mostly what you say while holding the talk key;\n- Non-Mac builds lean on third-party AI keys and network."
+usage: "## Who it's for\n\n- People in bilingual meetings, streams or podcasts;\n- Anyone who needs push-to-talk interpreting without a bot in the call;\n- Mac users who want OSS + on-device privacy defaults.\n\n## Getting started\n\n1. Download from https://cicada.indaloop.app/download/ or GitHub Releases and verify SHA-256;\n2. On Mac, grant system-audio permission in onboarding; install the virtual mic if you need interpreting;\n3. Optionally add Ling or another OpenAI-compatible service for AI notes / non-Mac ASR;\n4. Export Markdown / Word / SRT after the call, or import existing audio/video to backfill notes."
+---
