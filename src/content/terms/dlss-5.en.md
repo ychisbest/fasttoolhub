@@ -1,0 +1,13 @@
+---
+slug: "dlss-5"
+term: "DLSS 5"
+locale: "en"
+date: "2026-11-06T08:32+08:00"
+source: "sitemap"
+score: 0.82
+url: "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/"
+excerpt: "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering on GeForce NOW."
+intro: "**DLSS 5** is NVIDIA’s next generation of **Deep Learning Super Sampling**, centered on **3D-Guided Neural Rendering**. Coverage: https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/ and GeForce news on Hogwarts Legacy / War Thunder / Where Winds Meet.\n\nAround **2026-11-05**, *Hogwarts Legacy* (Avalanche Software / Portkey Games / Warner Bros. Games) shipped a DLSS 5 upgrade on PC and GeForce NOW: AI enhances lighting and materials while retaining underlying geometry and textures, with developer controls to keep the game’s art direction.\n\nHighlights:\n\n- Adds **3D-Guided Neural Rendering** for lifelike lighting and materials;\n- NVIDIA describes it as powered by an about **2× faster** AI model (vs prior gen wording);\n- Supported on **GeForce RTX 50 Series** GPUs/laptops and GeForce NOW Ultimate (RTX 5080-class cloud servers);\n- The title also supports **DLSS Multi Frame Generation** and **Ray Reconstruction**; cloud players can use DLSS 4.5-style controls;\n- Same-month follow-ons planned: **War Thunder** (mid-November) and **Where Winds Meet** (~Nov 23)."
+explain: "## Problem\n\nClassic upscaling/frame generation raises FPS but does little for how lifelike lighting and materials look. DLSS 5 pushes neural rendering to enhance lighting/materials with 3D guidance while preserving the developer’s artistic intent.\n\n## Relation to earlier DLSS\n\n- Prior gens focused on super-resolution, multi-frame generation, ray reconstruction, etc.;\n- DLSS 5 adds **3D-Guided Neural Rendering** for lighting/material enhancement;\n- Titles can still stack Multi Frame Generation and Ray Reconstruction.\n\n## Limits\n\n- Needs RTX 50 Series or GeForce NOW Ultimate (per NVIDIA);\n- Results depend on each game’s integration and tuning;\n- “2× faster AI model” is NVIDIA’s claim—check game/driver versions for details."
+usage: "## Who it's for\n\n- PC gamers with GeForce RTX 50 Series GPUs;\n- GeForce NOW Ultimate members (cloud play without a high-end local GPU);\n- Developers evaluating neural-rendering integration.\n\n## Getting started\n\n1. Update GeForce drivers; in *Hogwarts Legacy* Display settings set Upscale Type to NVIDIA DLSS and enable Neural Rendering (per in-game labels);\n2. Or stream the title on GeForce NOW Ultimate from Steam / Epic / Xbox Play Anywhere;\n3. Optionally enable Multi Frame Generation and Ray Reconstruction;\n4. Watch for War Thunder and Where Winds Meet later in November."
+---

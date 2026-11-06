@@ -4618,5 +4618,195 @@
     "url": "https://luel.work/lab/models/accentus",
     "excerpt": "Luel Lab launched Accentus, a model that decides whether a speaker sounds American in real conversation/phone audio, returning Pass / Review / Reject (naming the group); self-reported only 5 of 233 Americans rejected and ~93–98% of non-American accents stopped; closed beta.",
     "review_14d": null
+  },
+  {
+    "id": 463,
+    "term": "Inkling 2 Small",
+    "source": "x+web",
+    "score": 0.95,
+    "first_seen": "2026-11-06T08:32+08:00",
+    "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+    "excerpt": "Thinking Machines Lab launched Inkling 2 Small on 2026-11-05: second-gen MoE (594B total / 17B active), AA Intelligence Index 31; fine-tune/inference on Tinker now, full Apache 2.0 weights planned after safety checks.",
+    "review_14d": null
+  },
+  {
+    "id": 464,
+    "term": "Ling-3.2-flash",
+    "source": "x+web",
+    "score": 0.92,
+    "first_seen": "2026-11-06T08:32+08:00",
+    "url": "https://developer.ant-ling.com/en/docs/getting-started/changelog",
+    "excerpt": "Ant Ling / InclusionAI released Ling-3.2-flash on 2026-11-05: native multimodal MoE 560B total / 25B active, 1M context, image+text+video; claimed wins vs Claude Opus 5 on OmniDocBench1.5 / ZEROBench / Vision2Web; API free first 2 weeks.",
+    "review_14d": null
+  },
+  {
+    "id": 465,
+    "term": "Gemini Omni 1.2 Flash",
+    "source": "x+web",
+    "score": 0.91,
+    "first_seen": "2026-11-06T08:32+08:00",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+    "excerpt": "Google DeepMind made Gemini Omni 1.2 Flash GA on 2026-11-05: native 15s video, multi-turn conversational editing, stronger reference adherence, ~30% cheaper (~$0.07/s 720p) via Gemini API / AI Studio / Cloud.",
+    "review_14d": null
+  },
+  {
+    "id": 466,
+    "term": "Frameboy",
+    "source": "x+web",
+    "score": 0.89,
+    "first_seen": "2026-11-06T08:32+08:00",
+    "url": "https://www.worldlabs.ai/blog/atlas-realtime",
+    "excerpt": "World Labs released Frameboy on 2026-11-05: browser demo streaming optimized Atlas world-model frames from cloud GPUs at up to 15 fps with camera control; live at frameboy.worldlabs.ai.",
+    "review_14d": null
+  },
+  {
+    "id": 467,
+    "term": "MatterSeek",
+    "source": "hf",
+    "score": 0.88,
+    "first_seen": "2026-11-06T08:32+08:00",
+    "url": "https://huggingface.co/YuyaoTechnology/MatterSeek",
+    "excerpt": "Yuyao Technology MatterSeek — physics-reasoning foundation model for universal new-materials prediction (Beta); HF model ~2888 likes; Space newly entered HF spaces trending; site yuyaomatterseek.net.",
+    "review_14d": null
+  },
+  {
+    "id": 468,
+    "term": "NVIDIA Vera CPU",
+    "source": "sitemap",
+    "score": 0.88,
+    "first_seen": "2026-11-06T08:32+08:00",
+    "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+    "excerpt": "NVIDIA Vera CPU is positioned for the highest-throughput and fastest AI agents — targeting agent search, DB query, and code write/test workloads within power limits.",
+    "review_14d": null
+  },
+  {
+    "id": 469,
+    "term": "DLSS 5",
+    "source": "sitemap",
+    "score": 0.82,
+    "first_seen": "2026-11-06T08:32+08:00",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
+    "excerpt": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering on GeForce NOW.",
+    "review_14d": null
+  },
+  {
+    "id": 470,
+    "term": "Science's Last Exam",
+    "source": "x+web",
+    "score": 0.78,
+    "first_seen": "2026-11-06T08:32+08:00",
+    "url": "https://sciences-last-exam.org/",
+    "excerpt": "AItonomy Foundation launched Science's Last Exam (SLE): 113 end-to-end scientific research tasks across 9 disciplines with hidden expert checks; top frontier composite ~37.5/100.",
+    "review_14d": null
+  },
+  {
+    "id": 471,
+    "term": "FrontierPhysics",
+    "source": "x+web",
+    "score": 0.76,
+    "first_seen": "2026-11-06T08:32+08:00",
+    "url": "https://arxiv.org/abs/2611.06910",
+    "excerpt": "FrontierPhysics is an end-to-end physics research agent benchmark — 56 tasks by 42 physicists from 26 institutions; Claude Opus 5.5 ~27.4% overall in early reports (arXiv 2611.06910).",
+    "review_14d": null
+  },
+  {
+    "id": 472,
+    "term": "Poki",
+    "source": "github",
+    "score": 0.74,
+    "first_seen": "2026-11-06T08:32+08:00",
+    "url": "https://github.com/JosssphZhou/poki",
+    "excerpt": "JosssphZhou/poki (created 2026-11-05, ~195★): local MCP server/agent so AI agents can operate a real iPhone without jailbreak; site poki.bot; macOS+iOS; AGPL.",
+    "review_14d": null
+  },
+  {
+    "id": 473,
+    "term": "Luel Speech",
+    "source": "sitemap",
+    "score": 0.72,
+    "first_seen": "2026-11-06T08:32+08:00",
+    "url": "https://www.luel.ai/blog/luel-speech-is-now-available",
+    "excerpt": "Luel Speech is now publicly available — specialist production audio for unrepresented languages (Tibetan, Darija, Masri, Dzongkha) via Studio/API.",
+    "review_14d": null
+  },
+  {
+    "id": 474,
+    "term": "Luel Multi-Speaker Separation",
+    "source": "sitemap",
+    "score": 0.7,
+    "first_seen": "2026-11-06T08:32+08:00",
+    "url": "https://www.luel.ai/blog/luel-multi-speaker-separation",
+    "excerpt": "Luel Multi-Speaker Separation gives each person their own track from real conversations; trained on contributor network; closed beta.",
+    "review_14d": null
+  },
+  {
+    "id": 475,
+    "term": "Exo",
+    "source": "x+web",
+    "score": 0.66,
+    "first_seen": "2026-11-06T08:32+08:00",
+    "url": "https://arxiv.org/abs/2611.00463",
+    "excerpt": "Exo is an agent harness architecture for runtime self-improvement — editable policy layer + protected core with rollbacks (exokernel-inspired); arXiv 2611.00463; code github.com/exoharness/exo.",
+    "review_14d": null
+  },
+  {
+    "id": 476,
+    "term": "Merge Agent Handler",
+    "source": "sitemap",
+    "score": 0.66,
+    "first_seen": "2026-11-06T08:32+08:00",
+    "url": "https://www.merge.dev/",
+    "excerpt": "Merge Agent Handler provides secure tool access for AI agents as part of Merge's universal context/integration stack (alongside Merge Unified and Merge Gateway).",
+    "review_14d": null
+  },
+  {
+    "id": 477,
+    "term": "HumanWAM",
+    "source": "hf",
+    "score": 0.62,
+    "first_seen": "2026-11-06T08:32+08:00",
+    "url": "https://huggingface.co/DAGroup-PKU/HumanWAM-Vanilla-Base",
+    "excerpt": "DAGroup-PKU HumanWAM-Vanilla-* family published 2026-11-05: world-action model pretrained on Open-HumanScale-50K + EgoPro; arXiv 2611.06817; weights for robot post-training.",
+    "review_14d": null
+  },
+  {
+    "id": 478,
+    "term": "OpenRouter MCP",
+    "source": "sitemap",
+    "score": 0.62,
+    "first_seen": "2026-11-06T08:32+08:00",
+    "url": "https://openrouter.ai/mcp",
+    "excerpt": "OpenRouter MCP connects Claude Code, Codex CLI, OpenCode, Cursor or any MCP client to OpenRouter: live model data, credits, image/speech/video generation.",
+    "review_14d": null
+  },
+  {
+    "id": 479,
+    "term": "Merge Gateway",
+    "source": "sitemap",
+    "score": 0.6,
+    "first_seen": "2026-11-06T08:32+08:00",
+    "url": "https://www.merge.dev/",
+    "excerpt": "Merge Gateway provides model routing and cost controls within Merge's AI integration stack.",
+    "review_14d": null
+  },
+  {
+    "id": 480,
+    "term": "Hermes Voice",
+    "source": "github",
+    "score": 0.56,
+    "first_seen": "2026-11-06T08:32+08:00",
+    "url": "https://github.com/majorminorlabs/hermes-voice",
+    "excerpt": "majorminorlabs/hermes-voice (created 2026-11-05, ~224★): talk to a Hermes Agent profile through Home Assistant Assist; ships HA custom component + hey-hermes wakeword.",
+    "review_14d": null
+  },
+  {
+    "id": 481,
+    "term": "MineAgent",
+    "source": "github",
+    "score": 0.52,
+    "first_seen": "2026-11-06T08:32+08:00",
+    "url": "https://github.com/YT-Proteus-bot/MineAgent",
+    "excerpt": "YT-Proteus-bot/MineAgent (created 2026-11-05, ~111★): browser canvas to design industrial Agent flows (React Flow), compile to a runnable Python Agent project, stream node execution.",
+    "review_14d": null
   }
 ]
