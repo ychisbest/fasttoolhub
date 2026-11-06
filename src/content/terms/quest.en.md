@@ -1,0 +1,13 @@
+---
+slug: "quest"
+term: "Quest"
+locale: "en"
+date: "2026-11-06T20:32+08:00"
+source: "x+news"
+score: 0.88
+url: "https://x.com/VNallatamby/status/2118388085256052967"
+excerpt: "Vincent Nallatamby & Thomas Girardier launched Quest on 2026-11-05: personal AI advisor that builds deep profiles from iMessage/email/calendar/health and acts proactively. Les Echos coverage; Launch Archive #2; X news amplification into 16:32–20:32 BJT."
+intro: "**Quest** is the **personal AI advisor / personal agent** launched **2026-11-05** by French founders **Vincent Nallatamby** and **Thomas Girardier**. Pitch: it studies you like a profiler, then writes **Your Memory**, designs a **Relationship Map**, and crafts customizable **Mini-Apps**; it also acts as a proactive advisor that can manage other AI assistants. Site: https://www.new.quest/ ; launch post: https://x.com/VNallatamby/status/2118388085256052967 ; covered the same day by Les Echos.\n\nHighlights (official / press):\n\n- Requires **radical transparency** — deep access to life data (messages, email, calendar, health, etc.) to build lasting memory;\n- More than a chat box: proactive advice, assistant orchestration, and an \"own phone\" product narrative;\n- Ranked **#2** on Launch Archive that day; X news amplification continued into the 16:32–20:32 BJT window.\n\nNot the same as model name **IQuest-Q1** — this entry is the consumer personal-agent brand **Quest**."
+explain: "## Why it matters\n\nPersonal agents are shifting from chat UIs to **long-term memory + proactive action**. Quest makes full-life profiling the product premise, with French mainstream press and Launch Archive ranking as corroboration.\n\n## Peers\n\nSame broad lane as Muse-style personal companions/advisors; Quest's pitch centers on relationship maps, mini-apps and managing other assistants.\n\n## Limits\n\n- Radical access raises privacy/compliance stakes — review scopes yourself;\n- Early launch: availability, regions and pricing follow the site;\n- Do not confuse with the unrelated IQuest model line."
+usage: "## Who it's for\n\n- Users willing to grant deep access for a proactive personal advisor (not just chat);\n- Product people watching consumer personal-agent / Muse-adjacent competition;\n- Anyone tracking French startup launches and Launch Archive rankings.\n\n## Getting started\n\n1. Read https://www.new.quest/ for product claims and permission requirements;\n2. Cross-check the launch post https://x.com/VNallatamby/status/2118388085256052967 and Les Echos coverage;\n3. Only apply/try after you accept the data-access scope;\n4. Compare vs Muse-class peers on memory depth, proactivity, assistant orchestration and privacy controls."
+---

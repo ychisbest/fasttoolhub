@@ -4918,5 +4918,55 @@
     "url": "https://github.com/Sandflow-ai/sand3d",
     "excerpt": "Sand3D — Python 3D-modeling library built for LLMs (CAD-as-code over Blender bpy). Repo created 2026-11-03 (~484★); sites sand3d.sandflow.ai / sandflow.ai; PyPI sand3d.",
     "review_14d": null
+  },
+  {
+    "id": 493,
+    "term": "Quest",
+    "source": "x+news",
+    "score": 0.88,
+    "first_seen": "2026-11-06T20:32+08:00",
+    "url": "https://x.com/VNallatamby/status/2118388085256052967",
+    "excerpt": "Vincent Nallatamby & Thomas Girardier launched Quest on 2026-11-05: personal AI advisor that builds deep profiles from iMessage/email/calendar/health and acts proactively. Les Echos coverage; Launch Archive #2; X news amplification into 16:32–20:32 BJT.",
+    "review_14d": null
+  },
+  {
+    "id": 494,
+    "term": "Clocktower Bench",
+    "source": "x+web",
+    "score": 0.86,
+    "first_seen": "2026-11-06T20:32+08:00",
+    "url": "https://clocktowerbench.com/",
+    "excerpt": "Dwarkesh Patel published Clocktower Bench on 2026-11-05: multi-agent social-deception eval where models play Blood on the Clocktower (386 rated games, ~$20k API). GPT-6 Astra leads (~1859 Elo). Official leaderboard + play.clocktowerbench.com; heavy X amplification into 16:32–20:32 BJT.",
+    "review_14d": null
+  },
+  {
+    "id": 495,
+    "term": "Cola2",
+    "source": "hf+x",
+    "score": 0.86,
+    "first_seen": "2026-11-06T20:32+08:00",
+    "url": "https://huggingface.co/ByteDance-Seed/Cola2",
+    "excerpt": "ByteDance Seed published Cola2 on HF 2026-11-06: ~9B continuous-latent base model (VAE span compression + ~4B block-causal DiT + token decoder), 346B tokens; arXiv 2610.31305; code github.com/ByteDance-Seed/Cola2; same-day HF+GitHub ship + in-window X mention.",
+    "review_14d": null
+  },
+  {
+    "id": 496,
+    "term": "GigaSpeech 3",
+    "source": "hf",
+    "score": 0.82,
+    "first_seen": "2026-11-06T20:32+08:00",
+    "url": "https://huggingface.co/datasets/speechcolab/gigaspeech3",
+    "excerpt": "SpeechColab GigaSpeech 3 newly trending on HF datasets (~19 likes, ~7k downloads): ~10.3M weakly transcribed Arabic segments / ~39k hours across DZA/EGY/IRQ/SAU/SYR dialects; arXiv 2611.02476; companions GigaSpeechBench + VoxLabel. Dataset created 2026-10-25, lastModified 2026-11-04; first appearance on datasets-trending this 20:32 window.",
+    "review_14d": null
+  },
+  {
+    "id": 497,
+    "term": "Stroq",
+    "source": "x+web",
+    "score": 0.68,
+    "first_seen": "2026-11-06T20:32+08:00",
+    "url": "https://stroq.dev/",
+    "excerpt": "AGGIB shipped Stroq 0.30.0 on 2026-11-05: local OSS firewall/audit for Claude Code/Codex/Cursor sessions — secret egress scan, hash-chained audit log, PreToolUse policy hooks. Austen Allred 'Last 24 Hours in AI' flagged Stroq; site stroq.dev + GH AGGIB/Stroq.",
+    "review_14d": null
   }
 ]
