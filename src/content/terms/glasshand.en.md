@@ -1,0 +1,13 @@
+---
+slug: "glasshand"
+term: "Glasshand"
+locale: "en"
+date: "2026-11-06T12:32+08:00"
+source: "x+web"
+score: 0.9
+url: "https://glasshand.com"
+excerpt: "Trevor Keith / Solid launched Glasshand (Product Hunt #1 on 2026-11-05): rent real data-center iPhones and Macs for AI agents via API so they can see the screen, tap and type; exclusive during rental, factory-reset afterward. Site: glasshand.com."
+intro: "**Glasshand**, from **Trevor Keith**'s team (Solid; MIT / Berkeley / Waterloo backgrounds), launched on **Product Hunt on 2026-11-05** and took **#1 Product of the Day**. It lets AI agents rent **real physical iPhones and Macs** in a data center — not emulators or VMs. Site: https://glasshand.com ; Product Hunt: https://www.producthunt.com/products/glasshand .\n\nHow it works: connect Claude Code, Codex, Cursor or any agent to the Glasshand API; the agent then drives an exclusive device — iMessage, App Store installs, TikTok posts, Uber bookings, or build-on-Mac / test-on-iPhone workflows. Primary SKU today is **iPhone SE 3rd gen**; eSIM can give the agent its own number for SMS codes.\n\nHighlights:\n\n- **Real hardware**, keeping Apple ecosystem behavior;\n- **Exclusive** for the rental; users can set their own PIN / disk password;\n- After rental: **wipe + factory reset** (including Secure Enclave / eSIM);\n- Reported pricing from ~**$60/mo iPhone, $90/mo Mac**;\n- Contrasts with already-tracked **Poki** (local MCP on your own phone): Glasshand is **remote rental**."
+explain: "## Problem\n\nAgents are smart enough for many tasks, but native phone apps, SMS verification and Apple-only services still stall them waiting for a human tap. Glasshand rents the \"hands\": the same human UI, real hardware, cellular and iCloud.\n\n## Safety trade-offs\n\nThe team emphasizes wipe SOPs and verification; users can set their own passwords so the platform never sees them. Still new infra — audit and compliance are on you.\n\n## Limits\n\n- Limited device SKUs for now; camera-facing content for the rack is still in development;\n- Remote real devices raise privacy/abuse surface — better for sandboxed automation than dumping your primary accounts;\n- Strong PH launch; long-term retention and SLA TBD."
+usage: "## Who it's for\n\n- Teams whose agents must drive real iOS/macOS apps, run regression tests or automate social;\n- Developers evaluating computer-use / phone-use product shapes;\n- Anyone comparing against local control tools like Poki.\n\n## Getting started\n\n1. Sign up at https://glasshand.com or via the Product Hunt page;\n2. Paste the connect prompt into Claude Code / Codex / Cursor and rent an iPhone or Mac;\n3. Set your own device password and optional eSIM;\n4. After rental, confirm wipe + factory reset completed."
+---

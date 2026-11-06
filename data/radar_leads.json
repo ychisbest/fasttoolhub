@@ -2187,7 +2187,7 @@
     "first_seen": "2026-10-22T16:32+08:00",
     "url": "https://breken.ai/",
     "excerpt": "Breken launched Oct 21 ~15:59Z (@brekenai, 1.08M impressions / 1242 likes / 223 RTs): \"production engineering\" that rebuilds your real software in an isolated env, grows production state at 4000×, runs synthetic users/agents, varies one condition (retry/lost response/clock jump), and returns reproducible failures with draft fix PRs. Official site breken.ai; X news story updated Oct 22 04:05Z (in window). ESCAPES vendor benchmark: 76/235 shipped bugs vs 37 Claude Code Fable 5.1. Missed by 08:32 run (launch ~33 min before that window).",
-    "review_14d": null
+    "review_14d": "miss|2026-11-06|q='Breken' pre7=71.1 last7=67.6 peak=100"
   },
   {
     "id": 220,
@@ -2197,7 +2197,7 @@
     "first_seen": "2026-10-22T16:32+08:00",
     "url": "https://breken.ai/benchmark",
     "excerpt": "ESCAPES: Breken's open vendor-run benchmark of 327 real user-reported bugs across 33 OSS products (235 already present at 2026-07-01 snapshot). Scores how many escapes a system catches before users: Breken 76 (32%, 20 false alarms), Claude Fable 5.1 Claude Code 37, Opus 5.5 33, GPT-6 Astra Codex 28, Semgrep 9. Dataset, judge prompts and labels public; submissions open. Launched with Breken Oct 21; likely to be cited in agent/testing evals.",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-06|generic word, Trends not attributable"
   },
   {
     "id": 221,
@@ -2207,7 +2207,7 @@
     "first_seen": "2026-10-23T00:32+08:00",
     "url": "https://huggingface.co/HuggingFaceBio/Carbon-X",
     "excerpt": "Hugging Face launched Carbon-X on Oct 22, 2026 (WIRED 06:00 ET / ~10:00 BJT): open 14.8B DNA+natural-language chat model (Apache 2.0) from HuggingFaceBio with Zhongguancun Academy and Univ. Naples. Hybrid tokenizer (Qwen3 BPE + DNA 6-mers); 302B mid-training tokens; averages 66.7% across five DNA benchmarks, near GPT-6.1 Sol (67.5%) at ~1/1,800 the cost; runs on one 80GB GPU / laptop via GGUF. Not clinically validated. Hub: HuggingFaceBio/Carbon-X (+ GGUF + Space). Covered by WIRED and Business Insider same day; X news story updated 2026-10-22T16:26Z.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-06|q='Carbon-X' pre7=0.0 last7=7.9 peak=100"
   },
   {
     "id": 222,
@@ -2217,7 +2217,7 @@
     "first_seen": "2026-10-23T00:32+08:00",
     "url": "https://www.topview.ai/topview-t1",
     "excerpt": "Topview AI launched Topview T1 on Oct 21, 2026: proprietary cinematic video model claiming Seedance 2.5-level 1080p at ~62% lower cost ($6.60 vs $17.55 for 30s @1080p; 2.2 credits/s). Text/image/multi-reference, up to 30s, 720p/1080p, multilingual dialogue & audio guidance. Live on topview.ai; Ultra Annual gets 30 days unlimited T1. Distinct from previously skipped Topview 3D Builder. X news comparisons vs Seedance still hot in this US-daytime window (updated 2026-10-22T16:13Z).",
-    "review_14d": null
+    "review_14d": "hit|2026-11-06|q='Topview T1' pre7=0.0 last7=32.7 peak=100"
   },
   {
     "id": 223,
@@ -2227,7 +2227,7 @@
     "first_seen": "2026-10-23T00:32+08:00",
     "url": "https://useit.im",
     "excerpt": "UseIt Studio hit #1 on Product Hunt Oct 21, 2026 (~331 votes, Product of the Day among 1,104 launches): AI design agent for physical goods — pins, stickers, gift boxes, pop-up cards, brand kits — that outputs editable production files with real dimensions, bleed and dielines (not flat images). Browser + Windows desktop. Site useit.im. Still circulating in Oct 22 PH recaps / Launch Index (beat 99% of that day's launches).",
-    "review_14d": null
+    "review_14d": "miss|2026-11-06|no Trends data for 'UseIt Studio'"
   },
   {
     "id": 224,
@@ -2237,7 +2237,7 @@
     "first_seen": "2026-10-23T00:32+08:00",
     "url": "https://lab.einsia.ai/quant-arena/",
     "excerpt": "Einsia AI Navers Lab published Quant-Arena on Oct 21, 2026 (arXiv:2610.30113): public benchmark/leaderboard for end-to-end LLM quant research on A-share Level-2 data. Models research 2022–2023 with bounded feedback, freeze one strategy, then sealed 2024 cash-account eval with costs/impact. Nine frontier models tested; GPT-6 Astra led (10.7% ARR / score 51.29) but none beat equal-weight market 17.1%. Open submissions. Site lab.einsia.ai/quant-arena/ + leaderboard. X news story updated 2026-10-22T15:30Z.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-06|no Trends data for 'Quant-Arena'"
   },
   {
     "id": 225,
@@ -2247,7 +2247,7 @@
     "first_seen": "2026-10-23T00:32+08:00",
     "url": "https://www.band.ai",
     "excerpt": "BAND ranked #2 on Product Hunt Oct 21, 2026 (~306 votes): desktop platform coordinating multi-agent coding work across Claude Code, Codex, Cursor, Gemini CLI, Copilot etc. via shared interaction layer with governance (not just orchestration). Site band.ai; docs cover MCP/A2A/ACP adapters. Positioned as 'coding agents, meet teamwork' / BAND for Developers.",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-06|generic word, Trends not attributable"
   },
   {
     "id": 226,
@@ -2257,7 +2257,7 @@
     "first_seen": "2026-10-23T08:32+08:00",
     "url": "https://www.canva.com/newsroom/news/canva-craft/",
     "excerpt": "\"Introducing Canva Craft 🚀 Extraordinary image generation is now available to everyone, powered by our first frontier model built specifically for design.\" (@canva, 2026-10-22 19:16Z ≈ Oct 23 03:16 BJT; ~305k views, 1.8k likes, 4.9k reposts). Canva Research's first in-house image model: two-stage plan-then-render architecture, up to 2K in 30+ aspect ratios, text in 55 languages; #4 overall (Elo 1340) on DesignArena; free to all users via Dream Lab + public API (model id craft_v1_2k), MCP coming; Craft-fast / Craft-ultrafast to follow. TechCrunch 12:00 PT and The Verge 21:51Z same day.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-06|q='Canva Craft' pre7=22.7 last7=34.4 peak=100"
   },
   {
     "id": 227,
@@ -2267,7 +2267,7 @@
     "first_seen": "2026-10-23T08:32+08:00",
     "url": "https://huggingface.co/THUSI-Lab/GameScaling",
     "excerpt": "\"Tsinghua × miHoYo are open-sourcing GameScaling -- the first open-source generalist game-playing LLM series, with 8 models ranging from 0.8B to 27B parameters.\" (first-author post 2026-10-22 09:17Z ≈ 17:17 BJT; Chinese recap by @huang18825 7.5k views/99 likes; still circulating through 23:55Z). miHoYo Honkai AI R&D + Tsinghua continued pre-training of Qwen3.5 VLMs on keyboard/mouse gameplay; outputs the next 200 ms of actions; plays Minecraft, Doom, escape rooms; S1 (Minecraft) / S3 (multi-game) checkpoints, Apache-2.0 weights + inference code, no training data; research-only.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-06|q='GameScaling' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 228,
@@ -2277,7 +2277,7 @@
     "first_seen": "2026-10-23T08:32+08:00",
     "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
     "excerpt": "\"We're launching NVIDIA Minerva to bring end-to-end observability to AI factories at scale. The NVIDIA Minerva AIOps platform connects infrastructure and workload telemetry across GPUs, networking, storage, and schedulers...\" (@NVIDIAAIInfra 2026-10-22 16:58Z ≈ Oct 23 00:58 BJT). NVIDIA blog 'Launched today' Oct 22: AIOps platform with dynamic knowledge graph, ML anomaly detection/root-cause, built-in agentic assistant 'Sherlock' + MCP server; part of Vera Rubin stack; sold as per-GPU subscription (3/5-yr SKUs already listed by resellers).",
-    "review_14d": null
+    "review_14d": "hit|2026-11-06|q='NVIDIA Minerva' pre7=0.0 last7=15.1 peak=100"
   },
   {
     "id": 229,
@@ -2287,7 +2287,7 @@
     "first_seen": "2026-10-23T08:32+08:00",
     "url": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance",
     "excerpt": "\"Today at AGNTCon + MCPCon, we are delivering these capabilities to customers by launching Agent Compute Engine, a purpose-built compute service that already powers Gemini as an agent for work tasks. It will be available in preview in the coming months...\" (Google Cloud blog, Oct 22 2026). Gives each AI agent a hardware-isolated microVM on Titanium IPU, checkpoint/restore of idle agents, per-VM Hyperdisk, no credentials inside sandbox; X news story 'Google Launches Gemini API CLI and Agent Compute Engine' (22:09Z); Chinese deep-dive recaps (BestBlogs 10-23).",
-    "review_14d": null
+    "review_14d": "miss|2026-11-06|q='Agent Compute Engine' pre7=0.0 last7=3.6 peak=100"
   },
   {
     "id": 230,
@@ -2297,7 +2297,7 @@
     "first_seen": "2026-10-23T08:32+08:00",
     "url": "https://cve.now",
     "excerpt": "\"Today we're launching cve.now 🚨 Yesterday was a rough day for security. php2shell, LiteLLM, Railway... cve.now aggregates 4 vulnerability sources into one free feed and uses AI to explain each one in plain English. No login.\" (@shcallaway 2026-10-22 16:53Z ≈ Oct 23 00:53 BJT; ~182k views, 1,058 likes, 1,177 bookmarks). Site title: 'cve.now: a free CVE feed for agents' — RSS, Atom, JSON Feed and MCP.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-06|q='cve.now' pre7=0.0 last7=10.4 peak=100"
   },
   {
     "id": 231,
@@ -4807,6 +4807,56 @@
     "first_seen": "2026-11-06T08:32+08:00",
     "url": "https://github.com/YT-Proteus-bot/MineAgent",
     "excerpt": "YT-Proteus-bot/MineAgent (created 2026-11-05, ~111★): browser canvas to design industrial Agent flows (React Flow), compile to a runnable Python Agent project, stream node execution.",
+    "review_14d": null
+  },
+  {
+    "id": 482,
+    "term": "Glasshand",
+    "source": "x+web",
+    "score": 0.9,
+    "first_seen": "2026-11-06T12:32+08:00",
+    "url": "https://glasshand.com",
+    "excerpt": "Trevor Keith / Solid launched Glasshand (Product Hunt #1 on 2026-11-05): rent real data-center iPhones and Macs for AI agents via API; agents see the screen, tap and type; devices factory-reset after rental. Distinct from local Poki MCP.",
+    "review_14d": null
+  },
+  {
+    "id": 483,
+    "term": "Hyperkernel",
+    "source": "x+github",
+    "score": 0.88,
+    "first_seen": "2026-11-06T12:32+08:00",
+    "url": "https://github.com/Hyperstitioncc/Hyperkernel",
+    "excerpt": "Hyperstition open-sourced Hyperkernel on 2026-11-05/06: recursive GPU megakernel generator claiming SOTA single-launch kernels across 11 domains; vs NVIDIA published vLLM, +36.7% per-user speed at C1 and +90.6% at C4 on DeepSeek V4.1 Flash (self-reported). Repo created 2026-11-05.",
+    "review_14d": null
+  },
+  {
+    "id": 484,
+    "term": "Auto Ontology",
+    "source": "github+x",
+    "score": 0.86,
+    "first_seen": "2026-11-06T12:32+08:00",
+    "url": "https://github.com/NVIDIA/auto-ontology",
+    "excerpt": "NVIDIA Auto Ontology — Apache-2.0 Python semantic-layer framework so AI agents ground SQL/analytics in certified business ontologies via MCP/CLI/API. GitHub trending #1 this window (~+2.6k stars/day; ~7.6k stars); MarkTechPost coverage Nov 1; heavy X amplification 08:32–12:32 BJT.",
+    "review_14d": null
+  },
+  {
+    "id": 485,
+    "term": "Kiro bots",
+    "source": "x+web",
+    "score": 0.84,
+    "first_seen": "2026-11-06T12:32+08:00",
+    "url": "https://kiro.dev/blog/crew-bots/",
+    "excerpt": "AWS / Kiro announced Kiro bots GA in Kiro Crew on 2026-11-05: named long-running agents with own memory, notes, schedules, scoped tools; coordinate parallel worker sessions and only ask when stuck. Official blog kiro.dev/blog/crew-bots.",
+    "review_14d": null
+  },
+  {
+    "id": 486,
+    "term": "VINCO",
+    "source": "x+web",
+    "score": 0.8,
+    "first_seen": "2026-11-06T12:32+08:00",
+    "url": "https://distributed.inc/research/solving-1v1-catan/",
+    "excerpt": "Distributed Cognition unveiled VINCO (~0.5M-param specialist) for competitive 1v1 Catan; claimed #1/#2 on Colonist.io 2026-11-01 and playable at catan.dcog.com. Technical report published Nov 5; X news amplification into this window.",
     "review_14d": null
   }
 ]
