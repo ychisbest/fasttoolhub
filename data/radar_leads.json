@@ -2307,7 +2307,7 @@
     "first_seen": "2026-10-23T16:32+08:00",
     "url": "https://ideogram.ai/models/vector/",
     "excerpt": "Ideogram's first vector model, Vector 1.0 (API id ideogram-vector-1), launched Oct 22 (≈Oct 23 00:00 BJT): text→editable SVG and image→vector; live in Ideogram app, API and day-0 on fal; $0.10–0.32 per SVG. X: @ai_for_success 'Ideogram just dropped Ideogram Vector' (26 likes/2.2k imp), @lmoroney, news story 'Ideogram Launches Vector 1.0 for Editable AI SVGs'.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-07|q='Ideogram Vector' pre7=0.0 last7=19.9 peak=100"
   },
   {
     "id": 232,
@@ -2317,7 +2317,7 @@
     "first_seen": "2026-10-23T16:32+08:00",
     "url": "https://huggingface.co/abacusai/Smaug-Nemotron-3.5",
     "excerpt": "Abacus.AI (@bindureddy, Oct 23 12:00 BJT): 'Announcing Smaug-Nemotron-3.5 – The Best US Open-Source LLM That Can Run On Your Desktop' – agentic-coding fine-tune of NVIDIA Nemotron 3.5 Super (120B/12B active), runs on one DGX Spark/H200/GB200; weights on HF (abacusai/Smaug-Nemotron-3.5 + -NVFP4). 237 likes / ~1.86M impressions.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-07|no Trends data for 'Smaug-Nemotron-3.5'"
   },
   {
     "id": 233,
@@ -2327,7 +2327,7 @@
     "first_seen": "2026-10-23T16:32+08:00",
     "url": "https://www.humanoidsdaily.com/news/unitree-h2-x-kung-fu-guardian-video",
     "excerpt": "Unitree 'H2-X Kung Fu Legend Guardian' humanoid bodyguard (video Oct 21): martial arts, 4 m jump, disarms knife attacker, lifts car; ~8h standing endurance; no price/date. Viral in window: zerohedge 'China's Unitree Unveils Terminator-Like Humanoid' (61k imp), @the_futureAI; covered by SCMP, TechRadar, CNBC TV18, VnExpress.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-07|q='Unitree H2-X' pre7=25.1 last7=2.9 peak=100"
   },
   {
     "id": 234,
@@ -2337,7 +2337,7 @@
     "first_seen": "2026-10-23T16:32+08:00",
     "url": "https://huggingface.co/collections/tencent/wevisone-vl",
     "excerpt": "Tencent published WeVisOne-VL-2B / -4B on HF (paper 2610.31329 'WeVisOne-VL: Unified Visual Perception from Objects to Pixels'): one VLM for detection, referring, counting, pointing, OCR, segmentation and matting. @HuggingPapers 'Tencent just released WeVisOne-VL' (Oct 23 16:07 BJT).",
-    "review_14d": null
+    "review_14d": "hit|2026-11-07|q='WeVisOne-VL' pre7=0.0 last7=21.6 peak=100"
   },
   {
     "id": 235,
@@ -2347,7 +2347,7 @@
     "first_seen": "2026-10-23T16:32+08:00",
     "url": "https://github.com/MSR-Orchard/WildAWM",
     "excerpt": "Microsoft Research 'Agent World Model in the Wild' (WildAWM, arXiv 2610.26828): open pipeline synthesizing executable personal-computer worlds (GUI+MCP+CLI) and 341 long-horizon CUA tasks; GPT-6-Astra ~60%; released WildAWM-35B-A3B agent model on HF. Project page msr-orchard.github.io/WildAWM. X: @prompt48 hands-on test.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-07|no Trends data for 'WildAWM'"
   },
   {
     "id": 236,
@@ -2357,7 +2357,7 @@
     "first_seen": "2026-10-23T16:32+08:00",
     "url": "https://github.com/YizhengWw/HachimoDock",
     "excerpt": "小米 AI 硬创团队开源桌面 Agent 硬件 HachimoDock（哈基米机）：把 Codex/Claude Code/OpenClaw 的思考、工具调用、报错、等待确认等状态显示为桌面小屏宠物表情，支持语音下发任务；ESP32-P4 + 2.8寸屏，PCB/BOM/固件全开源（oshwhub/MakerWorld）。同批开源 DayoTag、Brufik、YareLampGo。X @leo114119（澎湃新闻引述）11 likes/2.3k imp.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-07|q='HachimoDock' pre7=0.0 last7=13.0 peak=100"
   },
   {
     "id": 237,
@@ -2367,7 +2367,7 @@
     "first_seen": "2026-10-24T00:32+08:00",
     "url": "https://warp.xyz",
     "excerpt": "Ex-OpenAI CPO/VP Science Kevin Weil launched Warp Sciences from stealth (Oct 22) with $215M Series A at $865M val (Lightspeed-led; IVP, Mayfield, Lux, Premji, Menlo + angels Brian Armstrong, Sarah Friar, Ion Stoica). U.S. AI+robotics chemistry CRO for lead-optimization analog synthesis; chemists train robots with cameras/sensor gloves; no proprietary drug pipeline. Official announce @kevinweil 2.2k likes / 455k impressions; TechCrunch, Business Wire, Bloomberg Law, SiliconANGLE.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-07|q='Warp Sciences' pre7=23.4 last7=7.0 peak=100"
   },
   {
     "id": 238,
@@ -2377,7 +2377,7 @@
     "first_seen": "2026-10-24T00:32+08:00",
     "url": "https://www.motubrain.com/motubrain2.0-live/",
     "excerpt": "ShengShu Technology (生数科技 / Vidu) world-model team opened a ~2-week public livestream of Motubrain 2.0 Physical AI training on Oct 21 (pretrain → post-train → Agent → RSI), ahead of planned open-source. Live dashboard at motubrain.com/motubrain2.0-live (step ~92k/200k, $158k train cost so far). Covered by 新京报, 钛媒体, Pandaily, ChinaAIDaily.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-07|no Trends data for 'Motubrain 2.0'"
   },
   {
     "id": 239,
@@ -2387,7 +2387,7 @@
     "first_seen": "2026-10-24T00:32+08:00",
     "url": "https://reylo.dev/",
     "excerpt": "Zod author @colinhacks open-sourced Reylo (MIT) on Oct 21: import .sql into TypeScript with full type inference via TS 7.1 content mappers — zero codegen, Postgres/MySQL/SQLite. Repo colinhacks/reylo created 2026-10-21, ~972★ in ~3 days; docs reylo.dev; v0.3.0 on Oct 22. Positioned as agent-era SQL typing.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-07|q='Reylo' pre7=27.9 last7=46.1 peak=100"
   },
   {
     "id": 240,
@@ -2397,7 +2397,7 @@
     "first_seen": "2026-10-24T00:32+08:00",
     "url": "https://heal.dev/",
     "excerpt": "heal.dev (Product Hunt #4 / Launch of the Day Oct 22): AI runtime QA that builds a production-like sandbox, mocks third-party services, and hunts reproducible bugs/vulns/perf issues with failing tests — beyond diff-level code review. Top-5 PH Oct 22; sitemap baselined (43 URLs). Maker @healdevHQ.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-07|no Trends data for 'heal.dev'"
   },
   {
     "id": 241,
@@ -2407,7 +2407,7 @@
     "first_seen": "2026-10-24T00:32+08:00",
     "url": "https://supermimic.github.io/",
     "excerpt": "UC Berkeley CoRL 2026 Oral: SuperMimic — humanoid whole-body control via one differentiable world model (arXiv 2610.28480, submitted Oct 20). Claims 1 GPU×3h beats SONIC (128 GPUs×7d); transfers to Unitree G1. Project page supermimic.github.io; vibe-coded repros trending on GH (zita-ch/supermimic_vibed).",
-    "review_14d": null
+    "review_14d": "miss|2026-11-07|q='SuperMimic' pre7=24.7 last7=29.3 peak=100"
   },
   {
     "id": 242,
@@ -2417,7 +2417,7 @@
     "first_seen": "2026-10-24T00:32+08:00",
     "url": "https://maxinsights.ai/",
     "excerpt": "Maxinsights (Waymo/Google/Microsoft alums) raised $30M seed led by Peak XV to build a Physical-AI data layer: pays 5k+ contractors for first-person chore/work video (2M+ hours captured, 1.5M model-ready). Tools MaxLoop (video scoring) and MaxGlove (grip/force). Covered by Forbes, The Next Web, Business Wire (Oct 22).",
-    "review_14d": null
+    "review_14d": "miss|2026-11-07|q='Maxinsights' pre7=14.3 last7=12.9 peak=100"
   },
   {
     "id": 243,
@@ -2427,7 +2427,7 @@
     "first_seen": "2026-10-24T08:32+08:00",
     "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
     "excerpt": "Moonshot AI launched Kimi K3.1 Pro on Oct 23 (US Fri evening): \"our most capable 3T-class open-weight model\" — 2.8T total / 104B active MoE, multimodal, 1M context; plus K3.1 Pro Highspeed (2–3× faster). Live on Kimi.ai, Kimi Work, Kimi Code, Kimi API ($2/$10 per M tokens) and OpenRouter; full weights by Nov 4. Terminal-Bench 4.0 65.7% (vs GPT-6 Astra 58.2%, Opus 5.5 66.4%); Artificial Analysis index 55, #4. X News story \"Moonshot AI Unveils Kimi K3.1 Pro\" (x.com/i/trending/2113194116553257028); @Zen_with_AI https://x.com/Zen_with_AI/status/2113771445008650448 ; @shuizhuyu OpenRouter https://x.com/shuizhuyu/status/2113771129857028540 ; official thread threadreaderapp.com/thread/2113680701770068067; TSN coverage tsnmedia.org/kimi-k3-1-pro-launch/. Side story: influencer-payment backlash.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-07|q='Kimi K3.1 Pro' pre7=6.9 last7=25.7 peak=100"
   },
   {
     "id": 244,
@@ -2437,7 +2437,7 @@
     "first_seen": "2026-10-24T08:32+08:00",
     "url": "https://huggingface.co/tencent/Hy-Nomas",
     "excerpt": "Tencent Hunyuan open-sourced Hy-Nomas (\"Towards Free-Form Interactive World Generation\"): interactive video world model controlled by text prompts + camera trajectories, long-horizon generation with world memory, 720×1280 @24fps, up to 60s segments, 8-step distilled, LoRA adapters for robotics; Apache-2.0, free commercial use. HF tencent/Hy-Nomas (35 likes, card updated Oct 23 21:50Z), GitHub Tencent-Hunyuan/Hy-Nomas, benchmark tencent/Hy-Nomas-Bench, community ComfyUI port PedroMarinhoDev/ComfyUI-Hy-Nomas (Oct 23 21:50Z). X: @dsoch8c \"北京时间10月24日05:40 代码与说明在开源平台更新\" https://x.com/dsoch8c/status/2113769802481467497 ; @luojiuyue https://x.com/luojiuyue/status/2113773826278629761",
-    "review_14d": null
+    "review_14d": "hit|2026-11-07|q='Hy-Nomas' pre7=0.0 last7=22.4 peak=100"
   },
   {
     "id": 245,
@@ -2447,7 +2447,7 @@
     "first_seen": "2026-10-24T08:32+08:00",
     "url": "https://block.xyz/dessa",
     "excerpt": "Block (Jack Dorsey) AI lab unveiled Dessa on Oct 23: full-duplex speech-to-speech model trained from scratch only on human conversation audio (no text, no pretrained models); backchannels/interrupts, hears emotion/sarcasm/laughter; runs faster than real time locally on MacBook Pro M4 Max; trained on one NVIDIA GB200 NVL72. Research preview + waitlist, early access for AI safety researchers; no weights/API yet. X News story 'Block Unveils Dessa' (x.com/i/trending/2113702132981600476); The Verge, Unite.AI coverage; block.xyz/inside/you-learned-to-talk-by-listening-so-did-dessa.",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-07|generic word, Trends not attributable"
   },
   {
     "id": 246,
@@ -2457,7 +2457,7 @@
     "first_seen": "2026-10-24T08:32+08:00",
     "url": "https://www.simular.ai/articles/agent-s4-evolving-the-interfaces-computer-use-agents-work-throughagen",
     "excerpt": "Simular open-sourced Agent S4 (paper \"Evolving Agent Interfaces\", released Oct 20; Apache-2.0 in simular-ai/Agent-S): an \"autonomous computer-use scientist\" that evolves Python shadow interfaces; with Qwen3.8-27B hits 21.3% binary on 108-task OSWorld V2 (3.8× fixed-interface baseline), above GPT-5.5 13.0% and Claude Opus 4.8 20.6% at $1.10/task. X News story \"Simular's Agent S4 Lets Smaller AI Outperform Giants\" (x.com/i/trending/2113674901399756835, updated Oct 23 19:50Z); CN recaps e.g. https://x.com/0xwolverines/status/2113785691083588054",
-    "review_14d": null
+    "review_14d": "hit|2026-11-07|q='Agent S4' pre7=0.0 last7=58.6 peak=100"
   },
   {
     "id": 247,
@@ -2467,7 +2467,7 @@
     "first_seen": "2026-10-24T08:32+08:00",
     "url": "https://phonebot.dev/",
     "excerpt": "UCLA RoMeLa (Dennis Hong) PhoneBot: open-source 13-DoF bipedal humanoid (48 cm, 1.8 kg, ~$400 hardware) that uses an Android phone as torso/sensors/compute; walks, fall recovery, person following, telepresence; CAD/firmware/Android software released at phonebot.dev (arXiv 2610.08737, ~Oct 16). Re-surfaced as X News story 'UCLA's PhoneBot Turns Smartphones into Walking Robots' (x.com/i/trending/2113761953625891247, Oct 23 22:46Z).",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-07|generic word, Trends not attributable"
   },
   {
     "id": 248,
@@ -2477,7 +2477,7 @@
     "first_seen": "2026-10-24T08:32+08:00",
     "url": "https://unhindered.ai/news/elevencreative-chimera-eleven-v4-seedance-2-5-voiced-video",
     "excerpt": "ElevenCreative \"Chimera\" (announced Oct 21): workflow template pairing Eleven v4 voices with ByteDance Seedance 2.5 video to make talking-character videos from an image + script, directed with audio tags like [whispers]/[laughs]/[yells]; not available in the US (Seedance restriction). Ambassador push on X this window: @MonetizationDon (56 likes) https://x.com/MonetizationDon/status/2113682310713286685 ; @blogwithben https://x.com/blogwithben/status/2113683453598196015",
-    "review_14d": null
+    "review_14d": "miss|2026-11-07|q='ElevenLabs Chimera' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 249,
@@ -5127,6 +5127,66 @@
     "first_seen": "2026-11-07T08:32+08:00",
     "url": "https://www.agent.family/campaigns",
     "excerpt": "TermiX Montage Studio Agent: give a creative brief → quote → hire specialized agents (storyboard, render, music) → deliver 1080p video; jobs settle via on-chain escrow on TermiX agent.family marketplace. Active X news story in 04:32→08:32 window.",
+    "review_14d": null
+  },
+  {
+    "id": 514,
+    "term": "Vork",
+    "source": "x+web",
+    "score": 0.9,
+    "first_seen": "2026-11-07T12:32+08:00",
+    "url": "https://voyager.so/vork",
+    "excerpt": "Voyager research-preview headless 3D/VFX engine for AI agents (Rust+Slang, Vulkan/Metal); agents write scene programs and re-render. GH voyager-so/vork created 2026-11-05; X demo of 1M birds on L4.",
+    "review_14d": null
+  },
+  {
+    "id": 515,
+    "term": "Turnstone",
+    "source": "x+producthunt+web",
+    "score": 0.9,
+    "first_seen": "2026-11-07T12:32+08:00",
+    "url": "https://myturnstone.ai/",
+    "excerpt": "YC-backed free Mac Grok Bot alternative that runs agents on your existing ChatGPT/Claude/Grok/Cursor subscriptions with auto model failover. Product Hunt Launch of the Day 2026-11-06.",
+    "review_14d": null
+  },
+  {
+    "id": 516,
+    "term": "OpenCode Browse",
+    "source": "x+web",
+    "score": 0.88,
+    "first_seen": "2026-11-07T12:32+08:00",
+    "url": "https://opencode.ai/product/browse",
+    "excerpt": "OpenCode MCP server + Chromium extension letting agents drive your real logged-in browser with handoffs for 2FA/payments. Official @opencode announce ~1466 likes / 96 RTs in window.",
+    "review_14d": null
+  },
+  {
+    "id": 517,
+    "term": "Rerun",
+    "source": "x+producthunt+web",
+    "score": 0.85,
+    "first_seen": "2026-11-07T12:32+08:00",
+    "url": "https://rerun.build/",
+    "excerpt": "No-code AI coworkers that run on your ChatGPT/Claude plan; PH #3 this week and newly open-sourced AGPL with self-host docker compose.",
+    "review_14d": null
+  },
+  {
+    "id": 518,
+    "term": "Sysdig AI Defense",
+    "source": "x+web",
+    "score": 0.82,
+    "first_seen": "2026-11-07T12:32+08:00",
+    "url": "https://www.sysdig.com/platform/ai-defense",
+    "excerpt": "Sysdig GA runtime security/governance for AI agents (macOS/Windows) — monitors agent actions endpoint-to-cloud with allow/confirm/block policies. Announced ~2026-11-04.",
+    "review_14d": null
+  },
+  {
+    "id": 519,
+    "term": "OpenVisio",
+    "source": "x+producthunt+web",
+    "score": 0.8,
+    "first_seen": "2026-11-07T12:32+08:00",
+    "url": "https://openvisio.io/",
+    "excerpt": "Shared workspace for humans and AI coding agents (Claude Code, Codex, OpenCode, etc.) with tickets, boards, docs and PR handoff. Product Hunt launch ~2026-11-06.",
     "review_14d": null
   }
 ]
