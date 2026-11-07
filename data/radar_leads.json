@@ -5188,5 +5188,65 @@
     "url": "https://openvisio.io/",
     "excerpt": "Shared workspace for humans and AI coding agents (Claude Code, Codex, OpenCode, etc.) with tickets, boards, docs and PR handoff. Product Hunt launch ~2026-11-06.",
     "review_14d": null
+  },
+  {
+    "id": 520,
+    "term": "Letronna",
+    "source": "x+producthunt+web",
+    "score": 0.92,
+    "first_seen": "2026-11-07T16:32+08:00",
+    "url": "https://letronna.ai/",
+    "excerpt": "Open-source Rust AI agent with its own cloud and wallet; builds locally or in Letronna Cloud and returns a live link. Product Hunt live 2026-11-07; alpha free on macOS/Windows/Linux.",
+    "review_14d": null
+  },
+  {
+    "id": 521,
+    "term": "LiveReview",
+    "source": "x+producthunt+web",
+    "score": 0.9,
+    "first_seen": "2026-11-07T16:32+08:00",
+    "url": "https://journal.hexmos.com/introducing-livereview/",
+    "excerpt": "Hexmos risk-aware AI code review that auto-approves ~40-50% of low-risk PRs and routes the rest to humans; free/self-hostable. Product Hunt launch 2026-11-07.",
+    "review_14d": null
+  },
+  {
+    "id": 522,
+    "term": "Higgsfield Miracle",
+    "source": "x+web",
+    "score": 0.9,
+    "first_seen": "2026-11-07T16:32+08:00",
+    "url": "https://higgsfield.ai/miracle",
+    "excerpt": "Higgsfield post-production tool that vectorizes video into editable layers for real-time object recolor/remove/relight while the clip plays. Private beta announced ~2026-11-06; waitlist open.",
+    "review_14d": null
+  },
+  {
+    "id": 523,
+    "term": "Higgs Realtime Duplex",
+    "source": "x+web",
+    "score": 0.9,
+    "first_seen": "2026-11-07T16:32+08:00",
+    "url": "https://www.boson.ai/blog/higgs-realtime-duplex",
+    "excerpt": "Boson AI 45B MoE full-duplex omni model that listens, watches, speaks and renders a face in ~160ms chunks while calling tools. Announced ~2026-11-05; API waitlist.",
+    "review_14d": null
+  },
+  {
+    "id": 524,
+    "term": "Temple",
+    "source": "x+web",
+    "score": 0.88,
+    "first_seen": "2026-11-07T16:32+08:00",
+    "url": "https://www.temple.com/",
+    "excerpt": "Deepinder Goyal's screen-free, mic-free 'roomdeaf' AI+health wearable that reads voice via motion sensors; Temple 01 ships early 2027, preorders in India. Major unveil posts ~2026-11-06.",
+    "review_14d": null
+  },
+  {
+    "id": 525,
+    "term": "Timon",
+    "source": "x+web",
+    "score": 0.85,
+    "first_seen": "2026-11-07T16:32+08:00",
+    "url": "https://timon-ai.com/",
+    "excerpt": "Open-source (AGPL) self-hosted agentic workstation for coding agents with persistent memory, routines, browser automation and multi-model support (Claude Code/Codex/etc.). Circulating on X this window as a Grok Bot-style alternative.",
+    "review_14d": null
   }
 ]
