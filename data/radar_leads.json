@@ -5248,5 +5248,45 @@
     "url": "https://timon-ai.com/",
     "excerpt": "Open-source (AGPL) self-hosted agentic workstation for coding agents with persistent memory, routines, browser automation and multi-model support (Claude Code/Codex/etc.). Circulating on X this window as a Grok Bot-style alternative.",
     "review_14d": null
+  },
+  {
+    "id": 526,
+    "term": "Claude Personal Finance",
+    "source": "x+web",
+    "score": 0.92,
+    "first_seen": "2026-11-07T20:32+08:00",
+    "url": "https://claude.com/resources/articles/introducing-personal-finance-in-claude",
+    "excerpt": "Anthropic's new read-only Personal Finance hub in Claude: connect bank and card accounts via Plaid, see balances and up to two years of transactions, and ask about spending. Beta from 2026-11-05 for US Pro, Max and Ultra plans.",
+    "review_14d": null
+  },
+  {
+    "id": 527,
+    "term": "security-audit-skill",
+    "source": "github+x",
+    "score": 0.86,
+    "first_seen": "2026-11-07T20:32+08:00",
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "excerpt": "Cloudflare's open-source (MIT) coding-agent skill for multi-phase security audits with independently verified, machine-readable findings. #1 on GitHub daily trending on 2026-11-07 with about +2,548 stars in a day (~64.8k total).",
+    "review_14d": null
+  },
+  {
+    "id": 528,
+    "term": "Comma",
+    "source": "x+github",
+    "score": 0.8,
+    "first_seen": "2026-11-07T20:32+08:00",
+    "url": "https://github.com/AFK-surf/Comma",
+    "excerpt": "AFK Inc.'s open-source (AGPL-3.0) sessionless personal agent: one resident Router holds the main context and hands bounded Tasks to parallel Workers with isolated contexts. Hosted at comma.surf or self-hostable; works with Codex and Claude Code.",
+    "review_14d": null
+  },
+  {
+    "id": 529,
+    "term": "StateBench",
+    "source": "sitemap(allenai.org)",
+    "score": 0.78,
+    "first_seen": "2026-11-07T20:32+08:00",
+    "url": "https://allenai.org/blog/statebench",
+    "excerpt": "Ai2 benchmark that tests how language models track state changes across long documents at four difficulty levels, and shows how targeted training helps recurrent and hybrid architectures on longer sequences. New page on allenai.org this scan window.",
+    "review_14d": null
   }
 ]

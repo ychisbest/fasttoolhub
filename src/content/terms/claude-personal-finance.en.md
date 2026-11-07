@@ -1,0 +1,13 @@
+---
+slug: "claude-personal-finance"
+term: "Claude Personal Finance"
+locale: "en"
+date: "2026-11-07T20:32+08:00"
+source: "x+web"
+score: 0.92
+url: "https://claude.com/resources/articles/introducing-personal-finance-in-claude"
+excerpt: "Anthropic's new read-only Personal Finance hub in Claude: connect bank and card accounts via Plaid, see balances and up to two years of transactions, and ask about spending. Beta from 2026-11-05 for US Pro, Max and Ultra plans."
+intro: "**Claude Personal Finance** (officially *Personal Finance in Claude*) is a new hub inside Claude that lets you **connect your bank, card, loan and investment accounts through Plaid** and ask questions about your own money in plain language.\n\nAnthropic announced it on **2026-11-05**; it is rolling out in **beta to US users on the Pro, Max and Ultra plans**, on the web, Claude Desktop, iOS and Android.\n\nKey points:\n\n- **Read-only**: Claude cannot move, manage or invest money;\n- Sees bank and account names, account type, last four digits, balances, credit limits and **up to 24 months of transactions**;\n- Bank sign-in happens inside Plaid, so Claude never sees your bank password;\n- Conversations inside the Personal Finance hub are **not used for training**."
+explain: "## What it does\n\nAsk \"where did my money go this month?\" and Claude adds up spending across connected accounts and groups it by category (rent and utilities, food and drink, shopping). It can also flag **duplicate charges, unexpected fees and steadily rising bills**, explain terms like APR, and calculate how much interest you paid over the past year.\n\n## Why it matters\n\nOpenAI shipped a similar Plaid-based feature for ChatGPT in May 2026; this is Anthropic's answer and a sign that chat assistants are moving into everyday personal-data hubs.\n\n## Limits\n\n- US banks only, beta, gradual rollout;\n- Not on Free, Team or Enterprise plans;\n- Reads balances and limits for investments and loans, not holdings, trades or rates;\n- Linked accounts can't be used in scheduled tasks, Cowork or Claude Code;\n- Not investment advice; Anthropic recommends checking important numbers with your bank."
+usage: "1. Open Claude (web, Desktop or mobile) on a US Pro, Max or Ultra plan;\n2. Find **Personal Finance** in the side menu (under *More* if hidden) and choose **Get started**;\n3. Pick your goals or skip, then choose **Link accounts with Plaid**, sign in to your bank in Plaid and select which accounts to share;\n4. Ask questions such as \"What bills are left before payday?\" or \"Any duplicate charges this month?\";\n5. Unlink an account at any time to revoke access.\n\nOfficial announcement: https://claude.com/resources/articles/introducing-personal-finance-in-claude"
+---
