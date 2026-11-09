@@ -5288,5 +5288,85 @@
     "url": "https://allenai.org/blog/statebench",
     "excerpt": "Ai2 benchmark that tests how language models track state changes across long documents at four difficulty levels, and shows how targeted training helps recurrent and hybrid architectures on longer sequences. New page on allenai.org this scan window.",
     "review_14d": null
+  },
+  {
+    "id": 530,
+    "term": "NoMac",
+    "source": "x+producthunt",
+    "score": 0.92,
+    "first_seen": "2026-11-09T12:32+08:00",
+    "url": "https://nomac.app",
+    "excerpt": "NoMac rents AI agents a real Apple-silicon Mac by the minute (Xcode preinstalled for iOS builds/tests). Product Hunt #5 on 2026-11-08 (▲113); site nomac.app.",
+    "review_14d": null
+  },
+  {
+    "id": 531,
+    "term": "Qoduck",
+    "source": "x+web",
+    "score": 0.9,
+    "first_seen": "2026-11-09T12:32+08:00",
+    "url": "https://qoder.com",
+    "excerpt": "Qoder (Alibaba/Qwen team coding agent) launched Qoduck — a stealth coding model with free daily allowance for individual users from ~2026-11-07; promo via qoder.com.",
+    "review_14d": null
+  },
+  {
+    "id": 532,
+    "term": "AXL",
+    "source": "x+producthunt",
+    "score": 0.88,
+    "first_seen": "2026-11-09T12:32+08:00",
+    "url": "https://axl.tech",
+    "excerpt": "AXL is a GTM copilot for AI product founders with 1,200+ actions via MCP. Product Hunt #1 on 2026-11-08 (score 209); site axl.tech.",
+    "review_14d": null
+  },
+  {
+    "id": 533,
+    "term": "MausBot",
+    "source": "x+github",
+    "score": 0.88,
+    "first_seen": "2026-11-09T12:32+08:00",
+    "url": "https://mausbot.com",
+    "excerpt": "MausBot (OpenMausBot) — open-source Grok Bot alternative with local bots + optional cloud VMs using your Claude/Codex/Grok CLIs. GH milind-soni/OpenMausBot ~18.6k★; topped GH daily trending ~2026-11-09.",
+    "review_14d": null
+  },
+  {
+    "id": 534,
+    "term": "Astryx",
+    "source": "x+github",
+    "score": 0.85,
+    "first_seen": "2026-11-09T12:32+08:00",
+    "url": "https://astryx.atmeta.com",
+    "excerpt": "Meta open-source agent-ready React 19+/StyleX design system (MIT Beta) with CLI/MCP for humans and AI agents; internal 8y / 13k+ apps. GH meta/astryx ~17k★; heavy X/GH buzz Nov 8–9.",
+    "review_14d": null
+  },
+  {
+    "id": 535,
+    "term": "Agent Clan",
+    "source": "x+producthunt",
+    "score": 0.82,
+    "first_seen": "2026-11-09T12:32+08:00",
+    "url": "https://agentclan.com",
+    "excerpt": "Agent Clan turns Claude Code/Codex agents into on-screen 3D characters you steer with gestures; free Mac/Windows. Product Hunt launch ~2026-11-07–08.",
+    "review_14d": null
+  },
+  {
+    "id": 536,
+    "term": "S2Arm",
+    "source": "github",
+    "score": 0.82,
+    "first_seen": "2026-11-09T12:32+08:00",
+    "url": "https://github.com/jhaizhou-ops/S2Arm",
+    "excerpt": "S2Arm runs your own Switch games natively on iPhone/iPad/Mac (ARM64 rewrite + Metal, not an emulator). Repo created 2026-11-08; ~722★; landing s2arm.pinrule.com.",
+    "review_14d": null
+  },
+  {
+    "id": 537,
+    "term": "BLA",
+    "source": "x+github",
+    "score": 0.8,
+    "first_seen": "2026-11-09T12:32+08:00",
+    "url": "https://github.com/qybaihe/bla",
+    "excerpt": "BLA (Blind LLM Agents) — OSS defense that plants decoys/fake logic in Electron/JS/Python/Wasm/native builds so reverse-engineering agents (e.g. REA) burn tokens. GH qybaihe/bla ~3.9k★; site bla.tools.",
+    "review_14d": null
   }
 ]
