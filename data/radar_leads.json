@@ -5508,5 +5508,75 @@
     "url": "https://github.com/databox/databox-cli",
     "excerpt": "Databox CLI puts the Databox public API in your terminal: pipe JSON into datasets, build metrics, and use about 10 agent skills for Claude Code, Cursor and Codex. Live on Product Hunt 2026-11-09 per @databoxHQ; open source (MIT) as npm package databox-cli.",
     "review_14d": null
+  },
+  {
+    "id": 552,
+    "term": "Spacefast",
+    "source": "web",
+    "score": 0.93,
+    "first_seen": "2026-11-10T00:32+08:00",
+    "url": "https://spacefast.com/",
+    "excerpt": "Spacefast is Automattic's new company/platform announced 2026-11-09: connect ChatGPT, Claude, Cursor or other agents and publish apps/sites to a private-by-default Space with share links, version history, built-in DB, uploads and stats. Live at spacefast.com; covered by TechCrunch and PR Newswire.",
+    "review_14d": ""
+  },
+  {
+    "id": 553,
+    "term": "Dageno AI",
+    "source": "producthunt+web",
+    "score": 0.92,
+    "first_seen": "2026-11-10T00:32+08:00",
+    "url": "https://www.dageno.ai/",
+    "excerpt": "Dageno AI is a GEO/AEO platform that shows whether ChatGPT, Gemini, Perplexity and other models recommend your brand vs competitors, with market maps, citations and agent-powered fixes. Dageno AI 2.0 ranked #1 on Product Hunt 2026-11-09; free market lookup at dageno.ai.",
+    "review_14d": ""
+  },
+  {
+    "id": 554,
+    "term": "TK",
+    "source": "web",
+    "score": 0.91,
+    "first_seen": "2026-11-10T00:32+08:00",
+    "url": "https://medium.com/blog/tk-a-new-private-notebook-app-from-medium-13d3d6efdce1",
+    "excerpt": "TK is Medium's new private notebook/writing app launched 2026-11-09: inline AI via @TK mid-sentence, Medium/Bear/Obsidian import, social libraries, MCP server and Claude skill so agents can use your writing as personal context. Covered by TechCrunch and The Verge.",
+    "review_14d": ""
+  },
+  {
+    "id": 555,
+    "term": "ProtoMap",
+    "source": "producthunt+web",
+    "score": 0.9,
+    "first_seen": "2026-11-10T00:32+08:00",
+    "url": "https://protomap.ai/",
+    "excerpt": "ProtoMap by HoundDog.ai is a gRPC/Protobuf context engine for coding agents: scan repos into a dependency graph and query blast radius/call sites over MCP. Live on Product Hunt 2026-11-09; docs at docs.protomap.ai, open install at github.com/hounddogai/protomap.",
+    "review_14d": ""
+  },
+  {
+    "id": 556,
+    "term": "MCP1",
+    "source": "producthunt+web",
+    "score": 0.89,
+    "first_seen": "2026-11-10T00:32+08:00",
+    "url": "https://mcp1.com/",
+    "excerpt": "MCP1 is Appwrite's MCP gateway: one URL in front of many MCP servers with OAuth, groups/roles, audit logs and a 100+ server catalog. Live on Product Hunt 2026-11-09; site mcp1.com.",
+    "review_14d": ""
+  },
+  {
+    "id": 557,
+    "term": "Arcjet Himalia",
+    "source": "web+producthunt",
+    "score": 0.88,
+    "first_seen": "2026-11-10T00:32+08:00",
+    "url": "https://arcjet.com/blog/introducing-arcjets-custom-ai-security-models",
+    "excerpt": "Arcjet Himalia 1 is Arcjet's general-purpose prompt-injection classifier (Qwen3-0.6B fine-tune), live for every SDK prompt-injection call as of 2026-11-05 and featured with Arcjet AI security models on Product Hunt 2026-11-09. Companion EA models: Arcjet Thebe 1 (coding agents) and Arcjet Carme 1 (security agents).",
+    "review_14d": ""
+  },
+  {
+    "id": 558,
+    "term": "Viggle Remake",
+    "source": "hf+web",
+    "score": 0.86,
+    "first_seen": "2026-11-10T00:32+08:00",
+    "url": "https://viggle.ai/models/viggle-remake",
+    "excerpt": "Viggle Remake is Viggle's agent-first video-to-video remake model: swap/edit people, outfits, objects and style while keeping motion, camera, cuts and audio. Official page viggle.ai/models/viggle-remake; weights/Space on Hugging Face Viggle/Viggle-Remake (trending this window).",
+    "review_14d": ""
   }
 ]

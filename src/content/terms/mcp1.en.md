@@ -1,0 +1,13 @@
+---
+slug: "mcp1"
+term: "MCP1"
+locale: "en"
+date: "2026-11-10T00:32+08:00"
+source: "producthunt+web"
+score: 0.89
+url: "https://mcp1.com/"
+excerpt: "MCP1 is Appwrite's MCP gateway: one URL in front of many MCP servers with OAuth, groups/roles, audit logs and a 100+ server catalog. Live on Product Hunt 2026-11-09; site mcp1.com."
+intro: "**MCP1** is **Appwrite's MCP gateway**: one remote MCP URL for the team, humans authenticate once, admins decide who can call which tools, and every call is audited. Clients (Claude, Claude Code, Cursor, ChatGPT, Codex, VS Code, Gemini and other remote HTTP MCP clients) stop pasting server tokens onto every laptop.\n\nAdmins install from a catalog (about **154** servers shown on the site) or any remote MCP URL; tokens stay sealed in MCP1. Gateways are shared with groups (full or read-only, down to single tools). Everyone can also keep a personal gateway (own tokens plus workspace servers their groups can reach). Destructive tools can require admin confirmation; CI gets expiring hashed keys. Usage views cover calls, success rate, p95 latency and active humans. Compliance copy lists SOC 2, GDPR, HIPAA (BAA on Enterprise) and CCPA; hosting is described as Frankfurt with AES-256-GCM.\n\nPricing on the site: Individual free (1 member, 3 gateways, 15 servers); Team **$12 per member / month**; Enterprise **$29 per member / month**.\n\nHighlights:\n\n- Site https://mcp1.com/ ;\n- One URL + OAuth/group policy + audit — not another MCP server implementation;\n- Featured on Product Hunt 2026-11-09;\n- Fits multi-MCP, multi-human agent teams; individuals can start free;\n- From Appwrite, adjacent to its backend ecosystem."
+explain: "## Why it matters\n\nAs MCP sprawls, keys land on laptops and in CI, and offboarding plus audits break. MCP1 centralizes install, sealed tokens, group grants and per-call records so a new hire joining a group gets tools without a week of access tickets. Security and platform teams can sign off once instead of blessing every private GitHub/Stripe MCP paste.\n\n## Limits\n\nClients must speak remote MCP (keys if no OAuth). The gateway is another control plane — outages or strict policy block legitimate calls. Catalog quality varies; Enterprise features and seat cost scale with headcount. HIPAA needs the matching plan and paperwork."
+usage: "1. Sign up at https://mcp1.com/ (Free for one human, Team for shared gateways);\n2. Install catalog or URL servers, create a shared gateway, grant groups;\n3. Members add the gateway URL in Claude / Cursor / etc. and sign in; verify audit log and destructive-tool confirms;\n4. Issue expiring keys for CI; drop unused servers from the usage view."
+---
