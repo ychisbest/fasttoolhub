@@ -5448,5 +5448,65 @@
     "url": "https://zoowork.ai",
     "excerpt": "ZooWork is an AI agent delivery platform: package domain expertise into Agent Skills, then build an agent in chat and run it in Slack, Microsoft Teams or WhatsApp with approval gates. Listed among 2026-11-09 Product Hunt AI launches; site zoowork.ai.",
     "review_14d": null
+  },
+  {
+    "id": 546,
+    "term": "ERNIE Evolve",
+    "source": "x+web",
+    "score": 0.93,
+    "first_seen": "2026-11-09T20:32+08:00",
+    "url": "https://ernie.baidu.com/blog/ernie-evolve-toward-automated-research-for-real-world-ai-rd",
+    "excerpt": "ERNIE Evolve is Baidu's automated research system, announced 2026-11-09: given a clear research goal it picks directions, edits code and runs experiments, keeping only improvements that pass independent evaluation and review. Already applied to upcoming ERNIE 5.5 Flash inference optimization; introduced on the ERNIE site and by @Baidu_Inc.",
+    "review_14d": null
+  },
+  {
+    "id": 547,
+    "term": "Seedream 5.5",
+    "source": "x+web",
+    "score": 0.92,
+    "first_seen": "2026-11-09T20:32+08:00",
+    "url": "https://seed.bytedance.com/en/seedream5_5",
+    "excerpt": "Seedream 5.5 is ByteDance Seed's next-generation image model, announced 2026-11-09: stable multi-turn editing for up to about 100 rounds with pixel-level preservation of unedited regions, native RGBA transparent assets, and clearer text plus more realistic materials. Rolling out on Dreamina, Doubao, CapCut and BytePlus / Volcano Engine Ark.",
+    "review_14d": null
+  },
+  {
+    "id": 548,
+    "term": "Say It Again",
+    "source": "x+producthunt",
+    "score": 0.88,
+    "first_seen": "2026-11-09T20:32+08:00",
+    "url": "https://sayitagain.ai",
+    "excerpt": "Say It Again turns a product page into an AI UGC video: it reads the page copy and photos, lets you edit the script first, then has a generated presenter hold, use or wear the product and speak. Live on Product Hunt 2026-11-09; site sayitagain.ai, with a Shopify app.",
+    "review_14d": null
+  },
+  {
+    "id": 549,
+    "term": "Dreamina Drama Studio",
+    "source": "x+web",
+    "score": 0.87,
+    "first_seen": "2026-11-09T20:32+08:00",
+    "url": "https://dreamina.capcut.com/tools/drama-studio",
+    "excerpt": "Dreamina Drama Studio turns a script into character-driven AI short dramas with consistent cast, story memory across episodes, and a structured Canvas to direct scenes. @dreamina_ai said it is now live on 2026-11-09; page dreamina.capcut.com/tools/drama-studio.",
+    "review_14d": null
+  },
+  {
+    "id": 550,
+    "term": "Hearthscale",
+    "source": "x+producthunt+web",
+    "score": 0.86,
+    "first_seen": "2026-11-09T20:32+08:00",
+    "url": "https://hearthscale.com",
+    "excerpt": "Hearthscale is a local AI platform aimed at everyone, not just developers: text, voice, image, video and music models run on your machine, with marketplace apps and an optional Hearthscale Server to share compute. Site hearthscale.com (free, private, no setup pitched); v0.3.0 shipped 2026-11-08 and the maker promoted a Product Hunt launch on 2026-11-09.",
+    "review_14d": null
+  },
+  {
+    "id": 551,
+    "term": "Databox CLI",
+    "source": "x+producthunt",
+    "score": 0.85,
+    "first_seen": "2026-11-09T20:32+08:00",
+    "url": "https://github.com/databox/databox-cli",
+    "excerpt": "Databox CLI puts the Databox public API in your terminal: pipe JSON into datasets, build metrics, and use about 10 agent skills for Claude Code, Cursor and Codex. Live on Product Hunt 2026-11-09 per @databoxHQ; open source (MIT) as npm package databox-cli.",
+    "review_14d": null
   }
 ]
