@@ -1,0 +1,13 @@
+---
+slug: "agent-browser"
+term: "Agent Browser"
+locale: "zh"
+date: "2026-11-10T04:32+08:00"
+source: "github"
+score: 0.9
+url: "https://agent-browser.dev"
+excerpt: "vercel-labs/agent-browser——Vercel Labs 用 Rust 写的浏览器自动化 CLI，专给 AI Agent 使用：打开页面、带 ref 的无障碍树快照、确定性的点击与填表。官网 agent-browser.dev。本窗口同时出现在 GitHub 日榜与周榜，雷达记录约 4.84 万星。它与站点已有的 Agent Desktop 不是同一个项目。"
+intro: "**Agent Browser** 是 Vercel Labs 的开源浏览器自动化 CLI（仓库 `vercel-labs/agent-browser`，官网 https://agent-browser.dev ），专为 AI Agent 设计：输出紧凑文本以节省上下文，并用纯 Rust 实现。Agent 先打开页面、再拍一棵带引用编号的无障碍树快照，然后用 `@e1`、`@e2` 这样的 ref 做确定性的点击、填表或其他操作，而不必每次重新在 DOM 里盲找节点。\n\n官网列出 50 余条命令，覆盖导航、表单、截图、网络、存储、文件、标签页、iframe 与调试；并内置录像、流式查看、调试、性能分析与 diff 等可观察性工具。会话、配置、登录态、cookie、存储、代理和安全控制被写成支持长时间运行的 Agent。它能和任何会执行 shell 命令的 Agent 配合，官网点名 Claude Code、Cursor、GitHub Copilot、OpenAI Codex、Google Gemini 与 opencode。\n\n要点：\n\n- 安装：`npm install -g agent-browser`（全平台）或 `brew install agent-browser`（macOS），首次再执行 `agent-browser install` 下载 Chrome；也可以 `npx agent-browser open example.com` 先试用；\n- 架构是 Rust CLI + 本地 daemon：daemon 通过 Chrome DevTools Protocol 管理浏览器，并在命令之间保持运行；\n- 提供 macOS（ARM64 / x64）、Linux（ARM64 / x64）和 Windows（x64）的原生二进制；\n- 本窗口同时出现在 GitHub 日趋势与周趋势，雷达记录约 4.84 万星。注意：它与 FastToolHub 已有词条 Agent Desktop 不是同一个项目。"
+explain: "## 为什么值得关注\n\n给 Agent 做浏览器自动化时，把整页 DOM 或一整份 JSON 塞进上下文既贵又容易选错节点。Agent Browser 的做法是返回大约几百 token 的文本树（官网对比约为 200–400 token，相对完整 DOM 的约 3000–5000 token），并给每个元素唯一 ref，让后续 `click`、填表等命令指向快照里的确定节点。对已经会跑 shell 的 Claude Code、Cursor 或 Codex 来说，这是一条不必再包一层 Playwright 脚本的路径。\n\nVercel Labs 把它做成跨平台的原生 CLI，而不是又一个只在某一 IDE 里能用的插件，因此可以嵌进不同的 Agent harness。本窗口同时进入 GitHub 日榜与周榜，说明「专门为 Agent 输出而设计的浏览器工具」需求很明确。\n\n## 局限\n\n它依赖本机（或 Agent 所在环境）安装的 Chrome/Chromium，第一次使用需要 `agent-browser install`。默认情况下，daemon 在一小时没有命令或控制台输入后会保存已配置的恢复状态、关闭无头浏览器并退出；若未使用 `--restore` 或其它恢复键，关闭时会丢弃临时浏览器状态和打开的标签页。有界面的浏览器、Safari / iOS WebDriver 会话以及用户挂载的浏览器不受这个默认超时影响；服务商托管的云浏览器则受影响。可用 `--idle-timeout` 或 `AGENT_BROWSER_IDLE_TIMEOUT_MS` 调整，设为 `0` 可关闭超时。官网提到对 React、Web Vitals、Next.js + Vercel 等现代应用有专门说明，但并不等于能自动突破所有反自动化或登录墙。它也不是桌面操作系统级的 Agent Desktop。星标数是扫描时的观察。"
+usage: "1. 安装 CLI：`npm install -g agent-browser` 或 `brew install agent-browser`，然后运行 `agent-browser install` 下载 Chrome；也可以先用 `npx agent-browser open example.com` 试用；\n2. 典型流程：`agent-browser open example.com`，再 `agent-browser snapshot -i` 拿到带 `[ref=e1]` 的树，接着 `agent-browser click @e2` 这类命令与页面交互，必要时 `agent-browser screenshot page.png`，结束时 `agent-browser close`；\n3. 把它交给会执行 shell 的 Agent（Claude Code、Cursor、Codex、Gemini、opencode 等），让模型先快照再引用 ref，而不是猜测 CSS 选择器；\n4. 长任务请阅读官网关于 session / profile / `--restore` 与空闲超时的说明。文档与发行页：https://agent-browser.dev 。"
+---

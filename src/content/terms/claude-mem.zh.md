@@ -1,0 +1,13 @@
+---
+slug: "claude-mem"
+term: "Claude Mem"
+locale: "zh"
+date: "2026-11-10T04:32+08:00"
+source: "github"
+score: 0.91
+url: "https://claude-mem.ai"
+excerpt: "thedotmack/claude-mem——为编码 Agent 提供持久的本地记忆：捕获会话中的工具活动，用 AI 压缩，并在后续会话注入相关上下文。可用于 Claude Code、Codex、Cursor、OpenCode、Hermes、Copilot 等。站点包括 claude-mem.ai / cmem.ai / docs.claude-mem.ai。本窗口 GitHub 周趋势记录约 11.5 万星。"
+intro: "**Claude Mem**（仓库 `thedotmack/claude-mem`，站点 https://claude-mem.ai 与 https://cmem.ai ，文档 https://docs.claude-mem.ai ）是一套给编码 Agent 用的持久记忆：在会话里捕获工具活动、编辑和命令，用 AI 压缩成结构化笔记，再在之后的会话、机器或工具里注入相关上下文。官网标题是 “All your context. Everywhere. All at once.” 本地引擎开源，数据默认写在你自己的机器上（`~/.claude-mem/`，含 SQLite 数据库）。\n\n官网与文档列出的宿主包括 Claude Code、Cursor、Codex CLI、OpenCode、Gemini、Hermes、Copilot、OpenClaw、Windsurf、Antigravity CLI 以及 Grok Bot 等；具体能捕获什么，取决于你安装的集成。召回可以通过 MCP 提供给其他客户端（在账号支持自定义连接器时也包括 ChatGPT），但连接 ChatGPT **不会**自动捕获 ChatGPT 对话。\n\n要点：\n\n- 推荐安装方式是 `npx claude-mem install`，或在 Claude Code 里 `/plugin marketplace add thedotmack/claude-mem` 再 `/plugin install claude-mem`。不要只用 `npm install -g claude-mem`——那只会装 SDK/库，不会注册 hook 或启动 worker；\n- 本地引擎免费开源；**CMEM Pro** 是付费的托管 observation 与云同步服务，安装向导里预选项，文档写明有 30 天免费试用，之后需订阅或回退到你自己的提供方（例如 Anthropic 方案）；\n- 渐进式召回让 Agent 先找到一条笔记再决定是否读细节；托管 observation 把记忆生成从你主 Agent 的订阅里挪走，但不改变另一个订阅本身的价格或限额；\n- 团队向的 TeamBrain 仍是试点，公开的团队定价尚未宣布；本窗口雷达在 GitHub 周趋势上记录约 11.5 万星。"
+explain: "## 为什么值得关注\n\n编码 Agent 最大的浪费之一，是每个新会话都要从头解释「我们为什么这样修、重试策略是什么、数据库为什么仍用 SQLite」。Claude Mem 把这些决定、发现和修复写成可搜索的项目笔记，而不是整段对话记录，让下一会话、下一台机器或下一个工具先检索再展开。对同时使用 Claude Code、Cursor、Codex 或多台电脑的人，本地库加可选云同步，比把记忆锁在单一聊天产品里更灵活。\n\n它在本窗口的 GitHub 周趋势上非常显眼，也说明「给 Agent 做跨会话记忆」已经是开发者的真实痛点。CMEM Pro 把压缩/观察从你主模型的额度里挪走，并提供跨机器同步，但本地引擎本身仍然可以单独使用。\n\n## 局限\n\n捕获范围随工具和集成变化，不是「接入后记录你在所有产品里说过的每一句话」。ChatGPT 侧目前主要是召回已同步的笔记。记忆压缩本身要消耗模型调用：本地可用你的 Anthropic / OpenRouter / Gemini 等方案，CMEM Pro 则走托管 observation；文档没有在我们核对过的页面上给出一份可引用的月费数字，因此这里不编造 CMEM Pro 价格。系统要求包括 Node.js 20+、安装器会代为处理的 Bun 与 uv，以及足够新的 Claude Code（文档写明 hook 的 exec 形式需要 2.1.139 或更高）。数据会进入 `~/.claude-mem/`；若开启云同步，同步内容也会由 CMEM 存储，连接前应阅读隐私政策。星标数是扫描时的观察，会变化。"
+usage: "1. 在自己的终端运行 `npx claude-mem install`，按向导选择要接入的 Agent（或使用 `--ide claude-code` 等参数），并决定记忆提供方：本地 Anthropic 方案、你自己的 OpenRouter / Gemini key，或 CMEM Pro；\n2. 若只用 Claude Code，也可以执行 `/plugin marketplace add thedotmack/claude-mem` 与 `/plugin install claude-mem`，然后新开一个会话；安装后可用 `npx claude-mem doctor` 检查 hook launcher 是否在 PATH 上；\n3. 需要跨机器同步或托管 observation 时再考虑 CMEM Pro（文档写明有 30 天试用）；不要把未公布的月费当成既定价格。ChatGPT 等 MCP 客户端主要用于召回，不会自动录下那边的对话；\n4. 数据目录默认是 `~/.claude-mem/`。卸载可用 `npx claude-mem uninstall`。更新可用 `npx claude-mem update`。开启云同步前先读隐私政策。"
+---

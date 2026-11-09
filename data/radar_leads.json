@@ -5517,7 +5517,7 @@
     "first_seen": "2026-11-10T00:32+08:00",
     "url": "https://spacefast.com/",
     "excerpt": "Spacefast is Automattic's new company/platform announced 2026-11-09: connect ChatGPT, Claude, Cursor or other agents and publish apps/sites to a private-by-default Space with share links, version history, built-in DB, uploads and stats. Live at spacefast.com; covered by TechCrunch and PR Newswire.",
-    "review_14d": ""
+    "review_14d": null
   },
   {
     "id": 553,
@@ -5527,7 +5527,7 @@
     "first_seen": "2026-11-10T00:32+08:00",
     "url": "https://www.dageno.ai/",
     "excerpt": "Dageno AI is a GEO/AEO platform that shows whether ChatGPT, Gemini, Perplexity and other models recommend your brand vs competitors, with market maps, citations and agent-powered fixes. Dageno AI 2.0 ranked #1 on Product Hunt 2026-11-09; free market lookup at dageno.ai.",
-    "review_14d": ""
+    "review_14d": null
   },
   {
     "id": 554,
@@ -5537,7 +5537,7 @@
     "first_seen": "2026-11-10T00:32+08:00",
     "url": "https://medium.com/blog/tk-a-new-private-notebook-app-from-medium-13d3d6efdce1",
     "excerpt": "TK is Medium's new private notebook/writing app launched 2026-11-09: inline AI via @TK mid-sentence, Medium/Bear/Obsidian import, social libraries, MCP server and Claude skill so agents can use your writing as personal context. Covered by TechCrunch and The Verge.",
-    "review_14d": ""
+    "review_14d": null
   },
   {
     "id": 555,
@@ -5547,7 +5547,7 @@
     "first_seen": "2026-11-10T00:32+08:00",
     "url": "https://protomap.ai/",
     "excerpt": "ProtoMap by HoundDog.ai is a gRPC/Protobuf context engine for coding agents: scan repos into a dependency graph and query blast radius/call sites over MCP. Live on Product Hunt 2026-11-09; docs at docs.protomap.ai, open install at github.com/hounddogai/protomap.",
-    "review_14d": ""
+    "review_14d": null
   },
   {
     "id": 556,
@@ -5557,7 +5557,7 @@
     "first_seen": "2026-11-10T00:32+08:00",
     "url": "https://mcp1.com/",
     "excerpt": "MCP1 is Appwrite's MCP gateway: one URL in front of many MCP servers with OAuth, groups/roles, audit logs and a 100+ server catalog. Live on Product Hunt 2026-11-09; site mcp1.com.",
-    "review_14d": ""
+    "review_14d": null
   },
   {
     "id": 557,
@@ -5567,7 +5567,7 @@
     "first_seen": "2026-11-10T00:32+08:00",
     "url": "https://arcjet.com/blog/introducing-arcjets-custom-ai-security-models",
     "excerpt": "Arcjet Himalia 1 is Arcjet's general-purpose prompt-injection classifier (Qwen3-0.6B fine-tune), live for every SDK prompt-injection call as of 2026-11-05 and featured with Arcjet AI security models on Product Hunt 2026-11-09. Companion EA models: Arcjet Thebe 1 (coding agents) and Arcjet Carme 1 (security agents).",
-    "review_14d": ""
+    "review_14d": null
   },
   {
     "id": 558,
@@ -5577,6 +5577,76 @@
     "first_seen": "2026-11-10T00:32+08:00",
     "url": "https://viggle.ai/models/viggle-remake",
     "excerpt": "Viggle Remake is Viggle's agent-first video-to-video remake model: swap/edit people, outfits, objects and style while keeping motion, camera, cuts and audio. Official page viggle.ai/models/viggle-remake; weights/Space on Hugging Face Viggle/Viggle-Remake (trending this window).",
-    "review_14d": ""
+    "review_14d": null
+  },
+  {
+    "id": 559,
+    "term": "Muse Ember",
+    "source": "x+sitemap",
+    "score": 0.95,
+    "first_seen": "2026-11-10T04:32+08:00",
+    "url": "https://openrouter.ai/meta/muse-ember",
+    "excerpt": "Meta Muse Ember — smallest/most efficient Muse model for agent work (tool calls, coding subtasks, routing, extraction, long docs); multimodal in (text/image/video/audio/PDF), 1M context; OpenRouter Released Nov 9, 2026; ~$0.10/$0.50 per 1M.",
+    "review_14d": null
+  },
+  {
+    "id": 560,
+    "term": "Fable 5.2 / Mythos 5.2",
+    "source": "x+sitemap",
+    "score": 0.94,
+    "first_seen": "2026-11-10T04:32+08:00",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "excerpt": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2 on 2026-11-09 (20% price cut, up to 30% faster than 5.1). Fable GA everywhere; Mythos limited to cyber/life-sciences verification. 'Fable 5.2' was a worldwide X trend; official @claudeai launch post ~2.7M impressions.",
+    "review_14d": null
+  },
+  {
+    "id": 561,
+    "term": "T3 Code",
+    "source": "github",
+    "score": 0.92,
+    "first_seen": "2026-11-10T04:32+08:00",
+    "url": "https://t3.codes",
+    "excerpt": "pingdotgg/t3code (Theo / Ping Labs) — free open-source control surface for coding agents you already use (desktop/web/mobile). Runs Codex, Claude Code, Cursor, Grok Build, OpenCode, Antigravity, fx on your machine. Live at t3.codes; install via curl install.sh | sh then `t3`. ~53.9k★; on GH weekly trending this 0432 slot.",
+    "review_14d": null
+  },
+  {
+    "id": 562,
+    "term": "Nuplex",
+    "source": "x+web",
+    "score": 0.91,
+    "first_seen": "2026-11-10T04:32+08:00",
+    "url": "https://www.nuancelabs.ai/",
+    "excerpt": "Nuance Labs (ex-Apple researchers) launched Nuplex, a full-duplex audiovisual foundation model, plus demo persona Emma that listens/reacts while you speak. Founder @fangchangma launch post ~757k impressions; demo at app.nuancelabs.ai/try; Nuplex API in beta.",
+    "review_14d": null
+  },
+  {
+    "id": 563,
+    "term": "Claude Mem",
+    "source": "github",
+    "score": 0.91,
+    "first_seen": "2026-11-10T04:32+08:00",
+    "url": "https://claude-mem.ai",
+    "excerpt": "thedotmack/claude-mem — persistent local memory for coding agents: captures session tool activity, compresses with AI, injects relevant context into future sessions. Works with Claude Code, Codex, Cursor, OpenCode, Hermes, Copilot+. Sites claude-mem.ai / cmem.ai / docs.claude-mem.ai. ~115k★; GH weekly trending this slot.",
+    "review_14d": null
+  },
+  {
+    "id": 564,
+    "term": "Agent Browser",
+    "source": "github",
+    "score": 0.9,
+    "first_seen": "2026-11-10T04:32+08:00",
+    "url": "https://agent-browser.dev",
+    "excerpt": "vercel-labs/agent-browser — Vercel Labs Rust CLI for browser automation by AI agents (open pages, a11y-tree snapshots with refs, deterministic clicks/forms). Official site agent-browser.dev. ~48.4k★; appears on both GH daily and weekly trending this 0432 slot. Distinct from existing agent-desktop.",
+    "review_14d": null
+  },
+  {
+    "id": 565,
+    "term": "Product Hunt MCP",
+    "source": "x+producthunt",
+    "score": 0.88,
+    "first_seen": "2026-11-10T04:32+08:00",
+    "url": "https://www.producthunt.com/mcp/install",
+    "excerpt": "Product Hunt shipped an official MCP server on 2026-11-09 so agents (Claude/ChatGPT/Cursor/etc.) can discover launches and submit via MCP. PH CEO Rajiv Ayyangar + Ryan Hoover posts in-window; ranked near top of PH that day alongside Dageno.",
+    "review_14d": null
   }
 ]
