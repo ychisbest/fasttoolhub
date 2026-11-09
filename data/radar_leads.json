@@ -5368,5 +5368,85 @@
     "url": "https://github.com/qybaihe/bla",
     "excerpt": "BLA (Blind LLM Agents) — OSS defense that plants decoys/fake logic in Electron/JS/Python/Wasm/native builds so reverse-engineering agents (e.g. REA) burn tokens. GH qybaihe/bla ~3.9k★; site bla.tools.",
     "review_14d": null
+  },
+  {
+    "id": 538,
+    "term": "Reduck",
+    "source": "x+producthunt",
+    "score": 0.9,
+    "first_seen": "2026-11-09T16:32+08:00",
+    "url": "https://reduck.ai",
+    "excerpt": "Reduck lets agents (and n8n) automate any site without an API by turning browsing into deterministic scripts that run in your logged-in Chrome or a managed cloud browser. Product Hunt launch 2026-11-09; site reduck.ai.",
+    "review_14d": null
+  },
+  {
+    "id": 539,
+    "term": "gitring",
+    "source": "x+producthunt",
+    "score": 0.88,
+    "first_seen": "2026-11-09T16:32+08:00",
+    "url": "https://gitring.tech",
+    "excerpt": "gitring is source control for coding agents: they declare intended file/symbol changes before editing, and gitring settles conflicting plans before code exists. Live on Product Hunt 2026-11-09; site gitring.tech (public since 2026-11-03).",
+    "review_14d": null
+  },
+  {
+    "id": 540,
+    "term": "Visiby",
+    "source": "producthunt+web",
+    "score": 0.87,
+    "first_seen": "2026-11-09T16:32+08:00",
+    "url": "https://visiby.net",
+    "excerpt": "Visiby tracks how your brand appears across ChatGPT, Perplexity and Google AI Overviews (Claude / Google AI Mode as add-ons), maps citations, and ships content briefs to improve AI-search visibility. Listed among 2026-11-09 Product Hunt AI launches; site visiby.net.",
+    "review_14d": null
+  },
+  {
+    "id": 541,
+    "term": "AutoDirector",
+    "source": "x+producthunt",
+    "score": 0.86,
+    "first_seen": "2026-11-09T16:32+08:00",
+    "url": "https://autodirector.studio",
+    "excerpt": "AutoDirector turns a written brief plus your assets into a finished product video, animated explainer or brand story (motion graphics, optional voiceover and captions). Live on Product Hunt 2026-11-09; site autodirector.studio.",
+    "review_14d": null
+  },
+  {
+    "id": 542,
+    "term": "Benzi",
+    "source": "x+web",
+    "score": 0.85,
+    "first_seen": "2026-11-09T16:32+08:00",
+    "url": "https://varianttech.net",
+    "excerpt": "Benzi is a compiler-backed AI coding agent: it parses a repo into a queryable map of symbols, calls and data flow, then investigates, edits and verifies. Reports 82.6% on SWE-bench Verified at 1.85¢/task; introduced on X 2026-11-09; site varianttech.net.",
+    "review_14d": null
+  },
+  {
+    "id": 543,
+    "term": "Opaline",
+    "source": "producthunt+web",
+    "score": 0.84,
+    "first_seen": "2026-11-09T16:32+08:00",
+    "url": "https://opaline.so",
+    "excerpt": "Opaline is team-wide, message-level analytics for Claude Code and Codex sessions — token cost, time and skill usage across people and repos. Listed among 2026-11-09 Product Hunt AI launches; site opaline.so.",
+    "review_14d": null
+  },
+  {
+    "id": 544,
+    "term": "ChatHop",
+    "source": "producthunt+web",
+    "score": 0.83,
+    "first_seen": "2026-11-09T16:32+08:00",
+    "url": "https://chathop.tech",
+    "excerpt": "ChatHop is a Chrome extension that moves an AI conversation's context to another assistant (ChatGPT, Claude, Gemini, and similar) in one click, without re-explaining. Listed among 2026-11-09 Product Hunt AI launches; site chathop.tech.",
+    "review_14d": null
+  },
+  {
+    "id": 545,
+    "term": "ZooWork",
+    "source": "producthunt+web",
+    "score": 0.82,
+    "first_seen": "2026-11-09T16:32+08:00",
+    "url": "https://zoowork.ai",
+    "excerpt": "ZooWork is an AI agent delivery platform: package domain expertise into Agent Skills, then build an agent in chat and run it in Slack, Microsoft Teams or WhatsApp with approval gates. Listed among 2026-11-09 Product Hunt AI launches; site zoowork.ai.",
+    "review_14d": null
   }
 ]
