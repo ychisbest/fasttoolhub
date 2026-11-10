@@ -5768,5 +5768,85 @@
     "url": "https://www.producthunt.com/mcp/install",
     "excerpt": "Product Hunt shipped an official MCP server on 2026-11-09 so agents (Claude/ChatGPT/Cursor/etc.) can discover launches and submit via MCP. PH CEO Rajiv Ayyangar + Ryan Hoover posts in-window; ranked near top of PH that day alongside Dageno.",
     "review_14d": null
+  },
+  {
+    "id": 578,
+    "term": "ZONOS3-Mini",
+    "source": "x+web+hf",
+    "score": 0.94,
+    "first_seen": "2026-11-10T12:32+08:00",
+    "url": "https://www.zyphra.com/our-work/zonos3-mini",
+    "excerpt": "Zyphra launched ZONOS3-Mini on 2026-11-09: an Apache-2.0 on-device TTS model (sparse MoE, 100M active / 800M total) with zero-shot voice cloning and word-level delivery control. Official figures: <570 ms time-to-first-audio in a Pixel 9 browser and <150 ms on an M3 MacBook Air. Weights: https://huggingface.co/Zyphra/ZONOS3-Mini",
+    "review_14d": null
+  },
+  {
+    "id": 579,
+    "term": "Nex-N2.6",
+    "source": "sitemap+web",
+    "score": 0.92,
+    "first_seen": "2026-11-10T12:32+08:00",
+    "url": "https://openrouter.ai/nex-agi/nex-n2.6",
+    "excerpt": "OpenRouter added nex-agi/nex-n2.6 this slot, dated November 10, 2026. Nex-N2.6 is Nex AGI's agentic model built on GLM-5.3-Flash (~321B parameters) for computer use, coding, and long-horizon tool tasks, with a 262K context window. Listed OpenRouter price: $0.12 / $0.40 per million input/output tokens.",
+    "review_14d": null
+  },
+  {
+    "id": 580,
+    "term": "Chimera Vocal Synth",
+    "source": "x+github",
+    "score": 0.91,
+    "first_seen": "2026-11-10T12:32+08:00",
+    "url": "https://github.com/jamesondh/chimera-vocal-synth",
+    "excerpt": "Jameson Hodge's CHIMERA is a physical-modeling vocal synthesizer (Rust compiled to WebAssembly) that simulates lungs, vocal folds and a branched vocal tract rather than using samples. Demo: https://chimera-vocal-synth.vercel.app/ ; repo jamesondh/chimera-vocal-synth (created 2026-11-05, 1,289★). Distinct from the already-known ElevenLabs Chimera.",
+    "review_14d": null
+  },
+  {
+    "id": 581,
+    "term": "Worktrunk",
+    "source": "github",
+    "score": 0.9,
+    "first_seen": "2026-11-10T12:32+08:00",
+    "url": "https://github.com/max-sixty/worktrunk",
+    "excerpt": "Worktrunk (worktrunk.dev, GitHub max-sixty/worktrunk, 12,295★) is a CLI for Git worktree management designed for parallel AI agent workflows. Still on GitHub weekly trending this slot; deferred from 0832.",
+    "review_14d": null
+  },
+  {
+    "id": 582,
+    "term": "Hallmark",
+    "source": "github",
+    "score": 0.89,
+    "first_seen": "2026-11-10T12:32+08:00",
+    "url": "https://www.usehallmark.com/",
+    "excerpt": "Hallmark (usehallmark.com, GitHub Nutlope/hallmark, 51,910★) is an anti-AI-slop design skill for Claude Code, Cursor, and Codex. Still on GitHub weekly trending; deferred from 0832.",
+    "review_14d": null
+  },
+  {
+    "id": 583,
+    "term": "Pinky",
+    "source": "github",
+    "score": 0.87,
+    "first_seen": "2026-11-10T12:32+08:00",
+    "url": "https://github.com/DIYgod/pinky",
+    "excerpt": "DIYgod/pinky (created 2026-11-06, 1,494★) lets AI agents operate a real iPhone or Android over MCP with human-in-the-loop approvals. Deferred from 0832.",
+    "review_14d": null
+  },
+  {
+    "id": 584,
+    "term": "Volaren",
+    "source": "x+web",
+    "score": 0.86,
+    "first_seen": "2026-11-10T12:32+08:00",
+    "url": "https://www.volaren.ai/",
+    "excerpt": "Volaren (volaren.ai) is a Y Combinator Fall 2026 personal investing agent: it connects brokerage accounts, explains portfolio moves, and can suggest or — with approval or set limits — execute trades. Still in X news this window; deferred from 0832.",
+    "review_14d": null
+  },
+  {
+    "id": 585,
+    "term": "Arcjet Guards",
+    "source": "sitemap",
+    "score": 0.84,
+    "first_seen": "2026-11-10T12:32+08:00",
+    "url": "https://arcjet.com/blog/introducing-arcjet-guards-security-inside-the-agent-loop",
+    "excerpt": "Arcjet's official blog introduces Arcjet Guards: security checks that run inside the agent loop, a distinct product line from the already-recorded Arcjet Himalia classifiers. Verified last slot and held for this one.",
+    "review_14d": null
   }
 ]
