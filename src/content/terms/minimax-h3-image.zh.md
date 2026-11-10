@@ -1,0 +1,13 @@
+---
+slug: "minimax-h3-image"
+term: "MiniMax H3-Image"
+locale: "zh"
+date: "2026-11-11T04:32+08:00"
+source: "x+web+hf"
+score: 0.94
+url: "https://www.minimax.io/blog/minimax-h3-image"
+excerpt: "MiniMax 于 2026-11-10 正式发布 MiniMax H3-Image（研究博客标注日期为 2026-11-11）：基于 H3 的开源权重图像生成模型，支持文生图、参考图生成和图像编辑。官方称可在 10 秒内生成原生 4K（4096×4096，1600 万像素）图像，提示词遵循度高，最多支持 16 张参考图，全分辨率 4K 速度最高可达主流方案的 5 倍。可通过 MiniMax API、MiniMax Code 和海螺 AI（Hailuo AI）使用，权重发布在 Hugging Face（MiniMaxAI/MiniMax-H3-Image）；上线周对 4K 及以上生成提供五折。官方博客：https://www.minimax.io/blog/minimax-h3-image 宣布帖：https://x.com/MiniMax_AI/status/2120179737695826420 Hugging Face：https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+intro: "**MiniMax H3-Image** 是 MiniMax 基于 H3 发布的开源权重图像生成模型，支持文生图、参考图生成和图像编辑。官方账号 [@MiniMax_AI](https://x.com/MiniMax_AI/status/2120179737695826420) 于 2026 年 11 月 10 日发布宣布帖，研究博客《[MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era](https://www.minimax.io/blog/minimax-h3-image)》标注日期为 2026 年 11 月 11 日。上一轮源头扫描时该名称仍被推迟（当时还没有这份正式产品页）；本轮已有官方宣布和博客，故收录。\n\n官方称，H3-Image 可在 10 秒内生成一张原生 4K（4096×4096，约 1600 万像素）图像，细节更接近真实而不过于“塑料感”，提示词遵循度在开源权重模型中处于其所述的领先水平，并且最多可以使用 16 张参考图。博客还写，全分辨率 4K 的速度最高可达主流方案的 5 倍；API 上 Standard 模式速度约为主流方案的 1.5–2 倍，Highspeed 模式约为 3–4 倍，定价约为同类方案的 50%–70%。上线周期间，4K 及以上的图像生成请求按标准价的五折计费。\n\n官方列出的使用途径包括 MiniMax API、MiniMax Code 和海螺 AI（Hailuo AI），并在 Hugging Face 发布权重：[MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image)。API 文档见 https://platform.minimax.io/docs/guides/image-generation 。许可范围、地区限制和本地部署要求请以官方仓库和许可文本为准，不要只根据第三方转述做商业使用判断。\n\n要点：\n\n- 官方博客：https://www.minimax.io/blog/minimax-h3-image ；\n- 宣布帖：https://x.com/MiniMax_AI/status/2120179737695826420 ；\n- Hugging Face：https://huggingface.co/MiniMaxAI/MiniMax-H3-Image ；\n- API 说明：https://platform.minimax.io/docs/guides/image-generation ；\n- 不要和已经收录的 **P-H3-Image**、**Pika H3 Flex** 等其他带 H3 的名称混为一谈。本词指 MiniMax 官方的 H3-Image。"
+explain: "## 为什么值得关注\n\n开源权重、可本地或通过 API 使用、并且把原生 4K 生成时间压到大约 10 秒，是图像模型里一组很具体的产品主张。MiniMax 同时给出参考图数量（最多 16 张）、编辑能力和上线周折扣，说明这不是只在社区里流传的早期通道，而是一次正式公开发布。\n\n速度倍数、画质和提示词遵循度的表述来自 MiniMax，我们没有独立跑分。权重在宣布前就已出现在 Hugging Face 上并被社区讨论，但当时缺少这份官方产品页；本词以官方宣布和博客作为公开推出的依据。\n\n## 局限\n\n“10 秒内 4K”“最高 5 倍速度”都是官方数字，实际耗时取决于硬件、分辨率和模式（Standard / Highspeed）。开源权重的许可可能含有地区或其他限制，商用或本地部署前必须阅读官方许可。不要把它当成 **P-H3-Image** 或其他第三方微调 / 量化包的名字。"
+usage: "1. 阅读官方博客 https://www.minimax.io/blog/minimax-h3-image 与宣布帖 https://x.com/MiniMax_AI/status/2120179737695826420 ；\n2. 在 https://huggingface.co/MiniMaxAI/MiniMax-H3-Image 获取权重，或通过 https://platform.minimax.io/docs/guides/image-generation 、MiniMax Code、Hailuo AI 调用 ；\n3. 把它与 **P-H3-Image**、**Pika H3 Flex** 等其他 H3 相关名称区分开 ；\n4. 使用开源权重前先阅读官方许可和地区条款；上线周 4K 折扣以官方定价页的有效期为准。"
+---

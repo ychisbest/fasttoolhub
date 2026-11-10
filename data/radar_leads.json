@@ -1,125 +1,5 @@
 [
   {
-    "id": 566,
-    "term": "GR00T 2",
-    "source": "sitemap+x",
-    "score": 0.98,
-    "first_seen": "2026-11-10T08:32+08:00",
-    "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
-    "excerpt": "NVIDIA introduced GR00T 2 at CoRL 2026 — an open frontier world action model built on NVIDIA Cosmos for humanoid and dexterous manipulation. Trained on diverse robot and human data (including 100,000 hours of egocentric data), it completes many tasks zero-shot, transfers skills across robot bodies, and ranks among top VLA/world-action models on RoboCasa365, RoboLab, RoboDojo and MolmoSpaces.",
-    "review_14d": null
-  },
-  {
-    "id": 567,
-    "term": "OpenClaw",
-    "source": "github",
-    "score": 0.96,
-    "first_seen": "2026-11-10T08:32+08:00",
-    "url": "https://github.com/openclaw/openclaw",
-    "excerpt": "OpenClaw (openclaw/openclaw, ~394k★, openclaw.ai) is an open-source personal AI assistant that runs on your devices and chats — Discord, iMessage, Slack, Telegram, WhatsApp plus native apps — with a large skills/plugins ecosystem.",
-    "review_14d": null
-  },
-  {
-    "id": 568,
-    "term": "Control Room",
-    "source": "sitemap+x",
-    "score": 0.94,
-    "first_seen": "2026-11-10T08:32+08:00",
-    "url": "https://openai.com/index/control-room/",
-    "excerpt": "OpenAI's Control Room is a central system that tracks research inference and agentic workloads and can halt model output within ~35 seconds when safety or security monitors raise a flag. Engines check Control Room before fulfilling requests; the system fails closed if Control Room itself is down.",
-    "review_14d": null
-  },
-  {
-    "id": 569,
-    "term": "DeepSeek V4 Pro",
-    "source": "sitemap",
-    "score": 0.94,
-    "first_seen": "2026-11-10T08:32+08:00",
-    "url": "https://fireworks.ai/blog/deepseek-v4-pro-production-validation",
-    "excerpt": "DeepSeek V4 Pro is served on Fireworks after production validation that caught a reasoning-trace bug in day-0 endpoints. Fireworks published validation and SWE-Bench-oriented writeups confirming the flagship V4 Pro SKU for production use.",
-    "review_14d": null
-  },
-  {
-    "id": 570,
-    "term": "Skild Steel",
-    "source": "x",
-    "score": 0.93,
-    "first_seen": "2026-11-10T08:32+08:00",
-    "url": "https://skild.ai/blogs/steel",
-    "excerpt": "Skild AI (with NVIDIA) open-sourced Steel / STEEL (Scalable Throughput-optimized Engine for Embodied Learning) — a GPU rigid-body physics solver for the Newton engine used with Isaac Lab. Reports ~3.8× PhysX geometric-mean throughput and up to ~13× on mixed robot-task batches (~3.9M env steps/s).",
-    "review_14d": null
-  },
-  {
-    "id": 571,
-    "term": "Sugar Glider",
-    "source": "x",
-    "score": 0.93,
-    "first_seen": "2026-11-10T08:32+08:00",
-    "url": "https://www.i14.ai/news/sugar-glider-120b",
-    "excerpt": "i14 (Melbourne) launched Sugar Glider — a constant-memory LLM family (Cerbearus architecture) with O(1) memory/compute per token. Sugar Glider 120B supports ~1M context while using a fixed-size memory (~1/32 parent KV at 1M) and serves far more concurrent long-context requests on the same GPUs.",
-    "review_14d": null
-  },
-  {
-    "id": 572,
-    "term": "RuView",
-    "source": "github",
-    "score": 0.93,
-    "first_seen": "2026-11-10T08:32+08:00",
-    "url": "https://github.com/ruvnet/RuView",
-    "excerpt": "RuView (ruvnet/RuView, ~103k★, cognitum.one) turns commodity WiFi into real-time spatial intelligence — presence, motion and vital-sign style sensing without cameras. Daily GitHub trending; Cognitum product page exists.",
-    "review_14d": null
-  },
-  {
-    "id": 573,
-    "term": "LingBot-Touch",
-    "source": "x",
-    "score": 0.92,
-    "first_seen": "2026-11-10T08:32+08:00",
-    "url": "https://technology.robbyant.com/lingbot-touch",
-    "excerpt": "Robbyant (Ant Group) open-sourced LingBot-Touch, a JEPA-based tactile foundation model with a shared Haptic Transformer pretrained on ~4,983 hours / 1.33B frames of piezoresistive, magnetic and visuotactile data. Tiny/Small variants on Hugging Face; transfers across sensors and dexterous hands.",
-    "review_14d": null
-  },
-  {
-    "id": 574,
-    "term": "A5S Async V1",
-    "source": "x",
-    "score": 0.91,
-    "first_seen": "2026-11-10T08:32+08:00",
-    "url": "https://aircaps.ai/research/a5s-async-v1-the-worlds-most-accurate-speech-recognition-model-for-speaker-attributed-transcription",
-    "excerpt": "AirCaps launched A5S Async V1 for speaker-attributed ASR. It ranks #1 of 15 on VoiceArena Diarization-Bench (~23.89% cpWER), leads five public meeting benchmarks, and offers ~1h audio transcribed in ~9.8s median via API at $0.18/audio-hour.",
-    "review_14d": null
-  },
-  {
-    "id": 575,
-    "term": "Ember-1",
-    "source": "sitemap",
-    "score": 0.91,
-    "first_seen": "2026-11-10T08:32+08:00",
-    "url": "https://fireworks.ai/blog/ember-1",
-    "excerpt": "Ember-1 is a Fireworks Research specialized model that aims for Kimi K3-level quality with ~40% fewer tokens. Available as a research preview on Fireworks Serverless. Distinct from Meta Muse Ember (already a lead).",
-    "review_14d": null
-  },
-  {
-    "id": 576,
-    "term": "Isaac Lab 3.0",
-    "source": "sitemap+x",
-    "score": 0.87,
-    "first_seen": "2026-11-10T08:32+08:00",
-    "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
-    "excerpt": "NVIDIA released Isaac Lab 3.0 alongside GR00T 2 at CoRL — the open robot-learning framework now supports agent-driven env setup, PhysX or Newton solvers, perception renderers, and a new RL post-training library for foundation models. With Newton it reports up to ~2.5× training throughput vs Isaac Lab 2.3 + PhysX on a dexterous-manipulation benchmark.",
-    "review_14d": null
-  },
-  {
-    "id": 577,
-    "term": "CMEM Cloud",
-    "source": "sitemap",
-    "score": 0.8,
-    "first_seen": "2026-11-10T08:32+08:00",
-    "url": "https://cmem.ai/blog/introducing-cmem-cloud",
-    "excerpt": "CMEM Cloud is the hosted/cloud product line for Claude Mem (claude-mem / cmem.ai): agent memory that stays linked across tools and sessions. Distinct from the local Claude Mem skill already inserted at 04:32 — this is the cloud offering introduced on cmem.ai.",
-    "review_14d": null
-  },
-  {
     "id": 1,
     "term": "Microsoft-Decision-1",
     "source": "X",
@@ -2607,7 +2487,7 @@
     "first_seen": "2026-10-24T16:32+08:00",
     "url": "https://huggingface.co/hi3d-official/Hi3Dv1.0",
     "excerpt": "Hi3D V1.0 (formerly Sparc3D) open-sourced Oct 23, 2026 (PRNewswire, Beijing): production-validated image-conditioned 3D geometry refinement model, trained on ~2M curated 3D assets, up to 1536³ effective resolution; code github.com/hi3d-official/Hi3Dv1.0, weights on HF, free generation at hi3d.ai/hi3d-1-0-open-source. X: 'Hi3D made its full AI 3D model FREE'.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-10|q='Hi3D 1.0' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 250,
@@ -2617,7 +2497,7 @@
     "first_seen": "2026-10-24T16:32+08:00",
     "url": "https://sakana.ai/aquarium-release/",
     "excerpt": "Sakana AI announced 'Sakana Aquarium' on Oct 23, 2026: an ontology-based AI agent build/run/ops platform for enterprise decision-making & execution (Ontology, Governance, Managed Agents; workflows as YAML with human approval). Covered by Nikkei, TRAIL; product page sakana.ai/aquarium. Availability via consultation, no pricing yet.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-10|no Trends data for 'Sakana Aquarium'"
   },
   {
     "id": 251,
@@ -2627,7 +2507,7 @@
     "first_seen": "2026-10-24T16:32+08:00",
     "url": "https://huggingface.co/IQuestLab/IQuest-Q1",
     "excerpt": "IQuest-Q1: open-weight 320B MoE (15B active), 512K context, built for agentic CLI coding (Claude Code/Codex); technical report released Oct 22–23, 2026 (HF paper 2610.30949), 83.2 on Terminal-Bench 2.1; weights on HF/ModelScope (IQuestLab), SGLang cookbook support. Site iquestlab.github.io.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-10|q='IQuest-Q1' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 252,
@@ -2637,7 +2517,7 @@
     "first_seen": "2026-10-24T16:32+08:00",
     "url": "https://aistudio.google.com/learn/introducing-the-gemini-api-cli",
     "excerpt": "Google released the experimental Gemini API CLI (`gemini-api`) — zero-dependency Go binary (Apache-2.0, github.com/google-gemini/gemini-api-cli, v0.4.3) letting Claude Code/Codex/Cursor etc. generate images/video/music/speech, analyze/transcribe media and run Managed Agents from the shell. Announced Oct 19; heavy EN/CN/JP X discussion Oct 23–24 about confusion with Gemini CLI / Antigravity CLI.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-10|q='Gemini API CLI' pre7=11.4 last7=36.7 peak=100"
   },
   {
     "id": 253,
@@ -2647,7 +2527,7 @@
     "first_seen": "2026-10-24T16:32+08:00",
     "url": "https://www.biorxiv.org/content/10.64898/2026.09.09.750426v1",
     "excerpt": "Brainobot: biohybrid system where a 3-month-old cortical brain organoid on a MaxOne MEA acts as the decision layer of a ROBOTIS humanoid (grasping, laser chasing, ~92–94% accuracy). Indiana Univ. Brainoware group bioRxiv preprint (Sep 15); trending in X News Oct 24 ('Human Brain Cells Now Power Robots and Prototype Data Centers').",
-    "review_14d": null
+    "review_14d": "miss|2026-11-10|no Trends data for 'Brainobot'"
   },
   {
     "id": 254,
@@ -2657,7 +2537,7 @@
     "first_seen": "2026-10-25T00:32+08:00",
     "url": "https://1password.com/blog/1password-for-ai-agents",
     "excerpt": "1Password launched '1Password for Agents' (Oct 22, 2026; TechCrunch + press release), a platform that lets personal AI agents sign in on your behalf without seeing passwords: the agent requests a credential, the user approves on their own device, and 1Password autofills it directly into the login form. Launch integrations: Meta Muse, Anthropic Claude Duet, OpenAI ChatGPT Work/dots, Grok Bot, Town Townie; coming: Browserbase, Browser Use, Perplexity, Ramp, KERNEL, etc. Free for 1Password.com Individual/Family accounts. Ranked #3 on Product Hunt Oct 24 (~170 upvotes).",
-    "review_14d": null
+    "review_14d": "miss|2026-11-10|q='1Password for Agents' pre7=14.3 last7=9.6 peak=100"
   },
   {
     "id": 255,
@@ -2667,7 +2547,7 @@
     "first_seen": "2026-10-25T00:32+08:00",
     "url": "https://zcad.ai/products/ai",
     "excerpt": "zCAD AI — #1 Product of the Day on Product Hunt, Oct 24, 2026 (~194 upvotes, 26 comments). AI-native platform that turns plain-language prompts into editable, dimension-driven parametric CAD models (real CAD geometry, not meshes); generates full assemblies with mates from one prompt, browser-based CAD editor for refinement, STEP export. PH: https://www.producthunt.com/products/zcad-ai",
-    "review_14d": null
+    "review_14d": "miss|2026-11-10|q='zCAD AI' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 256,
@@ -2677,7 +2557,7 @@
     "first_seen": "2026-10-25T00:32+08:00",
     "url": "https://www.bjnews.com.cn/detail/1792829104129443.html",
     "excerpt": "云深处科技 (DEEP Robotics) on Oct 24, 2026 unveiled its embodied brain 'DEEPRobotics-Brain' with five research results: world model DR-WM-1.0 (physics-consistent world model for quadrupeds with friction/roughness/stiffness priors, pretrained on 2.58M images + 100k+ real-robot clips; arXiv 2610.17630), embodied foundation model DR-VLA-2.0, navigation agent DR-Agent, policy-optimization framework DR-APO (NavDP sim success 70.33%→89.55%), and data-loop platform DR-Benchmark. Co-developed with MIT, UCSD, UIUC, Tsinghua, ZJU, HKUST, BIT. Coverage: 新京报, 环球网, ai123, 机器人大讲堂.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-10|no Trends data for 'DEEPRobotics-Brain'"
   },
   {
     "id": 257,
@@ -2687,7 +2567,7 @@
     "first_seen": "2026-10-25T08:32+08:00",
     "url": "https://lambdahumanoid.github.io/",
     "excerpt": "Lambda-0 (λ₀) — whole-body humanoid foundation model from Alibaba's Amap and Alibaba Token Hub (ATH), open-sourced (code on GitHub, Apache 2.0) with arXiv 2610.18950; covered by Pandaily Oct 24, 2026. Trained on HumanVerse-500, 500 h of robot-free egocentric human loco-manipulation data (GoPro video + PICO body tracking + reconstructed hands; 32,993 episodes, 827 task types), with a 3-stage recipe (egocentric hand-motion pretraining → robot-aligned whole-body human mid-training → robot post-training). Zero-shot transfer to Unitree G1 (BrainCo Revo2 hands, SONIC whole-body controller): 62.5% real-world success (25/40, +22.5 pts over strongest baseline π0.5 40%), 80.4% task progress, 90.0% on SIMPLE. ~3.4× faster data collection than robot teleop.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-10|no Trends data for 'Lambda-0'"
   },
   {
     "id": 258,
@@ -2697,7 +2577,7 @@
     "first_seen": "2026-10-25T08:32+08:00",
     "url": "https://kyutai.org/blog/2026-10-22-cadre/",
     "excerpt": "CADRE (CAusal Diffusion REpresentation autoencoders) — Kyutai's open family of causal video autoencoders for interactive world models, released Oct 22, 2026 with paper ('Rethinking Video Autoencoders for Interactive World Models', arXiv 2610.30129), code (GitHub kyutai-labs/cadre-autoencoders-and-world-models), weights on HF (kyutai/cadre-* — 7 paper autoencoders, 4 multires variants, world models for 4 environments, action probes) and a live demo. Frozen DINOv3 ViT-B/16 encoder + small trained bottleneck + 1–2-step causal diffusion (flow-matching) decoder; 475M trained + 86M frozen params. World models on CADRE latents run at 20 fps on one H100 with <230 ms action latency for manipulation, driving and indoor navigation. Recommended: CADRE-2x16x16-multires.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-10|no Trends data for 'Kyutai CADRE'"
   },
   {
     "id": 259,
@@ -2707,7 +2587,7 @@
     "first_seen": "2026-10-25T16:32+08:00",
     "url": "https://github.com/lexmount/moli",
     "excerpt": "Moli — Lexmount's open-source (Apache-2.0) Rust headless browser built for AI agents (\"Best headless browser for AI agents. Lite, Fast, High-Compatibility\"). GitHub lexmount/moli created 2026-08-10, now ~20.5k★ / 553 forks, latest release v1.1.19 (2026-10-21). Structure-first design: DOM/JS/network ops skip layout & paint; layout, screenshots and screencast only on demand (--layout / --resource). One binary serves CDP, WebDriver Classic and WebDriver BiDi (Playwright connectOverCDP works); outputs HTML/Markdown/JSON/semantic text trees; Linux/macOS/Windows. Hosted as 'Moli' browser mode (SDK value browser_mode=\"light\") in Lexmount Cloud Browser (browser.lexmount.com). @LexmountAI on X, 2026-10-25 08:00Z: \"Our open-source project Moli just hit 20,000 stars on GitHub! ... We brought Moli, our browser engine built specifically for AI agents, to the cloud.\"",
-    "review_14d": null
+    "review_14d": "miss|2026-11-10|q='Lexmount Moli' pre7=14.3 last7=0.0 peak=100"
   },
   {
     "id": 260,
@@ -2717,7 +2597,7 @@
     "first_seen": "2026-10-25T16:32+08:00",
     "url": "https://github.com/chenxiachan/textfold",
     "excerpt": "TextFold (formerly PaperFold) — open-source (Apache-2.0, Python 3.9+, runs locally) reader that folds any text into 5 levels of detail: Full → Brief (1–3 verbatim key sentences per paragraph) → Key → Takeaway → Topic (a map of section cards). Reads web pages, arXiv, PubMed Central, bioRxiv/medRxiv, Wikipedia, GitHub READMEs, PDF/Word/PowerPoint/Excel/EPUB etc.; also folds agent replies via a Claude Code mod and a Pi extension; works with Zotero and Obsidian; `python3 -m textfold get` gives agents a document one level at a time. GitHub chenxiachan/textfold created 2026-10-04, ~609★, pushed 2026-10-24; demo at chenxiachan.github.io/textfold. Featured in X roundup @binbin_eth 2026-10-25 02:55Z: \"TextFold：开源阅读器，把长文折成 5 档详细度（章节主题→论点→原句→全文），缓解 AI 摘要丢条件、回原文难定位\".",
-    "review_14d": null
+    "review_14d": "hit|2026-11-10|q='TextFold' pre7=0.0 last7=12.4 peak=100"
   },
   {
     "id": 261,
@@ -2727,7 +2607,7 @@
     "first_seen": "2026-10-26T00:32+08:00",
     "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
     "excerpt": "Nanbeige4.3-33B — flagship 'teacher' model of Kanzhun (BOSS直聘) Nanbeige team's new Nanbeige4.3 series, open weights under Apache-2.0 on Hugging Face (created 2026-10-24, updated 2026-10-25; ~217 likes, #22 HF trending; companion Nanbeige4.3-33B-Base). ~33B dense (llama-arch) bilingual en/zh, 512K (524,288-token) context, thinking mode on by default (enable_thinking / preserve_thinking chat-template flags), XML or JSON tool calling; runs on Transformers, SGLang, vLLM (qwen3 reasoning parser, qwen3_coder tool parser). Self-reported vs Qwen3.8-27B / Muse-Glimmer-30B / Gemma4-31B: Terminal-Bench 2.1 80.9, DeepSWE 65.5, SWE-Bench Pro 60.3, Claw-Eval 78.3, GDPval 84.8, GPQA Diamond 89.5, AIME 2026 95.2. Planned distillation into smaller models (e.g. Nanbeige4.3-3B). In-window X: @kimmonismus 2026-10-25 14:47Z (311 likes) 'Nanbeige just released Nanbeige4.3-33B ... beating similarly sized Qwen 3.8 27b and Gemma models on most benchmarks'; X News story 'Nanbeige4.3-33B Tops Agentic Coding Benchmarks in 30B Class'.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-10|q='Nanbeige4.3-33B' pre7=0.0 last7=9.1 peak=100"
   },
   {
     "id": 262,
@@ -2737,7 +2617,7 @@
     "first_seen": "2026-10-26T00:32+08:00",
     "url": "https://www.gr.inc/releases/avalon-m1",
     "excerpt": "Avalon-M1 — General Reasoning (gr.inc, Ross Taylor) new model series that runs 'agent organisations': instances of one shared policy act as a CEO plus hired specialists, coordinating through a shared message board and workspace. Trained with RLCR (reinforcement learning from collective rewards): every agent gets the same collective advantage, no per-agent credit assignment, no frozen sub-agents. Announced 2026-10-23 with technical report (gr.inc/avalonm1.pdf). First model Avalon-M1-Mini (120B total / 12B active, post-trained from the Nemotron 3 Super base, still training): organisation mode lifts IMO-ProofBench-Advanced 29.8%→37.5% and FrontierScience 55.9%→63.5% vs the same model alone; on EdgeBench organisations overtake single agents after ~1.7h. Safety finding: refusals stay near-universal but reporting to humans declines ('organisational insularity'). In-window X: @johnp_creates 2026-10-25 13:34Z 'General Reasoning just released early results from Avalon-M1, a model trained to run full teams of AI agents that share one collective reward'.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-10|q='Avalon-M1' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 263,
@@ -2747,7 +2627,7 @@
     "first_seen": "2026-10-26T00:32+08:00",
     "url": "https://www.liquid.ai/blog/low-latency",
     "excerpt": "Liquid RIPL (Real-time Inference Pipeline) — Liquid AI's new low-latency inference engine announced 2026-10-22 that puts Liquid Foundation Models (LFMs) directly in the path of a live request, returning complete generated responses end-to-end in under 50 ms even at continuous peak load. Targets search ranking, recommendations, fraud/payment decisions. Reported: LFM2.5-1.2B on RIPL has 14.4–28.4× lower p95 latency than Qwen3.5-0.8B on vLLM; LFM2.5-2.6B 5.6–7.7× lower than Qwen3.5-2B. Shopify deploys LFMs for search enhancement at sub-20 ms. Available now for enterprise LFM deployments on NVIDIA GPUs (H100, H200, B200, RTX PRO 6000); interactive latency calculator at liquid.ai/low-latency-calculator-ripl. Found as new URLs in liquid.ai sitemap this run.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-10|q='Liquid RIPL' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 264,
@@ -2757,7 +2637,7 @@
     "first_seen": "2026-10-26T00:32+08:00",
     "url": "https://github.com/JetBrains/thinkrail",
     "excerpt": "ThinkRail — JetBrains incubator (InnovationHub) open-source (Apache-2.0, TypeScript) agentic IDE built around the 'pi' coding agent: 'the agentic IDE that gets better every time you use it'. Each workspace is an isolated git worktree (own branch/terminals/chats) so several pi sessions run in parallel; Monaco editor tabs, diffs, anchored review comments; a connected graph of SPEC.md 'living specs' the agent reads and maintains via spec_* tools; portable Agent Skills, MCP servers with approval prompts, GitHub PR/CI flow via your own gh; sign in with JetBrains AI or any pi provider; desktop app (macOS/Windows/Linux) or `thinkrail` CLI in browser. Install: curl -fsSL https://raw.githubusercontent.com/JetBrains/thinkrail/main/install.sh | bash. Repo created 2026-07-08, introduced on blog 2026-08-19; ~1,246★/88 forks; latest v0.3.0-nightly.6 (2026-10-25). Newly on GitHub daily trending this run. Site thinkrail.ai.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-10|q='ThinkRail' pre7=0.0 last7=20.9 peak=100"
   },
   {
     "id": 265,
@@ -2767,7 +2647,7 @@
     "first_seen": "2026-10-26T00:32+08:00",
     "url": "https://github.com/uclanlp/OpenVLHarness",
     "excerpt": "OpenVLHarness — UCLA NLP + Apple training-free multimodal reasoning harness ('Turn any MLLM into an evidence-based visual reasoner that thinks and codes in visual space'). Nine tool capabilities behind task-level interfaces (visual grounding via SAM 3, OCR via PaddleOCR-VL, depth & camera trajectory via Depth Anything 3, zoom, text/image search, webpage visit, Python coding agent) plus per-question persistent multimodal memory of images/boxes/masks/depth maps/web refs. Across 22 benchmarks raises averages 9.7–12.6 points (e.g. Qwen3-VL-8B 34.2→45.4, Kimi K3 56.4→66.1, GPT-6 Astra 60.3→70.2). arXiv 2610.26860 (submitted 2026-10-19), MIT license, repo created 2026-10-15 (~252★), HF Space demo uclanlp/OpenVLHarness, project page openvlharness.github.io. In-window X: @cutetoxicguy 2026-10-25 08:42Z '🚀 UCLA and Apple just released OpenVLHarness...'.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-10|no Trends data for 'OpenVLHarness'"
   },
   {
     "id": 266,
@@ -2777,7 +2657,7 @@
     "first_seen": "2026-10-26T08:32+08:00",
     "url": "https://github.com/microsoft/Agensh",
     "excerpt": "Agensh — Microsoft Research decentralized, self-organized multi-agent harness (MIT) that scales coding agents without a central orchestrator: concurrent workers gather context, claim sub-tasks, act, verify and merge progress asynchronously via shared workspace (Gitea), messaging (Mattermost) and shared context (DeLM-adapted), typically stacked on Copilot harness per-agent loops. Paper arXiv 2609.26781 (2026-09-22); GitHub v1.0 / OSS drop 2026-10-23–24 (repo created 2026-08-27; ~293★/35 forks). On five hardest ProgramBench tasks with GPT-5.6-sol (high), 6h no-Internet: mean final test-pass 19.31% (1 agent) → 28.78% (128); on Pandoc 33.89% → 55.06% at 1,024 agents. Project page agens-harness.github.io/project/; aka.ms/Agensh. In-window X: @Marktechpost coverage RT'd through Oct 25–26; CN digests (e.g. @mingganggao 今日AI速览; @RichardWang889).",
-    "review_14d": null
+    "review_14d": "miss|2026-11-10|q='Agensh' pre7=0.0 last7=0.9 peak=100"
   },
   {
     "id": 267,
@@ -2787,7 +2667,7 @@
     "first_seen": "2026-10-26T08:32+08:00",
     "url": "https://github.com/Charonyuu/whatsmyagentdoing",
     "excerpt": "whatsmyagentdoing — open-source (MIT) local dashboard that visualizes Claude Code, Codex and Gemini CLI agent sessions as live characters in a tiny isometric office (or as a plain list). Reads the JSONL session logs those tools already write — no hooks or API keys; does not intervene in agents. Repo created 2026-10-23; ~227★ as of this scan (v0.3.1). In-window X: @RoundtableSpace feature posts (~45k impressions / 81–113 likes) still RT'd Oct 25–26; CN tip post noting active commits.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-10|no Trends data for 'whatsmyagentdoing'"
   },
   {
     "id": 268,
@@ -2797,7 +2677,7 @@
     "first_seen": "2026-10-26T16:32+08:00",
     "url": "https://pomerado.ai/",
     "excerpt": "YC F26: turn any website into API/MCP for agents; alt to browser use. Launch 2518♥/118RT; GH Pomerado/pomerado 517★; docs.pomerado.ai",
-    "review_14d": null
+    "review_14d": "hit|2026-11-10|q='Pomerado' pre7=10.4 last7=18.0 peak=100"
   },
   {
     "id": 269,
@@ -2807,7 +2687,7 @@
     "first_seen": "2026-10-26T16:32+08:00",
     "url": "https://github.com/t3dotgg/tstack",
     "excerpt": "Theo (@theo) published personal Claude Code/Codex agent skills pack as tstack; announce 448♥; repo 290★ (created Oct 24)",
-    "review_14d": null
+    "review_14d": "hit|2026-11-10|q='tstack' pre7=0.0 last7=46.9 peak=100"
   },
   {
     "id": 270,
@@ -2817,7 +2697,7 @@
     "first_seen": "2026-10-26T16:32+08:00",
     "url": "https://github.com/hevnsnt/CVEngine",
     "excerpt": "AI-first external attack-surface assessment (bbot/nmap/Nuclei + AI CVE proof). Launch 681♥/103RT; GH 240★; GH fresh NEW vs morning",
-    "review_14d": null
+    "review_14d": "hit|2026-11-10|q='CVEngine' pre7=0.0 last7=27.9 peak=100"
   },
   {
     "id": 271,
@@ -2827,7 +2707,7 @@
     "first_seen": "2026-10-27T00:32+08:00",
     "url": "https://huggingface.co/tencent/Hy-SimulMT-30B-A3B",
     "excerpt": "Tencent just released Hy-SimulMT on Hugging Face — A real-time simultaneous translation model with ~3s latency and voice cloning. (@HuggingPapers; GitHub news: 2026.10.26 Release)",
-    "review_14d": null
+    "review_14d": "miss|2026-11-10|q='Hy-SimulMT' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 272,
@@ -2837,7 +2717,7 @@
     "first_seen": "2026-10-27T00:32+08:00",
     "url": "https://www.oracle.com/news/announcement/ai-world-oracle-introduces-new-ai-powered-ways-to-execute-work-across-oracle-fusion-applications-2026-10-26/",
     "excerpt": "Oracle today announced Oracle Fusion Companion with Oracle Fusion Agentic Home ... users can access these capabilities through supported AI tools such as ChatGPT (Oracle AI World, Oct 26 2026)",
-    "review_14d": null
+    "review_14d": "miss|2026-11-10|q='Oracle Fusion Companion' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 273,
@@ -2847,7 +2727,7 @@
     "first_seen": "2026-10-27T00:32+08:00",
     "url": "https://x.com/Flovaai/status/2114673394054795679",
     "excerpt": "Introducing Flova 1.5 — Smarter. More Adaptive. Bring Ideas to Life. Run multiple sessions in parallel ... Build and reuse Skills (375k impressions; worldwide X trend)",
-    "review_14d": null
+    "review_14d": "miss|2026-11-10|no Trends data for 'Flova 1.5'"
   },
   {
     "id": 274,
@@ -2857,7 +2737,7 @@
     "first_seen": "2026-10-27T00:32+08:00",
     "url": "https://github.com/yaojingang/GEOInflow",
     "excerpt": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs ... Jointly published by 猎看科技 · 北京日报社智源GEO. (created 2026-10-26, ~275★ in first day)",
-    "review_14d": null
+    "review_14d": "miss|2026-11-10|q='GEOInflow' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 275,
@@ -2867,7 +2747,7 @@
     "first_seen": "2026-10-27T08:32+08:00",
     "url": "https://mirendil.com/news/introducing-fern/",
     "excerpt": "Mirendil launched Fern 0.1 on Oct 26: first post-trained model from Mirendil-Base, claimed up to 10M-token context (~0.5M lines of code). Built for AI R&D agentic work (auditing training data, debugging logs, reading agent traces). Early-access requests open; no public weights/API/pricing yet. Official @mirendil post ~564 likes / 30k impressions.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-10|q='Fern 0.1' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 276,
@@ -2877,7 +2757,7 @@
     "first_seen": "2026-10-27T08:32+08:00",
     "url": "https://github.com/mainplane-ai/mainplane",
     "excerpt": "Alexander Yue (ex Browser Use eng #2) launched Mainplane on X/Show HN Oct 26 16:32Z: open-source Go AI agent control plane that runs on a server and drives workers on your machines over built-in WireGuard. MIT. Launch post ~61 likes / 4.7k impressions / 48 bookmarks; repo ~12★ at scan time.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-10|q='Mainplane' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 277,
@@ -5770,6 +5650,126 @@
     "review_14d": null
   },
   {
+    "id": 566,
+    "term": "GR00T 2",
+    "source": "sitemap+x",
+    "score": 0.98,
+    "first_seen": "2026-11-10T08:32+08:00",
+    "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+    "excerpt": "NVIDIA introduced GR00T 2 at CoRL 2026 — an open frontier world action model built on NVIDIA Cosmos for humanoid and dexterous manipulation. Trained on diverse robot and human data (including 100,000 hours of egocentric data), it completes many tasks zero-shot, transfers skills across robot bodies, and ranks among top VLA/world-action models on RoboCasa365, RoboLab, RoboDojo and MolmoSpaces.",
+    "review_14d": null
+  },
+  {
+    "id": 567,
+    "term": "OpenClaw",
+    "source": "github",
+    "score": 0.96,
+    "first_seen": "2026-11-10T08:32+08:00",
+    "url": "https://github.com/openclaw/openclaw",
+    "excerpt": "OpenClaw (openclaw/openclaw, ~394k★, openclaw.ai) is an open-source personal AI assistant that runs on your devices and chats — Discord, iMessage, Slack, Telegram, WhatsApp plus native apps — with a large skills/plugins ecosystem.",
+    "review_14d": null
+  },
+  {
+    "id": 568,
+    "term": "Control Room",
+    "source": "sitemap+x",
+    "score": 0.94,
+    "first_seen": "2026-11-10T08:32+08:00",
+    "url": "https://openai.com/index/control-room/",
+    "excerpt": "OpenAI's Control Room is a central system that tracks research inference and agentic workloads and can halt model output within ~35 seconds when safety or security monitors raise a flag. Engines check Control Room before fulfilling requests; the system fails closed if Control Room itself is down.",
+    "review_14d": null
+  },
+  {
+    "id": 569,
+    "term": "DeepSeek V4 Pro",
+    "source": "sitemap",
+    "score": 0.94,
+    "first_seen": "2026-11-10T08:32+08:00",
+    "url": "https://fireworks.ai/blog/deepseek-v4-pro-production-validation",
+    "excerpt": "DeepSeek V4 Pro is served on Fireworks after production validation that caught a reasoning-trace bug in day-0 endpoints. Fireworks published validation and SWE-Bench-oriented writeups confirming the flagship V4 Pro SKU for production use.",
+    "review_14d": null
+  },
+  {
+    "id": 570,
+    "term": "Skild Steel",
+    "source": "x",
+    "score": 0.93,
+    "first_seen": "2026-11-10T08:32+08:00",
+    "url": "https://skild.ai/blogs/steel",
+    "excerpt": "Skild AI (with NVIDIA) open-sourced Steel / STEEL (Scalable Throughput-optimized Engine for Embodied Learning) — a GPU rigid-body physics solver for the Newton engine used with Isaac Lab. Reports ~3.8× PhysX geometric-mean throughput and up to ~13× on mixed robot-task batches (~3.9M env steps/s).",
+    "review_14d": null
+  },
+  {
+    "id": 571,
+    "term": "Sugar Glider",
+    "source": "x",
+    "score": 0.93,
+    "first_seen": "2026-11-10T08:32+08:00",
+    "url": "https://www.i14.ai/news/sugar-glider-120b",
+    "excerpt": "i14 (Melbourne) launched Sugar Glider — a constant-memory LLM family (Cerbearus architecture) with O(1) memory/compute per token. Sugar Glider 120B supports ~1M context while using a fixed-size memory (~1/32 parent KV at 1M) and serves far more concurrent long-context requests on the same GPUs.",
+    "review_14d": null
+  },
+  {
+    "id": 572,
+    "term": "RuView",
+    "source": "github",
+    "score": 0.93,
+    "first_seen": "2026-11-10T08:32+08:00",
+    "url": "https://github.com/ruvnet/RuView",
+    "excerpt": "RuView (ruvnet/RuView, ~103k★, cognitum.one) turns commodity WiFi into real-time spatial intelligence — presence, motion and vital-sign style sensing without cameras. Daily GitHub trending; Cognitum product page exists.",
+    "review_14d": null
+  },
+  {
+    "id": 573,
+    "term": "LingBot-Touch",
+    "source": "x",
+    "score": 0.92,
+    "first_seen": "2026-11-10T08:32+08:00",
+    "url": "https://technology.robbyant.com/lingbot-touch",
+    "excerpt": "Robbyant (Ant Group) open-sourced LingBot-Touch, a JEPA-based tactile foundation model with a shared Haptic Transformer pretrained on ~4,983 hours / 1.33B frames of piezoresistive, magnetic and visuotactile data. Tiny/Small variants on Hugging Face; transfers across sensors and dexterous hands.",
+    "review_14d": null
+  },
+  {
+    "id": 574,
+    "term": "A5S Async V1",
+    "source": "x",
+    "score": 0.91,
+    "first_seen": "2026-11-10T08:32+08:00",
+    "url": "https://aircaps.ai/research/a5s-async-v1-the-worlds-most-accurate-speech-recognition-model-for-speaker-attributed-transcription",
+    "excerpt": "AirCaps launched A5S Async V1 for speaker-attributed ASR. It ranks #1 of 15 on VoiceArena Diarization-Bench (~23.89% cpWER), leads five public meeting benchmarks, and offers ~1h audio transcribed in ~9.8s median via API at $0.18/audio-hour.",
+    "review_14d": null
+  },
+  {
+    "id": 575,
+    "term": "Ember-1",
+    "source": "sitemap",
+    "score": 0.91,
+    "first_seen": "2026-11-10T08:32+08:00",
+    "url": "https://fireworks.ai/blog/ember-1",
+    "excerpt": "Ember-1 is a Fireworks Research specialized model that aims for Kimi K3-level quality with ~40% fewer tokens. Available as a research preview on Fireworks Serverless. Distinct from Meta Muse Ember (already a lead).",
+    "review_14d": null
+  },
+  {
+    "id": 576,
+    "term": "Isaac Lab 3.0",
+    "source": "sitemap+x",
+    "score": 0.87,
+    "first_seen": "2026-11-10T08:32+08:00",
+    "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+    "excerpt": "NVIDIA released Isaac Lab 3.0 alongside GR00T 2 at CoRL — the open robot-learning framework now supports agent-driven env setup, PhysX or Newton solvers, perception renderers, and a new RL post-training library for foundation models. With Newton it reports up to ~2.5× training throughput vs Isaac Lab 2.3 + PhysX on a dexterous-manipulation benchmark.",
+    "review_14d": null
+  },
+  {
+    "id": 577,
+    "term": "CMEM Cloud",
+    "source": "sitemap",
+    "score": 0.8,
+    "first_seen": "2026-11-10T08:32+08:00",
+    "url": "https://cmem.ai/blog/introducing-cmem-cloud",
+    "excerpt": "CMEM Cloud is the hosted/cloud product line for Claude Mem (claude-mem / cmem.ai): agent memory that stays linked across tools and sessions. Distinct from the local Claude Mem skill already inserted at 04:32 — this is the cloud offering introduced on cmem.ai.",
+    "review_14d": null
+  },
+  {
     "id": 578,
     "term": "ZONOS3-Mini",
     "source": "x+web+hf",
@@ -5907,6 +5907,46 @@
     "first_seen": "2026-11-11T00:32+08:00",
     "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare",
     "excerpt": "Google Cloud announced Gemini for healthcare on 2026-11-10: a purpose-built industry solution that extends the Gemini agent to health systems and health plans, orchestrating multi-step clinical, operational, and administrative workflows (such as medical-records synthesis and prior-authorization review) across existing systems, with human oversight and a platform built to support HIPAA compliance. It is available in preview in the U.S. Official blog: https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare Announcement: https://x.com/googlecloud/status/2120141472636789026",
+    "review_14d": null
+  },
+  {
+    "id": 592,
+    "term": "Scribe v3 / Scribe v3 Live",
+    "source": "sitemap+x+web",
+    "score": 0.95,
+    "first_seen": "2026-11-11T04:32+08:00",
+    "url": "https://elevenlabs.io/blog/scribe-v3",
+    "excerpt": "ElevenLabs announced Scribe v3 and Scribe v3 Live on 2026-11-10: its most accurate Speech to Text models yet for recorded and realtime audio. Officially, Scribe v3 makes 27% fewer word errors than Scribe v2 across 102 languages and has the most accurate speaker labels of any model the company tested; Scribe v3 Live makes 43% fewer errors than Scribe v2 Realtime, adds realtime diarization for the first time, and uses conversation context for turn detection. Scribe v3 Live is available in ElevenAgents today; both models are in ElevenAPI (scribe_v3 / scribe_v3_live) and are the default in the ElevenLabs app. Official blog: https://elevenlabs.io/blog/scribe-v3 Announcement: https://x.com/ElevenLabs/status/2120217467100541396",
+    "review_14d": null
+  },
+  {
+    "id": 593,
+    "term": "Businesses in ChatGPT",
+    "source": "sitemap+x+web",
+    "score": 0.93,
+    "first_seen": "2026-11-11T04:32+08:00",
+    "url": "https://openai.com/index/introducing-businesses-chatgpt/",
+    "excerpt": "OpenAI announced Businesses in ChatGPT in beta on 2026-11-10. Through Business Hub, eligible businesses can claim their organization, keep details and product feeds current, and see aggregated insights such as mentions and website clicks. Eligible U.S. ecommerce and online-service businesses can also build a Business Agent so customers can start a clearly labeled conversation, separate from ChatGPT's independent answers, to explore offerings. Official blog: https://openai.com/index/introducing-businesses-chatgpt/ Product page: https://openai.com/business/businesses-in-chatgpt/ Announcement: https://x.com/OpenAI/status/2120216592395174382",
+    "review_14d": null
+  },
+  {
+    "id": 594,
+    "term": "PAN 2",
+    "source": "x+web",
+    "score": 0.94,
+    "first_seen": "2026-11-11T04:32+08:00",
+    "url": "https://ifm.ai/pan/",
+    "excerpt": "The Institute of Foundation Models (IFM) at MBZUAI announced PAN 2 on 2026-11-10: an open foundation world model for physical intelligence. Officially, a language model predicts the next word, while PAN 2 predicts the next world — what happens after each action, grounded in time, physics and space — so people and AI agents can simulate “what if?” before acting. The official page describes a generative latent prediction (GLP) design: a multimodal LLM conceptual reasoner works out what happens and when; a 29B latent diffusion perceptual backbone, trained from scratch, fills in how it looks and moves. MBZUAI says the release includes model weights plus training and inference code. Official page: https://ifm.ai/pan/ Announcement: https://x.com/IFM_AI/status/2120199814696828942",
+    "review_14d": null
+  },
+  {
+    "id": 595,
+    "term": "MiniMax H3-Image",
+    "source": "x+web+hf",
+    "score": 0.94,
+    "first_seen": "2026-11-11T04:32+08:00",
+    "url": "https://www.minimax.io/blog/minimax-h3-image",
+    "excerpt": "MiniMax officially released MiniMax H3-Image on 2026-11-10 (research blog dated 2026-11-11): an open-weight image generation model built on H3, supporting text-to-image, reference-based generation, and image editing. The company says it can generate a native 4K (4096×4096, 16MP) image in under 10 seconds, follow prompts closely, and work with up to 16 reference images, and that it is up to 5× as fast as mainstream alternatives at full 4K. It is available via the MiniMax API, MiniMax Code, and Hailuo AI, with open weights on Hugging Face (MiniMaxAI/MiniMax-H3-Image); launch-week pricing includes 50% off 4K-and-above generations. Official blog: https://www.minimax.io/blog/minimax-h3-image Announcement: https://x.com/MiniMax_AI/status/2120179737695826420 Hugging Face: https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
     "review_14d": null
   }
 ]
