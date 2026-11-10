@@ -1,0 +1,13 @@
+---
+slug: "cmem-cloud"
+term: "CMEM Cloud"
+locale: "en"
+date: "2026-11-10T08:32+08:00"
+source: "sitemap"
+score: 0.8
+url: "https://cmem.ai/blog/introducing-cmem-cloud"
+excerpt: "CMEM Cloud is the hosted/cloud product line for Claude Mem (claude-mem / cmem.ai): agent memory that stays linked across tools and sessions. Distinct from the local Claude Mem skill already inserted at 04:32 — this is the cloud offering introduced on cmem.ai."
+intro: "**CMEM Cloud** is the hosted cloud product line from claude-mem / cmem.ai for agent memory that stays linked across tools and sessions. It was introduced on https://cmem.ai/blog/introducing-cmem-cloud as the cloud counterpart to the local Claude Mem skill.\n\nFastToolHub already tracks **Claude Mem** as the local/desktop skill product. **CMEM Cloud** is a separate offering: hosted memory with design-partner / Pro-style tiers, aimed at teams that want cross-tool linked memory without running everything on-device.\n\nHighlights:\n\n- Official cmem.ai blog launch for the cloud line;\n- Cross-tool linked agent memory as a hosted service;\n- Hosted alternative to local Claude Mem;\n- Design-partner / Pro tiers called out in product messaging;\n- Distinct lead from the local Claude Mem skill (do not merge)."
+explain: "## Why it matters\n\nAgent memory that dies at session or tool boundaries forces users to re-explain context. A cloud product that keeps memory linked across tools is the natural upsell from a local skill: same problem space, different ops model (hosted vs desktop).\n\nSeparating CMEM Cloud from Claude Mem in the catalog avoids search collisions and wrong deploy notes—operators who already installed the local skill need a clear path to the hosted SKU when they outgrow on-device memory.\n\n## Limits\n\nCloud memory implies data residency, retention, and third-party processing; read cmem.ai privacy and terms before sending proprietary agent traces. Feature parity with local Claude Mem is not guaranteed. Pricing and design-partner access can change; confirm current tiers on cmem.ai. Do not treat CMEM Cloud as Anthropic’s official “Claude” product—it is a third-party memory layer branded around Claude workflows."
+usage: "1. Read https://cmem.ai/blog/introducing-cmem-cloud and compare with the local Claude Mem skill docs;\n2. Decide local vs cloud based on residency, multi-device sync, and team sharing needs;\n3. Join design-partner / Pro onboarding if you need hosted cross-tool memory;\n4. Keep runbooks explicit: local Claude Mem ≠ CMEM Cloud; migrate only after checking retention and API/integration coverage."
+---

@@ -1,0 +1,13 @@
+---
+slug: "ember-1"
+term: "Ember-1"
+locale: "en"
+date: "2026-11-10T08:32+08:00"
+source: "sitemap"
+score: 0.91
+url: "https://fireworks.ai/blog/ember-1"
+excerpt: "Ember-1 is a Fireworks Research specialized model that aims for Kimi K3-level quality with ~40% fewer tokens. Available as a research preview on Fireworks Serverless. Distinct from Meta Muse Ember (already a lead)."
+intro: "**Ember-1** is a specialized LLM from Fireworks Research, offered as a research preview on Fireworks Serverless. The blog post at https://fireworks.ai/blog/ember-1 positions it for Kimi K3-level quality while using about 40% fewer tokens—trading length for efficiency on the quality-vs-cost frontier.\n\nIt is **not** Meta’s Muse Ember. Ember-1 is Fireworks’ own model name; Muse Ember is a separate Meta / OpenRouter listing already covered elsewhere on FastToolHub.\n\nHighlights:\n\n- Fireworks-owned model proper name; live blog at fireworks.ai/blog/ember-1;\n- Target: roughly Kimi K3 quality at substantially fewer tokens (~40% reduction claimed);\n- Research preview on Fireworks Serverless;\n- Public eval framing vs GPT-6 Astra, Claude Opus, GLM and similar frontier SKUs;\n- Distinct product from Meta Muse Ember—do not merge the two leads."
+explain: "## Why it matters\n\nToken efficiency is often the real bill for agent and coding workloads. If Ember-1 can hold near–Kimi K3 quality while emitting fewer tokens, it sits on a useful cost/latency frontier for Fireworks customers who already route through Serverless.\n\nFireworks publishing a named research model (rather than only hosting third-party weights) signals continued first-party model work alongside their inference platform. Clear naming matters for search and ops: teams comparing “Ember” must distinguish Fireworks Ember-1 from Meta Muse Ember.\n\n## Limits\n\nResearch preview means APIs, pricing, and eval tables can change; re-read the Fireworks blog and console before production bets. “~40% fewer tokens” and Kimi K3-level claims are vendor-reported—verify on your own tasks. Do not assume parameter counts, context window, or multimodal support beyond what Fireworks documents. Never confuse Ember-1 with Muse Ember (`muse-ember` / `meta/muse-ember`)."
+usage: "1. Read https://fireworks.ai/blog/ember-1 and confirm the current Serverless model id and preview limits;\n2. Call Ember-1 through Fireworks Serverless on a sample of your agent/coding prompts;\n3. Compare quality and token counts against your baseline (e.g. Kimi K3 or other frontier SKUs you already use);\n4. Keep routing tables explicit: `ember-1` (Fireworks) ≠ `muse-ember` (Meta); update docs so operators do not mix them."
+---

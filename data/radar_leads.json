@@ -1,5 +1,125 @@
 [
   {
+    "id": 566,
+    "term": "GR00T 2",
+    "source": "sitemap+x",
+    "score": 0.98,
+    "first_seen": "2026-11-10T08:32+08:00",
+    "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+    "excerpt": "NVIDIA introduced GR00T 2 at CoRL 2026 — an open frontier world action model built on NVIDIA Cosmos for humanoid and dexterous manipulation. Trained on diverse robot and human data (including 100,000 hours of egocentric data), it completes many tasks zero-shot, transfers skills across robot bodies, and ranks among top VLA/world-action models on RoboCasa365, RoboLab, RoboDojo and MolmoSpaces.",
+    "review_14d": null
+  },
+  {
+    "id": 567,
+    "term": "OpenClaw",
+    "source": "github",
+    "score": 0.96,
+    "first_seen": "2026-11-10T08:32+08:00",
+    "url": "https://github.com/openclaw/openclaw",
+    "excerpt": "OpenClaw (openclaw/openclaw, ~394k★, openclaw.ai) is an open-source personal AI assistant that runs on your devices and chats — Discord, iMessage, Slack, Telegram, WhatsApp plus native apps — with a large skills/plugins ecosystem.",
+    "review_14d": null
+  },
+  {
+    "id": 568,
+    "term": "Control Room",
+    "source": "sitemap+x",
+    "score": 0.94,
+    "first_seen": "2026-11-10T08:32+08:00",
+    "url": "https://openai.com/index/control-room/",
+    "excerpt": "OpenAI's Control Room is a central system that tracks research inference and agentic workloads and can halt model output within ~35 seconds when safety or security monitors raise a flag. Engines check Control Room before fulfilling requests; the system fails closed if Control Room itself is down.",
+    "review_14d": null
+  },
+  {
+    "id": 569,
+    "term": "DeepSeek V4 Pro",
+    "source": "sitemap",
+    "score": 0.94,
+    "first_seen": "2026-11-10T08:32+08:00",
+    "url": "https://fireworks.ai/blog/deepseek-v4-pro-production-validation",
+    "excerpt": "DeepSeek V4 Pro is served on Fireworks after production validation that caught a reasoning-trace bug in day-0 endpoints. Fireworks published validation and SWE-Bench-oriented writeups confirming the flagship V4 Pro SKU for production use.",
+    "review_14d": null
+  },
+  {
+    "id": 570,
+    "term": "Skild Steel",
+    "source": "x",
+    "score": 0.93,
+    "first_seen": "2026-11-10T08:32+08:00",
+    "url": "https://skild.ai/blogs/steel",
+    "excerpt": "Skild AI (with NVIDIA) open-sourced Steel / STEEL (Scalable Throughput-optimized Engine for Embodied Learning) — a GPU rigid-body physics solver for the Newton engine used with Isaac Lab. Reports ~3.8× PhysX geometric-mean throughput and up to ~13× on mixed robot-task batches (~3.9M env steps/s).",
+    "review_14d": null
+  },
+  {
+    "id": 571,
+    "term": "Sugar Glider",
+    "source": "x",
+    "score": 0.93,
+    "first_seen": "2026-11-10T08:32+08:00",
+    "url": "https://www.i14.ai/news/sugar-glider-120b",
+    "excerpt": "i14 (Melbourne) launched Sugar Glider — a constant-memory LLM family (Cerbearus architecture) with O(1) memory/compute per token. Sugar Glider 120B supports ~1M context while using a fixed-size memory (~1/32 parent KV at 1M) and serves far more concurrent long-context requests on the same GPUs.",
+    "review_14d": null
+  },
+  {
+    "id": 572,
+    "term": "RuView",
+    "source": "github",
+    "score": 0.93,
+    "first_seen": "2026-11-10T08:32+08:00",
+    "url": "https://github.com/ruvnet/RuView",
+    "excerpt": "RuView (ruvnet/RuView, ~103k★, cognitum.one) turns commodity WiFi into real-time spatial intelligence — presence, motion and vital-sign style sensing without cameras. Daily GitHub trending; Cognitum product page exists.",
+    "review_14d": null
+  },
+  {
+    "id": 573,
+    "term": "LingBot-Touch",
+    "source": "x",
+    "score": 0.92,
+    "first_seen": "2026-11-10T08:32+08:00",
+    "url": "https://technology.robbyant.com/lingbot-touch",
+    "excerpt": "Robbyant (Ant Group) open-sourced LingBot-Touch, a JEPA-based tactile foundation model with a shared Haptic Transformer pretrained on ~4,983 hours / 1.33B frames of piezoresistive, magnetic and visuotactile data. Tiny/Small variants on Hugging Face; transfers across sensors and dexterous hands.",
+    "review_14d": null
+  },
+  {
+    "id": 574,
+    "term": "A5S Async V1",
+    "source": "x",
+    "score": 0.91,
+    "first_seen": "2026-11-10T08:32+08:00",
+    "url": "https://aircaps.ai/research/a5s-async-v1-the-worlds-most-accurate-speech-recognition-model-for-speaker-attributed-transcription",
+    "excerpt": "AirCaps launched A5S Async V1 for speaker-attributed ASR. It ranks #1 of 15 on VoiceArena Diarization-Bench (~23.89% cpWER), leads five public meeting benchmarks, and offers ~1h audio transcribed in ~9.8s median via API at $0.18/audio-hour.",
+    "review_14d": null
+  },
+  {
+    "id": 575,
+    "term": "Ember-1",
+    "source": "sitemap",
+    "score": 0.91,
+    "first_seen": "2026-11-10T08:32+08:00",
+    "url": "https://fireworks.ai/blog/ember-1",
+    "excerpt": "Ember-1 is a Fireworks Research specialized model that aims for Kimi K3-level quality with ~40% fewer tokens. Available as a research preview on Fireworks Serverless. Distinct from Meta Muse Ember (already a lead).",
+    "review_14d": null
+  },
+  {
+    "id": 576,
+    "term": "Isaac Lab 3.0",
+    "source": "sitemap+x",
+    "score": 0.87,
+    "first_seen": "2026-11-10T08:32+08:00",
+    "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+    "excerpt": "NVIDIA released Isaac Lab 3.0 alongside GR00T 2 at CoRL — the open robot-learning framework now supports agent-driven env setup, PhysX or Newton solvers, perception renderers, and a new RL post-training library for foundation models. With Newton it reports up to ~2.5× training throughput vs Isaac Lab 2.3 + PhysX on a dexterous-manipulation benchmark.",
+    "review_14d": null
+  },
+  {
+    "id": 577,
+    "term": "CMEM Cloud",
+    "source": "sitemap",
+    "score": 0.8,
+    "first_seen": "2026-11-10T08:32+08:00",
+    "url": "https://cmem.ai/blog/introducing-cmem-cloud",
+    "excerpt": "CMEM Cloud is the hosted/cloud product line for Claude Mem (claude-mem / cmem.ai): agent memory that stays linked across tools and sessions. Distinct from the local Claude Mem skill already inserted at 04:32 — this is the cloud offering introduced on cmem.ai.",
+    "review_14d": null
+  },
+  {
     "id": 1,
     "term": "Microsoft-Decision-1",
     "source": "X",
