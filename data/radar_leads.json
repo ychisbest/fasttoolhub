@@ -5848,5 +5848,15 @@
     "url": "https://arcjet.com/blog/introducing-arcjet-guards-security-inside-the-agent-loop",
     "excerpt": "Arcjet's official blog introduces Arcjet Guards: security checks that run inside the agent loop, a distinct product line from the already-recorded Arcjet Himalia classifiers. Verified last slot and held for this one.",
     "review_14d": null
+  },
+  {
+    "id": 586,
+    "term": "Yvligo",
+    "source": "x+web+hf",
+    "score": 0.92,
+    "first_seen": "2026-11-10T16:32+08:00",
+    "url": "https://loglog.ai/",
+    "excerpt": "log(log(ai)) announced Yvligo on 2026-11-09: an MIT-licensed LoRA adapter on DeepSeek V4.1 Flash (1017) that runs X Ads campaigns as a tool-using agent. On the company's AdVal benchmark (45 held-out briefs) it reports a geometric mean of 1.311× a scripted baseline, ahead of Gemini 4 Argon and Grok 4.7 in that test; a live $200 flight is reported as 383 relevant website visits versus 123 for Grok. Weights: https://huggingface.co/loglogai/yvligo",
+    "review_14d": null
   }
 ]
