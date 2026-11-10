@@ -1,0 +1,13 @@
+---
+slug: "gemini-for-healthcare"
+term: "Gemini for healthcare"
+locale: "zh"
+date: "2026-11-11T00:32+08:00"
+source: "sitemap+x+web"
+score: 0.93
+url: "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare"
+excerpt: "Google Cloud 于 2026-11-10 公布 Gemini for healthcare：一套面向医疗行业的方案，把 Gemini agent 延伸到医疗系统和健康计划，在已有系统上编排多步骤的临床、运营与行政工作流（如病历综合、事先授权审查），并保留人工监督；平台按官方说法可支持 HIPAA 合规。即日起在美国提供预览。官方博客：https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare 宣布帖：https://x.com/googlecloud/status/2120141472636789026"
+intro: "**Gemini for healthcare** 是 Google Cloud 在 2026 年 11 月 10 日公布的行业方案。由首席执行官 Thomas Kurian 署名的[官方博客](https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare)写道，它把上个月在 Gemini at Work 上推出的 Gemini agent 延伸到医疗系统和健康计划，让团队把多步骤的临床、运营与行政工作委托给智能体，在已有系统里完成，并保留人工监督。Google Cloud 以 [@googlecloud](https://x.com/googlecloud/status/2120141472636789026) 发布了宣布帖。\n\n文章描述了四个组成部分：面向医疗工作的技能（由领域专家撰写的可复用指令，覆盖病历综合、就诊前准备、保障与政策审查、给付判定等）；接入已有临床、财务与行政系统的连接器，并继承这些系统原有的身份与基于角色的访问控制；开放的合作伙伴与系统集成生态；以及按官方说法可支持 HIPAA 合规的治理平台，带审计日志、可核对引用和模型选择。官方举例的连接器包括对 Epic EHR 与 Oracle Health EHR 的只读访问（文章称不会回写病历），以及 FHIR、资格与理赔、术语、CMS 保障规则和办公套件等具名接口。\n\nGoogle Cloud 称，该方案自宣布当日起在美国提供预览。同日一篇较短的[公司博客](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/)点名的合作伙伴包括 HCA Healthcare、Highmark Health 与 Northwell Health。Cloud 博客还引述了这些机构以及其他组织（包括 Optum Insight、蓝十字蓝盾马萨诸塞州分部、美国临床肿瘤学会）负责人的话。文章写明，客户的临床数据、提示词和生成结果留在本组织的治理环境中，不会用于训练或微调 Google 的基础模型。\n\n要点：\n\n- 官方 Cloud 博客（2026 年 11 月 10 日）：https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare ；\n- 宣布帖：https://x.com/googlecloud/status/2120141472636789026 ；\n- 同日公司博文：https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/ ；\n- 与面向消费者的 **Gemini** 应用，以及 **Gemini 4 Carbon** 这类前沿模型名不是同一回事。本词指建立在 Gemini agent 上的医疗行业方案。"
+explain: "## 为什么值得关注\n\n医疗工作分散在电子病历、理赔系统和政策文档里，一个声称在既有权限内组装证据、跑多步工作流、并且带治理的具名智能体，是具体的产品押注，而不只是又一张模型卡片。对医疗机构与支付方来说，有用的是官方发布、连接器清单和预览条款——尤其是只读电子病历立场，以及关于支持 HIPAA 合规的表述。\n\n公告写得很清楚：这是在上个月通用 Gemini agent 之上，加上医疗技能和连接器，而不是用这个名字再发一个基础模型。\n\n## 局限\n\n截至发布文，可用性是美国预览；文中未给出定价和正式商用日期。连接器覆盖、合作伙伴引述和工作流例子来自 Google Cloud 及具名客户，我们没有独立核实临床效果。诊疗与给付决定仍需要人工复核。不要把这套行业方案和 Gemini 消费级应用，或 Gemini 4 Carbon 这类模型名混为一谈。"
+usage: "1. 阅读官方文章 https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare 与宣布帖 https://x.com/googlecloud/status/2120141472636789026 ；\n2. 同日公司博文 https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/ 有较短的合作伙伴面向摘要 ；\n3. 把它与 Gemini 消费级应用以及 Gemini 4 系列模型名区分开——本词指医疗行业方案 ；\n4. 按 Google Cloud 的说明，把它当作带人工监督、电子病历只读的美国预览，上线前先在官方 Cloud 页面核对预览资格与条款。"
+---

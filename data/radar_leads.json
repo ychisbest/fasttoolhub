@@ -5888,5 +5888,25 @@
     "url": "https://skyfall.ai/blog/introducing-steve",
     "excerpt": "Skyfall AI announced Steve on 2026-11-09: an autonomous business harness it also calls an \"AI CEO,\" which plans, codes, markets, and supports customers at three acquired software businesses (AlphaSocial, GammaPromo, DeltaLeads), with a human owner still setting goals and approving gated actions. The company also opened a $2 million program to acquire five more startups to run on Steve. Official blog: https://skyfall.ai/blog/introducing-steve ; product page: https://skyfall.ai/steve",
     "review_14d": null
+  },
+  {
+    "id": 590,
+    "term": "Gemini Robotics 2.5",
+    "source": "sitemap+x+web",
+    "score": 0.95,
+    "first_seen": "2026-11-11T00:32+08:00",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+    "excerpt": "Google DeepMind announced Gemini Robotics 2.5 on 2026-11-10: its most capable vision-language-action (VLA) model to date, aimed at helping robots learn a wider range of real-world skills faster. The lab says it evaluated the model on more than 200 tasks, reported 30–100% higher success rates and 20–30% faster completion versus prior baselines, and ran a production-line kitting proof of concept with Apptronik's Apollo 2 humanoid at Mercedes-Benz plants (96% success). Official blog: https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/ Model page: https://deepmind.google/models/gemini-robotics/vla/ Announcement: https://x.com/GoogleDeepMind/status/2120169787896525104",
+    "review_14d": null
+  },
+  {
+    "id": 591,
+    "term": "Gemini for healthcare",
+    "source": "sitemap+x+web",
+    "score": 0.93,
+    "first_seen": "2026-11-11T00:32+08:00",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare",
+    "excerpt": "Google Cloud announced Gemini for healthcare on 2026-11-10: a purpose-built industry solution that extends the Gemini agent to health systems and health plans, orchestrating multi-step clinical, operational, and administrative workflows (such as medical-records synthesis and prior-authorization review) across existing systems, with human oversight and a platform built to support HIPAA compliance. It is available in preview in the U.S. Official blog: https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare Announcement: https://x.com/googlecloud/status/2120141472636789026",
+    "review_14d": null
   }
 ]
