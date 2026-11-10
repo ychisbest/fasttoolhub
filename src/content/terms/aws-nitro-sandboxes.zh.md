@@ -1,0 +1,14 @@
+---
+slug: "aws-nitro-sandboxes"
+term: "AWS Nitro Sandboxes"
+locale: "zh"
+date: "2026-11-10T20:32+08:00"
+source: "x+web"
+score: 0.92
+url: "https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/"
+excerpt: "AWS 于 2026-11-09 公布 AWS Nitro Sandboxes：由 Nitro 管理程序管理的轻量虚拟机，让 Amazon EKS 的 pod、Amazon ECS 的任务或 EC2 上的工作负载（包括其中运行的 AI 智能体）各自获得硬件隔离的虚拟机。在 EKS 或 ECS 上启用据称为一行配置；Pod Identity、VPC CNI、EBS/EFS/S3 与 CloudWatch 仍可使用。在大多数基于 Nitro 的 EC2 实例、所有商业区域提供，不另收费。更新说明：https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/"
+intro: "**AWS Nitro Sandboxes** 是 Amazon Web Services 在 2026 年 11 月 9 日于 [AWS What's New](https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/) 公布的新隔离能力。每一个沙箱都是由 Nitro 管理程序管理的轻量虚拟机。你可以让 Amazon EKS 的 pod、Amazon ECS 的任务，或 EC2 上的轻量虚拟机——包括这些工作负载里的 AI 智能体——运行在基于 AWS Nitro 系统、具备硬件隔离的独立虚拟机中。\n\nAWS 的说法是：不信任、多租户或受监管的工作负载，以及由大模型生成的代码，可以共享同一台 EC2 实例，同时仍获得 Nitro 虚拟机的隔离边界。更新说明称，沙箱跑在你已有的实例上，性能接近原生 EC2，继承 Nitro 管理程序的隔离，并可用密码学证明（attestation），只向已证明完整性的沙箱释放密钥。在 EKS 或 ECS 上，启用被写成一行配置；每个 pod 或任务得到自己的虚拟机，并且 AWS 称工作负载仍是原生的：Pod Identity、VPC CNI、EBS/EFS/S3 存储和 CloudWatch 可照常使用。若要完全自行控制，也可以在 EC2 上用自己的 AMI、编排器和虚拟机监视器直接运行。Amazon Linux 与 Firecracker 被列为原生支持，其他方案提供补丁。\n\n同日的 [Containers 博客](https://aws.amazon.com/blogs/containers/aws-nitro-sandboxes-hardware-enforced-workload-isolation-on-amazon-eks/) 更详细介绍了 EKS 路径。文档见 [EC2 用户指南](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/amazon-ec2-nitro-sandboxes.html)。AWS 称该功能即日起在大多数基于 Nitro 的 EC2 实例、所有商业区域提供，不另收费。\n\n要点：\n\n- 更新说明（2026 年 11 月 9 日）：https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/ ；\n- 面向 EKS 的博客：https://aws.amazon.com/blogs/containers/aws-nitro-sandboxes-hardware-enforced-workload-isolation-on-amazon-eks/ ；\n- EC2 文档：https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/amazon-ec2-nitro-sandboxes.html ；\n- 官方名称是 **AWS Nitro Sandboxes**，建立在已有的 Nitro 系统之上，是新的产品面，而不是 Nitro Enclaves 的更名。"
+explain: "## 为什么值得关注\n\n智能体平台和多租户 SaaS 常常靠「每个负载一台机器」来买隔离，容量浪费很大。Nitro Sandboxes 试图把 AWS 已用于隔离 EC2 实例的硬件边界，下放到 pod 或任务这一级，费用只落在你已有的实例上。若你已经在跑 EKS 或 ECS，又需要执行模型生成的代码或不信任的插件，这是一条带证明、写在官方文档里的 AWS 内部路径，而不必先上第三方沙箱服务。\n\n## 局限\n\n「大多数 Nitro 实例」「所有商业区域」「不另收费」都是 AWS 的表述。集群或实例、IAM 边界和沙箱生命周期仍由你运维；这是隔离原语，不是带暂停/恢复和 SDK 的托管智能体沙箱产品。上线前应在官方用户指南里核对当前实例族支持、Kubernetes 版本，以及 GPU 或快照等限制——这些会随 EKS Auto Mode、标准 EKS、ECS 或裸 EC2 而不同，更新说明并未写全。本页不能代替 AWS 文档或价格计算器。"
+usage: "1. 阅读 https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/ 与 EKS 博客 https://aws.amazon.com/blogs/containers/aws-nitro-sandboxes-hardware-enforced-workload-isolation-on-amazon-eks/ ；\n2. 落地时以 EC2 指南 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/amazon-ec2-nitro-sandboxes.html 以及更新说明中链接的现行 EKS / ECS 用户指南为准；\n3. 在 EKS 或 ECS 上，先对非生产负载按官方方式做一行启用，确认 Pod Identity、网络、存储与日志仍符合文档；\n4. 若需要在释放密钥前做证明，按官方 attestation 步骤操作，不要默认每个沙箱都已证明。"
+---
+

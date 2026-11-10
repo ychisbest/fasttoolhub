@@ -5858,5 +5858,35 @@
     "url": "https://loglog.ai/",
     "excerpt": "log(log(ai)) announced Yvligo on 2026-11-09: an MIT-licensed LoRA adapter on DeepSeek V4.1 Flash (1017) that runs X Ads campaigns as a tool-using agent. On the company's AdVal benchmark (45 held-out briefs) it reports a geometric mean of 1.311× a scripted baseline, ahead of Gemini 4 Argon and Grok 4.7 in that test; a live $200 flight is reported as 383 relevant website visits versus 123 for Grok. Weights: https://huggingface.co/loglogai/yvligo",
     "review_14d": null
+  },
+  {
+    "id": 587,
+    "term": "AlphaProof Code",
+    "source": "sitemap+x+web",
+    "score": 0.95,
+    "first_seen": "2026-11-10T20:32+08:00",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "excerpt": "Google DeepMind announced AlphaProof Code on 2026-11-10: a multi-LLM agentic framework for formal verification at depth. Researchers used it to prove key security properties of the production machine code behind the Signal protocol (PQXDH and Triple Ratchet in the lab's write-up), generating over six million lines of Lean with human review of about 1% of the codebase, in four weeks. Agents were powered by Gemini Carbon. Official blog: https://deepmind.google/blog/introducing-alphaproof-code/ Announcement: https://x.com/pushmeet/status/2120127611137634376",
+    "review_14d": null
+  },
+  {
+    "id": 588,
+    "term": "AWS Nitro Sandboxes",
+    "source": "x+web",
+    "score": 0.92,
+    "first_seen": "2026-11-10T20:32+08:00",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/",
+    "excerpt": "AWS announced AWS Nitro Sandboxes on 2026-11-09: lightweight VMs managed by the Nitro Hypervisor that give an Amazon EKS pod, Amazon ECS task, or EC2 workload — including AI agents running inside them — its own hardware-isolated virtual machine. Enabling the feature on EKS or ECS is described as a one-line change; Pod Identity, VPC CNI, EBS/EFS/S3 and CloudWatch keep working. Available on most Nitro-based EC2 instances in all commercial Regions at no additional charge. What's New: https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/",
+    "review_14d": null
+  },
+  {
+    "id": 589,
+    "term": "Steve",
+    "source": "x+web",
+    "score": 0.9,
+    "first_seen": "2026-11-10T20:32+08:00",
+    "url": "https://skyfall.ai/blog/introducing-steve",
+    "excerpt": "Skyfall AI announced Steve on 2026-11-09: an autonomous business harness it also calls an \"AI CEO,\" which plans, codes, markets, and supports customers at three acquired software businesses (AlphaSocial, GammaPromo, DeltaLeads), with a human owner still setting goals and approving gated actions. The company also opened a $2 million program to acquire five more startups to run on Steve. Official blog: https://skyfall.ai/blog/introducing-steve ; product page: https://skyfall.ai/steve",
+    "review_14d": null
   }
 ]
