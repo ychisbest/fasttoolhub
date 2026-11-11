@@ -1,0 +1,13 @@
+---
+slug: "tabletop"
+term: "Tabletop"
+locale: "zh"
+date: "2026-11-12T00:32+08:00"
+source: "sitemap+x+web"
+score: 0.94
+url: "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
+excerpt: "Google Labs 于 2026-11-11 正式推出 Tabletop：一项面向小组实时协作的 Google Labs 实验。官方博客写到，把链接、文件和想法加入共享空间后，可以用 @tabletop 提示或选择起始模板，生成可定制的互动旅行行程、聚餐投票、费用分摊和锦标赛对阵表；空间就绪后把邀请链接发到群聊，全员可以像在 Google 文档里一样同时使用。Tabletop 正在美国向 18 岁及以上用户以候补名单方式推出，登记地址为 labs.google/tabletop。官方账号 @GoogleLabs 于 2026-11-11T16:02:33Z 宣布。官方博客：https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/ 宣布帖：https://x.com/GoogleLabs/status/2120547738609975788"
+intro: "**Tabletop** 是 Google Labs 于 2026 年 11 月 11 日推出的实时协作实验。官方博客为 [Tabletop: Collaborative group planning with Google Labs](https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/)，作者 Roman Nurik（Google Labs Design & Engineering Lead），日期为 Nov 11, 2026。官方账号 [@GoogleLabs](https://x.com/GoogleLabs/status/2120547738609975788) 于 2026-11-11T16:02:33Z 发帖，标题为“NEW LABS EXPERIMENT / Introducing Tabletop”，称这是“我们最新的实验，用来把你们那句‘我们真该做这件事’变成‘我们正在做这件事’”。候补与产品入口为 [labs.google/tabletop](https://labs.google/tabletop)。\n\n官方博客把使用场景写得很具体：规划家庭旅行、组织业余联赛或张罗聚餐时，小组协作会更容易——如果所有人都能在同一个地方一起补充、搭建和做决定。使用方式是：把链接、文件和想法加入空间，然后提示 @tabletop，或挑选一个起始模板，生成定制的互动旅行行程、聚餐投票、费用分摊器和锦标赛对阵表。空间准备好后，把邀请链接丢进群聊，让所有人同时使用，官方比喻为“像在 Google 文档里一样”。\n\n官方宣布帖补充了更多可生成的共享空间例子：互动公路旅行地图和晚餐决定轮盘、现场 pickleball 对阵表和周边投票板，以及可拖放的座位表。帖子同样指向候补名单，并写明范围是美国、18 岁及以上。博客的结束句是：Tabletop 正在美国向 18 岁及以上用户以候补名单方式推出，登记地址为 labs.google/tabletop。\n\n要点：\n\n- 官方博客：https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/ ；候补/产品入口：https://labs.google/tabletop ；\n- 宣布帖：https://x.com/GoogleLabs/status/2120547738609975788 （2026-11-11T16:02:33Z，随后编辑于 16:08:35Z）；\n- 这是 **Google Labs 的一个具体实验名**，不要和桌面角色扮演（tabletop RPG）、其它同名软件或普通英语单词 “tabletop” 混淆。"
+explain: "## 为什么值得关注\n\n这是 Google Labs 在 2026 年 11 月 11 日用官方博客和官方账号同步发布的正式实验名，不是传闻或功能别称。它把“用提示和模板在共享空间里生成小组可同时使用的行程、投票、分摊和对阵工具”做成可单独指名的 Labs 实验，并在美国以候补名单开放。对跟踪 Google Labs 新实验的人来说，这是一个可以单独建条的新名字。\n\n本页只复述官方公开材料。博客和宣布帖列出的模板与例子是公司演示说明，本页不作独立复现，也不暗示目前已向美国以外地区或未满 18 岁的用户开放。\n\n## 局限\n\n公开材料没有给出定价、完整功能列表、底层模型名称、数据保留政策或候补开放时间表。博客只写明正在美国向 18 岁及以上用户以候补名单推出。实际能生成哪些空间、协作权限如何设置，需以 labs.google/tabletop 和后续官方说明为准。不要把本词条写成已经广泛可用的正式 Google 产品。"
+usage: "1. 阅读官方博客 https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/ ，并对照宣布帖 https://x.com/GoogleLabs/status/2120547738609975788 与候补入口 https://labs.google/tabletop ；\n2. 按官方说明，如在美国且年满 18 岁，可在 https://labs.google/tabletop 登记候补；官方未说明其它地区的开放安排；\n3. 引用“实时协作”“@tabletop 提示”“像 Google 文档一样同时使用”或候补范围时，请写明来源是 2026-11-11 官方博客或宣布帖，并再对一次上游；\n4. 不要把 **Tabletop** 写成桌面角色扮演、其它同名软件或普通英语单词；本页只复述官方博客和宣布帖，对外引用前请再对一次上游。"
+---

@@ -6058,5 +6058,35 @@
     "url": "https://huggingface.co/blog/qvac/botpsy",
     "excerpt": "Tether AI Research (QVAC) published BotPsy on 2026-11-11: a 0.8-billion-parameter on-device agentic language model for function calling and personal-assistant workflows, post-trained from Qwen3.5-0.8B. The official Hugging Face blog reports that BotPsy roughly doubles its base model on key agentic benchmarks (BFCL v4 23.4 to 44.0, ACEBench 30.1 to 58.7, τ-bench 23.2 to 51.5) and leads five of six tool-use benchmarks against models up to 1.2B, including the 2.5× larger Qwen3.5-2B-Think on five of six. Weights are released under Apache 2.0 as Hugging Face safetensors and as GGUF files (bf16, Q8, Q4) for the QVAC SDK and llama.cpp. The authors say it is best suited to low- to medium-difficulty tasks, is primarily trained and tested in English, and is not intended for safety-critical or high-stakes automated decisions involving money, personal information or health.",
     "review_14d": null
+  },
+  {
+    "id": 607,
+    "term": "AlphaGenome 2",
+    "source": "sitemap+x+web",
+    "score": 0.96,
+    "first_seen": "2026-11-12T00:32+08:00",
+    "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+    "excerpt": "Google DeepMind officially announced AlphaGenome 2 on 2026-11-11: a next-generation DNA sequence model that predicts how genetic variants affect specific human cell types and cell states, giving scientists a tool to uncover cellular drivers of disease. The official blog says the model was trained on more than 100 million individual cell profiles across 68 tissues, turning static cell atlases into a predictive engine for human genetics, and that it identifies nearly twice as many variants that change gene expression in cells as the previous state-of-the-art model. It is available today for non-commercial research via the AlphaGenome API, and in private preview for commercial research. Official account @GoogleDeepMind posted at 2026-11-11T15:03:17Z. Official blog: https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/ Official post: https://x.com/GoogleDeepMind/status/2120532824465805749",
+    "review_14d": ""
+  },
+  {
+    "id": 608,
+    "term": "Tabletop",
+    "source": "sitemap+x+web",
+    "score": 0.94,
+    "first_seen": "2026-11-12T00:32+08:00",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+    "excerpt": "Google Labs officially introduced Tabletop on 2026-11-11: a Google Labs experiment built for real-time group collaboration. The official blog says you add links, files and ideas, then prompt @tabletop — or pick a starter template — to generate custom interactive trip itineraries, dinner polls, expense splitters and tournament brackets; once the space is ready, you drop the invite link in a group chat so everyone can use it at the same time, like in a Google Doc. Tabletop is rolling out in the U.S. (18+) via waitlist at labs.google/tabletop. Official account @GoogleLabs posted at 2026-11-11T16:02:33Z. Official blog: https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/ Official post: https://x.com/GoogleLabs/status/2120547738609975788",
+    "review_14d": ""
+  },
+  {
+    "id": 609,
+    "term": "Agent Briefs",
+    "source": "x",
+    "score": 0.88,
+    "first_seen": "2026-11-12T00:32+08:00",
+    "url": "https://x.com/meetgranola/status/2120551910789046391",
+    "excerpt": "The official Granola account @meetgranola introduced Agent Briefs at 2026-11-11T16:19:08Z. The official post says: every night, Granola crunches everything it knows about you and summarizes it for your agents — priorities, habits, relationships, even how you communicate — so all agents have your best, most up-to-date context. Public materials are still largely this announcement post; the company’s updates page had not published a matching blog post at the time this entry was written. Official post: https://x.com/meetgranola/status/2120551910789046391",
+    "review_14d": ""
   }
 ]
