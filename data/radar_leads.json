@@ -5958,5 +5958,55 @@
     "url": "https://lab.einsia.ai/workflowarena/",
     "excerpt": "Einsia AI (Navers Lab, with Tsinghua) announced WorkflowArena on 2026-11-10: a benchmark for autonomous multi-agent workflow orchestration on long-horizon work. Officially, it has 145 tasks across 8 professional domains and 17 task forms (including software engineering, formal mathematics, legal analysis and 3D production). Agents may work alone or use a Workflow tool to launch up to 16 concurrent workers under a shared four-hour wall-clock budget; hidden verifiers score the integrated deliverable, not just isolated pieces. Across 25 model–effort configurations from nine models, Claude Opus 5.5 in Claude Code at max effort recorded the highest Overall Resolved, 36.95%, and no configuration led every domain. A transfer test holding the executor fixed found Opus-authored static workflows scored 45.04 vs 29.69 for GPT-6 Astra–authored ones when Kimi K3.1 Pro was the executor. Official page: https://lab.einsia.ai/workflowarena/ Paper (arXiv:2611.12856, submitted 2026-11-09): https://www.alphaxiv.org/abs/2611.12856 Code: https://github.com/Einsia/WorkflowArena Announcement: https://x.com/EinsiaAI/status/2120162063905681632",
     "review_14d": null
+  },
+  {
+    "id": 597,
+    "term": "Hedra Model Factory",
+    "source": "x+web",
+    "score": 0.94,
+    "first_seen": "2026-11-11T12:32+08:00",
+    "url": "https://hedra.com/",
+    "excerpt": "Hedra, an a16z-backed research company, officially launched Hedra Model Factory on 2026-11-10: an autonomous post-training and inference platform for building models for the real world, aimed at teams in robotics, manufacturing, biology and defense. Officially, the platform combines flexible GPU sandboxes (no long-term GPU commitment), post-training run by Hedra researchers working with autonomous AI agents, co-optimized low-latency deployment (on premises or at a partner data center), and a data flywheel that retrains from production performance and releases only versions that pass the customer's evals. In company-reported research results, a retrained H3 model scored 34.9 on Google DeepMind's Physics-IQ benchmark versus 30.3 for H3 Max, and Hedra said it cut 2K image edits from about 22 seconds to 3.6 seconds on the same four AMD Instinct MI355X GPUs in under a week. Founder and CEO Michael Lingelbach announced it in a GlobeNewswire release dated 2026-11-10 10:00 ET; the official account @hedra_labs posted at 2026-11-10T17:30:47Z. The company says the service is available at hedra.com. Official post: https://x.com/hedra_labs/status/2120207555263905973 Press release: https://www.globenewswire.com/news-release/2026/11/10/3399821/0/en/hedra-launches-model-factory-an-autonomous-post-training-and-inference-platform-for-real-world-ai.html Product: https://hedra.com/",
+    "review_14d": null
+  },
+  {
+    "id": 598,
+    "term": "Bay",
+    "source": "web",
+    "score": 0.91,
+    "first_seen": "2026-11-11T12:32+08:00",
+    "url": "https://bay.io/",
+    "excerpt": "Bay, a Tel Aviv AI security company, emerged from stealth on 2026-11-10 with $50 million in total funding and a platform that vets each action an AI agent proposes before it runs. The official press release says the total includes a $37 million Series A led by Battery Ventures and a previously undisclosed $13 million seed led by YL Ventures and Striker; Micron Ventures, M12 (Microsoft’s venture fund) and Wiz CEO Assaf Rappaport also joined the Series A. Named customers include Micron, Peloton, ClickUp and Wix. Officially, Bay evaluates each proposed action in the context of the full agent session and decides locally in milliseconds whether it can proceed, without requiring a persistent extra endpoint agent, kernel driver or network proxy; the company says installation across devices, cloud and SaaS can take under five minutes. Co-founders are CEO Yuval Zacharia, CPO Aner Morag and VP of R&D Boris Danilovich. Bay says the platform is available to enterprises today at bay.io. Official release: https://www.bay.io/blog/bay-emerges-from-stealth-with-50m-after-fortune-100-companies-used-its-platform-to-triple-autonomous-ai-agent-use-2 Site: https://bay.io/ Techmeme: https://x.com/Techmeme/status/2120161072787366244",
+    "review_14d": null
+  },
+  {
+    "id": 599,
+    "term": "AutoBots",
+    "source": "x+web",
+    "score": 0.9,
+    "first_seen": "2026-11-11T12:32+08:00",
+    "url": "https://vorflux.com/docs/autobots",
+    "excerpt": "Vorflux founder Prasanna Sankar (co-founder of Rippling) launched Vorflux 2.0 on 2026-11-10, with AutoBots as the new product: 24×7 AI coworkers that live in Slack and take a standing role rather than a single task. The official founder post at 2026-11-10T17:22:15Z said teams can hire from a directory of opinionated AutoBots or create a new one with a goal, and can bring existing Codex or Claude Code subscriptions. Official docs say an AutoBot gets its own Slack channel, can start sessions, set its own schedules and report back inside a budget the team controls; 14 templates shipped at launch, each defaulting to $100 a day and $1,000 a week. Sankar also said Vorflux had closed a $15 million seed backed by Y Combinator, Peak XV Partners, Alliance DAO and others. The official @vorfluxai account posted “Vorflux 2.0 is now live.” Founder post: https://x.com/myprasanna/status/2120205408371634624 Official account: https://x.com/vorfluxai/status/2120207179034906827 Docs: https://vorflux.com/docs/autobots Directory: https://vorflux.com/bots Site: https://vorflux.com/",
+    "review_14d": null
+  },
+  {
+    "id": 600,
+    "term": "Nod",
+    "source": "web",
+    "score": 0.88,
+    "first_seen": "2026-11-11T12:32+08:00",
+    "url": "https://nod.n8n.io/",
+    "excerpt": "n8n Labs, a new team inside n8n, released Nod on 2026-11-10 as a research preview: a standalone, open-source personal agent that runs on your computer with its own sandboxed virtual machine and browser. The official blog post by Ophir Prusak says Nod is a separate app from n8n, does not require an n8n account, is licensed under Apache 2.0, and can be downloaded for Mac and Windows (code is on GitHub). Officially, it works in connected apps such as Gmail, Calendar, Drive and Slack, and on websites with no integration; before it sends, pays, posts or deletes anything you did not ask for, a separate check confirms you asked. n8n reports a 93.2% score on LongMemEval, a public long-term memory benchmark; that figure is the company’s. Saved logins and cards are encrypted on the machine, and the model is not shown those secrets. Official blog: https://blog.n8n.io/meet-nod/ Product: https://nod.n8n.io/ Docs: https://nod.n8n.io/docs/ Code: https://github.com/n8n-io/nod",
+    "review_14d": null
+  },
+  {
+    "id": 601,
+    "term": "RoboFinals RL-Env",
+    "source": "x+web",
+    "score": 0.82,
+    "first_seen": "2026-11-11T12:32+08:00",
+    "url": "https://lightwheel.ai/robofinals-rl-env",
+    "excerpt": "Lightwheel officially introduced RoboFinals RL-Env on 2026-11-11: reinforcement-learning simulation environments built from real industrial tasks captured with Lightwheel EgoSuite and from calibrated physics, as the training side of the existing RoboFinals evaluation benchmark. The official page says each task starts as a person doing the real work, recorded first-person by EgoSuite, then is rebuilt as SimReady OpenUSD assets and calibrated against measured physical parameters and industrial-grade CAE, running Newton-native. The first released task is automotive repair; official properties include long-horizon multi-stage work, a dexterous-hand embodiment, and deformable objects such as hoses, cables and gaskets. Agents build each stage and Lightwheel experts review them. A policy trained here is evaluated on the same task definitions RoboFinals uses. Early access is open; the full RoboFinals leaderboard is said to open later this year. Official page: https://lightwheel.ai/robofinals-rl-env Official post: https://x.com/LightwheelAI/status/2120350216679493836",
+    "review_14d": null
   }
 ]
