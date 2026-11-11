@@ -6088,5 +6088,45 @@
     "url": "https://x.com/meetgranola/status/2120551910789046391",
     "excerpt": "The official Granola account @meetgranola introduced Agent Briefs at 2026-11-11T16:19:08Z. The official post says: every night, Granola crunches everything it knows about you and summarizes it for your agents — priorities, habits, relationships, even how you communicate — so all agents have your best, most up-to-date context. Public materials are still largely this announcement post; the company’s updates page had not published a matching blog post at the time this entry was written. Official post: https://x.com/meetgranola/status/2120551910789046391",
     "review_14d": ""
+  },
+  {
+    "id": 610,
+    "term": "Gemini Decision 1 / Gemini Decisions API",
+    "source": "sitemap+x+web",
+    "score": 0.96,
+    "first_seen": "2026-11-12T04:32+08:00",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "excerpt": "Google officially announced the Gemini Decisions API on 2026-11-11, powered by a new model, Gemini Decision 1 (gemini-decision-1). Officially, it scores up to 1,000 yes/no, multiple-choice or rubric questions in a single forward pass across text, images, audio, video and PDFs, returning probabilities and confidence scores in 150–250 ms end-to-end, at $0.10 per 1M input tokens with no output-token charge. It is available through the Gemini API in Google AI Studio. Sundar Pichai posted at 2026-11-11T18:15:20Z. Official blog: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ Official post: https://x.com/sundarpichai/status/2120581155078729728",
+    "review_14d": ""
+  },
+  {
+    "id": 611,
+    "term": "Grok Bot 1.0",
+    "source": "sitemap+x+web",
+    "score": 0.95,
+    "first_seen": "2026-11-12T04:32+08:00",
+    "url": "https://x.ai/news/grok-bot-1-0",
+    "excerpt": "xAI officially introduced Grok Bot 1.0 in the news post “Introducing Grok Bot 1.0”: a major update to its AI teammates. Officially, the three main improvements since the Grok Bot beta are multiplayer teammates that you can share and bring into Slack, Microsoft Teams and video calls; proactive teammates that can spot work and offer to take it on; and more capable teammates that are faster and more reliable at using the browser, writing documents and building presentations. Team Bots are on Team and Enterprise plans; Meetings are on Team, Enterprise and Ultra plans. The official account @bot posted at 2026-11-11T18:22:30Z. Official news: https://x.ai/news/grok-bot-1-0 Official post: https://x.com/bot/status/2120582957782200586",
+    "review_14d": ""
+  },
+  {
+    "id": 612,
+    "term": "AWS Emulator",
+    "source": "x+web",
+    "score": 0.95,
+    "first_seen": "2026-11-12T04:32+08:00",
+    "url": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/",
+    "excerpt": "AWS officially announced AWS Emulator as generally available on 2026-11-11: a local emulator that you run on your machine, which the AWS CLI, AWS SDKs and coding agents speak to over a local HTTPS endpoint using the same AWS APIs they would use in the cloud. Officially, there is no additional service fee, the source is on GitHub, Linux installs are RPM or Debian packages, and macOS and Windows run it in Docker. AWS says agents build and maintain it from AWS API models. Amazon CTO Werner Vogels posted at 2026-11-11T18:02:21Z that it gives a high-fidelity local environment for more than 200 AWS services. Official blog: https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/ Official post: https://x.com/Werner/status/2120577888844148891",
+    "review_14d": ""
+  },
+  {
+    "id": 613,
+    "term": "A2UI 1.0",
+    "source": "x+web",
+    "score": 0.92,
+    "first_seen": "2026-11-12T04:32+08:00",
+    "url": "https://developers.googleblog.com/en/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+    "excerpt": "Google officially released A2UI 1.0 on 2026-11-11 on the Google Developers Blog: the first stable version of its open protocol for generative UI, so agents can answer with interactive screens such as a form or a chart, and each app draws those screens with its own native components. Officially, open-source renderer SDKs are available for the web, Android and iOS, and agent SDKs for Python, TypeScript and Dart; companies such as Atlassian, Alation, Bloomberg and ByteDance are already building with it. The official Google Cloud Tech account posted at 2026-11-11T17:03:51Z. Official blog: https://developers.googleblog.com/en/a2ui-10-build-delightful-fast-reliable-agentic-experiences/ Official post: https://x.com/GoogleCloudTech/status/2120563165557571629 Site: https://a2ui.org",
+    "review_14d": ""
   }
 ]
