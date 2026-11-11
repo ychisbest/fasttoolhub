@@ -6008,5 +6008,35 @@
     "url": "https://lightwheel.ai/robofinals-rl-env",
     "excerpt": "Lightwheel officially introduced RoboFinals RL-Env on 2026-11-11: reinforcement-learning simulation environments built from real industrial tasks captured with Lightwheel EgoSuite and from calibrated physics, as the training side of the existing RoboFinals evaluation benchmark. The official page says each task starts as a person doing the real work, recorded first-person by EgoSuite, then is rebuilt as SimReady OpenUSD assets and calibrated against measured physical parameters and industrial-grade CAE, running Newton-native. The first released task is automotive repair; official properties include long-horizon multi-stage work, a dexterous-hand embodiment, and deformable objects such as hoses, cables and gaskets. Agents build each stage and Lightwheel experts review them. A policy trained here is evaluated on the same task definitions RoboFinals uses. Early access is open; the full RoboFinals leaderboard is said to open later this year. Official page: https://lightwheel.ai/robofinals-rl-env Official post: https://x.com/LightwheelAI/status/2120350216679493836",
     "review_14d": null
+  },
+  {
+    "id": 602,
+    "term": "ERNIE 5.5 Flash Preview",
+    "source": "x+web",
+    "score": 0.96,
+    "first_seen": "2026-11-11T16:32+08:00",
+    "url": "https://ernie.baidu.com/release/ernie-5-5-flash-preview/",
+    "excerpt": "Baidu officially released ERNIE 5.5 Flash Preview on 2026-11-11: the first post-trained model built on the earlier ERNIE 5.5 Flash Base, described officially as an open-weight foundation model designed for efficient inference. The official product page states 280 billion total parameters with 14 billion active per token and a 1-million-token context, and says it is stronger at coding, 3D modeling, knowledge work and content creation while keeping decoding fast; the official account also said generation speed is above 200 tokens per second. Officially, the API is available on Baidu’s Qianfan platform, and the weights will be open-sourced under Apache 2.0 by 25 November; the Preview is an intermediate post-training checkpoint, training is still underway, and the official release will keep improving. Official demos include building a wuxia game in Unreal Engine 5.8 in an 11-hour coding task, 3D and CAD work in Blender and FreeCAD, and research reports and short videos; the official cases credit external assets and tools, and the model is text-only. The company account @Baidu_Inc announced it at 2026-11-11T05:42:38Z, and later posted that it can be tried for free on OpenRouter. Announcement: https://x.com/Baidu_Inc/status/2120391732248637734 Product: https://ernie.baidu.com/release/ernie-5-5-flash-preview/ Chinese page: https://ernie.baidu.com/zh/release/ernie-5-5-flash-preview/",
+    "review_14d": null
+  },
+  {
+    "id": 603,
+    "term": "Aure",
+    "source": "x+web",
+    "score": 0.94,
+    "first_seen": "2026-11-11T16:32+08:00",
+    "url": "https://www.deepl.com/products/voice/aure",
+    "excerpt": "DeepL officially unveiled Aure on 2026-11-11, calling it its most natural and lifelike Voice AI translation model yet, now available in DeepL Voice. The official release and product page say Aure continuously adapts, in real-time translation, to changes in how someone is speaking — tone, emotion, emphasis and pace — so a recognizable personal voice is preserved across languages, not just a fixed timbre. Unlike the earlier approach of deciding the translated voice from a static sample at the start of a conversation, DeepL says Aure analyses both the translated words and the source audio continuously, separates voice identity, prosody and spoken content, and uses reinforcement learning to keep translation quality; it does not permanently store a voice profile or meeting transcripts after a session ends. Aure needs no extra setup and is applied automatically across DeepL Voice for Online Meetings, DeepL Voice for In-Person Conversations and the DeepL API for Voice. It initially supports English, German, Spanish, French, Italian, Japanese, Portuguese and Korean; other languages keep using the previous Voice models. The official account @DeepLcom posted at 2026-11-11T08:15:00Z. Product: https://www.deepl.com/products/voice/aure Press release: https://www.prnewswire.com/news-releases/deepl-unveils-aure-its-most-lifelike-voice-ai-translation-model-yet-302935694.html Official post: https://x.com/DeepLcom/status/2120430075149443191",
+    "review_14d": null
+  },
+  {
+    "id": 604,
+    "term": "Live 3",
+    "source": "x+web",
+    "score": 0.92,
+    "first_seen": "2026-11-11T16:32+08:00",
+    "url": "https://fish.audio/live3/",
+    "excerpt": "Fish Audio officially introduced Live 3 on 2026-11-10 as a full-duplex voice model for real-time voice agents: it keeps listening while it speaks, so a pause, a backchannel, an interruption or a mid-sentence change of mind can shape what happens next. The official blog says conversational timing is learned inside the speech model itself, rather than as a long list of rules and thresholds. Co-founder and CEO Rissa Cao said a model should learn when to respond or stop from real conversations, the way language models learn grammar. Officially, Live 3 can decide to respond in as little as 186 milliseconds, can use short reactions such as “mm-hmm” or “okay” to confirm information without taking the floor, continues when the user is only acknowledging, and yields when the user truly interrupts. Live 3 speaks English today, is available on the Fish Agent Platform and through the API, and can be deployed on-premises for enterprises. The product page also lists promotional pricing that includes Live 3 at $0.035 per minute (50% off the $0.07 list price; confirm the live price on the site). A try-it link is at fish.audio/agents. The official account @FishAudio posted at 2026-11-10T18:02:05Z. Blog: https://fish.audio/blog/introducing-live-3/ Product: https://fish.audio/live3/ Official post: https://x.com/FishAudio/status/2120215430807904395",
+    "review_14d": null
   }
 ]
