@@ -6038,5 +6038,25 @@
     "url": "https://fish.audio/live3/",
     "excerpt": "Fish Audio officially introduced Live 3 on 2026-11-10 as a full-duplex voice model for real-time voice agents: it keeps listening while it speaks, so a pause, a backchannel, an interruption or a mid-sentence change of mind can shape what happens next. The official blog says conversational timing is learned inside the speech model itself, rather than as a long list of rules and thresholds. Co-founder and CEO Rissa Cao said a model should learn when to respond or stop from real conversations, the way language models learn grammar. Officially, Live 3 can decide to respond in as little as 186 milliseconds, can use short reactions such as “mm-hmm” or “okay” to confirm information without taking the floor, continues when the user is only acknowledging, and yields when the user truly interrupts. Live 3 speaks English today, is available on the Fish Agent Platform and through the API, and can be deployed on-premises for enterprises. The product page also lists promotional pricing that includes Live 3 at $0.035 per minute (50% off the $0.07 list price; confirm the live price on the site). A try-it link is at fish.audio/agents. The official account @FishAudio posted at 2026-11-10T18:02:05Z. Blog: https://fish.audio/blog/introducing-live-3/ Product: https://fish.audio/live3/ Official post: https://x.com/FishAudio/status/2120215430807904395",
     "review_14d": null
+  },
+  {
+    "id": 605,
+    "term": "Clarity",
+    "source": "x+web",
+    "score": 0.94,
+    "first_seen": "2026-11-11T20:32+08:00",
+    "url": "https://helsing.ai/clarity",
+    "excerpt": "Helsing officially unveiled Clarity on 2026-11-11 in Berlin: an AI-native agentic intelligence platform for armed forces, developed and built in Europe under European control. The official newsroom post says Clarity processes data a unit can access — sensor feeds, open sources, written reports and systems it already runs — analyses large volumes of data in seconds, detects military assets and positions, presents relevant adversary assets for human review, and prepares the information required by the most suitable weapon. Humans stay in command: an operator reviews the evidence, nominates each asset and authorises every hand-off to a weapon; a target is nominated only when independent sources agree, confidence is high and an operator confirms. Official account @HelsingAI posted at 2026-11-11T10:36:10Z.",
+    "review_14d": null
+  },
+  {
+    "id": 606,
+    "term": "BotPsy",
+    "source": "hf+web",
+    "score": 0.9,
+    "first_seen": "2026-11-11T20:32+08:00",
+    "url": "https://huggingface.co/blog/qvac/botpsy",
+    "excerpt": "Tether AI Research (QVAC) published BotPsy on 2026-11-11: a 0.8-billion-parameter on-device agentic language model for function calling and personal-assistant workflows, post-trained from Qwen3.5-0.8B. The official Hugging Face blog reports that BotPsy roughly doubles its base model on key agentic benchmarks (BFCL v4 23.4 to 44.0, ACEBench 30.1 to 58.7, τ-bench 23.2 to 51.5) and leads five of six tool-use benchmarks against models up to 1.2B, including the 2.5× larger Qwen3.5-2B-Think on five of six. Weights are released under Apache 2.0 as Hugging Face safetensors and as GGUF files (bf16, Q8, Q4) for the QVAC SDK and llama.cpp. The authors say it is best suited to low- to medium-difficulty tasks, is primarily trained and tested in English, and is not intended for safety-critical or high-stakes automated decisions involving money, personal information or health.",
+    "review_14d": null
   }
 ]
