@@ -5948,5 +5948,15 @@
     "url": "https://www.minimax.io/blog/minimax-h3-image",
     "excerpt": "MiniMax officially released MiniMax H3-Image on 2026-11-10 (research blog dated 2026-11-11): an open-weight image generation model built on H3, supporting text-to-image, reference-based generation, and image editing. The company says it can generate a native 4K (4096×4096, 16MP) image in under 10 seconds, follow prompts closely, and work with up to 16 reference images, and that it is up to 5× as fast as mainstream alternatives at full 4K. It is available via the MiniMax API, MiniMax Code, and Hailuo AI, with open weights on Hugging Face (MiniMaxAI/MiniMax-H3-Image); launch-week pricing includes 50% off 4K-and-above generations. Official blog: https://www.minimax.io/blog/minimax-h3-image Announcement: https://x.com/MiniMax_AI/status/2120179737695826420 Hugging Face: https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
     "review_14d": null
+  },
+  {
+    "id": 596,
+    "term": "WorkflowArena",
+    "source": "x+web",
+    "score": 0.86,
+    "first_seen": "2026-11-11T08:32+08:00",
+    "url": "https://lab.einsia.ai/workflowarena/",
+    "excerpt": "Einsia AI (Navers Lab, with Tsinghua) announced WorkflowArena on 2026-11-10: a benchmark for autonomous multi-agent workflow orchestration on long-horizon work. Officially, it has 145 tasks across 8 professional domains and 17 task forms (including software engineering, formal mathematics, legal analysis and 3D production). Agents may work alone or use a Workflow tool to launch up to 16 concurrent workers under a shared four-hour wall-clock budget; hidden verifiers score the integrated deliverable, not just isolated pieces. Across 25 model–effort configurations from nine models, Claude Opus 5.5 in Claude Code at max effort recorded the highest Overall Resolved, 36.95%, and no configuration led every domain. A transfer test holding the executor fixed found Opus-authored static workflows scored 45.04 vs 29.69 for GPT-6 Astra–authored ones when Kimi K3.1 Pro was the executor. Official page: https://lab.einsia.ai/workflowarena/ Paper (arXiv:2611.12856, submitted 2026-11-09): https://www.alphaxiv.org/abs/2611.12856 Code: https://github.com/Einsia/WorkflowArena Announcement: https://x.com/EinsiaAI/status/2120162063905681632",
+    "review_14d": null
   }
 ]
