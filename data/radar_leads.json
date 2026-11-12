@@ -6188,5 +6188,15 @@
     "url": "https://github.com/QwenLM/qwen-code/releases/tag/v1.0.0-preview",
     "excerpt": "阿里官方于 2026 年 11 月 11 日推出 Qwen Code 1.0 Preview：在既有开源仓库 QwenLM/qwen-code 上以预览分支发布，把 Qoder 与 Qwen Code 的 Agent Harness 能力融合开源。GitHub Release v1.0.0-preview（页面显示 11 Nov 03:55）写到：支持代码理解、实现、调试和测试；支持 Qwen / Qoder 账号、多模型供应商和自定义兼容端点；提供无需单独安装 Node.js 的 macOS / Linux / Windows 原生安装包；并支持会话恢复与非交互执行。发布说明强调 Preview 期间接口和行为可能变化。发布页：https://github.com/QwenLM/qwen-code/releases/tag/v1.0.0-preview 文档：https://qwenlm.github.io/qwen-code-docs/zh/users/overview/ IT之家：https://www.ithome.com/1/025/393.htm",
     "review_14d": ""
+  },
+  {
+    "term": "Plurai Simulation",
+    "source": "x+web",
+    "score": 0.93,
+    "first_seen": "2026-11-12T16:32+08:00",
+    "url": "https://www.plurai.ai/blog/introducing-plurai-simulation-self-improving-layer-for-ai-agents",
+    "excerpt": "2026 年 11 月 11 日，Plurai 正式发布「Plurai Simulation」，官方称之为面向 AI agent 的自我改进层（self-improving layer），并向每位 AI 工程师提供免费起步档，同时宣布由 Team8 领投、U&I、Velocity、Mercer 等参与的 1300 万美元种子轮。官方博客写到：它会从企业自身的知识库、工具和策略出发，为 agent 及其所在环境建立数字孪生，再在沙箱里放入覆盖多种意图、人设和长尾边界的模拟用户，用来暴露策略违规、幻觉、错误动作、工具调用失败、任务失败和敏感数据泄漏；对每次失败给出原因并生成修复，再用同一批模拟数据做针对该 agent 的后训练，形成「模拟—修复—后训练」循环。产品页：https://www.plurai.ai/simulation 博客：https://www.plurai.ai/blog/introducing-plurai-simulation-self-improving-layer-for-ai-agents 文档：https://docs.plurai.ai/ 官方账号帖：https://x.com/pluraiAI/status/2120524451184001519 CEO 宣布帖：https://x.com/ilan_kadar/status/2120524450831413518",
+    "review_14d": "",
+    "id": 620
   }
 ]
