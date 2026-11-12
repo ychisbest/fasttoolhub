@@ -6228,5 +6228,25 @@
     "excerpt": "2026 年 11 月 12 日，纽约创业公司 millionways 正式发布大型心理学模型 Thorsten-4。Semafor 于当日 9:00 EST 率先报道：该公司当天推出这一模型，并透露已获得 600 万美元美国融资，投资人包括 Jason Kelce 和 DK Metcalf。官方产品页称 Thorsten-4 是 “The Large Psychology Model for Enterprise AI”，用于分析企业沟通中的动机、决策风格、情绪调节和沟通动态，并可通过 millionways Platform、API、MCP 或自托管部署。联合创始人 Max Weidemann 对 Semafor 表示，它应是决策支持工具，而不是最终决策者。产品页：https://millionways.ai/thorsten Semafor 报道：https://www.semafor.com/article/11/11/2026/new-ai-model-from-startup-millionways-wants-to-read-between-the-lines 官方账号帖：https://x.com/millionwaysai/status/2120908242843054394",
     "review_14d": "",
     "id": 623
+  },
+  {
+    "term": "Gemini 4 Hydrogen",
+    "source": "sitemap+x+web",
+    "score": 0.96,
+    "first_seen": "2026-11-13T04:32+08:00",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+    "excerpt": "2026 年 11 月 12 日，Google 正式发布 Gemini 4 Hydrogen。Google DeepMind SVP 兼 Google 首席 AI 架构师 Koray Kavukcuoglu 在官方博客中写到，今天推出 Gemini 4 Hydrogen，面向日常编程与智能体工作流，把 Gemini 4 的能力带到所有人。官方称其默认 high 思维档在 Artificial Analysis Intelligence Index 上以 51 分超过 Argon 的 50 分，最高 xhigh 档达到 54 分；相对 Gemini 3.8 Flash，默认 high 档完成任务快 2.5 倍，Terminal-Bench 4.1 从 18.2% 提升到 57%。定价为整段 100 万 token 上下文统一每百万输入 1.50 美元、输出 7.50 美元。官方账号 @GoogleDeepMind 于 18:02 UTC 发帖宣布。官方博客：https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/ 官方帖：https://x.com/GoogleDeepMind/status/2120940338869055788",
+    "review_14d": "",
+    "id": 624
+  },
+  {
+    "term": "Chandra 2.7",
+    "source": "sitemap+web",
+    "score": 0.88,
+    "first_seen": "2026-11-13T04:32+08:00",
+    "url": "https://www.datalab.to/blog/chandra-2-7",
+    "excerpt": "2026 年 11 月 12 日，Datalab 在官方博客宣布 Chandra 2.7 已在 Datalab API 上线。Hunter Heidenreich 写道，balanced 与 accurate 模式已运行 Chandra 2.7（fast 模式仍使用 Surya 2.6），速度和价格不变，用户无需改调用方式。官方称在 OmniParseBench 表格测试上，balanced 从 91.6 升至 94.2，accurate 从 94.2 升至 95.3；accurate 模式非英语页面通过率从 86.7% 升至 87.9%。官方博客：https://www.datalab.to/blog/chandra-2-7",
+    "review_14d": "",
+    "id": 625
   }
 ]
