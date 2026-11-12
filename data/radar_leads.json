@@ -6128,5 +6128,15 @@
     "url": "https://developers.googleblog.com/en/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
     "excerpt": "Google officially released A2UI 1.0 on 2026-11-11 on the Google Developers Blog: the first stable version of its open protocol for generative UI, so agents can answer with interactive screens such as a form or a chart, and each app draws those screens with its own native components. Officially, open-source renderer SDKs are available for the web, Android and iOS, and agent SDKs for Python, TypeScript and Dart; companies such as Atlassian, Alation, Bloomberg and ByteDance are already building with it. The official Google Cloud Tech account posted at 2026-11-11T17:03:51Z. Official blog: https://developers.googleblog.com/en/a2ui-10-build-delightful-fast-reliable-agentic-experiences/ Official post: https://x.com/GoogleCloudTech/status/2120563165557571629 Site: https://a2ui.org",
     "review_14d": ""
+  },
+  {
+    "id": 614,
+    "term": "ARC / Rayline ARC",
+    "source": "x+web",
+    "score": 0.93,
+    "first_seen": "2026-11-12T08:32+08:00",
+    "url": "https://rayline.ai/arc",
+    "excerpt": "Rayline founder David Valerio Gilmore announced ARC (ARC by Rayline; officially also called the Adaptive Routing Controller) at 2026-11-11T18:26:29Z: a routing decision model that picks a model and a reasoning level for each step of an agent workflow. Officially, in the hybrid edge-cloud setup in its technical report, it retains about 97.5% of Claude Opus 5.5 quality at 92.9% lower cost; the 800-million-parameter router is open-weight under Apache 2.0, based on Qwen3.5-0.8B. Product: https://rayline.ai/arc Technical report: https://rayline.ai/research/report Announcement: https://x.com/davidvgilmore/status/2120583960447029699 Weights: https://huggingface.co/rayline-ai/ARC-1.0",
+    "review_14d": ""
   }
 ]
