@@ -2767,7 +2767,7 @@
     "first_seen": "2026-10-27T12:32+08:00",
     "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
     "excerpt": "Ex-GitHub CEO Thomas Dohmke (@ashtom) shipped Entire on 2026-10-26T17:00Z: AI-native Git forge for agent-human collaboration. Replaces PRs with Trails (agent-scored evals on every push: security/slop/human-review), distributed Git hosting claimed up to 89x faster pushes than GitHub (418 vs 4.7 pps), Continuous Memory (entire-graph + entire-brain), CI with Buildkite/Depot. Live in US/EU/AU/IN. Official post ~476 likes / 93k impressions / 296 bookmarks. Missed by 08:32 scan (launch was 28 min into that window).",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-11|generic word, Trends not attributable"
   },
   {
     "id": 278,
@@ -2777,7 +2777,7 @@
     "first_seen": "2026-10-27T12:32+08:00",
     "url": "https://www.cadence.com/en_US/home/ai/agentic-ai-super-agents.html",
     "excerpt": "Cadence (Nasdaq: CDNS) announced Maestro AI Model Portfolio on 2026-10-26 09:00 EDT: domain-specialized models (post-trained LLMs, decision models, self-improving skills) powering Cadence AI Super Agents (AuraStack/ChipStack/InnoStack/ViraStack) for chip/system design. Claims up to 30% higher quality and 5x token efficiency vs general-purpose FMs; NVIDIA Nemotron/OpenShell collab; early access Q4 2026 on-prem or cloud. Missed by 00:32 scan (PR ~28 min into that window); continued X coverage in this window.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-11|q='Cadence Maestro' pre7=0.0 last7=14.4 peak=100"
   },
   {
     "id": 279,
@@ -2787,7 +2787,7 @@
     "first_seen": "2026-10-27T16:32+08:00",
     "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
     "excerpt": "Baidu Research open-sourced Unlimited OCR 2 (文心无限 OCR 2) on 2026-10-27: ~3B MIT OCR model with Sparse Reference Sliding Window Attention (SR-SWA) for unbounded-horizon document parsing; SOTA on MPDocBench 84.6 / MarathonDocBench; HF baidu/Unlimited-OCR-2 + GitHub baidu/Unlimited-OCR; official @BaiduResearch post ~1k impressions.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-11|q='Unlimited OCR 2' pre7=0.0 last7=12.7 peak=100"
   },
   {
     "id": 280,
@@ -2797,7 +2797,7 @@
     "first_seen": "2026-10-27T16:32+08:00",
     "url": "https://runway.com/product/app-studio",
     "excerpt": "Runway launched App Studio on 2026-10-26 (missed by prior 00:32/08:32/12:32 scans): no-code builder that turns plain-language descriptions into shareable creative apps using Runway image/video/audio models + Brand Kits; included in paid plans; continued heavy in-window coverage on X.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-11|q='Runway App Studio' pre7=0.0 last7=9.4 peak=100"
   },
   {
     "id": 281,
@@ -2807,7 +2807,7 @@
     "first_seen": "2026-10-27T20:32+08:00",
     "url": "https://hob.chat/",
     "excerpt": "Frigade open-sourced Hob (MIT): local desktop AI for Mac/Windows/Linux that runs open-weight models (Gemma 4 / gpt-oss via llama.cpp) on-device to read/edit files, fill PDFs, run sandboxed code, and draw charts. Show HN 2026-10-26~27 reached ~149 points / 34 comments; site hob.chat; GitHub FrigadeHQ/hob (~207★). Previously dropped at 08:32 for low traction; in-window Show HN + multi-language X coverage now corroborate launch.",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-11|generic word, Trends not attributable"
   },
   {
     "id": 282,
@@ -2817,7 +2817,7 @@
     "first_seen": "2026-10-28T00:32+08:00",
     "url": "https://deepmind.google/models/genie/",
     "excerpt": "Google DeepMind launched Genie 4 (2026-10-27): research-preview interactive world model with native audio/dialogue, real-time natural-language steering, Gemini-family grounding; Project Genie waitlist / AI Ultra coming soon. Official Google/@GoogleDeepMind posts + deepmind.google/models/genie + Verge/Ars coverage; worldwide+US X trend.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-11|q='Genie 4' pre7=8.6 last7=5.7 peak=100"
   },
   {
     "id": 283,
@@ -2827,7 +2827,7 @@
     "first_seen": "2026-10-28T00:32+08:00",
     "url": "https://spaitial.ai/blog",
     "excerpt": "SpAItial launched Echo-3 + SpAItial Capture app (2026-10-27): phone captures → photorealistic metric-scale 3D worlds (rooms to multi-floor/outdoor). Official @SpAItial_AI post (~35k impressions / 450+ likes) + spaitial.ai blog; available today.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-11|q='Echo-3' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 284,
@@ -2837,7 +2837,7 @@
     "first_seen": "2026-10-28T00:32+08:00",
     "url": "https://www.ithome.com/1/018/252.htm",
     "excerpt": "Ant Group released 灵光 (LingGuang) 2.0 (2026-10-27): personal AI assistant upgraded from one-shot chat/tasks to proactive long-horizon life/work management (cross-session memory, cloud host continues after exit). Integrates Alipay/DingTalk/Feishu/email/Mi Home + MCP/CLI; APASS auth. IT之家 + BusinessWire + CN X coverage.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-11|no Trends data for 'LingGuang 2.0'"
   },
   {
     "id": 285,
@@ -2847,7 +2847,7 @@
     "first_seen": "2026-10-28T04:32+08:00",
     "url": "https://www.liquid.ai/blog/lfm3",
     "excerpt": "Liquid AI released LFM3 on 2026-10-27 (~01:04 BJT Oct 28 per CN coverage): new generation of open-weight Liquid Foundation Models — six ~2B models (text, vision, audio, omni + two decision models) branched from one LFM3-1.7B-Base tri-hybrid backbone, 22T pretraining tokens, 256K text context, ~1 GB at 4-bit, fine-tunable on a single GPU. Official liquid.ai/blog/lfm3 + HF blog + Unite.AI; X news trend; @omarsar0/@xenovacom posts (130+ likes each).",
-    "review_14d": null
+    "review_14d": "hit|2026-11-11|q='LFM3' pre7=3.1 last7=19.0 peak=100"
   },
   {
     "id": 286,
@@ -2857,7 +2857,7 @@
     "first_seen": "2026-10-28T04:32+08:00",
     "url": "https://www.giotto.ai/",
     "excerpt": "Swiss lab Giotto (Giotto.ai SA, Lausanne) launched the Giotto model family on 2026-10-27: flagship reasoning model Giotto Alto (free for everyone, hosted on European cloud, runs on 8×B300; iOS/Android app + free anonymous chat) and Giotto Solo (single-GPU model). Self-reported: AIME 2026 100%, GPQA-Diamond 91.9%, HLE 52%. Official @giotto_ai launch post (~790 likes / 134k impressions) + EQS press release; X news trend; CEO said it builds on Kimi weights with proprietary retraining.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-11|q='Giotto Alto' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 287,
@@ -2867,7 +2867,7 @@
     "first_seen": "2026-10-28T04:32+08:00",
     "url": "https://www.usebygga.com/",
     "excerpt": "Hassan El Mghari (@nutlope, Together AI) launched Bygga on 2026-10-27 (19:11Z): free & open-source app that walks you through assembling IKEA furniture step by step with interactive 3D and voice instructions; type the product name from the box; covers every buildable IKEA product; can scan paper manuals for non-IKEA items. Launch post ~360 likes / 14k impressions in-window; live at usebygga.com; repo Nutlope/bygga.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-11|q='Bygga' pre7=72.3 last7=68.9 peak=100"
   },
   {
     "id": 288,
@@ -2877,7 +2877,7 @@
     "first_seen": "2026-10-28T04:32+08:00",
     "url": "https://www.neywalabs.ai/products/nativ",
     "excerpt": "Prince Canuma (creator of mlx-vlm / mlx-audio) unveiled Neywa Labs on 2026-10-27 with flagship free, open-source macOS app Nativ: runs open models locally on Apple Silicon (built on mlx-vlm), chat/vision/audio, model library, performance analytics, and OpenAI-/Anthropic-compatible local API for Codex, Claude Code, Pi, Hermes, OpenCode. X news trend 'Neywa Labs Launches Free Local AI App for Macs'; GitHub Blaizzy/nativ ~1.5k stars; brew install --cask nativ.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-11|q='Nativ' pre7=70.9 last7=66.1 peak=100"
   },
   {
     "id": 289,
@@ -2887,7 +2887,7 @@
     "first_seen": "2026-10-28T04:32+08:00",
     "url": "https://machenta.com/",
     "excerpt": "Imperial College London spinout Machenta emerged from stealth on 2026-10-27 with a $40M seed (co-led by Creandum and Union Square Ventures; largest UK robotics seed per Imperial). Its 'Instant Robot Learning' foundation model, pretrained entirely in simulation, lets robots learn a new physical task from a single demonstration with no further training, across multiple robot platforms. Founders Edward Johns & Vitalis Vosylius; 11-person team. Imperial News, Business Insider, FinSMEs; X news trend.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-11|q='Machenta' pre7=14.3 last7=9.3 peak=100"
   },
   {
     "id": 290,
@@ -2897,7 +2897,7 @@
     "first_seen": "2026-10-28T08:32+08:00",
     "url": "https://huggingface.co/openbmb/MiniCPM-OCR-1.0",
     "excerpt": "OpenBMB (面壁智能) open-sourced the MiniCPM-OCR suite on 2026-10-27/28: MiniCPM-OCR 1.0 (1.3B, first OCR-specific model of the MiniCPM-V/o family, built on MiniCPM-V 4.6) scores 93.68 on Real5-OmniDocBench and 54.7 on OCRBench v2, ~1.49x PaddleOCR-VL-1.6 and 3.62x MinerU2.5 Pro throughput with DSpark decoding; plus MiniCPM-OCR Jev, a 2B model that scores OCR output region-by-region (93.6 on JevOCRBench). Apache-2.0; vLLM/SGLang/llama.cpp/Ollama day-0, pip SDK minicpm-ocr. X news trend; Intel OpenVINO day-0 post; GitHub OpenBMB/MiniCPM-OCR.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-11|q='MiniCPM-OCR' pre7=0.0 last7=15.9 peak=100"
   },
   {
     "id": 291,
@@ -2907,7 +2907,7 @@
     "first_seen": "2026-10-28T08:32+08:00",
     "url": "https://huggingface.co/nvidia/Metatron-v1",
     "excerpt": "NVIDIA quietly published nvidia/Metatron-v1 on Hugging Face on 2026-10-27 (~21:43Z): ONNX exports of a learned Unitree G1 humanoid policy unifying walking, scene interaction and fall recovery (epoch-6410 'SAMP-capable unified student'); one single-robot demo graph and a six-robot batched 'Racer' graph, plus nvidia/metatron-browser exports running in-browser via ONNX Runtime Web + MuJoCo WASM. NVIDIA open model license; no press release; HuggingPapers post 'NVIDIA just released the Metatron G1 humanoid walking and recovery policy'.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-11|no Trends data for 'Metatron-v1'"
   },
   {
     "id": 292,
@@ -2917,7 +2917,7 @@
     "first_seen": "2026-10-28T12:32+08:00",
     "url": "https://github.com/tribgames/mixdog",
     "excerpt": "Mixdog (by Korean studio tribgames / 트리비게임즈) is a free Apache-2.0 desktop coding agent where a lead model plans and cheaper models search, edit and review. On all 89 Terminal-Bench 2.1 tasks x5 trials with GPT-5.6 Sol xhigh it used 156.5M tokens vs 421.4M for Codex CLI (-63%) at 86.5% vs 86.1% success. v1.4.0/v1.4.1 shipped 2026-10-27; featured in Chinese X open-source roundups on 2026-10-28; ~205 GitHub stars.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-12|no Trends data for 'Mixdog'"
   },
   {
     "id": 293,
@@ -2927,7 +2927,7 @@
     "first_seen": "2026-10-28T12:32+08:00",
     "url": "https://www.usenotra.com/",
     "excerpt": "Notra (usenotra.com, maker Dominik Koch) relaunched as a GEO (Generative Engine Optimization) tool on Product Hunt on 2026-10-27, finishing #6 Product of the Day with 139 upvotes: it asks ChatGPT, Claude, Gemini, Perplexity and Grok the questions your buyers ask, shows whether your brand appears, who appears instead and how to fix it; includes AI Crawl Analytics (free up to 1M events/month). Featured in Chinese X posts on 2026-10-28.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-12|q='Notra' pre7=24.1 last7=43.0 peak=100"
   },
   {
     "id": 294,
@@ -2937,7 +2937,7 @@
     "first_seen": "2026-10-28T16:32+08:00",
     "url": "https://diffuspace.ai/blog/clover-35b/",
     "excerpt": "DiffuSpace (扩散智能) on 2026-10-28 open-sourced Clover-35B-A3B-Preview, a 35B MoE (~3B active) diffusion language model (dLLM) with 128K context, Apache-2.0 weights on HF/ModelScope, reported 680 tok/s on one GB300 BF16 and SWE-bench Verified 73.6.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-12|q='Clover-35B' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 295,
@@ -2947,7 +2947,7 @@
     "first_seen": "2026-10-28T20:32+08:00",
     "url": "https://juanluis.me/boltbar",
     "excerpt": "Native macOS AI chat bar (Swift/AppKit, MIT) launched on Product Hunt 2026-10-28: ⌥Space for GPT/Claude chat; agent mode hands Claude Code/Codex a project with Look/Ask/Edit/Full permissions. brew cask + signed DMG; ~58 PH upvotes (#31).",
-    "review_14d": null
+    "review_14d": "hit|2026-11-12|q='Boltbar' pre7=0.0 last7=14.3 peak=100"
   },
   {
     "id": 296,
@@ -2957,7 +2957,7 @@
     "first_seen": "2026-10-28T20:32+08:00",
     "url": "https://blogs.opera.com/news/2026/10/webai-local-ai-for-the-web-now-in-opera/",
     "excerpt": "Opera's WebAI early preview (announced 2026-10-27, PH/press chatter 10-28) lets sites/extensions call local on-device models via Prompt/Decision/Semantic Embeddings APIs in Opera One/GX/Neon; proposed web standard with Google/Microsoft backing; TechCrunch coverage.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-12|q='WebAI' pre7=0.0 last7=60.6 peak=100"
   },
   {
     "id": 297,
@@ -2967,7 +2967,7 @@
     "first_seen": "2026-10-28T20:32+08:00",
     "url": "https://www.usefini.com/blog/introducing-agent-handshake",
     "excerpt": "Fini's Agent Handshake (blog 2026-10-27, Product Hunt 10-28) serves customers' personal AI agents (Muse/Call for Me/Dots): same intent→same decision, reply guardrails, stop-after-answer; open to any support-agent team.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-12|q='Agent Handshake' pre7=0.0 last7=40.9 peak=100"
   },
   {
     "id": 298,
@@ -2977,7 +2977,7 @@
     "first_seen": "2026-10-29T00:32+08:00",
     "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
     "excerpt": "NVIDIA open-weight offline speech model (34B total / ~4.3B active hybrid Mamba-2–Transformer MoE): transcription in 40 languages, speaker attribution, translation, timestamps, audio QA; released 2026-10-28 on HF/NGC/build.nvidia.com; Artificial Analysis: ties #1 open-weights STT at 2.8% AA-WER.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-12|q='Nemotron 3.5 Transcribe' pre7=7.6 last7=6.3 peak=100"
   },
   {
     "id": 299,
@@ -2987,7 +2987,7 @@
     "first_seen": "2026-10-29T00:32+08:00",
     "url": "https://huggingface.co/sensenova/SenseNova-6.8-Code2Video",
     "excerpt": "SenseTime's open-source (Apache-2.0) 27B code-driven video creation model fine-tuned from Qwen3.8-27B with 512K context; generates and renders video by writing executable code, run as an agent in Claude Code with the code-video skill. Official 'Introducing' post 2026-10-28.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-12|no Trends data for 'SenseNova 6.8 Code2Video'"
   },
   {
     "id": 300,
@@ -2997,7 +2997,7 @@
     "first_seen": "2026-10-29T00:32+08:00",
     "url": "https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer",
     "excerpt": "Divyansh Agrawal's experimental Qwen3.5-4B with a 32-bit RISC-V CPU compiled into 11 extra transformer layers, using Gated DeltaNet state as RAM; runs C/MicroPython inside forward passes, passes riscv-tests; arithmetic benchmarks 97.5–100%. Became an X trending story 2026-10-28.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-12|q='Qwenputer' pre7=0.0 last7=16.4 peak=100"
   },
   {
     "id": 301,
@@ -3007,7 +3007,7 @@
     "first_seen": "2026-10-29T04:32+08:00",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
     "excerpt": "Google DeepMind's next frontier model, announced 2026-10-28 two weeks after Gemini 4 Argon: #1 on Artificial Analysis Intelligence Index v5.0 (59), SEC-bench Pro 88.2%, ExploitGym 54.8%, CWE-bench 71.0%; first rolled out to selected cyber defenders via the Fairwind Program; intro price $2/$10 per 1M input/output tokens.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-12|q='Gemini 4 Carbon' pre7=5.9 last7=19.7 peak=100"
   },
   {
     "id": 302,
@@ -3017,7 +3017,7 @@
     "first_seen": "2026-10-29T04:32+08:00",
     "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/",
     "excerpt": "GitHub Copilot Fusion is generally available (GitHub Universe, 2026-10-28): instead of picking a model, you choose Copilot Fusion and an effort level (Standard / High / Max), and Copilot routes and orchestrates one or more models per task. It combines Project HydraFusion's multi-model orchestration with auto model selection and replaces the old Auto option.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-12|q='Copilot Fusion' pre7=5.0 last7=20.9 peak=100"
   },
   {
     "id": 303,
@@ -3027,7 +3027,7 @@
     "first_seen": "2026-10-29T04:32+08:00",
     "url": "https://blogs.cisco.com/ai/project-quarry-agent-security-detections",
     "excerpt": "Cisco open-sourced Project Quarry on 2026-10-28: a neurosymbolic rule language and evaluation engine for detecting harmful multi-step AI-agent behavior across LLM conversations, tool calls, MCP interactions and multimodal inputs. Cisco pitches it as a \"shared language for agent defense\", like Snort for network traffic or YARA for malware. Apache-2.0.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-12|q='Project Quarry' pre7=14.3 last7=8.0 peak=100"
   },
   {
     "id": 304,
@@ -3037,7 +3037,7 @@
     "first_seen": "2026-10-29T08:32+08:00",
     "url": "https://x.com/OpenAI/status/2114780711664398349",
     "excerpt": "OpenAI launched GPT-6.1 Terra on 2026-10-26: \"delivering fast and capable computer use at a lower price.\" It matches GPT-6 Astra on Agents' Last Exam at one-tenth the price per token, finishes tasks over 3x faster than Astra and GPT-6.1 Sol, and costs 50% less than GPT-5.6 Terra in the API (gpt-6.1-terra).",
-    "review_14d": null
+    "review_14d": "miss|2026-11-12|q='GPT-6.1 Terra' pre7=24.9 last7=8.0 peak=100"
   },
   {
     "id": 305,
@@ -3047,7 +3047,7 @@
     "first_seen": "2026-10-29T08:32+08:00",
     "url": "https://x.com/lilyjclifford/status/2115521147890520503",
     "excerpt": "\"introducing prism, the world's first speech-to-speech model you can't tell from a human in conversation\": Rime (CEO Lily Clifford) launched Prism on 2026-10-28, with ~300ms response time, an inspectable text layer for guardrails before it speaks, and fine-tuning via reinforcement learning. τ-Voice score 56.6.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-12|q='Rime Prism' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 306,
@@ -3057,7 +3057,7 @@
     "first_seen": "2026-10-29T08:32+08:00",
     "url": "https://particle.ai/blog/introducing-particle-1",
     "excerpt": "Suhail announced his new company Particle on 2026-10-28 with particle-1, \"our first step in a series of models focused on developers\": post-trained on DeepSeek V4.1 Flash, it keeps performance at parity while using ~45% fewer tokens. Live on Particle's API, OpenRouter and Vercel AI Gateway.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-12|q='Particle-1' pre7=0.0 last7=4.6 peak=100"
   },
   {
     "id": 307,
@@ -3067,7 +3067,7 @@
     "first_seen": "2026-10-29T08:32+08:00",
     "url": "https://x.com/ArbiumInc/status/2115473711646322776",
     "excerpt": "\"Today we're releasing HelixCove, a dataset of work unfolding across an organization.\" Arbium (2026-10-28): three weeks of work at a fictional 12-person biotech company, 1,912 work sessions and 59,768 actions across Word, Outlook, Teams, Excel, SharePoint and more, plus 430 questions to test AI systems.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-12|no Trends data for 'HelixCove'"
   },
   {
     "id": 308,
@@ -3077,7 +3077,7 @@
     "first_seen": "2026-10-29T08:32+08:00",
     "url": "https://x.com/ad1tyaranjan/status/2115556461539627321",
     "excerpt": "\"We're launching GrayPass (@ycombinator F26). We help your software tell when an AI agent is acting on someone's behalf. Before sensitive actions, we check who's in control, then allow, challenge, hold, or deny. 900K+ sessions processed.\" (2026-10-28)",
-    "review_14d": null
+    "review_14d": "miss|2026-11-12|q='GrayPass' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 309,
@@ -6047,7 +6047,7 @@
     "first_seen": "2026-11-11T20:32+08:00",
     "url": "https://helsing.ai/clarity",
     "excerpt": "Helsing officially unveiled Clarity on 2026-11-11 in Berlin: an AI-native agentic intelligence platform for armed forces, developed and built in Europe under European control. The official newsroom post says Clarity processes data a unit can access — sensor feeds, open sources, written reports and systems it already runs — analyses large volumes of data in seconds, detects military assets and positions, presents relevant adversary assets for human review, and prepares the information required by the most suitable weapon. Humans stay in command: an operator reviews the evidence, nominates each asset and authorises every hand-off to a weapon; a target is nominated only when independent sources agree, confidence is high and an operator confirms. Official account @HelsingAI posted at 2026-11-11T10:36:10Z.",
-    "review_14d": null
+    "review_14d": ""
   },
   {
     "id": 606,
@@ -6057,7 +6057,7 @@
     "first_seen": "2026-11-11T20:32+08:00",
     "url": "https://huggingface.co/blog/qvac/botpsy",
     "excerpt": "Tether AI Research (QVAC) published BotPsy on 2026-11-11: a 0.8-billion-parameter on-device agentic language model for function calling and personal-assistant workflows, post-trained from Qwen3.5-0.8B. The official Hugging Face blog reports that BotPsy roughly doubles its base model on key agentic benchmarks (BFCL v4 23.4 to 44.0, ACEBench 30.1 to 58.7, τ-bench 23.2 to 51.5) and leads five of six tool-use benchmarks against models up to 1.2B, including the 2.5× larger Qwen3.5-2B-Think on five of six. Weights are released under Apache 2.0 as Hugging Face safetensors and as GGUF files (bf16, Q8, Q4) for the QVAC SDK and llama.cpp. The authors say it is best suited to low- to medium-difficulty tasks, is primarily trained and tested in English, and is not intended for safety-critical or high-stakes automated decisions involving money, personal information or health.",
-    "review_14d": null
+    "review_14d": ""
   },
   {
     "id": 607,
@@ -6137,6 +6137,56 @@
     "first_seen": "2026-11-12T08:32+08:00",
     "url": "https://rayline.ai/arc",
     "excerpt": "Rayline founder David Valerio Gilmore announced ARC (ARC by Rayline; officially also called the Adaptive Routing Controller) at 2026-11-11T18:26:29Z: a routing decision model that picks a model and a reasoning level for each step of an agent workflow. Officially, in the hybrid edge-cloud setup in its technical report, it retains about 97.5% of Claude Opus 5.5 quality at 92.9% lower cost; the 800-million-parameter router is open-weight under Apache 2.0, based on Qwen3.5-0.8B. Product: https://rayline.ai/arc Technical report: https://rayline.ai/research/report Announcement: https://x.com/davidvgilmore/status/2120583960447029699 Weights: https://huggingface.co/rayline-ai/ARC-1.0",
+    "review_14d": ""
+  },
+  {
+    "id": 615,
+    "term": "词元所 / Token Exchange",
+    "source": "x+web",
+    "score": 0.94,
+    "first_seen": "2026-11-12T12:32+08:00",
+    "url": "https://cloud.baidu.cn/product-s/token_exchange.html",
+    "excerpt": "2026 年 11 月 12 日，百度创始人李彦宏在百度世界 2026 开幕式上正式发布大模型交易平台「词元所」（官方产品页英文名 Token Exchange）。官方称它是连接模型供应方与消费方的撮合交易平台，提供统一 API、准入测试、指纹比对、质量监测与供应商信用评级。IT之家现场报道写到，词元所上线一个月，供应资源数已超过 100 个，日均调用 Token 数已突破 7000 亿。产品页：https://cloud.baidu.cn/product-s/token_exchange.html 现场报道：https://www.ithome.com/1/025/903.htm",
+    "review_14d": ""
+  },
+  {
+    "id": 616,
+    "term": "文心闪电深度思考模型 / ERNIE-Light-DT-1.0",
+    "source": "x+web",
+    "score": 0.93,
+    "first_seen": "2026-11-12T12:32+08:00",
+    "url": "https://cloud.baidu.com/doc/qianfan-docs/s/7m95lyy43",
+    "excerpt": "2026 年 11 月 12 日，百度在百度世界 2026 开幕式上正式发布两款文心应用模型之一：文心闪电深度思考模型。千帆模型列表中的英文名为 ERNIE-Light-DT-1.0，接入点 ID 为 ernie-light-dt-1.0，上下文长度 1M token，最大输出 128k，并支持 thinking 开关和 reasoning_effort（默认 max，可取 low / high / max）。官方计费页（2026-11-11 更新）列出在线推理价格为输入 0.008 元/千 tokens、命中缓存 0.0008 元/千 tokens、输出 0.028 元/千 tokens。模型列表：https://cloud.baidu.com/doc/qianfan-docs/s/7m95lyy43 计费：https://cloud.baidu.com/doc/qianfan/s/wmh4sv6ya",
+    "review_14d": ""
+  },
+  {
+    "id": 617,
+    "term": "文心一镜微表情大模型 / ERNIE-Wizshot-ME",
+    "source": "x+web",
+    "score": 0.93,
+    "first_seen": "2026-11-12T12:32+08:00",
+    "url": "https://cloud.baidu.com/doc/qianfan-docs/s/7m95lyy43",
+    "excerpt": "2026 年 11 月 12 日，百度在百度世界 2026 开幕式上正式发布两款文心应用模型之二：文心一镜微表情大模型。千帆模型列表将其英文名写作 ERNIE-Wizshot-ME，接入点 ID 为 ernie-wizshot-me，归入视频生成，并发数和排队数均为 1。官方计费页按 1 秒 0.7 元列出调用价格。公开报道称产品页将其描述为可驱动图中人物自然开口演绎、无需实拍、产出 4 至 15 秒 1080p 真人影片的 AI 视频生成模型。模型列表：https://cloud.baidu.com/doc/qianfan-docs/s/7m95lyy43 计费：https://cloud.baidu.com/doc/qianfan/s/wmh4sv6ya",
+    "review_14d": ""
+  },
+  {
+    "id": 618,
+    "term": "天池 1024 卡超节点",
+    "source": "x+web",
+    "score": 0.86,
+    "first_seen": "2026-11-12T12:32+08:00",
+    "url": "https://www.ithome.com/1/026/026.htm",
+    "excerpt": "2026 年 11 月 12 日，百度集团执行副总裁沈抖在百度世界 2026 开幕式上发布「百度天池 1024 卡超节点」，并称这套算力集群将于明年推向市场。IT之家现场报道写到：搭载光引擎技术，卡间互联带宽提升 3 倍；对比上一代，训练性能提升 2.5 倍、推理性能提升 3 倍；配套 G3.5 KV Cache 显存加速柜；单套可支撑 5 万亿参数模型训练，并可横向扩展至万卡规模。既有产品页 https://cloud.baidu.com/product/tianchi.html 目前仍主要介绍既有天池超节点（如 32 卡一层全互联），尚未写入上述 1024 卡规格。现场报道：https://www.ithome.com/1/026/026.htm",
+    "review_14d": ""
+  },
+  {
+    "id": 619,
+    "term": "Qwen Code 1.0 Preview",
+    "source": "github+web",
+    "score": 0.88,
+    "first_seen": "2026-11-12T12:32+08:00",
+    "url": "https://github.com/QwenLM/qwen-code/releases/tag/v1.0.0-preview",
+    "excerpt": "阿里官方于 2026 年 11 月 11 日推出 Qwen Code 1.0 Preview：在既有开源仓库 QwenLM/qwen-code 上以预览分支发布，把 Qoder 与 Qwen Code 的 Agent Harness 能力融合开源。GitHub Release v1.0.0-preview（页面显示 11 Nov 03:55）写到：支持代码理解、实现、调试和测试；支持 Qwen / Qoder 账号、多模型供应商和自定义兼容端点；提供无需单独安装 Node.js 的 macOS / Linux / Windows 原生安装包；并支持会话恢复与非交互执行。发布说明强调 Preview 期间接口和行为可能变化。发布页：https://github.com/QwenLM/qwen-code/releases/tag/v1.0.0-preview 文档：https://qwenlm.github.io/qwen-code-docs/zh/users/overview/ IT之家：https://www.ithome.com/1/025/393.htm",
     "review_14d": ""
   }
 ]
