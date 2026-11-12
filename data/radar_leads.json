@@ -6198,5 +6198,35 @@
     "excerpt": "2026 年 11 月 11 日，Plurai 正式发布「Plurai Simulation」，官方称之为面向 AI agent 的自我改进层（self-improving layer），并向每位 AI 工程师提供免费起步档，同时宣布由 Team8 领投、U&I、Velocity、Mercer 等参与的 1300 万美元种子轮。官方博客写到：它会从企业自身的知识库、工具和策略出发，为 agent 及其所在环境建立数字孪生，再在沙箱里放入覆盖多种意图、人设和长尾边界的模拟用户，用来暴露策略违规、幻觉、错误动作、工具调用失败、任务失败和敏感数据泄漏；对每次失败给出原因并生成修复，再用同一批模拟数据做针对该 agent 的后训练，形成「模拟—修复—后训练」循环。产品页：https://www.plurai.ai/simulation 博客：https://www.plurai.ai/blog/introducing-plurai-simulation-self-improving-layer-for-ai-agents 文档：https://docs.plurai.ai/ 官方账号帖：https://x.com/pluraiAI/status/2120524451184001519 CEO 宣布帖：https://x.com/ilan_kadar/status/2120524450831413518",
     "review_14d": "",
     "id": 620
+  },
+  {
+    "term": "Google Intelligent Eyewear",
+    "source": "sitemap+x+web",
+    "score": 0.96,
+    "first_seen": "2026-11-13T00:32+08:00",
+    "url": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/",
+    "excerpt": "2026 年 11 月 12 日，Google 正式开放 Intelligent Eyewear（智能眼镜）系列预购。XR 副总裁兼总经理 Shahram Izadi 在官方博客中写到，今天开始接受与 Gentle Monster、Warby Parker 和 Samsung 合作的新 Intelligent Eyewear 系列预购，镜架内置 Gemini，可在出行中提供实时导航、翻译和视觉协助，也可拍照、听音乐和管理日程。官方账号 @Android 于 14:24 UTC 发帖宣布：“Introducing intelligent eyewear… Now available for pre-order.” Warby Parker 配镜与太阳镜款起价 395 美元，Gentle Monster 系列起价 449 美元；12 月 10 日到店销售。产品站：https://glasses.google 官方博客：https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/ 官方帖：https://x.com/Android/status/2120885368417333468",
+    "review_14d": "",
+    "id": 621
+  },
+  {
+    "term": "ci-proto",
+    "source": "x+web",
+    "score": 0.95,
+    "first_seen": "2026-11-13T00:32+08:00",
+    "url": "https://www.continuousintelligence.co.uk/news/ci-proto/",
+    "excerpt": "2026 年 11 月 12 日，伦敦实验室 Continuous Intelligence 正式发布其首个时间序列基础模型家族 ci-proto。官方博客写到：“ci-proto is out today.” 并称这是该实验室迈向新一代时间序列基础模型的第一步，现已可使用。官方称最大型号 ci-proto XL 仅 1.67 亿参数，却在 fev-bench 上以 51.5% skill score 位列公开基础模型第一；五个规格共同构成预测误差相对模型规模与运行时间的帕累托前沿。官方还写到，其无注意力的 time mixer 使计算随历史长度线性增长，可回看超过 200 万个观测，上下文窗口约为既有时间序列基础模型的 64 倍；权重开放并允许商用。可通过 pip install continuousintelligence 在本地运行。官方博客：https://www.continuousintelligence.co.uk/news/ci-proto/ 官方账号帖：https://x.com/Continu_Intel/status/2120852944056709139 创始人宣布帖：https://x.com/benjaminwalker/status/2120864197340955028 HF 权重：https://huggingface.co/ContinuousIntelligence/ci-proto",
+    "review_14d": "",
+    "id": 622
+  },
+  {
+    "term": "Thorsten-4",
+    "source": "x+web",
+    "score": 0.93,
+    "first_seen": "2026-11-13T00:32+08:00",
+    "url": "https://millionways.ai/thorsten",
+    "excerpt": "2026 年 11 月 12 日，纽约创业公司 millionways 正式发布大型心理学模型 Thorsten-4。Semafor 于当日 9:00 EST 率先报道：该公司当天推出这一模型，并透露已获得 600 万美元美国融资，投资人包括 Jason Kelce 和 DK Metcalf。官方产品页称 Thorsten-4 是 “The Large Psychology Model for Enterprise AI”，用于分析企业沟通中的动机、决策风格、情绪调节和沟通动态，并可通过 millionways Platform、API、MCP 或自托管部署。联合创始人 Max Weidemann 对 Semafor 表示，它应是决策支持工具，而不是最终决策者。产品页：https://millionways.ai/thorsten Semafor 报道：https://www.semafor.com/article/11/11/2026/new-ai-model-from-startup-millionways-wants-to-read-between-the-lines 官方账号帖：https://x.com/millionwaysai/status/2120908242843054394",
+    "review_14d": "",
+    "id": 623
   }
 ]
