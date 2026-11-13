@@ -6248,5 +6248,35 @@
     "excerpt": "2026 年 11 月 12 日，Datalab 在官方博客宣布 Chandra 2.7 已在 Datalab API 上线。Hunter Heidenreich 写道，balanced 与 accurate 模式已运行 Chandra 2.7（fast 模式仍使用 Surya 2.6），速度和价格不变，用户无需改调用方式。官方称在 OmniParseBench 表格测试上，balanced 从 91.6 升至 94.2，accurate 从 94.2 升至 95.3；accurate 模式非英语页面通过率从 86.7% 升至 87.9%。官方博客：https://www.datalab.to/blog/chandra-2-7",
     "review_14d": "",
     "id": 625
+  },
+  {
+    "term": "Seedance 2.5 Flash",
+    "source": "x+web",
+    "score": 0.9,
+    "first_seen": "2026-11-13T12:32+08:00",
+    "url": "https://docs.volcengine.com/docs/ark/seedance-2-5",
+    "excerpt": "2026 年 11 月 12 日下午，火山引擎发布视频生成模型 Seedance 2.5 Flash（亦写作 Seedance 2.5 flash）。新浪科技当日 14:54 报道：官方表示，新模型在生成效果接近 Seedance 2.5 的同时，生成速度提升一倍，价格进一步降低，主要面向对生成效率要求较高、对成本较为敏感的创作场景。以 720P 分辨率下文生视频、图生视频为例，生成价格约为 0.99 元/秒，较 Seedance 2.5 降低约 34%，与 Seedance 2.0 持平；单段最长支持 30 秒，单次最多可输入 10 张图片、5 段视频和 5 段音频，提供 480P、720P 两档分辨率。官方称将陆续在即梦、LibTV、Updream、Creao AI、TapNow 等平台使用，API 计划于 11 月 15 日上线火山方舟。火山方舟文档写到，北京时间 2026 年 11 月 15 日 14:00 起该模型将正式开放在线体验与 API 调用。Lovart、Higgsfield 等于 11 月 12 日已上线；@runwayml 于 2026-11-13T01:23:06Z 宣布 Seedance 2.5 Flash 已在 Runway 可用。新浪报道：https://finance.sina.com.cn/roll/2026-11-12/doc-iniynife8484368.shtml 方舟文档：https://docs.volcengine.com/docs/ark/seedance-2-5 Runway 帖：https://x.com/runwayml/status/2121051193921118712",
+    "review_14d": "",
+    "id": 626
+  },
+  {
+    "term": "Claude for Manufacturing",
+    "source": "x+web",
+    "score": 0.93,
+    "first_seen": "2026-11-13T12:32+08:00",
+    "url": "https://claude.com/resources/articles/claude-for-manufacturing",
+    "excerpt": "2026 年 11 月 12 日，Anthropic 正式发布 Claude for Manufacturing。官方文章写到：今天推出 Claude for Manufacturing，这是一个包含 17 项技能和四个连接器的插件，帮助制造团队从已有系统起草报价、质量报告和供应商请求。技能覆盖从给新订单定价到诊断停机设备等工作；连接器对接 Autodesk Fusion、Infor、Microsoft 365 和 Oracle NetSuite。官方强调技能以负责人审阅为结束，Claude for Manufacturing 不直接操作设备。Team 或 Enterprise 方案可安装该插件并对 Claude 说 “Set us up.”。官方还将于 11 月 17 日东部时间上午 11:00 举办技术网络研讨会。官方页面 datePublished 为 2026-11-12。官方文章：https://claude.com/resources/articles/claude-for-manufacturing 插件页：https://claude.com/marketplace/plugins/claude-for-manufacturing",
+    "review_14d": "",
+    "id": 627
+  },
+  {
+    "term": "Edge0-145B / Edge0-120B",
+    "source": "x+hf+web",
+    "score": 0.93,
+    "first_seen": "2026-11-13T12:32+08:00",
+    "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+    "excerpt": "2026 年 11 月 12 日，Edge0 在官方博客宣布开源 Edge0-145B 与 Edge0-120B，并同时开放统一推理框架和部署工具。官方写到：今天开源这两个型号，Edge0-145B 是全球首个拥有 1450 亿参数、可在个人电脑上运行的开源端侧模型。官方称，在兼容笔记本电脑上，Edge0-145B 峰值内存约 29GB、解码超过 80 tokens/s、预填充超过 1,100 tokens/s，145B 总参数中每步约 10B 参与计算；并给出 DeepSWE 1.1 为 64.6、Terminal-Bench 2.1 为 86.52 等内部评测数字。官方账号 @Edge0_AI 于 2026-11-12T18:01:27Z 发帖称权重已开放。权重此前已出现在 Hugging Face（如 Edge0/Edge0-145B-q3k 的 createdAt 为 2026-11-11T05:23:10Z），公开“Introducing”博客与官方账号帖集中在 11 月 12 日 18:00 UTC 前后。官方博客：https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer 官方帖：https://x.com/Edge0_AI/status/2120940049391100394 HF：https://huggingface.co/Edge0/Edge0-145B-q3k",
+    "review_14d": "",
+    "id": 628
   }
 ]
