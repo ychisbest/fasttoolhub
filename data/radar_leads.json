@@ -6308,5 +6308,15 @@
     "url": "https://www.llamaindex.ai/blog/introducing-parsebench-v2",
     "excerpt": "2026 年 11 月 12 日，LlamaIndex 在官方博客宣布推出 ParseBench-2，并同时介绍新的文档解析模型家族 OCRia-1.5。博客 [Introducing ParseBench-2](https://www.llamaindex.ai/blog/introducing-parsebench-v2) 标注日期为 Nov 12, 2026，作者为 Gauthami Polasani 与 Pierre-Loic Doulcet。官方写到：Today, we’re proud to raise the standard… with ParseBench-2, our most comprehensive document parsing benchmark yet。主要变化包括按错误严重程度校准的确定性指标、语料从约 2.1k 扩到约 4.3k、更完整的图表评测，以及把表单列为第六个维度；官方称定义了 330 余种错误类型。同一篇文章写到：In conjunction with ParseBench-2, we’re introducing OCRia-1.5, our new family of document parsing models powering LlamaParse’s Cost Effective, Agentic and Agentic Plus modes，并称详细介绍将另文发布。创始人 @jerryjliu0 于 2026-11-12T16:46:42Z 发帖介绍 ParseBench-2（https://x.com/jerryjliu0/status/2120921239619612921）。本词条补录此次官方发布，00:32 之后的若干轮扫描没有把这两个新名字入库。",
     "review_14d": null
+  },
+  {
+    "id": 632,
+    "term": "Hy Realtime",
+    "source": "x+web",
+    "score": 0.93,
+    "first_seen": "2026-11-13T20:32+08:00",
+    "url": "https://www.yicai.com/news/103440081.html",
+    "excerpt": "2026 年 11 月 13 日，腾讯混元发布全新实时语音模型 Hy Realtime。[第一财经](https://www.yicai.com/news/103440081.html) 于当日 16:38:55 发稿，[每日经济新闻](https://www.nbd.com.cn/articles/2026-11-13/4647109.html) 于 16:46:38 写到“腾讯混元官微发布”。两家都转述官方口径：模型在语音理解、指令遵循、拟人化表达等基础对话能力上有优异表现，同时新增 Agentic 工具调用与唱歌能力；已在元宝语音通话、腾讯客服等产品上线，近期也将上线腾讯云，对外提供 API 服务。[IT之家](https://www.ithome.com/1/026/825.htm)（16:41:34）进一步引述官方介绍：模型可结合上下文还原口齿含糊、话说半截或中途改口的意图，并据此判断是否联网搜索；唱歌能力与腾讯音乐 TME 灵音 AI 团队深度 Co-Design，用户可按歌手、专辑、曲风、语种、发行年份和热度组合点歌。当前可在最新版元宝 App 语音通话中选择“初语”音色试用，也可访问网页 Demo https://rtcube.cloud.tencent.com/component/hunyuan/index.html 。X 上 @woshipm 等账号转述了同一段官方表述（“今天，我们发布全新实时语音模型 Hy Realtime”）。本窗口上次扫描约为 16:32，上述稿件发布时间落在本轮 16:32–20:32 扫描窗口内。",
+    "review_14d": null
   }
 ]
