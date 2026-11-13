@@ -3087,7 +3087,7 @@
     "first_seen": "2026-10-29T12:32+08:00",
     "url": "https://vercel.com/blog/introducing-vercel-ci",
     "excerpt": "\"Today, we're announcing Vercel CI in Beta. It runs only the tasks affected by your code change, and spins up only the compute those checks need.\" Vercel says its own time from git push to \"CI passed\" is 2-6x faster. Available on all plans since 2026-10-28; configured with \"tags\": [\"ci\"] in turbo.json.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-13|q='Vercel CI' pre7=0.0 last7=29.9 peak=100"
   },
   {
     "id": 310,
@@ -3097,7 +3097,7 @@
     "first_seen": "2026-10-29T12:32+08:00",
     "url": "https://x.com/Replit/status/2115553116942975013",
     "excerpt": "\"Today we're releasing ViBench 2.0, a benchmark for long-horizon software building. Agents start from an empty project and build a whole product, one feature at a time, without seeing what comes next.\" (Replit, 2026-10-28) 17 products, 241 features, 544 test plans; GPT-6.1 Sol leads at 64.7% pass@1.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-13|q='ViBench 2.0' pre7=0.0 last7=14.3 peak=100"
   },
   {
     "id": 311,
@@ -3107,7 +3107,7 @@
     "first_seen": "2026-10-29T16:32+08:00",
     "url": "https://x.com/aitrackerbot/status/2115667559630373301",
     "excerpt": "\"OpenAI's own API docs now mention GPT Image 2.6, which hasn't been announced. A new image-editing option added today, \\\"markup\\\", lets you lay a transparent PNG over an image to guide the edit. Its description says it \\\"Supports GPT Image 2.5 and 2.6.\\\"\" (@aitrackerbot, 2026-10-29)",
-    "review_14d": null
+    "review_14d": "hit|2026-11-13|q='GPT Image 2.6' pre7=0.0 last7=24.0 peak=100"
   },
   {
     "id": 312,
@@ -3117,7 +3117,7 @@
     "first_seen": "2026-10-29T16:32+08:00",
     "url": "https://x.com/i/trending/2115664655162982655",
     "excerpt": "\"Articul8, an Intel spinout from early 2024, unveiled Bivia on October 28—a multimodal model that processes text, images, video, audio, and sensor data to deliver structured decisions with confidence scores... Available now via API with pay-per-token pricing and a billion free tokens for the first 10,000 users.\" (X trending summary)",
-    "review_14d": null
+    "review_14d": "hit|2026-11-13|q='Bivia' pre7=0.0 last7=67.0 peak=100"
   },
   {
     "id": 313,
@@ -3127,7 +3127,7 @@
     "first_seen": "2026-10-29T16:32+08:00",
     "url": "https://x.com/rianjohnson/status/2115436064458621189",
     "excerpt": "\"So I recently badgered my cinematographer @steveyedlin into making my ideal iPhone still camera app. It shoots RAW, bypasses the iPhone's look processing and instead uses the same image processing we use on our movies.\" (@rianjohnson, 2026-10-28, 27K likes)",
-    "review_14d": null
+    "review_14d": "hit|2026-11-13|q='Chromagraph Camera' pre7=5.4 last7=14.1 peak=100"
   },
   {
     "id": 314,
@@ -3137,7 +3137,7 @@
     "first_seen": "2026-10-29T16:32+08:00",
     "url": "https://x.com/AGIBOTofficial/status/2115694835579666505",
     "excerpt": "\"At AGIBOT Innovation Day 2026, we introduced Worken, a proposed framework for measuring the productive work robots perform in real-world...\" Another post sums it up: \"Worken = active robots × autonomous hours × output-efficiency — measuring productive robot work, not just unit counts.\"",
-    "review_14d": null
+    "review_14d": "hit|2026-11-13|q='Worken' pre7=0.0 last7=30.0 peak=100"
   },
   {
     "id": 315,
@@ -3147,7 +3147,7 @@
     "first_seen": "2026-10-29T16:32+08:00",
     "url": "https://x.com/RobotDollLab/status/2115694119464935614",
     "excerpt": "\"@AGIBOTofficial just released WITA-OMNI, its first full-modal end-to-end interaction model for humanoids. It supports 100+ languages and 29 dialects, with response times as low as 400 ms (average ~600 ms). The model handles noisy environments, wake-word-free interaction...\" (@RobotDollLab, 2026-10-29)",
-    "review_14d": null
+    "review_14d": "miss|2026-11-13|q='WITA-Omni' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 316,
@@ -3157,7 +3157,7 @@
     "first_seen": "2026-10-29T16:32+08:00",
     "url": "https://x.com/i/trending/2115673733813735858",
     "excerpt": "\"The ForgeKernel Live demo at OpenBMB shows an AI agent building and refining a GPU kernel from scratch, tracking every iteration with graphs, logs, and benchmarks against expert references like FlashMLA... building on ForgeKernel's leaderboard wins on NVIDIA SOL-ExecBench and Huawei CANN-Bench.\" (X trending summary)",
-    "review_14d": null
+    "review_14d": "hit|2026-11-13|q='ForgeKernel' pre7=0.0 last7=11.4 peak=100"
   },
   {
     "id": 317,
@@ -3167,7 +3167,7 @@
     "first_seen": "2026-10-29T20:32+08:00",
     "url": "https://runtimewire.com/article/simulon-reality-aware-rendering-iphone",
     "excerpt": "\"Introducing Reality-Aware Rendering in @Simulon, a completely new way to create with the real world. Place neural assets with your phone and act out the scene. When you stop recording, Simulon renders the take... Available now on iPhone.\" (@diveshnaidoo, Oct 28, ~1897 RTs; still circulating Oct 29)",
-    "review_14d": null
+    "review_14d": "miss|2026-11-13|q='Reality-Aware Rendering' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 318,
@@ -3177,7 +3177,7 @@
     "first_seen": "2026-10-29T20:32+08:00",
     "url": "https://ampcode.com/news/macos-satellites",
     "excerpt": "\"Amp now has macOS Satellites! Agents can now spawn Macs and build, test and run your iOS and macOS applications on them.\" Official Amp news (Oct 29, 2026): cloud Mac boots in ~30s with Xcode+simulators; mac.medium $2/hr, mac.large $4/hr; beta waitlist.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-13|q='Amp macOS Satellites' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 319,
@@ -3187,7 +3187,7 @@
     "first_seen": "2026-10-29T20:32+08:00",
     "url": "https://lab.tongjiang.app/",
     "excerpt": "\"Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app\" — GitHub smithjohn78390/tongjiang-lab created 2026-10-28, ~789★; 54+ interactive 3D lessons across physics/chemistry/biology/geography.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-13|q='Tongjiang Lab' pre7=0.0 last7=14.3 peak=100"
   },
   {
     "id": 320,
@@ -3197,7 +3197,7 @@
     "first_seen": "2026-10-29T20:32+08:00",
     "url": "https://www.agibot.com/article/231/detail/131.html",
     "excerpt": "\"AGIBOT just unveiled the AHA3 humanoid and the Worken framework at its Shanghai Innovation Day. AHA3 is the new humanoid hardware platform.\" Same event also launched GO-3 Preview, WITA-Omni, Link-U OS 1.0 and G2 Max (Oct 29, 2026).",
-    "review_14d": null
+    "review_14d": "miss|2026-11-13|no Trends data for 'AHA3'"
   },
   {
     "id": 321,
@@ -3207,7 +3207,7 @@
     "first_seen": "2026-10-29T20:32+08:00",
     "url": "https://www.agibot.com/article/231/detail/131.html",
     "excerpt": "\"GO-3 Preview is AGIBOT's next-generation embodied AI foundation model, built around WRAM: World Reasoning Action Model.\" Reported leading results on RoboDojo, RoboTwin and RoboColiseum; open-source planned by year-end (Innovation Day, Oct 29, 2026).",
-    "review_14d": null
+    "review_14d": "miss|2026-11-13|q='GO-3' pre7=0.0 last7=7.9 peak=100"
   },
   {
     "id": 322,
@@ -3217,7 +3217,7 @@
     "first_seen": "2026-10-29T20:32+08:00",
     "url": "https://www.agibot.com/article/231/detail/131.html",
     "excerpt": "\"Link-U OS 1.0 launch is a milestone. An OS built for physical robots...\" AGIBOT released Link-U OS 1.0 at Innovation Day 2026 (Oct 29) and said it plans to fully open-source by year-end.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-13|no Trends data for 'Link-U'"
   },
   {
     "id": 323,
@@ -3227,7 +3227,7 @@
     "first_seen": "2026-10-29T20:32+08:00",
     "url": "https://github.com/jacke-pp/open-yoki",
     "excerpt": "\"An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on.\" — jacke-pp/open-yoki created 2026-10-28, ~340★; MIT open build of the yoki livestream stack (persona/voice/face of commercial yoki excluded).",
-    "review_14d": null
+    "review_14d": "miss|2026-11-13|no Trends data for 'open-yoki'"
   },
   {
     "id": 324,
@@ -3237,7 +3237,7 @@
     "first_seen": "2026-10-30T00:32+08:00",
     "url": "https://www.mintive.com/",
     "excerpt": "\"Today we're launching @mintive: every agent gets its own identity and permissions, the same way every employee does. We've raised $11M, with @cowboyvc leading our latest…\" — @JiquanNgiam Oct 29 (~129k impressions); TechCrunch: agent identity startup, formerly MintMCP.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-13|q='Mintive' pre7=0.0 last7=19.3 peak=100"
   },
   {
     "id": 325,
@@ -3247,7 +3247,7 @@
     "first_seen": "2026-10-30T00:32+08:00",
     "url": "https://www.prnewswire.com/news-releases/cresta-opens-its-ai-agent-platform-with-end-to-end-self-service-for-developers-302922987.html",
     "excerpt": "Cresta PR Oct 29, 2026: opens end-to-end self-service AI agent platform for developers. Cresta Conductor (built on Claude Agent SDK with Anthropic) + Cresta CLI + AI Agent SDK + Cresta Academy certification — build/test/deploy customer-facing agents from your own repo/CI.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-13|no Trends data for 'Cresta Conductor'"
   },
   {
     "id": 326,
@@ -3257,7 +3257,7 @@
     "first_seen": "2026-10-30T00:32+08:00",
     "url": "https://www.island.io/press/island-brings-the-enterprise-browser-to-ai-agents",
     "excerpt": "Island press Oct 29, 2026: introduces Enterprise Browser for Agents — purpose-built enterprise browser for AI agents with governed browser tools, identity binding, human-vs-agent attribution, read-only mode, credential vault injection, ZTNA, and agent digital-experience monitoring.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-13|no Trends data for 'Island Enterprise Browser for Agents'"
   },
   {
     "id": 327,
@@ -3267,7 +3267,7 @@
     "first_seen": "2026-10-30T00:32+08:00",
     "url": "https://about.gitlab.com/blog/gitlab-orbit-ga/",
     "excerpt": "Official @gitlab Oct 29: \"GitLab Orbit is now generally available. Agents with full SDLC context… up to 45x fewer retries and 4.5x fewer tokens in our testing.\" Live permission-aware context graph of code, MRs, pipelines, vulns and ownership for Premium/Ultimate on GitLab.com.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-13|q='GitLab Orbit' pre7=0.0 last7=48.4 peak=100"
   },
   {
     "id": 328,
@@ -3277,7 +3277,7 @@
     "first_seen": "2026-10-30T00:32+08:00",
     "url": "https://www.snaptrude.com/",
     "excerpt": "Official @snaptrude Oct 29: \"Snaptrude Agent is live. It does real design work… from a site to a construction-ready LOD 400 model with structure, MEP and drawings.\" AEC Magazine: AI agent for BIM from concept to construction documentation; user reviews plan then approves.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-13|q='Snaptrude Agent' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 329,
@@ -3287,7 +3287,7 @@
     "first_seen": "2026-10-30T04:32+08:00",
     "url": "https://www.baseten.co/blog/decisions-for-a-penny-introducing-joey-1/",
     "excerpt": "Baseten/Base Labs Oct 29: joey-1 is a 2B open-weights decision model (P50 ~20ms, $0.01/M tokens) joining mammoth-1/elephant-1; on OpenRouter as baseten/joey-1; returns calibrated choice/yes-no/scoring probabilities without free-form text.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-13|no Trends data for 'Joey-1'"
   },
   {
     "id": 330,
@@ -3297,7 +3297,7 @@
     "first_seen": "2026-10-30T04:32+08:00",
     "url": "https://pika.art/blog/pika-h3-flex",
     "excerpt": "Pika Labs Oct 29: Meet Pika H3 Flex — post-trained MiniMax H3 open-weight video model; #1 open t2v on DesignArena; up to 4K, 5 audio stems, ~15s video in as little as 7s compute; creation product Nov 2.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-13|q='Pika H3 Flex' pre7=0.0 last7=28.3 peak=100"
   },
   {
     "id": 331,
@@ -3307,7 +3307,7 @@
     "first_seen": "2026-10-30T04:32+08:00",
     "url": "https://cryptobriefing.com/canva-unveils-brush-vision-language-model/",
     "excerpt": "Canva Oct 29 unveiled Brush, its first in-house vision-language model for design editing (layout/layers/style); Pro launch; up to 69% faster / 46% cheaper vs prior agents; follows Canva Craft image model.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-13|q='Canva Brush' pre7=11.4 last7=49.6 peak=100"
   },
   {
     "id": 332,
@@ -3317,7 +3317,7 @@
     "first_seen": "2026-10-30T04:32+08:00",
     "url": "https://www.datalab.to/blog/surya-2-5",
     "excerpt": "Datalab Oct 29: Surya 2.5 is a 689M open OCR model — 1.7x faster than Surya 2 (4.5 vs 2.7 pps on H100), 85.9 OmniParseBench (best open under 1B); pip install surya-ocr ≥0.23.0.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-13|q='Surya 2.5' pre7=0.0 last7=21.7 peak=100"
   },
   {
     "id": 333,
@@ -3327,7 +3327,7 @@
     "first_seen": "2026-10-30T08:32+08:00",
     "url": "https://openrouter.ai/tbc/mischief-1",
     "excerpt": "OpenRouter Video API Oct 30, 2026: tbc/mischief-1 — TBC Mischief 1, billed as the world's first neuron-derived video model from The Biological Computing Co. Image-to-video; 3/5s; 480p/720p; from ~$0.005/s. Official @BioComputingCo demoing generations on X.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-13|q='Mischief-1' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 334,
@@ -3337,7 +3337,7 @@
     "first_seen": "2026-10-30T08:32+08:00",
     "url": "https://x.com/rahulchhabra07/status/2115918744308658325",
     "excerpt": "Sabi CEO @rahulchhabra07 Oct 29: Introducing RL with Neural Feedback (RLNF)—train AI on human preferences purely from brain/EEG signals (face self-transforms toward subject taste). ~417k impressions / 468 likes; Sabi is the $50M Khosla-led BCI/cap company.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-13|q='RLNF' pre7=0.0 last7=14.3 peak=100"
   },
   {
     "id": 335,
@@ -3347,7 +3347,7 @@
     "first_seen": "2026-10-30T08:32+08:00",
     "url": "https://x.com/shobhitbanga/status/2115862853852995907",
     "excerpt": "VoiceArena co-founder @shobhitbanga Oct 29 Drop 1/15: Introducing Joy — dual-channel conversational dataset; 100,000 hours, 50,000 speakers, 10 languages; real unscripted talk with overlaps/backchannels. ~298k impressions; roadmap v2 1M / v3 10M hours.",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-13|generic word, Trends not attributable"
   },
   {
     "id": 336,
@@ -6190,93 +6190,123 @@
     "review_14d": ""
   },
   {
+    "id": 620,
     "term": "Plurai Simulation",
     "source": "x+web",
     "score": 0.93,
     "first_seen": "2026-11-12T16:32+08:00",
     "url": "https://www.plurai.ai/blog/introducing-plurai-simulation-self-improving-layer-for-ai-agents",
     "excerpt": "2026 年 11 月 11 日，Plurai 正式发布「Plurai Simulation」，官方称之为面向 AI agent 的自我改进层（self-improving layer），并向每位 AI 工程师提供免费起步档，同时宣布由 Team8 领投、U&I、Velocity、Mercer 等参与的 1300 万美元种子轮。官方博客写到：它会从企业自身的知识库、工具和策略出发，为 agent 及其所在环境建立数字孪生，再在沙箱里放入覆盖多种意图、人设和长尾边界的模拟用户，用来暴露策略违规、幻觉、错误动作、工具调用失败、任务失败和敏感数据泄漏；对每次失败给出原因并生成修复，再用同一批模拟数据做针对该 agent 的后训练，形成「模拟—修复—后训练」循环。产品页：https://www.plurai.ai/simulation 博客：https://www.plurai.ai/blog/introducing-plurai-simulation-self-improving-layer-for-ai-agents 文档：https://docs.plurai.ai/ 官方账号帖：https://x.com/pluraiAI/status/2120524451184001519 CEO 宣布帖：https://x.com/ilan_kadar/status/2120524450831413518",
-    "review_14d": "",
-    "id": 620
+    "review_14d": ""
   },
   {
+    "id": 621,
     "term": "Google Intelligent Eyewear",
     "source": "sitemap+x+web",
     "score": 0.96,
     "first_seen": "2026-11-13T00:32+08:00",
     "url": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/",
     "excerpt": "2026 年 11 月 12 日，Google 正式开放 Intelligent Eyewear（智能眼镜）系列预购。XR 副总裁兼总经理 Shahram Izadi 在官方博客中写到，今天开始接受与 Gentle Monster、Warby Parker 和 Samsung 合作的新 Intelligent Eyewear 系列预购，镜架内置 Gemini，可在出行中提供实时导航、翻译和视觉协助，也可拍照、听音乐和管理日程。官方账号 @Android 于 14:24 UTC 发帖宣布：“Introducing intelligent eyewear… Now available for pre-order.” Warby Parker 配镜与太阳镜款起价 395 美元，Gentle Monster 系列起价 449 美元；12 月 10 日到店销售。产品站：https://glasses.google 官方博客：https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/ 官方帖：https://x.com/Android/status/2120885368417333468",
-    "review_14d": "",
-    "id": 621
+    "review_14d": ""
   },
   {
+    "id": 622,
     "term": "ci-proto",
     "source": "x+web",
     "score": 0.95,
     "first_seen": "2026-11-13T00:32+08:00",
     "url": "https://www.continuousintelligence.co.uk/news/ci-proto/",
     "excerpt": "2026 年 11 月 12 日，伦敦实验室 Continuous Intelligence 正式发布其首个时间序列基础模型家族 ci-proto。官方博客写到：“ci-proto is out today.” 并称这是该实验室迈向新一代时间序列基础模型的第一步，现已可使用。官方称最大型号 ci-proto XL 仅 1.67 亿参数，却在 fev-bench 上以 51.5% skill score 位列公开基础模型第一；五个规格共同构成预测误差相对模型规模与运行时间的帕累托前沿。官方还写到，其无注意力的 time mixer 使计算随历史长度线性增长，可回看超过 200 万个观测，上下文窗口约为既有时间序列基础模型的 64 倍；权重开放并允许商用。可通过 pip install continuousintelligence 在本地运行。官方博客：https://www.continuousintelligence.co.uk/news/ci-proto/ 官方账号帖：https://x.com/Continu_Intel/status/2120852944056709139 创始人宣布帖：https://x.com/benjaminwalker/status/2120864197340955028 HF 权重：https://huggingface.co/ContinuousIntelligence/ci-proto",
-    "review_14d": "",
-    "id": 622
+    "review_14d": ""
   },
   {
+    "id": 623,
     "term": "Thorsten-4",
     "source": "x+web",
     "score": 0.93,
     "first_seen": "2026-11-13T00:32+08:00",
     "url": "https://millionways.ai/thorsten",
     "excerpt": "2026 年 11 月 12 日，纽约创业公司 millionways 正式发布大型心理学模型 Thorsten-4。Semafor 于当日 9:00 EST 率先报道：该公司当天推出这一模型，并透露已获得 600 万美元美国融资，投资人包括 Jason Kelce 和 DK Metcalf。官方产品页称 Thorsten-4 是 “The Large Psychology Model for Enterprise AI”，用于分析企业沟通中的动机、决策风格、情绪调节和沟通动态，并可通过 millionways Platform、API、MCP 或自托管部署。联合创始人 Max Weidemann 对 Semafor 表示，它应是决策支持工具，而不是最终决策者。产品页：https://millionways.ai/thorsten Semafor 报道：https://www.semafor.com/article/11/11/2026/new-ai-model-from-startup-millionways-wants-to-read-between-the-lines 官方账号帖：https://x.com/millionwaysai/status/2120908242843054394",
-    "review_14d": "",
-    "id": 623
+    "review_14d": ""
   },
   {
+    "id": 624,
     "term": "Gemini 4 Hydrogen",
     "source": "sitemap+x+web",
     "score": 0.96,
     "first_seen": "2026-11-13T04:32+08:00",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
     "excerpt": "2026 年 11 月 12 日，Google 正式发布 Gemini 4 Hydrogen。Google DeepMind SVP 兼 Google 首席 AI 架构师 Koray Kavukcuoglu 在官方博客中写到，今天推出 Gemini 4 Hydrogen，面向日常编程与智能体工作流，把 Gemini 4 的能力带到所有人。官方称其默认 high 思维档在 Artificial Analysis Intelligence Index 上以 51 分超过 Argon 的 50 分，最高 xhigh 档达到 54 分；相对 Gemini 3.8 Flash，默认 high 档完成任务快 2.5 倍，Terminal-Bench 4.1 从 18.2% 提升到 57%。定价为整段 100 万 token 上下文统一每百万输入 1.50 美元、输出 7.50 美元。官方账号 @GoogleDeepMind 于 18:02 UTC 发帖宣布。官方博客：https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/ 官方帖：https://x.com/GoogleDeepMind/status/2120940338869055788",
-    "review_14d": "",
-    "id": 624
+    "review_14d": ""
   },
   {
+    "id": 625,
     "term": "Chandra 2.7",
     "source": "sitemap+web",
     "score": 0.88,
     "first_seen": "2026-11-13T04:32+08:00",
     "url": "https://www.datalab.to/blog/chandra-2-7",
     "excerpt": "2026 年 11 月 12 日，Datalab 在官方博客宣布 Chandra 2.7 已在 Datalab API 上线。Hunter Heidenreich 写道，balanced 与 accurate 模式已运行 Chandra 2.7（fast 模式仍使用 Surya 2.6），速度和价格不变，用户无需改调用方式。官方称在 OmniParseBench 表格测试上，balanced 从 91.6 升至 94.2，accurate 从 94.2 升至 95.3；accurate 模式非英语页面通过率从 86.7% 升至 87.9%。官方博客：https://www.datalab.to/blog/chandra-2-7",
-    "review_14d": "",
-    "id": 625
+    "review_14d": ""
   },
   {
+    "id": 626,
     "term": "Seedance 2.5 Flash",
     "source": "x+web",
     "score": 0.9,
     "first_seen": "2026-11-13T12:32+08:00",
     "url": "https://docs.volcengine.com/docs/ark/seedance-2-5",
     "excerpt": "2026 年 11 月 12 日下午，火山引擎发布视频生成模型 Seedance 2.5 Flash（亦写作 Seedance 2.5 flash）。新浪科技当日 14:54 报道：官方表示，新模型在生成效果接近 Seedance 2.5 的同时，生成速度提升一倍，价格进一步降低，主要面向对生成效率要求较高、对成本较为敏感的创作场景。以 720P 分辨率下文生视频、图生视频为例，生成价格约为 0.99 元/秒，较 Seedance 2.5 降低约 34%，与 Seedance 2.0 持平；单段最长支持 30 秒，单次最多可输入 10 张图片、5 段视频和 5 段音频，提供 480P、720P 两档分辨率。官方称将陆续在即梦、LibTV、Updream、Creao AI、TapNow 等平台使用，API 计划于 11 月 15 日上线火山方舟。火山方舟文档写到，北京时间 2026 年 11 月 15 日 14:00 起该模型将正式开放在线体验与 API 调用。Lovart、Higgsfield 等于 11 月 12 日已上线；@runwayml 于 2026-11-13T01:23:06Z 宣布 Seedance 2.5 Flash 已在 Runway 可用。新浪报道：https://finance.sina.com.cn/roll/2026-11-12/doc-iniynife8484368.shtml 方舟文档：https://docs.volcengine.com/docs/ark/seedance-2-5 Runway 帖：https://x.com/runwayml/status/2121051193921118712",
-    "review_14d": "",
-    "id": 626
+    "review_14d": ""
   },
   {
+    "id": 627,
     "term": "Claude for Manufacturing",
     "source": "x+web",
     "score": 0.93,
     "first_seen": "2026-11-13T12:32+08:00",
     "url": "https://claude.com/resources/articles/claude-for-manufacturing",
     "excerpt": "2026 年 11 月 12 日，Anthropic 正式发布 Claude for Manufacturing。官方文章写到：今天推出 Claude for Manufacturing，这是一个包含 17 项技能和四个连接器的插件，帮助制造团队从已有系统起草报价、质量报告和供应商请求。技能覆盖从给新订单定价到诊断停机设备等工作；连接器对接 Autodesk Fusion、Infor、Microsoft 365 和 Oracle NetSuite。官方强调技能以负责人审阅为结束，Claude for Manufacturing 不直接操作设备。Team 或 Enterprise 方案可安装该插件并对 Claude 说 “Set us up.”。官方还将于 11 月 17 日东部时间上午 11:00 举办技术网络研讨会。官方页面 datePublished 为 2026-11-12。官方文章：https://claude.com/resources/articles/claude-for-manufacturing 插件页：https://claude.com/marketplace/plugins/claude-for-manufacturing",
-    "review_14d": "",
-    "id": 627
+    "review_14d": ""
   },
   {
+    "id": 628,
     "term": "Edge0-145B / Edge0-120B",
     "source": "x+hf+web",
     "score": 0.93,
     "first_seen": "2026-11-13T12:32+08:00",
     "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
     "excerpt": "2026 年 11 月 12 日，Edge0 在官方博客宣布开源 Edge0-145B 与 Edge0-120B，并同时开放统一推理框架和部署工具。官方写到：今天开源这两个型号，Edge0-145B 是全球首个拥有 1450 亿参数、可在个人电脑上运行的开源端侧模型。官方称，在兼容笔记本电脑上，Edge0-145B 峰值内存约 29GB、解码超过 80 tokens/s、预填充超过 1,100 tokens/s，145B 总参数中每步约 10B 参与计算；并给出 DeepSWE 1.1 为 64.6、Terminal-Bench 2.1 为 86.52 等内部评测数字。官方账号 @Edge0_AI 于 2026-11-12T18:01:27Z 发帖称权重已开放。权重此前已出现在 Hugging Face（如 Edge0/Edge0-145B-q3k 的 createdAt 为 2026-11-11T05:23:10Z），公开“Introducing”博客与官方账号帖集中在 11 月 12 日 18:00 UTC 前后。官方博客：https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer 官方帖：https://x.com/Edge0_AI/status/2120940049391100394 HF：https://huggingface.co/Edge0/Edge0-145B-q3k",
-    "review_14d": "",
-    "id": 628
+    "review_14d": ""
+  },
+  {
+    "id": 629,
+    "term": "语飞 / Yufei",
+    "source": "x+web",
+    "score": 0.94,
+    "first_seen": "2026-11-13T16:32+08:00",
+    "url": "http://www.news.cn/20261113/57241b04cf974861a9d9df993999b77b/c.html",
+    "excerpt": "2026 年 11 月 13 日，2026 世界中文大会在北京开幕，会上发布语飞国际中文教育垂直大模型。新华社权威快报于当日 15:50:43 发出（人民网转载时间为 15:55，第一财经快讯亦标为 15:50），写到：会上发布语飞国际中文教育垂直大模型，为全球中文学习者、教师和教育机构提供智能化服务。面向学习者，模型可提供即时反馈的学习评测、随问随答的个性化辅导；面向教师，支持在多轮对话中快速生成覆盖课前备课、课堂互动、课后巩固的教学素材；面向教育机构，提供标准化接口。新华社还写到，该模型将人工智能技术与国际中文教育实际需求相结合，深度融入专业知识、教学规律与真实场景，专项适配教与学各个环节。公开中文报道使用的正式名称是“语飞”；英文转写 Yufei 来自汉语拼音，本页未检索到大会主办方单独发布的英文产品页。新华社：http://www.news.cn/20261113/57241b04cf974861a9d9df993999b77b/c.html 人民网：http://finance.people.com.cn/n1/2026/1113/c1004-40833526.html 中新网：https://www.chinanews.com.cn/gn/2026/11-13/10731519.shtml",
+    "review_14d": null
+  },
+  {
+    "id": 630,
+    "term": "UI SDK",
+    "source": "x+web",
+    "score": 0.93,
+    "first_seen": "2026-11-13T16:32+08:00",
+    "url": "https://ui-sdk.dev/",
+    "excerpt": "2026 年 11 月 12 日，Vercel 正式介绍 UI SDK。官方账号 @vercel 于 2026-11-12T18:41:04Z 发帖 “Introducing the UI SDK.”（https://x.com/vercel/status/2120950020249895314）。@shadcn 于 18:45:26Z 写道：Today we’re introducing UI SDK. Agents are becoming both the builders and the users of interfaces. So we asked ourselves: where should the abstraction live? 他以 Select 为例，指出其中包含弹出层、选择逻辑、键盘导航和焦点管理，这些行为在许多其他组件里同样有用。文档站 https://ui-sdk.dev/ 写到：这是一套供 agent 用来构建下一代用户界面的行为库，官方称已构建 50 多个行为（如 createPopup、createSelection、createTypeahead），并提供 React、Vue、Svelte、Solid 和 Web Components 适配。源码在 https://github.com/vercel-labs/ui （Apache-2.0，仓库创建于 2026-10-26T17:39:27Z）；安装示例为 npm install @ui-sdk/react @ui-sdk/core，并可用 npx skills add vercel-labs/ui --skill ui-sdk。官方标明目前是 beta，API 在正式版前可能变化。Vercel CEO @rauchg 于 19:47:37Z 称 UI SDK 像是 agent 自发构建新 UI 组件的 x86 指令集。本词条补录 11 月 12 日官方发布，当日 04:32 及之后若干轮扫描没有把这个独立产品名入库。",
+    "review_14d": null
+  },
+  {
+    "id": 631,
+    "term": "ParseBench-2 / OCRia-1.5",
+    "source": "x+web",
+    "score": 0.9,
+    "first_seen": "2026-11-13T16:32+08:00",
+    "url": "https://www.llamaindex.ai/blog/introducing-parsebench-v2",
+    "excerpt": "2026 年 11 月 12 日，LlamaIndex 在官方博客宣布推出 ParseBench-2，并同时介绍新的文档解析模型家族 OCRia-1.5。博客 [Introducing ParseBench-2](https://www.llamaindex.ai/blog/introducing-parsebench-v2) 标注日期为 Nov 12, 2026，作者为 Gauthami Polasani 与 Pierre-Loic Doulcet。官方写到：Today, we’re proud to raise the standard… with ParseBench-2, our most comprehensive document parsing benchmark yet。主要变化包括按错误严重程度校准的确定性指标、语料从约 2.1k 扩到约 4.3k、更完整的图表评测，以及把表单列为第六个维度；官方称定义了 330 余种错误类型。同一篇文章写到：In conjunction with ParseBench-2, we’re introducing OCRia-1.5, our new family of document parsing models powering LlamaParse’s Cost Effective, Agentic and Agentic Plus modes，并称详细介绍将另文发布。创始人 @jerryjliu0 于 2026-11-12T16:46:42Z 发帖介绍 ParseBench-2（https://x.com/jerryjliu0/status/2120921239619612921）。本词条补录此次官方发布，00:32 之后的若干轮扫描没有把这两个新名字入库。",
+    "review_14d": null
   }
 ]
