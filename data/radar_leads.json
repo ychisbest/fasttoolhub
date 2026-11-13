@@ -6318,5 +6318,25 @@
     "url": "https://www.yicai.com/news/103440081.html",
     "excerpt": "2026 年 11 月 13 日，腾讯混元发布全新实时语音模型 Hy Realtime。[第一财经](https://www.yicai.com/news/103440081.html) 于当日 16:38:55 发稿，[每日经济新闻](https://www.nbd.com.cn/articles/2026-11-13/4647109.html) 于 16:46:38 写到“腾讯混元官微发布”。两家都转述官方口径：模型在语音理解、指令遵循、拟人化表达等基础对话能力上有优异表现，同时新增 Agentic 工具调用与唱歌能力；已在元宝语音通话、腾讯客服等产品上线，近期也将上线腾讯云，对外提供 API 服务。[IT之家](https://www.ithome.com/1/026/825.htm)（16:41:34）进一步引述官方介绍：模型可结合上下文还原口齿含糊、话说半截或中途改口的意图，并据此判断是否联网搜索；唱歌能力与腾讯音乐 TME 灵音 AI 团队深度 Co-Design，用户可按歌手、专辑、曲风、语种、发行年份和热度组合点歌。当前可在最新版元宝 App 语音通话中选择“初语”音色试用，也可访问网页 Demo https://rtcube.cloud.tencent.com/component/hunyuan/index.html 。X 上 @woshipm 等账号转述了同一段官方表述（“今天，我们发布全新实时语音模型 Hy Realtime”）。本窗口上次扫描约为 16:32，上述稿件发布时间落在本轮 16:32–20:32 扫描窗口内。",
     "review_14d": null
+  },
+  {
+    "id": 633,
+    "term": "ChatGPT Wallet",
+    "source": "sitemap+x+web",
+    "score": 0.96,
+    "first_seen": "2026-11-14T00:32+08:00",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet",
+    "excerpt": "OpenAI 于 2026 年 11 月 13 日在官网发布 [Introducing ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet)，并写明 “ChatGPT Wallet begins rolling out today in dots”。产品与 American Express、Mastercard、Visa 合作，让智能体在看不到用户真实卡号的情况下完成支付，且每笔购买都需要 Face ID 或指纹等安全验证；支付网络会签发支付令牌（payment token）代替真实卡信息，符合条件的卡组织权益与争议保护仍然保留。首批面向年满 18 岁、身处美国、持有符合条件美国发行卡的 ChatGPT Pro 订阅用户，通过 dots 使用；[帮助中心](https://help.openai.com/en/articles/20001654-making-purchases-with-chatgpt-wallet) 写明 Wallet 目前不在 Chat、Work 或独立 Codex 线程中提供。openai.com 站点地图在本窗口新增了该官方博文 URL；[CNBC](https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html) 标注刊发时间为 2026-11-13 10:00 AM EST（北京时间 23:00），落在本轮 20:32–00:32 扫描窗口内。上一轮 16:32 扫描只见到政策/条款页、尚未找到标注日期的正式产品发布页，因而当时未收录。",
+    "review_14d": null
+  },
+  {
+    "id": 634,
+    "term": "Solana Confidential Compute",
+    "source": "x+web",
+    "score": 0.93,
+    "first_seen": "2026-11-14T00:32+08:00",
+    "url": "https://solana.ai/blog/nito-solana-confidential-compute",
+    "excerpt": "Solana Foundation 于 2026 年 11 月 13 日在 [solana.ai 官方博客](https://solana.ai/blog/nito-solana-confidential-compute) 以 “Launch / 13 November 2026” 发布 **Solana Confidential Compute**，并将其写成与 Nito 团队合作、经 Solana Foundation 协调推出的开源 SDK 与链上验证程序：用于校验机密计算硬件的 attestation，并在 Solana 上写下可供应用、智能体和用户查阅的公开记录；AI 计算仍在链下进行。产品页 [solana.ai/confidential-compute](https://solana.ai/confidential-compute) 写明目前在 Solana devnet 上处于 beta，安全审计进行中，仅供开发使用，主网将在审计之后。Solana Foundation 官方账号 [@SolanaFndn](https://x.com/SolanaFndn/status/2121273734237475051) 于 2026-11-13T16:07:24Z（北京时间 11 月 14 日 00:07:24）发帖 “Introducing Solana Confidential Compute … Now in beta on Solana devnet”，落在本轮 20:32–00:32 扫描窗口内。不要把它与更早的 Arcium 等第三方机密计算网络写成同一个产品。",
+    "review_14d": null
   }
 ]
