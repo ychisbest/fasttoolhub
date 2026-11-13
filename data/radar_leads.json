@@ -6338,5 +6338,15 @@
     "url": "https://solana.ai/blog/nito-solana-confidential-compute",
     "excerpt": "Solana Foundation 于 2026 年 11 月 13 日在 [solana.ai 官方博客](https://solana.ai/blog/nito-solana-confidential-compute) 以 “Launch / 13 November 2026” 发布 **Solana Confidential Compute**，并将其写成与 Nito 团队合作、经 Solana Foundation 协调推出的开源 SDK 与链上验证程序：用于校验机密计算硬件的 attestation，并在 Solana 上写下可供应用、智能体和用户查阅的公开记录；AI 计算仍在链下进行。产品页 [solana.ai/confidential-compute](https://solana.ai/confidential-compute) 写明目前在 Solana devnet 上处于 beta，安全审计进行中，仅供开发使用，主网将在审计之后。Solana Foundation 官方账号 [@SolanaFndn](https://x.com/SolanaFndn/status/2121273734237475051) 于 2026-11-13T16:07:24Z（北京时间 11 月 14 日 00:07:24）发帖 “Introducing Solana Confidential Compute … Now in beta on Solana devnet”，落在本轮 20:32–00:32 扫描窗口内。不要把它与更早的 Arcium 等第三方机密计算网络写成同一个产品。",
     "review_14d": null
+  },
+  {
+    "id": 635,
+    "term": "Tofu-1",
+    "source": "x+web",
+    "score": 0.94,
+    "first_seen": "2026-11-14T04:32+08:00",
+    "url": "https://www.bland.ai/speech-to-speech",
+    "excerpt": "Bland 官方账号 [@usebland](https://x.com/usebland/status/2121302984802152941) 于 2026-11-13T18:03:38Z（北京时间 11 月 14 日 02:03:38）发帖 “Introducing Tofu-1, Bland’s new speech-to-speech model”，并指向产品页 [bland.ai/speech-to-speech](https://www.bland.ai/speech-to-speech)。官方长帖写明：演示视频里听到的来电者、坐席和背景声全部由 Tofu-1 生成；模型为高风险通话场景训练，这些通话往往发生在风暴、公路边或有孩子哭闹的背景中；Bland 表示模型训练数据来自企业日常接到的来电，以便智能体也能应对同类情况，并邀请加入研究预览。 Bland 的 Isaiah Granet（[@zaygranet](https://x.com/zaygranet/status/2121304474178429220)，简介写明 phone operator @usebland）于 18:09:33Z（北京时间 02:09:33）发帖 “Today we’re introducing Tofu-1”，并写到它会一边说一边听、一边说一边推理，还能把真正的来电者与电视或婴儿哭声等线路上的其他声音分开。 产品页把 Tofu-1 写成 Bland 的全双工 speech-to-speech 模型、该系列的首个版本，面向银行、医疗、保险和政府等处理高风险通话的团队，研究预览目前只向有限数量的企业开放。以上发布时间落在本轮 00:32–04:32 扫描窗口内。",
+    "review_14d": null
   }
 ]
