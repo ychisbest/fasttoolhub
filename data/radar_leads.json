@@ -6348,5 +6348,15 @@
     "url": "https://www.bland.ai/speech-to-speech",
     "excerpt": "Bland 官方账号 [@usebland](https://x.com/usebland/status/2121302984802152941) 于 2026-11-13T18:03:38Z（北京时间 11 月 14 日 02:03:38）发帖 “Introducing Tofu-1, Bland’s new speech-to-speech model”，并指向产品页 [bland.ai/speech-to-speech](https://www.bland.ai/speech-to-speech)。官方长帖写明：演示视频里听到的来电者、坐席和背景声全部由 Tofu-1 生成；模型为高风险通话场景训练，这些通话往往发生在风暴、公路边或有孩子哭闹的背景中；Bland 表示模型训练数据来自企业日常接到的来电，以便智能体也能应对同类情况，并邀请加入研究预览。 Bland 的 Isaiah Granet（[@zaygranet](https://x.com/zaygranet/status/2121304474178429220)，简介写明 phone operator @usebland）于 18:09:33Z（北京时间 02:09:33）发帖 “Today we’re introducing Tofu-1”，并写到它会一边说一边听、一边说一边推理，还能把真正的来电者与电视或婴儿哭声等线路上的其他声音分开。 产品页把 Tofu-1 写成 Bland 的全双工 speech-to-speech 模型、该系列的首个版本，面向银行、医疗、保险和政府等处理高风险通话的团队，研究预览目前只向有限数量的企业开放。以上发布时间落在本轮 00:32–04:32 扫描窗口内。",
     "review_14d": null
+  },
+  {
+    "id": 636,
+    "term": "Melty Gym",
+    "source": "x+web",
+    "score": 0.88,
+    "first_seen": "2026-11-14T12:32+08:00",
+    "url": "https://www.ycombinator.com/launches/XT3-melty-gym-programmable-games-for-rl-and-evals",
+    "excerpt": "Y Combinator 2026 秋季批次公司 Melty 的创始人 David Miller（[@davidmilr](https://x.com/davidmilr/status/2121320174452121635)）于 2026-11-13T19:11:56Z（北京时间 11 月 14 日 03:11:56）发帖 “Train robots in any game at massive scale. Introducing Melty Gym!”，并配有 33 秒演示视频。同一时间前后，他在 Launch YC 发布 [Melty Gym: Programmable games for RL and evals](https://www.ycombinator.com/launches/XT3-melty-gym-programmable-games-for-rl-and-evals)，官网为 [melty.gg](https://www.melty.gg)。页面写到：Melty Gym 让研究人员把自己的模型和机器人放进定制游戏，再按需要调整机制、目标和团队动态，以便快速生成空间推理与多智能体协作的训练任务；演示中有人形机器人在 GTA V 里集结、驾驶，再到定制数据中心的机柜作业。页面还列出 Melty Net、Melty MCP、Melty Chat 和已有的 Melty Mashups，并写明已在与团队共建定制训练任务，需要 RL 或评测环境可联系 david@melty.gg。该帖时间落在此前 04:32 扫描窗口（00:32–04:32，北京时间），但 04:32 与 08:32 两轮均未写入数据库，本轮 12:32 补录。",
+    "review_14d": null
   }
 ]
