@@ -63,7 +63,16 @@ const ctaLabel = url
       )}
     </div>
 
-    {sections.map((section) => (
+    {sections[0]?.html && (
+      <section class="section">
+        <h2>{sections[0].title}</h2>
+        <div class="prose" set:html={sections[0].html} />
+      </section>
+    )}
+
+    <AdSlot locale={locale} />
+
+    {sections.slice(1).map((section) => (
       section.html ? (
         <section class="section">
           <h2>{section.title}</h2>
@@ -71,8 +80,6 @@ const ctaLabel = url
         </section>
       ) : null
     ))}
-
-    <AdSlot locale={locale} />
   </div>
 
   <aside class="term-aside">

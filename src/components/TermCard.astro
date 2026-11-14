@@ -8,9 +8,10 @@ import { plainTextFromMarkdown } from '../lib/markdown';
 interface Props {
   locale: Locale;
   entry: CollectionEntry<'terms'>;
+  hidden?: boolean;
 }
 
-const { locale, entry } = Astro.props;
+const { locale, entry, hidden = false } = Astro.props;
 const { term, source, score, excerpt, slug, intro, date } = entry.data;
 const dateText = formatDate(date, locale);
 // Prefer intro (locale-correct) over excerpt (often English even on zh), then term.
@@ -18,7 +19,6 @@ const description = plainTextFromMarkdown(
   displayText(intro || excerpt || term || '')
 );
 const scoreText = score.toFixed(2);
-const initial = term.trim().slice(0, 2);
 const ariaLabel = locale === 'zh' ? `查看 ${term}` : `View ${term}`;
 ---
 
@@ -32,9 +32,9 @@ const ariaLabel = locale === 'zh' ? `查看 ${term}` : `View ${term}`;
   data-source={source.toLowerCase()}
   data-excerpt={description.toLowerCase()}
   data-score={score}
+  hidden={hidden || undefined}
 >
   <div class="card-top">
-    <span class="card-favicon" data-testid="directory-listing-favicon" aria-hidden="true">{initial}</span>
     <h2 class="card-title">{term}</h2>
     <span class="card-stars" data-testid="directory-listing-stars">
       <svg class="star-icon" viewBox="0 0 24 24" aria-hidden="true">
