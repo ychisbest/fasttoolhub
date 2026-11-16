@@ -6358,5 +6358,15 @@
     "url": "https://www.ycombinator.com/launches/XT3-melty-gym-programmable-games-for-rl-and-evals",
     "excerpt": "Y Combinator 2026 秋季批次公司 Melty 的创始人 David Miller（[@davidmilr](https://x.com/davidmilr/status/2121320174452121635)）于 2026-11-13T19:11:56Z（北京时间 11 月 14 日 03:11:56）发帖 “Train robots in any game at massive scale. Introducing Melty Gym!”，并配有 33 秒演示视频。同一时间前后，他在 Launch YC 发布 [Melty Gym: Programmable games for RL and evals](https://www.ycombinator.com/launches/XT3-melty-gym-programmable-games-for-rl-and-evals)，官网为 [melty.gg](https://www.melty.gg)。页面写到：Melty Gym 让研究人员把自己的模型和机器人放进定制游戏，再按需要调整机制、目标和团队动态，以便快速生成空间推理与多智能体协作的训练任务；演示中有人形机器人在 GTA V 里集结、驾驶，再到定制数据中心的机柜作业。页面还列出 Melty Net、Melty MCP、Melty Chat 和已有的 Melty Mashups，并写明已在与团队共建定制训练任务，需要 RL 或评测环境可联系 david@melty.gg。该帖时间落在此前 04:32 扫描窗口（00:32–04:32，北京时间），但 04:32 与 08:32 两轮均未写入数据库，本轮 12:32 补录。",
     "review_14d": null
+  },
+  {
+    "id": 637,
+    "term": "openPangu-2.1-Pro",
+    "source": "web",
+    "score": 0.88,
+    "first_seen": "2026-11-16T10:40+08:00",
+    "url": "https://support.huaweicloud.com/bulletin-maas/bulletin-maas-0001.html",
+    "excerpt": "2026 年 11 月 15 日，华为云 MaaS 模型即服务平台正式上线开源盘古模型 openPangu-2.1-Pro。官方《MaaS模型发布公告》（更新时间 2026-11-15 GMT+08:00，https://support.huaweicloud.com/bulletin-maas/bulletin-maas-0001.html）将模型版本记为 20261115，写明该版本支持 512K 上下文长度，支持 Function Call、前缀续写、前缀缓存和思维链，目前以预置服务形式提供，支持区域为西南-贵阳一。官方最佳实践页（同日更新，https://support.huaweicloud.com/bestpractice-maas/bestpractice_maas_0021_03.html）称其为开源盘古最新一代模型，相比上一代在 Agent、代码生成以及吞吐能力上有明显提升。观点网于当日 22:08、格隆汇于 22:20（均为北京时间）发稿，转述华为云消息：模型围绕 Agent 开发、AI 编码和推理优化升级，并将接入智果 AgentArts、码道 CodeArts、果办 OfficeAce。此为对 11 月 15 日官方上线的补录，落在 11/15 20:32→11/16 00:32 漏窗；11 月 6 日华为云伙伴资讯已预告将于 11 月 15 日上线。不要和 2026 年 7 月 30 日已上线的 openPangu-2.0-Pro，或 6 月 30 日的 openPangu-2.0-Flash 混淆。",
+    "review_14d": null
   }
 ]
