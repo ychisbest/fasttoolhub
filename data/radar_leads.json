@@ -6408,5 +6408,25 @@
     "url": "https://internlm.github.io/Sage-S2.1-Flash/",
     "excerpt": "2026 年 11 月 16 日，上海人工智能实验室书生系列正式发布科学多模态智能体模型书生 S2.1 Flash（英文名 Sage-S2.1-Flash）。官方页面 https://internlm.github.io/Sage-S2.1-Flash/ 以 “今天，我们正式发布 书生 S2.1 Flash” 开篇，写到这是一款面向高难度科学研究的前沿科学多模态智能体模型，采用 3200 亿参数 MoE 架构，将科学多模态理解与通用智能体能力相结合，支持科学深度研究、科学编程及专业科研软件操作。官方称，模型将分子图、晶体结构、蛋白质序列与三维结构、DNA / RNA 序列，以及光谱、质谱、X 射线衍射、心电、脑电和光变曲线等十余类科学输入纳入统一模型（架构名为 Sage SciPerception），并可通过视觉反馈根据软件状态与中间结果检验判断、调整策略。官方评测表列出其在 MLE-bench Lite 上为 90.3、OfficeQA Pro 为 72.2、Harvey LAB 为 25.0、SpreadsheetBench 2 为 37.1，在所给对照模型中上述四项均为第一；对照模型包括 GLM-5.3-Flash、DeepSeek-V4.1-Flash-1017、Qwen3.8-Max、GPT-5.6 Sol 和 Claude Opus 5。机器之心于当日 19:37（北京时间）发稿，转述该模型由上海人工智能实验室联合复旦大学、中科院软件所、中国人民大学、中科院自动化所、华东师范大学、哈尔滨工业大学、北京大学等机构共同推出，并给出体验入口、Hugging Face、ModelScope 与技术报告链接。权重以 MIT 许可放出：https://huggingface.co/internlm/Sage-S2.1-Flash ；ModelScope：https://www.modelscope.cn/models/Shanghai_AI_Laboratory/Sage-S2.1-Flash ；体验：https://discovery.intern-ai.org.cn/token-plan/home ；GitHub 仓库 InternLM/Sage-S2.1-Flash 记录创建于 2026-11-16T03:34:03Z。ModelScope 账号 @ModelScope2022 于 2026-11-16T11:28:20Z（北京时间 19:28:20）发帖称 @sageai_official 开源了 Sage-S2.1-Flash，并写到 320B-A18B。上一轮 16:32 扫描已见到该仓库（当时约 9 星），但当时未找到正式发布说明，因而未入库。不要把它和已有词条 Sage-A1.5、Sage2，或更早放出的 Sage-S2.1（非 Flash，约 753B）混成同一个型号。机器之心：https://finance.sina.com.cn/roll/2026-11-16/doc-iniyxufc2704181.shtml ModelScope 帖：https://x.com/ModelScope2022/status/2122290669762871753",
     "review_14d": null
+  },
+  {
+    "id": 642,
+    "term": "d1.2 / d1.2-ultra",
+    "source": "x+web",
+    "score": 0.95,
+    "first_seen": "2026-11-17T00:32+08:00",
+    "url": "https://www.liquid.ai/blog/d1-2",
+    "excerpt": "2026 年 11 月 16 日，Liquid AI 官方账号 @liquidai 正式发布决策模型新版本 d1.2 与 d1.2-ultra。介绍帖发出时间为 2026-11-16T15:08:30Z（北京时间 23:08:30），开头为 “Today, we release d1.2 and d1.2-ultra, the state-of-the-art omnimodal decision models.”，并写到两款模型均可处理文本、图像和音频，并具备新的输出能力。官方博客 https://www.liquid.ai/blog/d1-2 标题为 “d1.2: State-of-the-Art Omnimodal Decision Models”，写到这是其决策模型的新版本，现支持音频输入和五项新任务；d1.2-ultra 在 Artificial Analysis Decision Index v2.1 上得到 75 分，在决策模型中排名第一，比此前最佳决策模型高 2 分。官方称两款模型也给出了各自价位上的最佳分数：没有模型能以更低价格超过 d1.2 的分数，也没有模型能在任何价格上超过 d1.2-ultra。五项新任务包括：从输入中读取数值（文本、数字或日期）、找出文本中某一类的全部片段（spans）、在图片中定位目标（单框或多实例多框）、估计数量（带区间），以及勾选所有适用选项。两款模型即日起在 Liquid API 上线，定价为每百万输入 token：d1.2 为 0.02 美元、d1.2-ultra 为 0.042 美元，只按输入计费；官方写到即将登陆 OpenRouter 和 Vercel。官方差错校准数据称，在 13 项基准、22,505 道由全部五个对照模型作答的题目上，d1.2-ultra 的校准误差为 0.8 个百分点，d1.2 为 1.2，对照 Jev 1.14 为 2.7、Perplexity 的 Decider v1.3 为 3.7、GPT-6 Luna 的 Decisions API 为 7.2。官方介绍帖：https://x.com/liquidai/status/2122346077231923698 。不要把它和 2026 年 10 月 17 日已入库的 d1-ultra，或更早的 LiquidAI d1-3B 混成同一个型号。",
+    "review_14d": null
+  },
+  {
+    "id": 643,
+    "term": "Plaid Agent Detection",
+    "source": "x+web",
+    "score": 0.9,
+    "first_seen": "2026-11-17T00:32+08:00",
+    "url": "https://plaid.com/blog/agent-detection-agentic-finance/",
+    "excerpt": "2026 年 11 月 16 日，Plaid 官方账号 @Plaid 正式介绍 Agent Detection：一种判断会话来自真人还是 AI 智能体、以及来自哪一类智能体的新产品。介绍帖发出时间为 2026-11-16T16:17:06Z（北京时间 2026 年 11 月 17 日 00:17:06），全文为 “Today we introduced Agent Detection, a new way to tell whether a session is a person or an AI agent, and which agent it is. You can’t manage what you can’t see. How it works and where we’re headed:”，并指向官方博客。官方博客 https://plaid.com/blog/agent-detection-agentic-finance/ 日期为 November 16, 2026，标题为 “Introducing Agent Detection: building trust in the age of agentic finance”，作者为欺诈业务负责人 Pedro Sanzovo。文中写到：“Today we're introducing Agent Detection, giving fintechs, banks, and other financial companies visibility into whether an interaction is human or agent-driven, including which agent.”官方称，Agent Detection 会查看设备、行为、自动化模式和网络活动等数千个信号，以识别交互来自真人还是 AI 智能体，以及该智能体关联的 AI 提供方；它针对金融场景中的登录、开户和资金流动等交互做了微调，并可通过轻量 SDK 接入，已在使用 Plaid 的客户也可能通过现有集成以最少额外设置使用。官方还写到，在真实流量的对照测试中，Plaid 的 Agent Detection 识别到的智能体会话数量是竞品的 2.3 倍，且没有增加误报。官方介绍帖：https://x.com/Plaid/status/2122363341200937381 。不要把它和 Plaid 已有的 Trust Index 或更早的账户连接能力写成同一个产品。",
+    "review_14d": null
   }
 ]
