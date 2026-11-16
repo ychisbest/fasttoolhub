@@ -3357,7 +3357,7 @@
     "first_seen": "2026-10-30T12:32+08:00",
     "url": "https://phonic.ai/blog/phonic-1",
     "excerpt": "Phonic launched Phonic-1 on Oct 29, 2026: speech-to-speech model for agentic voice tasks; #1 on Artificial Analysis Speech to Speech Index (87.1); tool calls while caller still talking; ~$0.07/min; $27.5M Series A (First Round).",
-    "review_14d": null
+    "review_14d": "hit|2026-11-14|q='Phonic-1' pre7=0.0 last7=14.3 peak=100"
   },
   {
     "id": 337,
@@ -3367,7 +3367,7 @@
     "first_seen": "2026-10-30T12:32+08:00",
     "url": "https://elevenlabs.io/blog/sound-effects-v3",
     "excerpt": "ElevenLabs launched SFX v3 on Oct 29, 2026: newest text-to-sound-effects model; better multi-sound prompts, music/vocals, cleaner audio vs SFX v2; live in ElevenCreative + ElevenAPI (model_id eleven_text_to_sound_v3).",
-    "review_14d": null
+    "review_14d": "hit|2026-11-14|q='SFX v3' pre7=0.0 last7=34.3 peak=100"
   },
   {
     "id": 338,
@@ -3377,7 +3377,7 @@
     "first_seen": "2026-10-30T12:32+08:00",
     "url": "https://www.cartesia.ai/blog/managed-agents",
     "excerpt": "Cartesia launched Managed Agents on Oct 29, 2026: end-to-end enterprise voice-agent platform (#1 Speech Agent Arena Elo 1115; EVA-Bench accuracy 87% / experience 91%); prompt + voice + LLM → telephony-ready agent; ~$0.03/min.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-14|no Trends data for 'Cartesia Managed Agents'"
   },
   {
     "id": 339,
@@ -3387,7 +3387,7 @@
     "first_seen": "2026-10-30T12:32+08:00",
     "url": "https://pokebot.com/ai",
     "excerpt": "PokeBot (Tsinghua IIIS spinout) unveiled Poke-Aurora on Oct 29–30, 2026: world-action model for robot arms; ~74.2% success on ~1k unseen objects / ~10k unseen tasks; served via new RoboAPI technical preview.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-14|no Trends data for 'Poke-Aurora'"
   },
   {
     "id": 340,
@@ -3397,7 +3397,7 @@
     "first_seen": "2026-10-30T12:32+08:00",
     "url": "https://pokebot.com/ai",
     "excerpt": "PokeBot opened RoboAPI technical preview Oct 29–30, 2026: natural-language control API for compatible robot arms powered by Poke-Aurora; free non-commercial; registration via email on platform.pokebot.com.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-14|q='RoboAPI' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 341,
@@ -3407,7 +3407,7 @@
     "first_seen": "2026-10-30T16:32+08:00",
     "url": "https://herdr.dev/core/",
     "excerpt": "herdr launched herdr-core + native desktop app (Apache 2.0): local terminal runtime where coding agents keep running after the window closes; agents can rewrite every UI file. Official X ~3.8k likes / 261k views; HN frontpage; herdr.dev/core.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-14|q='herdr-core' pre7=0.0 last7=63.1 peak=100"
   },
   {
     "id": 342,
@@ -3417,7 +3417,7 @@
     "first_seen": "2026-10-30T16:32+08:00",
     "url": "https://factory.com/news/frontier-harness",
     "excerpt": "Factory launched Droid 1.0 (Oct 29): enterprise coding-agent harness with programmatic tool calling (Code Mode) as default; up to ~20% more efficient vs native model harnesses; Desktop + CLI + Droid SDK. Official X Introducing post ~903 likes / 136k impressions.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-14|q='Droid 1.0' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 343,
@@ -3427,7 +3427,7 @@
     "first_seen": "2026-10-30T16:32+08:00",
     "url": "https://huggingface.co/Efficient-Large-Model/Open-H3-Regenerate-2K",
     "excerpt": "NVIDIA open-sourced Open-H3-Regenerate-2K: open replacement for MiniMax closed H3-Regenerate-2K API; 3-step diffusion refiner that regenerates low-res H3 drafts at 768P–4K. HF Efficient-Large-Model (~129 likes); ComfyUI ports circulating.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-14|q='Open-H3-Regenerate-2K' pre7=0.0 last7=19.9 peak=100"
   },
   {
     "id": 344,
@@ -3437,7 +3437,7 @@
     "first_seen": "2026-10-30T20:32+08:00",
     "url": "https://samaya.ai/blog/rl-post-trained-agentic-model",
     "excerpt": "Samaya AI released Sterling (Oct 29): LoRA post-trained Nemotron 3.5 Lightning (30B MoE, 3B active) finance research agent; 58.9% on FrontierFinance vs Claude Fable 5.1 55.9%, $0.61 vs $6.89/query. MarkTechPost + NVIDIA coverage.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-14|no Trends data for 'Samaya Sterling'"
   },
   {
     "id": 345,
@@ -3447,7 +3447,7 @@
     "first_seen": "2026-10-30T20:32+08:00",
     "url": "https://huggingface.co/rockmatrix-ai/EdgeRock",
     "excerpt": "Rock Matrix's open-source EdgeRock-4B: 256K context with fixed 72 MiB attention KV (Rock Memory Anchors), 82.9% AIME, 6.42x Qwen3.5-4B throughput. @DataChaz post ~7k views/56 likes; GitHub ~800 stars; arXiv 2610.10118.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-14|no Trends data for 'EdgeRock-4B'"
   },
   {
     "id": 346,
@@ -3457,7 +3457,7 @@
     "first_seen": "2026-10-30T20:32+08:00",
     "url": "https://www.thepaper.cn/newsDetail_forward_34361157",
     "excerpt": "深兰科技 10/29 联合华为发布全球首款大模型智能体工作手机 Wowoker：麒麟芯片 + HarmonyOS，集成多模态大模型、Decision Model 与 AgentOS，AI 外呼、多平台营销与 CRM。澎湃/CNMO 报道。",
-    "review_14d": null
+    "review_14d": "miss|2026-11-14|q='Wowoker' pre7=14.3 last7=0.0 peak=100"
   },
   {
     "id": 347,
@@ -3467,7 +3467,7 @@
     "first_seen": "2026-10-30T20:32+08:00",
     "url": "https://github.com/wangzan101/Mika",
     "excerpt": "wangzan101/Mika (created Oct 29, ~354 stars): open-source on-device Android AI agent that operates apps and the web (Kotlin/Compose, accessibility). Author demo post ~10k views; Chinese X coverage today.",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-14|generic word, Trends not attributable"
   },
   {
     "id": 348,
@@ -3477,7 +3477,7 @@
     "first_seen": "2026-10-31T00:32+08:00",
     "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B-Preview",
     "excerpt": "SenseTime open-sourced SenseNova-Loop-9B-Preview on Oct 30, 2026 (Apache-2.0): a ~9B multimodal looped-decoder model that runs a shared 24-layer block twice (32 stored layers, 56 executed), with two-stream mHC and 256K training context, aimed at long-context and agentic work.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-14|q='SenseNova-Loop-9B' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 349,
@@ -3487,7 +3487,7 @@
     "first_seen": "2026-10-31T00:32+08:00",
     "url": "https://microsoft.github.io/Mage/cowork/",
     "excerpt": "Microsoft Mage team released Mage-VL-Cowork on Oct 30, 2026: a 4B Apache-2.0 hybrid computer-use agent whose single policy chooses between GUI clicks and bash/code each turn, scoring 66.0% on OSWorld-Verified (50 steps), ahead of 27B–30B agents.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-14|q='Mage-VL-Cowork' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 350,
@@ -3497,7 +3497,7 @@
     "first_seen": "2026-10-31T00:32+08:00",
     "url": "https://www.tryaura.dev/autopilot/",
     "excerpt": "Ramen launched Aura Autopilot on Oct 30, 2026: an open-source, continually learning real-time playtesting agent for Unreal Engine 5, Unity 6 and Godot 4 that plays games, finds bugs and works with Claude Code/Codex subscriptions or BYOK. Covered by Business Wire, GamesBeat and an X trending story.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-14|q='Aura Autopilot' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 351,
@@ -3507,7 +3507,7 @@
     "first_seen": "2026-10-31T00:32+08:00",
     "url": "https://github.com/microsoft/TokenEconomizer",
     "excerpt": "Microsoft's TokenEconomizer (Apache-2.0, ~1.5k GitHub stars, arXiv 2610.22732) is a plugin for Claude Code, Codex, Copilot CLI and Pi that learns repo-specific micro-skills, prunes unused tools and breaks failure loops, cutting mean SWE-Bench cost 18.4–30.9%.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-14|q='TokenEconomizer' pre7=0.0 last7=30.0 peak=100"
   },
   {
     "id": 352,
@@ -3517,7 +3517,7 @@
     "first_seen": "2026-10-31T00:32+08:00",
     "url": "https://www.infoq.cn/article/IqHuYdSuUHw6XK6aCBU5",
     "excerpt": "Tencent launched Buddy One on Oct 29, 2026 at its Global Digital Ecosystem Summit: a cross-app AI collaboration suite built on the WorkBuddy agent that unifies accounts (Buddy One ID), credits and context across Tencent Docs, Meeting, ima and the new Tencent Netdisk.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-14|q='Buddy One' pre7=77.9 last7=55.7 peak=100"
   },
   {
     "id": 353,
@@ -3527,7 +3527,7 @@
     "first_seen": "2026-10-31T00:32+08:00",
     "url": "https://openai.com/business/private-intelligence/",
     "excerpt": "OpenAI launched Private Intelligence (\"Frontier intelligence. Private by design.\") in late Oct 2026: an enterprise privacy offering combining Zero Data Retention for eligible API workflows, a Private Inference confidential-computing preview, access restrictions, agent permissions and customer data ownership.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-14|q='OpenAI Private Intelligence' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 354,
@@ -3537,7 +3537,7 @@
     "first_seen": "2026-10-31T04:32+08:00",
     "url": "https://fal.ai/blog/introducing-flux-3-max-by-fal",
     "excerpt": "\"Today, fal Research launches FLUX 3 Max, our latest post-trained video generation model, in collaboration with Black Forest Labs.\" fal says it renders a 10-second video in 12.45 s versus 277.80 s for Seedance 2.5, with a 47-point Elo gain over the original FLUX 3.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-14|q='FLUX 3 Max' pre7=0.0 last7=28.7 peak=100"
   },
   {
     "id": 355,
@@ -3547,7 +3547,7 @@
     "first_seen": "2026-10-31T04:32+08:00",
     "url": "https://huggingface.co/datasets/TheAgenticDataCompany/open-yap-1k",
     "excerpt": "\"Today we're releasing Open Yap 1K: 1,000 hours of dual-channel English conversation, capturing how people speak together naturally in real-world environments recorded in 48kHz. The dataset ships free for both commercial and research use.\"",
-    "review_14d": null
+    "review_14d": "miss|2026-11-14|no Trends data for 'Open Yap 1K'"
   },
   {
     "id": 356,
@@ -3557,7 +3557,7 @@
     "first_seen": "2026-10-31T08:32+08:00",
     "url": "https://x.com/humansand/status/2116186245802127411",
     "excerpt": "humans& (@humansand): \"Introducing Ampersand Tutor (&Tutor) - we trained a model to learn like people, then trained &Tutor to teach it. On a widely-used tutor model eval, &Tutor performed best.\" (455 likes, ~60k views)",
-    "review_14d": null
+    "review_14d": "miss|2026-11-14|no Trends data for 'Ampersand Tutor'"
   },
   {
     "id": 357,
@@ -3567,7 +3567,7 @@
     "first_seen": "2026-10-31T08:32+08:00",
     "url": "https://x.com/ctatedev/status/2116323148706771302",
     "excerpt": "Chris Tate (@ctatedev): \"Introducing agent-desktop — agent-browser, for your whole computer. → Computer Use for any coding agent → macOS, Windows and Linux → Runs in bg while you keep working → Agents use your computer in parallel\". Guillermo Rauch: \"New from Vercel Labs: agent-desktop\".",
-    "review_14d": null
+    "review_14d": "hit|2026-11-14|q='agent-desktop' pre7=0.0 last7=38.0 peak=100"
   },
   {
     "id": 358,
@@ -3577,7 +3577,7 @@
     "first_seen": "2026-10-31T08:32+08:00",
     "url": "https://huggingface.co/speridlabs/idol",
     "excerpt": "\"Idol turns one picture of an object into a 3D Gaussian splat. Give it a render, a generated image or a photo: it removes the background, frames the object and generates up to 1,048,576 Gaussians... It runs on consumer GPUs, using 7.2 GB of VRAM and can run in under 2 seconds.\" (HF trending, 147 likes; Apache-2.0)",
-    "review_14d": null
+    "review_14d": "miss|2026-11-14|no Trends data for 'Sperid Idol'"
   },
   {
     "id": 359,
@@ -3587,7 +3587,7 @@
     "first_seen": "2026-10-31T08:32+08:00",
     "url": "https://www.woshipm.com/digest/525690",
     "excerpt": "\"On October 30, Qiyuan Robotics launched PrimeSim, a world-model simulator for robot training... PrimeSim topped the WorldSimProbe LIBERO overall board, taking first place in three of five tests. RL with PrimeSim lifted policy success from 61.7% to 73.2%.\"",
-    "review_14d": null
+    "review_14d": "hit|2026-11-14|q='PrimeSim' pre7=0.0 last7=55.0 peak=100"
   },
   {
     "id": 360,
@@ -3597,7 +3597,7 @@
     "first_seen": "2026-10-31T08:32+08:00",
     "url": "https://mundo-world-model.github.io/",
     "excerpt": "\"Take a few photos of a room, and Mundo turns them into a world you can explore and simulate. You can explore the room from any viewpoint, make a drawer slide open and an apple fly out, or have a robot walk in and set a bag on the bed.\"",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-14|generic word, Trends not attributable"
   },
   {
     "id": 361,
@@ -3607,7 +3607,7 @@
     "first_seen": "2026-10-31T08:32+08:00",
     "url": "https://github.com/dbreunig/nesformer",
     "excerpt": "\"An NES CPU compiled into the weights of a stock Qwen3.5 model. ... Nobody trained these weights; a compiler computed every one. When you play a game, the model predicts the CPU's execution log one token at a time.\" (149★ within a day)",
-    "review_14d": null
+    "review_14d": "miss|2026-11-14|no Trends data for 'nesformer'"
   },
   {
     "id": 362,
@@ -3617,7 +3617,7 @@
     "first_seen": "2026-10-31T12:32+08:00",
     "url": "https://x.com/ChmalSzymon/status/2116118360270495865",
     "excerpt": "Szymon Chmal (@ChmalSzymon): \"Introducing Simlock: a free, open-source tool that turns your machine into a simulator cloud that manages itself, so every coding agent gets its own iOS or Android device, simulator or real phone.\" (813 likes, ~42.5k views)",
-    "review_14d": null
+    "review_14d": "miss|2026-11-15|q='Simlock' pre7=79.0 last7=69.1 peak=100"
   },
   {
     "id": 363,
@@ -3627,7 +3627,7 @@
     "first_seen": "2026-10-31T12:32+08:00",
     "url": "https://x.com/SiliconANGLE/status/2116230519503405166",
     "excerpt": "SiliconANGLE (@SiliconANGLE): \"Krafton-backed Ludo Robotics releases robot intelligence model designed around human intent\"; NXTDAY (@nxtday): \"Ludo Robotics just released Ludi 0.2, a robot model aimed at reading human intent in the real world… 0.2 adds social memory, gesture reading, and tool…\"",
-    "review_14d": null
+    "review_14d": "miss|2026-11-15|no Trends data for 'Ludi 0.2'"
   },
   {
     "id": 364,
@@ -3637,7 +3637,7 @@
     "first_seen": "2026-10-31T12:32+08:00",
     "url": "https://x.com/i/trending/2116357500177981716",
     "excerpt": "X News: \"Lightberry's pint-sized Lumi robot just cleared a major U.S. security hurdle, becoming the only humanoid cleared for American shelves amid a ban on foreign rivals.\"",
-    "review_14d": null
+    "review_14d": "miss|2026-11-15|no Trends data for 'Lightberry Lumi'"
   },
   {
     "id": 365,
@@ -3647,7 +3647,7 @@
     "first_seen": "2026-10-31T12:32+08:00",
     "url": "https://x.com/i/trending/2116361596922413067",
     "excerpt": "X News: \"Imagine uploading a sneaker photo and getting a full unboxing video with a consistent AI model handling every detail. Glif just made that real with its new UGC Studio feature.\"",
-    "review_14d": null
+    "review_14d": "miss|2026-11-15|no Trends data for 'Glif UGC Studio'"
   },
   {
     "id": 366,
@@ -3657,7 +3657,7 @@
     "first_seen": "2026-10-31T12:32+08:00",
     "url": "https://x.com/i/trending/2116219625428209768",
     "excerpt": "X News: \"A tiny satellite in orbit just powered up Google's AI chips with solar energy and beamed back a poetic haiku about Earth from above.\" … \"Google's Project Suncatcher satellite, launched October 1 on a SpaceX rocket with Planet, successfully ran the Gemma 4 model on four TPUs this week.\"",
-    "review_14d": null
+    "review_14d": "hit|2026-11-15|q='Project Suncatcher' pre7=0.0 last7=11.3 peak=100"
   },
   {
     "id": 367,
@@ -3667,7 +3667,7 @@
     "first_seen": "2026-10-31T12:32+08:00",
     "url": "https://x.com/spx680/status/2116355586971598878",
     "excerpt": "@spx680: \"10月31日：AMD发布ROCm Loom 0.1实现CPU/GPU/NPU统一编译…\" (Oct 31: AMD released ROCm Loom 0.1, unified compilation for CPU/GPU/NPU); corroborated by Phoronix \"AMD's ROCm HRX Loom v0.1 Released For Targeting AMD CPUs, GPUs & NPUs\".",
-    "review_14d": null
+    "review_14d": "miss|2026-11-15|no Trends data for 'ROCm HRX Loom'"
   },
   {
     "id": 368,
@@ -3677,7 +3677,7 @@
     "first_seen": "2026-10-31T12:32+08:00",
     "url": "https://runtimewire.com/article/kinedb-pre-seed-offline-database",
     "excerpt": "RuntimeWire: \"KineDB raises €850K to put offline sync inside the database — KineDB co-founders Axel Loewenhoff and Allan Zimmermann are building one engine for local devices and backend infrastructure. Superhero Capital led the pre-seed round.\"",
-    "review_14d": null
+    "review_14d": "miss|2026-11-15|no Trends data for 'KineDB'"
   },
   {
     "id": 369,
@@ -3687,7 +3687,7 @@
     "first_seen": "2026-10-31T16:32+08:00",
     "url": "https://x.com/XiaomiTech_/status/2116154468358316380",
     "excerpt": "@XiaomiTech_: \"From recognizing text to understanding documents. Meet Xiaomi-OCR-0, an open-source document understanding model with just 0.8B parameters.\" (2.5k+ likes; HF xiaomi-research/Xiaomi-OCR-0, ~15k downloads last month)",
-    "review_14d": null
+    "review_14d": "miss|2026-11-15|q='Xiaomi-OCR-0' pre7=0.0 last7=2.0 peak=100"
   },
   {
     "id": 370,
@@ -3697,7 +3697,7 @@
     "first_seen": "2026-10-31T16:32+08:00",
     "url": "https://godwit.email",
     "excerpt": "godwit.email: \"An open-source, AI-native email client you can extend. Works with any IMAP/SMTP account. Its assistant, Wit, reads, summarizes, translates and drafts mail with the model you choose.\" — launched on Product Hunt Oct 31, 2026 (v1.21.0 released Oct 30).",
-    "review_14d": null
+    "review_14d": "hit|2026-11-15|q='Godwit' pre7=36.3 last7=67.7 peak=100"
   },
   {
     "id": 371,
@@ -3707,7 +3707,7 @@
     "first_seen": "2026-10-31T20:32+08:00",
     "url": "https://x.com/StockMKTNewz/status/2116225263134450053",
     "excerpt": "@StockMKTNewz: \"Subvocal just announced that it has raised $1.3 Million from Y Combinator and Afore Capital ... their glasses 'track your internal speech muscles with non-contact sensing and decodes silent, almost invisible mouthing into text at more than 200 words/min.'\" (28k+ views; X trending story 'Subvocal's Smart Glasses Turn Silent Mouthing into Text')",
-    "review_14d": null
+    "review_14d": "hit|2026-11-15|q='Subvocal' pre7=7.3 last7=12.9 peak=100"
   },
   {
     "id": 372,
@@ -3717,7 +3717,7 @@
     "first_seen": "2026-10-31T20:32+08:00",
     "url": "https://github.com/Orkas-AI/Orkas",
     "excerpt": "GitHub Orkas-AI/Orkas: \"Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors.\" (GitHub Trending daily, 1,004 stars today; 5,868 stars)",
-    "review_14d": null
+    "review_14d": "hit|2026-11-15|q='Orkas' pre7=0.0 last7=71.9 peak=100"
   },
   {
     "id": 373,
@@ -3727,7 +3727,7 @@
     "first_seen": "2026-10-31T20:32+08:00",
     "url": "https://x.com/AgenticGenesis/status/2116457650745401468",
     "excerpt": "@AgenticGenesis: \"Why do GUI agent evaluation and training 'each run their own way'? Alibaba's MAI-Gym unifies the execution stack, evaluation and RL training, supporting 10 benchmarks and 20,000 parallel environments. The 9B model leads open models under 10B in the paper.\" (arXiv:2610.20939; project page tongyi-mai.github.io/MAI-Gym)",
-    "review_14d": null
+    "review_14d": "miss|2026-11-15|no Trends data for 'MAI-Gym'"
   },
   {
     "id": 374,
@@ -3737,7 +3737,7 @@
     "first_seen": "2026-11-01T00:32+08:00",
     "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
     "excerpt": "deepseek-ai/dsh-superagent-prototype (created 2026-10-31 17:32 BJT, 1.3k★ in <7h): \"a proactive coding agent for one GitHub repository, packaged as a bundle for DeepSeek Harness. It listens to GitHub and, optionally, Feishu...\" MIT, research prototype. X: @leo114119 60♥/7.2k views, @Mashiro_0619 42♥/4.8k, @teortaxesTex 43♥/3k.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-15|q='dsh-superagent' pre7=0.0 last7=5.7 peak=100"
   },
   {
     "id": 375,
@@ -3747,7 +3747,7 @@
     "first_seen": "2026-11-01T00:32+08:00",
     "url": "https://x.com/ephraimduncan/status/2116506521077186947",
     "excerpt": "@ephraimduncan: \"#4 on Product Hunt, help us get to #1\" (60♥/2k views). Product Hunt Oct 31 2026: telemetry.dev — \"LLM observability for AI agents\", #3 of the day, 128 upvotes; OpenTelemetry-based traces, prompt management, evals, alerts, CLI + MCP server.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-15|no Trends data for 'telemetry.dev'"
   },
   {
     "id": 376,
@@ -3757,7 +3757,7 @@
     "first_seen": "2026-11-01T04:32+08:00",
     "url": "https://x.com/opencode/status/2116555630236577819",
     "excerpt": "@opencode Oct 31 2026 (4.2k♥/240k views): \"hex is the best way to use your voice: fast, runs locally, works on mac, windows, linux — stable release now available.\" Hex 3.0.0 (anomalyco/hex, MIT, ~1.8k★, released Oct 31 00:38Z) — local-first Rust voice dictation by Anomaly (OpenCode team); site anoma.ly/hex.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-15|q='OpenCode Hex' pre7=0.0 last7=27.1 peak=100"
   },
   {
     "id": 377,
@@ -3767,7 +3767,7 @@
     "first_seen": "2026-11-01T04:32+08:00",
     "url": "https://huggingface.co/h2oai/timeh2o-v1",
     "excerpt": "H2O.ai (press release Oct 26 2026; @h2oai Oct 31 post): 108M-param zero-shot time-series foundation model, #1 of 32 on fev-bench (91.9% win rate, skill 50.8), lowest MASE/CRPS on GIFT-Eval; open weights on HF (non-commercial), plus TimeH2O-v1-tiny.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-15|no Trends data for 'TimeH2O-v1'"
   },
   {
     "id": 378,
@@ -3777,7 +3777,7 @@
     "first_seen": "2026-11-01T08:32+08:00",
     "url": "https://x.com/benjitaylor/status/2116593247854453244",
     "excerpt": "@benjitaylor (X head of design), Oct 31 2026, ~4.7k likes: \"Stageshow: a skill that helps your agent make better faux UI stills, animations, bento grids, and more. npx skills add benjitaylor/skills --skill stageshow\" — MIT-licensed agent skill with React kit + film.mjs frame review; write-up at benji.org/stageshow.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-15|q='Stageshow' pre7=0.0 last7=35.7 peak=100"
   },
   {
     "id": 379,
@@ -3787,7 +3787,7 @@
     "first_seen": "2026-11-01T08:32+08:00",
     "url": "https://karpathy.bearblog.dev/hacker-tube/",
     "excerpt": "Andrej Karpathy, Oct 31 2026: built HackerTube (hackertube.org), a YouTube alternative of 6,454 videos recommended in Hacker News comments 2007–2026, using Claude Opus 5.5 in ~2 hours. HN story 592 points / 214 comments; covered by RuntimeWire.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-15|q='HackerTube' pre7=0.0 last7=9.3 peak=100"
   },
   {
     "id": 380,
@@ -3797,7 +3797,7 @@
     "first_seen": "2026-11-01T08:32+08:00",
     "url": "https://github.com/ccch1mneyyy/dsh-Go",
     "excerpt": "ccch1mneyyy/dsh-Go (AGPL-3.0, Flutter, ~3.6k stars, 163 forks; v1.0 Oct 30 → v1.0.7 Oct 31 2026): unofficial Android client that runs DeepSeek Harness (DSH) locally on the phone with a bundled Linux env (no root/Termux) or remote-controls DSH on your computer. GitHub trending; widely shared on X.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-15|q='DSH Go' pre7=0.0 last7=50.6 peak=100"
   },
   {
     "id": 381,
@@ -3807,7 +3807,7 @@
     "first_seen": "2026-11-01T12:32+08:00",
     "url": "https://www.prnewswire.com/news-releases/introducing-reducto-office-bringing-full-fidelity-document-editing-to-chatgpt-and-codex-302924156.html",
     "excerpt": "PR Newswire, Oct 29, 2026: \"Reducto today introduced Reducto Office, a free plugin that brings document editing into ChatGPT and Codex. Office lets users work with AI agents on existing DOCX, PPTX and XLSX files, make targeted changes and review the results in a live editor.\" CEO Adit Abraham's launch post drew ~244k views.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-16|no Trends data for 'Reducto Office'"
   },
   {
     "id": 382,
@@ -3817,7 +3817,7 @@
     "first_seen": "2026-11-01T12:32+08:00",
     "url": "https://nullprogram.com/blog/2026/10/31/",
     "excerpt": "Chris Wellons (nullprogram), Oct 31, 2026: \"At its core a coding harness is essentially curl glued to popen(). This should not require gigabytes of RAM. So I built my own: Prospero.\" — Hacker News front page, 181 points / 120 comments; repo skeeto/prospero.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-16|q='Prospero' pre7=86.7 last7=80.7 peak=100"
   },
   {
     "id": 383,
@@ -3827,7 +3827,7 @@
     "first_seen": "2026-11-01T12:32+08:00",
     "url": "https://near.ai/blog/cybersecurity-models-and-near-ai-red-launch",
     "excerpt": "NEAR AI blog, Oct 29, 2026: \"we're launching abliterated models for cybersecurity and NEAR AI Red, a program that helps security teams put powerful AI to work with confidential inference and protections they can verify.\" @NEARProtocol's post drew ~478 likes; Illia Polosukhin promoted the open-source RED Sandbox (~297 likes).",
-    "review_14d": null
+    "review_14d": "miss|2026-11-16|q='NEAR AI RED' pre7=40.7 last7=21.7 peak=100"
   },
   {
     "id": 384,
@@ -6367,6 +6367,16 @@
     "first_seen": "2026-11-16T10:40+08:00",
     "url": "https://support.huaweicloud.com/bulletin-maas/bulletin-maas-0001.html",
     "excerpt": "2026 年 11 月 15 日，华为云 MaaS 模型即服务平台正式上线开源盘古模型 openPangu-2.1-Pro。官方《MaaS模型发布公告》（更新时间 2026-11-15 GMT+08:00，https://support.huaweicloud.com/bulletin-maas/bulletin-maas-0001.html）将模型版本记为 20261115，写明该版本支持 512K 上下文长度，支持 Function Call、前缀续写、前缀缓存和思维链，目前以预置服务形式提供，支持区域为西南-贵阳一。官方最佳实践页（同日更新，https://support.huaweicloud.com/bestpractice-maas/bestpractice_maas_0021_03.html）称其为开源盘古最新一代模型，相比上一代在 Agent、代码生成以及吞吐能力上有明显提升。观点网于当日 22:08、格隆汇于 22:20（均为北京时间）发稿，转述华为云消息：模型围绕 Agent 开发、AI 编码和推理优化升级，并将接入智果 AgentArts、码道 CodeArts、果办 OfficeAce。此为对 11 月 15 日官方上线的补录，落在 11/15 20:32→11/16 00:32 漏窗；11 月 6 日华为云伙伴资讯已预告将于 11 月 15 日上线。不要和 2026 年 7 月 30 日已上线的 openPangu-2.0-Pro，或 6 月 30 日的 openPangu-2.0-Flash 混淆。",
+    "review_14d": null
+  },
+  {
+    "id": 638,
+    "term": "xeet",
+    "source": "x+web",
+    "score": 0.86,
+    "first_seen": "2026-11-16T12:32+08:00",
+    "url": "https://xeet-rs.vercel.app",
+    "excerpt": "2026 年 11 月 16 日，Vercel CEO Guillermo Rauch（@rauchg）正式介绍 xeet：一个用安全 Rust / WebAssembly 实现的、不必启动浏览器就能把 X 帖渲染成像素级对齐 PNG 的工具。介绍帖发出时间为 2026-11-16T04:27:37Z（北京时间 12:27:37），全文以 “Introducing 𝚡𝚎𝚎𝚝” 开头，并指向演示站 https://xeet-rs.vercel.app ；帖中写到：A hermetic, pixel-perfect X post renderer in safe Rust / wasm. Zero browser, network, filesystem, system fonts. Renders a post to PNG in ~1ms (and 0.4 ms for @jack's \"setting up my twttr\")。官方页面同样把 xeet 写成：把帖子或 x.com 链接交给它，即可得到与 Chrome 在 x.com 上所见一致的 Retina PNG。源码仓库为 https://github.com/rauchg/xeet （Apache-2.0；GitHub 记录创建于 2026-11-15T18:07:57Z），提供原生 CLI、Rust 库与 WASM 包；npm 上 @xeet/core 与 @xeet/cli 的 0.1.0 版本发布时间约为 2026-11-15T21:28Z。官方介绍帖：https://x.com/rauchg/status/2122184794209714368 。不要把它和口语里把 tweet 写成 xeet 的用法，或 mohitsharmadl/xeet、Sigarikafat/Xeet 等“在终端发帖”的同名 CLI 混成同一个产品。",
     "review_14d": null
   }
 ]
