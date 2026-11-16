@@ -6398,5 +6398,15 @@
     "url": "https://www.huaweicloud.com/ai/cloudrobo.html",
     "excerpt": "2026 年 11 月 16 日 14:00–15:30（北京时间），华为云举办 CloudRobo 具身世界模型发布会。IT之家当日 14:46 报道：华为云“行业 AI 梦工厂”正式发布并开源昇腾原生具身世界模型 CloudRobo-WM1.2。科创板日报 15:46 报道：华为云具身产品线总裁、具身智能Lab主任吴小东发布该模型，并宣布将进行权重、推理、代码开源。官方口径（经上述报道转述）称，模型基于昇腾训练，采用共享世界模型骨干网络实现预测增强的世界表征，基于原生 DualAct 架构实现动作生成，并在 RoboTwin 2.0、LiberoPro 2.0 两项评测中均排名第一；五项创新包括 PPA 多模态世界表征、DualAct、多粒度监督数据自适应预训练、本体语义保真跨具身运动建模，以及 World / Expert、Joint / Action-only 四种可按需组合的弹性推理模式。除模型外，华为云还将训练框架、WAM 昇腾算力最佳实践一并开放。CloudRobo 平台本身于 2025 年 6 月发布，不要与本次新型号名 CloudRobo-WM1.2 混淆。本轮扫描时 GitHub 与 Hugging Face 尚未检索到公开权重仓库。IT之家：https://www.ithome.com/1/027/684.htm 科创板日报：https://www.cls.cn/detail/2535409 发布会页：https://www.huaweicloud.com/about/live/261116.html 产品专区：https://www.huaweicloud.com/ai/cloudrobo.html",
     "review_14d": null
+  },
+  {
+    "id": 641,
+    "term": "书生 S2.1 Flash / Sage-S2.1-Flash",
+    "source": "x+web",
+    "score": 0.92,
+    "first_seen": "2026-11-16T20:32+08:00",
+    "url": "https://internlm.github.io/Sage-S2.1-Flash/",
+    "excerpt": "2026 年 11 月 16 日，上海人工智能实验室书生系列正式发布科学多模态智能体模型书生 S2.1 Flash（英文名 Sage-S2.1-Flash）。官方页面 https://internlm.github.io/Sage-S2.1-Flash/ 以 “今天，我们正式发布 书生 S2.1 Flash” 开篇，写到这是一款面向高难度科学研究的前沿科学多模态智能体模型，采用 3200 亿参数 MoE 架构，将科学多模态理解与通用智能体能力相结合，支持科学深度研究、科学编程及专业科研软件操作。官方称，模型将分子图、晶体结构、蛋白质序列与三维结构、DNA / RNA 序列，以及光谱、质谱、X 射线衍射、心电、脑电和光变曲线等十余类科学输入纳入统一模型（架构名为 Sage SciPerception），并可通过视觉反馈根据软件状态与中间结果检验判断、调整策略。官方评测表列出其在 MLE-bench Lite 上为 90.3、OfficeQA Pro 为 72.2、Harvey LAB 为 25.0、SpreadsheetBench 2 为 37.1，在所给对照模型中上述四项均为第一；对照模型包括 GLM-5.3-Flash、DeepSeek-V4.1-Flash-1017、Qwen3.8-Max、GPT-5.6 Sol 和 Claude Opus 5。机器之心于当日 19:37（北京时间）发稿，转述该模型由上海人工智能实验室联合复旦大学、中科院软件所、中国人民大学、中科院自动化所、华东师范大学、哈尔滨工业大学、北京大学等机构共同推出，并给出体验入口、Hugging Face、ModelScope 与技术报告链接。权重以 MIT 许可放出：https://huggingface.co/internlm/Sage-S2.1-Flash ；ModelScope：https://www.modelscope.cn/models/Shanghai_AI_Laboratory/Sage-S2.1-Flash ；体验：https://discovery.intern-ai.org.cn/token-plan/home ；GitHub 仓库 InternLM/Sage-S2.1-Flash 记录创建于 2026-11-16T03:34:03Z。ModelScope 账号 @ModelScope2022 于 2026-11-16T11:28:20Z（北京时间 19:28:20）发帖称 @sageai_official 开源了 Sage-S2.1-Flash，并写到 320B-A18B。上一轮 16:32 扫描已见到该仓库（当时约 9 星），但当时未找到正式发布说明，因而未入库。不要把它和已有词条 Sage-A1.5、Sage2，或更早放出的 Sage-S2.1（非 Flash，约 753B）混成同一个型号。机器之心：https://finance.sina.com.cn/roll/2026-11-16/doc-iniyxufc2704181.shtml ModelScope 帖：https://x.com/ModelScope2022/status/2122290669762871753",
+    "review_14d": null
   }
 ]
