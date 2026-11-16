@@ -6378,5 +6378,25 @@
     "url": "https://xeet-rs.vercel.app",
     "excerpt": "2026 年 11 月 16 日，Vercel CEO Guillermo Rauch（@rauchg）正式介绍 xeet：一个用安全 Rust / WebAssembly 实现的、不必启动浏览器就能把 X 帖渲染成像素级对齐 PNG 的工具。介绍帖发出时间为 2026-11-16T04:27:37Z（北京时间 12:27:37），全文以 “Introducing 𝚡𝚎𝚎𝚝” 开头，并指向演示站 https://xeet-rs.vercel.app ；帖中写到：A hermetic, pixel-perfect X post renderer in safe Rust / wasm. Zero browser, network, filesystem, system fonts. Renders a post to PNG in ~1ms (and 0.4 ms for @jack's \"setting up my twttr\")。官方页面同样把 xeet 写成：把帖子或 x.com 链接交给它，即可得到与 Chrome 在 x.com 上所见一致的 Retina PNG。源码仓库为 https://github.com/rauchg/xeet （Apache-2.0；GitHub 记录创建于 2026-11-15T18:07:57Z），提供原生 CLI、Rust 库与 WASM 包；npm 上 @xeet/core 与 @xeet/cli 的 0.1.0 版本发布时间约为 2026-11-15T21:28Z。官方介绍帖：https://x.com/rauchg/status/2122184794209714368 。不要把它和口语里把 tweet 写成 xeet 的用法，或 mohitsharmadl/xeet、Sigarikafat/Xeet 等“在终端发帖”的同名 CLI 混成同一个产品。",
     "review_14d": null
+  },
+  {
+    "id": 639,
+    "term": "Hy4 flash",
+    "source": "x+web",
+    "score": 0.95,
+    "first_seen": "2026-11-16T16:32+08:00",
+    "url": "https://hy.tencent.ai/research/hy4-flash",
+    "excerpt": "2026 年 11 月 16 日，腾讯混元官方账号 @TencentHunyuan 正式介绍 Hy4 flash：面向日常生产力场景的低成本模型。介绍帖发出时间为 2026-11-16T06:38:39Z（北京时间 14:38:39），开头为 “Meet Hy4 flash, the cheapest model for everyday productivity.”，并指向官方页面 https://hy.tencent.ai/research/hy4-flash 。官方页面日期为 November 16, 2026，标题为 “Introducing Hy4 flash: Ultimate cost-efficiency for everyday productivity”，写到总参数 224B（其中 64B 为 Engram 参数）、每 token 仅激活 12B，与 Hy4 一样原生多模态、支持 1M token 上下文，但 API 定价显著更低：每百万 token 缓存输入 0.003 美元、输入 0.070 美元、输出 0.281 美元（对照页上 Hy4 为 0.042 / 0.834 / 2.501 美元）。官方称已在腾讯云 TokenHub、WorkBuddy、元宝、企业微信、QQ、ima、Marvis 等上线，并将很快登陆 OpenRouter；11 月 30 日前可在 WorkBuddy 免费使用，TokenHub API 五折。官方还写到计划发布 Hy4 flash 的开源权重。介绍帖称，在面向日常工作的人类盲测中，它与 Claude Haiku 5.5（high）相当，同时任务成本降低约 18 倍。官方介绍帖：https://x.com/TencentHunyuan/status/2122217770314301469 。不要把它和 2026 年 11 月 4 日已入库的旗舰 Hy4，或已有词条 Hy Realtime 混成同一个型号。",
+    "review_14d": null
+  },
+  {
+    "id": 640,
+    "term": "CloudRobo-WM1.2",
+    "source": "x+web",
+    "score": 0.94,
+    "first_seen": "2026-11-16T16:32+08:00",
+    "url": "https://www.huaweicloud.com/ai/cloudrobo.html",
+    "excerpt": "2026 年 11 月 16 日 14:00–15:30（北京时间），华为云举办 CloudRobo 具身世界模型发布会。IT之家当日 14:46 报道：华为云“行业 AI 梦工厂”正式发布并开源昇腾原生具身世界模型 CloudRobo-WM1.2。科创板日报 15:46 报道：华为云具身产品线总裁、具身智能Lab主任吴小东发布该模型，并宣布将进行权重、推理、代码开源。官方口径（经上述报道转述）称，模型基于昇腾训练，采用共享世界模型骨干网络实现预测增强的世界表征，基于原生 DualAct 架构实现动作生成，并在 RoboTwin 2.0、LiberoPro 2.0 两项评测中均排名第一；五项创新包括 PPA 多模态世界表征、DualAct、多粒度监督数据自适应预训练、本体语义保真跨具身运动建模，以及 World / Expert、Joint / Action-only 四种可按需组合的弹性推理模式。除模型外，华为云还将训练框架、WAM 昇腾算力最佳实践一并开放。CloudRobo 平台本身于 2025 年 6 月发布，不要与本次新型号名 CloudRobo-WM1.2 混淆。本轮扫描时 GitHub 与 Hugging Face 尚未检索到公开权重仓库。IT之家：https://www.ithome.com/1/027/684.htm 科创板日报：https://www.cls.cn/detail/2535409 发布会页：https://www.huaweicloud.com/about/live/261116.html 产品专区：https://www.huaweicloud.com/ai/cloudrobo.html",
+    "review_14d": null
   }
 ]
