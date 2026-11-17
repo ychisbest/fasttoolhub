@@ -6508,5 +6508,35 @@
     "url": "https://docs.mistral.ai/resources/release-notes",
     "excerpt": "Mistral AI 官方账号 @MistralAI 于 2026-11-17T15:28:42Z（北京时间 11 月 17 日 23:28:42）发帖宣布 “Vibe desktop is here！”：“Hand Vibe several tasks at once, watch the agents work side by side, then review their diffs and track pull requests in the same window.”本轮扫描时该帖约 101 次点赞、约 8,002 次展示：https://x.com/MistralAI/status/2122713547952324750 。同日官方发布说明（https://docs.mistral.ai/resources/release-notes）把 Vibe Desktop 列为 11 月 17 日的新版本，状态为 General Availability、Mistral-Hosted，面向 macOS 与 Windows，Linux 即将支持。它是已有产品 Mistral Vibe（由 Le Chat 更名）的官方桌面客户端，把 Vibe Work 与 Vibe Code 放进同一个应用，不是一条全新的模型品牌。",
     "review_14d": null
+  },
+  {
+    "id": 652,
+    "term": "GPT-6.2 Astra / GPT-6.2 Sol",
+    "source": "sitemap+x+web",
+    "score": 0.96,
+    "first_seen": "2026-11-18T04:32+08:00",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "excerpt": "OpenAI 于 2026-11-17 发布官方文章《Introducing GPT-6.2 Astra and Sol》（https://openai.com/index/introducing-gpt-6-2-astra-sol/），宣布推出旗舰模型 GPT-6.2 Astra，以及面向日常工作的高效模型 GPT-6.2 Sol。文中写明：“We’re introducing GPT-6.2 Astra, our new frontier model for your hardest projects, and GPT-6.2 Sol, our efficient, versatile model for everyday work.”同一天起，Plus、Pro、Enterprise 与 Edu 用户可在 ChatGPT Work 和 Codex 中使用这两个模型；API 模型 ID 为 gpt-6.2-astra 与 gpt-6.2-sol。本轮站点地图扫描中，openai.com 新增了上述介绍页以及 https://openai.com/index/astra-law-6-2/（Astra for Law 基于 GPT-6.2 Astra 的更新配置，该配置名称本身已于 2026 年 9 月首次推出，本轮不作为新词单独收录）。OpenRouter 目录亦出现 openai/gpt-6.2-astra、openai/gpt-6.2-sol，标注 Released Nov 17, 2026。",
+    "review_14d": null
+  },
+  {
+    "id": 653,
+    "term": "Scribe v3 Live Medical",
+    "source": "sitemap+web",
+    "score": 0.93,
+    "first_seen": "2026-11-18T04:32+08:00",
+    "url": "https://elevenlabs.io/blog/scribe-v3-live-medical",
+    "excerpt": "ElevenLabs 于 2026-11-17 发布官方博客《Scribe v3 Live Medical helps conversational agents get clinical details right》（https://elevenlabs.io/blog/scribe-v3-live-medical），宣布推出面向实时通话的医学语音转写模型 Scribe v3 Live Medical。文中写明：“Today, ElevenLabs is releasing Scribe v3 Live Medical, which brings medical transcription to live calls. It’s built on Scribe v3 Live, our newest real-time Speech to Text model, and optimized for clinical language. It’s available now in ElevenAgents.”产品页 https://elevenlabs.io/medical-transcription 把它与用于批量转写的 Scribe v2 Medical 并列。本轮 elevenlabs.io 站点地图新增了上述博客与医学转写产品页。此前雷达已于 2026-11-11 收录通用实时模型 Scribe v3 / Scribe v3 Live，本词条记录的是 11 月 17 日发布的医学专用版本。",
+    "review_14d": null
+  },
+  {
+    "id": 654,
+    "term": "MAI Image 2.7 / MAI Image 2.7 Flash",
+    "source": "sitemap+web",
+    "score": 0.94,
+    "first_seen": "2026-11-18T04:32+08:00",
+    "url": "https://microsoft.ai/news/introducing-mai-image-2-7/",
+    "excerpt": "Microsoft AI 于 2026-11-17 发布官方文章《MAI Image 2.7: Frontier quality at a fraction of the cost》（https://microsoft.ai/news/introducing-mai-image-2-7/），宣布推出 MAI Image 2.7 与更快速的 MAI Image 2.7 Flash，并同时推出由 Flash 驱动的交互工作区 Canvas。文中写明：“Today we’re introducing MAI Image 2.7 and MAI Image 2.7 Flash, delivering frontier image generation and editing at a fraction of the cost of the leading competitors. We’re also launching Canvas, a new interactive workspace powered by our Flash model to create, edit, and refine images.”两款模型以公开预览形式在 Microsoft Foundry 以及 fal、Genspark、OpenRouter、Vercel 等合作方提供。本轮 OpenRouter 站点地图也出现了 microsoft/mai-image-2.7 与 microsoft/mai-image-2.7-flash 条目。",
+    "review_14d": null
   }
 ]
