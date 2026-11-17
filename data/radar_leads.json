@@ -6488,5 +6488,25 @@
     "url": "https://app.paradigmmachines.ai/",
     "excerpt": "2026 年 11 月 16 日，Paradigm Machines 创始人 Ryan Lin（@_ryanlin10）发帖介绍 Orion：“Introducing Orion, a foundation model that predicts where you look. Orion finds twice as many UX bugs as frontier models, cuts computer-use latency by 31%, and even won a drone race.” 发帖时间为 2026-11-16T17:00:01Z（北京时间 2026 年 11 月 17 日 01:00:01）。本轮核对原帖时约 1,518 次点赞、76 次转帖、约 4.9 万次展示、1,372 次收藏。官方托管产品入口为 https://app.paradigmmachines.ai/ ，公司站点为 https://www.paradigmmachines.ai/ ；产品页写到，Orion 根据会话回放预测访客视线，并给每次访问打 friction score，也可通过 MCP 接到 Claude、ChatGPT、Cursor 等代理。《Orion Hosted terms》版本日期为 2026-11-16。该词条因 04:32 窗口内的原帖未被当时扫描入库，本轮补录。官方介绍帖：https://x.com/_ryanlin10/status/2122374141131002087 。不要把它写成 Apple 或其他同名 Orion 产品，或尚未上线的通用大模型。",
     "review_14d": null
+  },
+  {
+    "id": 650,
+    "term": "Olala mini 7A1B / Olala",
+    "source": "x+web",
+    "score": 0.94,
+    "first_seen": "2026-11-18T00:32+08:00",
+    "url": "https://corporate.ovhcloud.com/en/newsroom/news/ovh-olala-mini/",
+    "excerpt": "OVHcloud 于 2026 年 11 月 17 日在官方新闻稿中宣布推出其首个大模型家族 Olala，首个成员是 Olala mini 7A1B。新闻稿页面标注日期为 Tue, 11/17/2026 - 12:00（https://corporate.ovhcloud.com/en/newsroom/news/ovh-olala-mini/）。官方称这是一个 70 亿总参数、每层 256 个专家、每次请求约 10 亿激活参数的 MoE 模型，混合使用 Differential-TPA 与 Mamba-3 注意力，当前上下文 32,000 tokens，计划以 Apache 2.0 在 Hugging Face 开源；正式发布会定在 11 月 19 日的 OVHcloud AI Summit。官方还写到法国搜索引擎 Qwant 已将其用于 flash answer，并声称回答快 20%、运行成本降到原来的三分之一。权重、技术报告和 AI Act 合规文档预计在 19 日随正式发布提供。公开材料尚未给出质量评测分数。",
+    "review_14d": null
+  },
+  {
+    "id": 651,
+    "term": "Vibe Desktop",
+    "source": "x+web",
+    "score": 0.91,
+    "first_seen": "2026-11-18T00:32+08:00",
+    "url": "https://docs.mistral.ai/resources/release-notes",
+    "excerpt": "Mistral AI 官方账号 @MistralAI 于 2026-11-17T15:28:42Z（北京时间 11 月 17 日 23:28:42）发帖宣布 “Vibe desktop is here！”：“Hand Vibe several tasks at once, watch the agents work side by side, then review their diffs and track pull requests in the same window.”本轮扫描时该帖约 101 次点赞、约 8,002 次展示：https://x.com/MistralAI/status/2122713547952324750 。同日官方发布说明（https://docs.mistral.ai/resources/release-notes）把 Vibe Desktop 列为 11 月 17 日的新版本，状态为 General Availability、Mistral-Hosted，面向 macOS 与 Windows，Linux 即将支持。它是已有产品 Mistral Vibe（由 Le Chat 更名）的官方桌面客户端，把 Vibe Work 与 Vibe Code 放进同一个应用，不是一条全新的模型品牌。",
+    "review_14d": null
   }
 ]
