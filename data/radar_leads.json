@@ -3837,7 +3837,7 @@
     "first_seen": "2026-11-02T12:32+08:00",
     "url": "https://longcat.ai/blog/longcat-2.5",
     "excerpt": "Meituan released LongCat-2.5 on Nov 2, 2026: native multimodal 1.6T/48B-active MoE for long-horizon agentic coding; API + longcat.ai live.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-17|q='LongCat-2.5' pre7=0.0 last7=21.7 peak=100"
   },
   {
     "id": 385,
@@ -3847,7 +3847,7 @@
     "first_seen": "2026-11-02T12:32+08:00",
     "url": "https://gdpx.semianalysis.com/",
     "excerpt": "SemiAnalysis launched GDPx on Nov 2, 2026: 206 agentic tasks across 11 high-ROI domains; top score Claude Opus 5.5 at 12.0%.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-17|q='GDPx' pre7=0.0 last7=12.1 peak=100"
   },
   {
     "id": 386,
@@ -3857,7 +3857,7 @@
     "first_seen": "2026-11-02T12:32+08:00",
     "url": "https://github.com/Gezine/CivSwitch",
     "excerpt": "Gezine released CivSwitch Nov 1, 2026: Switch/Switch 2 userland code execution via Civilization 7 physical cartridge XSS + Pico HID.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-17|q='CivSwitch' pre7=0.0 last7=27.1 peak=100"
   },
   {
     "id": 387,
@@ -3867,7 +3867,7 @@
     "first_seen": "2026-11-02T12:32+08:00",
     "url": "https://agentmash.dev/",
     "excerpt": "Open-source multiplayer layer for team coding agents; Product Hunt launch Nov 1, 2026 — agents warn each other before conflicting edits.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-17|no Trends data for 'agentmash'"
   },
   {
     "id": 388,
@@ -3877,7 +3877,7 @@
     "first_seen": "2026-11-02T12:32+08:00",
     "url": "https://agav.dev/",
     "excerpt": "Open-source terminal-native AI coding agent/harness emphasizing cost efficiency (49% cheaper than Codex on TB2.1 in their run); v0.2.1.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-17|q='Agav' pre7=25.1 last7=23.3 peak=100"
   },
   {
     "id": 389,
@@ -3887,7 +3887,7 @@
     "first_seen": "2026-11-02T12:32+08:00",
     "url": "https://getartcraft.com/apps/texturecraft",
     "excerpt": "ArtCraft open-source 3D PBR texture painting app rewritten in pure Rust; GPU bake, 8K, MCP/CLI agent-ready; new sitemap page this window.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-17|q='TextureCraft' pre7=0.0 last7=15.3 peak=100"
   },
   {
     "id": 390,
@@ -3897,7 +3897,7 @@
     "first_seen": "2026-11-02T12:32+08:00",
     "url": "https://hackerbooks.org",
     "excerpt": "Show HN Nov 1, 2026: catalog of 16,543 books recommended in Hacker News comments with a daily reshuffled shelf (HackerTube for books).",
-    "review_14d": null
+    "review_14d": "miss|2026-11-17|q='HackerBooks' pre7=0.0 last7=8.6 peak=100"
   },
   {
     "id": 391,
@@ -3907,7 +3907,7 @@
     "first_seen": "2026-11-02T12:32+08:00",
     "url": "https://github.com/Balanov/uncut",
     "excerpt": "Balanov/uncut created Nov 1, 2026: lossless headless coding-agent harness — one ~7 MB static binary, four tools, plain stdin/stdout; 336★ same day.",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-17|generic word, Trends not attributable"
   },
   {
     "id": 392,
@@ -3917,7 +3917,7 @@
     "first_seen": "2026-11-02T16:32+08:00",
     "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724736.shtml",
     "excerpt": "Nov 2, 2026 (Hong Kong FinTech Week): Du Xiaoman, HKUST and HKGAI jointly launched XuanYuan 4.5, a finance-enhanced LLM + multimodal model built with self-evolving RSI training; claims +30% in acquisition/risk/customer ops at ~10% the cost of general models.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-17|q='XuanYuan 4.5' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 393,
@@ -3927,7 +3927,7 @@
     "first_seen": "2026-11-02T16:32+08:00",
     "url": "https://huggingface.co/ServiceNow-AI/Apriel-Voice-27B-preview",
     "excerpt": "ServiceNow AI Research: \"Meet Apriel Voice 27B Preview: an open-weight voice AI built to get work done\" — Whisper large-v3-turbo encoder + Gemma 4 26B-A4B backbone, MIT license; speech in, text and tool calls out. Tech report posted Nov 2, 2026.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-17|no Trends data for 'Apriel Voice 27B'"
   },
   {
     "id": 394,
@@ -3937,7 +3937,7 @@
     "first_seen": "2026-11-02T20:32+08:00",
     "url": "https://hy.tencent.ai/research",
     "excerpt": "Tencent Hunyuan released Hyra 2.0 on Nov 2, 2026: an AutoResearch agent system with an Overall/Mission/Worker hierarchy that builds reusable scientific models and tools (HyInv, HyPLM-Flash, HyFF, HyQEC, HyProver) instead of one-off answers.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-17|q='Hyra 2.0' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 395,
@@ -3947,7 +3947,7 @@
     "first_seen": "2026-11-02T20:32+08:00",
     "url": "https://plugins.jetbrains.com/plugin/33386-storybook-connect",
     "excerpt": "Callstack (Nov 2, 2026): \"Storybook Connect is now available across JetBrains IDEs! We built it with @WebStormIDE and @storybookjs, bringing story browsing, setup, and agent-ready tooling into the IDE.\"",
-    "review_14d": null
+    "review_14d": "miss|2026-11-17|q='Storybook Connect' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 396,
@@ -3957,7 +3957,7 @@
     "first_seen": "2026-11-03T00:32+08:00",
     "url": "https://x.com/DeepPrinciple/status/2117249008972550447",
     "excerpt": "Deep Principle (Nov 2, 2026): \"Introducing Hydrogen-1.0, Deep Principle's first general-purpose large AI model, built to support scientific discovery.\" Open weights, post-trained from GLM-5.3 on lab records; 38.3% on FrontierScience-Research vs GPT-6 Astra's 33.3% (self-reported).",
-    "review_14d": null
+    "review_14d": "miss|2026-11-17|q='Hydrogen-1.0' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 397,
@@ -3967,7 +3967,7 @@
     "first_seen": "2026-11-03T00:32+08:00",
     "url": "https://www.prnewswire.com/news-releases/10x-genomics-launches-sentira-single-cell-a-new-agentic-ai-experience-for-chromium-analysis-302925391.html",
     "excerpt": "10x Genomics (Nov 2, 2026): \"today announced the commercial launch of Sentira Single Cell, a cloud-based agentic analysis application... Powered by Anthropic's Claude... an AI agent plans and executes the analysis, then returns and documents experimental conclusions.\"",
-    "review_14d": null
+    "review_14d": "miss|2026-11-17|no Trends data for 'Sentira Single Cell'"
   },
   {
     "id": 398,
@@ -3977,7 +3977,7 @@
     "first_seen": "2026-11-03T04:32+08:00",
     "url": "https://rikiyat.github.io/blog/weight-space-programming/",
     "excerpt": "Rikiya Takehi (MIT CSAIL, Nov 2, 2026): \"We asked GPT-6 Astra to edit Qwen3.5-0.8B weights to improve math. It directly changed only 0.016% of weights ... without gradients or training. We call this Weight-Space Programming.\"",
-    "review_14d": null
+    "review_14d": "miss|2026-11-17|q='Weight-Space Programming' pre7=0.0 last7=9.4 peak=100"
   },
   {
     "id": 399,
@@ -3987,7 +3987,7 @@
     "first_seen": "2026-11-03T04:32+08:00",
     "url": "https://openai.com/index/lifeval/",
     "excerpt": "OpenAI (Nov 2, 2026): \"LifeVal — Measuring AI progress on the tasks that matter in everyday life,\" covering childcare, government services, budgets, groceries and more; GPT-6 Astra averages 80.6% vs 49.3% for GPT-5.2.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-17|q='LifeVal' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 400,
@@ -3997,7 +3997,7 @@
     "first_seen": "2026-11-03T04:32+08:00",
     "url": "https://posthog.com/blog/moving-off-duckdb",
     "excerpt": "PostHog (Nov 2, 2026): \"We rebuilt everything around our own flavor of Trino and created our own open table format, HogLake.\" HogLake: a petabyte-scale open table format, an evolution of DuckLake and Iceberg.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-17|q='HogLake' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 401,
@@ -4007,7 +4007,7 @@
     "first_seen": "2026-11-03T04:32+08:00",
     "url": "https://blog.collinear.ai/p/collinear-zero",
     "excerpt": "Collinear AI (Nov 2, 2026): \"Introducing Collinear Zero: a Pareto-optimal defensive cyber agent. Zero adds independent attack testing, one fix round, and a final recheck to security patching.\" Open source; installs into OpenCode, Claude Code and Codex.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-17|q='Collinear Zero' pre7=0.0 last7=40.6 peak=100"
   },
   {
     "id": 402,
@@ -4017,7 +4017,7 @@
     "first_seen": "2026-11-03T08:32+08:00",
     "url": "https://x.com/SGRodriques/status/2117359453330956289",
     "excerpt": "Sam Rodriques (Edison Scientific), Nov 2, 2026: \"Can AI discover new molecules from NMR spectra? Introducing ChefNMR2, a new model trained in collaboration with Ellen Zhong at Princeton, now available in Kosmos. Across 2,031 molecules: 82% top-1 accuracy...\"",
-    "review_14d": null
+    "review_14d": "miss|2026-11-17|q='ChefNMR2' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 403,
@@ -4027,7 +4027,7 @@
     "first_seen": "2026-11-03T08:32+08:00",
     "url": "https://www.hume.ai/blog/introducing-hume-audio-decision-api",
     "excerpt": "Hume AI (Nov 2, 2026): \"Today we're introducing Hume's Audio Decision API, the first audio-native model that answers questions about speech and sound. You choose the questions and the possible answers... Raw audio goes in, an answer with a confidence score comes out.\"",
-    "review_14d": null
+    "review_14d": "miss|2026-11-17|no Trends data for 'Hume Audio Decision API'"
   },
   {
     "id": 404,
@@ -4037,7 +4037,7 @@
     "first_seen": "2026-11-03T08:32+08:00",
     "url": "https://wanaka.app/",
     "excerpt": "X News (Nov 2, 2026): \"Wanaka Studio unveiled version 1.0 on November 2, a from-scratch AI workspace that turns ideas into playable 3D multiplayer games handling models, logic, physics, and sound all in one spot... instant browser sharing for cross-platform play.\"",
-    "review_14d": null
+    "review_14d": "hit|2026-11-17|q='Wanaka Studio' pre7=0.0 last7=34.9 peak=100"
   },
   {
     "id": 405,
@@ -6457,6 +6457,16 @@
     "first_seen": "2026-11-17T04:32+08:00",
     "url": "https://www.nollahealth.com/blog/visual-medicine-benchmark",
     "excerpt": "2026 年 11 月 16 日，Nolla Health 正式介绍 Nolla Visual Medicine Benchmark，用于评估模型如何解读临床影像、通过对话收集信息，并把两者结合起来做出诊断。Sean Geiger（@sean_geiger）于 2026-11-16T16:47:19Z（北京时间 2026 年 11 月 17 日 00:47:19）发帖：“Today, we’re introducing the Nolla Visual Medicine Benchmark. We’ve been using it internally for the past year to evaluate models for patient care. Over that year, we’ve seen frontier models make rapid progress. Now we’re sharing the results comparing frontier model performance”。官方博客 https://www.nollahealth.com/blog/visual-medicine-benchmark 日期为 November 16, 2026，标题为 “Introducing the Nolla Visual Medicine Benchmark”。基准包含两项相关任务：仅看一张临床照片给出排序鉴别诊断；以及从一张照片和模拟患者的初始消息开始、经过多轮追问后给出排序鉴别诊断和结构化病历。维护中的影像库覆盖 11 个专科、49 个疾病组，其中皮肤科约占 45.4%（451/993）。比较研究注册号为 NCT07470463，入组 23 名医生（11 名董事会认证医生、10 名住院医师、2 名研究员），中位临床经验 5 年；官方写到只有 16.5% 的影像审阅和 21.9% 的访谈与医生自身专科匹配，因此结果描述的是大多在专科之外工作的混合队列。在 Level 3 首位诊断一致性上，官方表格列出：Gemini 4 Argon 在仅图像任务上为 46.5%、模拟访谈 83.2%；Claude Fable 5.2 为 43.1% / 86.4%（访谈最高）；董事会认证医生亚组为 34.1% / 78.8%；全部合格医生平均为 30.2% / 56.0%。官方还写到，在较小的未发表试验中，董事会认证医生在自己专科内仍稳定优于前沿模型。官方介绍帖：https://x.com/sean_geiger/status/2122370944899686902 。不要把它和 Nolla 已有的 NollaMD 模型，或一般的医学视觉问答测试写成同一个名字。",
+    "review_14d": null
+  },
+  {
+    "id": 647,
+    "term": "SolveIt",
+    "source": "x+web",
+    "score": 0.94,
+    "first_seen": "2026-11-17T12:32+08:00",
+    "url": "https://solve.it.com",
+    "excerpt": "2026 年 11 月 16 日，Answer.AI 在 fast.ai 发布官方博文 “Announcing the Public Launch of SolveIt”，由 Jeremy Howard 与 Rachel Thomas 署名，宣布把内部使用的学习与研发工具 SolveIt 向公众开放。Jeremy Howard（@jeremyphoward）于 2026-11-17T00:28:33Z（北京时间 2026 年 11 月 17 日 08:28:33）发帖：“We built a tool for our own internal team at AnswerAI to let us learn, explore, & develop mastery with the help of AI: SolveIt. Today, we’re releasing it to the public for the 1st time.” 本轮扫描时该帖约 642 次点赞、约 3.3 万次展示。博文写到，加入无需付费，按用量计费，入口为 solve.it.com。过去两年他们邀请了约 3,000 名预览用户，并共用一个 Discord 服务器。官网 https://solve.it.com 标语为 “Take back your agency.”，称 Solveit 帮助你掌握技艺、对抗把思考外包给 AI 的倾向。官方介绍帖：https://x.com/jeremyphoward/status/2122487017137398256 ；官方博文：https://www.fast.ai/posts/2026-11-16-solveit-launch/ 。不要把它写成 ChatGPT 或 Claude 的普通聊天框替代品，或尚未公开的内部预览代号。",
     "review_14d": null
   }
 ]
