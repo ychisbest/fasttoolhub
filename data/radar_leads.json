@@ -4047,7 +4047,7 @@
     "first_seen": "2026-11-03T12:32+08:00",
     "url": "https://x.com/levantolabs/status/2117304026911908020",
     "excerpt": "Levanto Labs (Nov 2, 2026): \"Software can now understand human language and act on it, in real time. Introducing Sage2 — Extract: natural language in, structured data out. 166x cheaper than Opus 5.5, beats Cloudflare's Clairic — Decide: the first decision model with streaming. 3x faster...\" (781 likes / 98 RTs / 512K impressions). Docs+playground at levanto.ai.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-18|q='Sage2' pre7=0.0 last7=8.9 peak=100"
   },
   {
     "id": 406,
@@ -4057,7 +4057,7 @@
     "first_seen": "2026-11-03T12:32+08:00",
     "url": "https://cyclon.ai/",
     "excerpt": "Adam Zinebi / Cyclon (YC F26), Nov 2, 2026: \"An AI phone to replace your iPhone. That's what we're building at Cyclon (YC F26). AI uses the apps you already have, builds the ones you're missing, and handles tasks in the background.\" (~2.4k likes / 888K impressions). Pre-order $199 deposit; Pixel 8a OS beta for first batch; hardware est. Q2 2027.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-18|q='Cyclon' pre7=55.7 last7=21.1 peak=100"
   },
   {
     "id": 407,
@@ -4067,7 +4067,7 @@
     "first_seen": "2026-11-03T16:32+08:00",
     "url": "https://flower.ai/blog/2026-11-03-introducing-endeavor-1.1",
     "excerpt": "Flower Labs official launch Nov 3: frontier model with multimodal, EU inference, on-prem; GPQA 94.4 / HumanEval 99.9; @flwrlabs post + flower.ai blog/docs",
-    "review_14d": null
+    "review_14d": "miss|2026-11-18|no Trends data for 'Endeavor 1.1'"
   },
   {
     "id": 408,
@@ -4077,7 +4077,7 @@
     "first_seen": "2026-11-03T16:32+08:00",
     "url": "https://www.meshy.ai/blog/meshy-n1-texture",
     "excerpt": "Meshy N1 Texture live on web+API (ai_model=meshy-n1); 2K base-color retexture from 1–4 refs; ~3× faster than Meshy 7; sitemap + @MeshyAI launch",
-    "review_14d": null
+    "review_14d": "hit|2026-11-18|q='Meshy N1' pre7=0.0 last7=14.3 peak=100"
   },
   {
     "id": 409,
@@ -4087,7 +4087,7 @@
     "first_seen": "2026-11-03T20:32+08:00",
     "url": "https://www.sensetime.com/cn/news/sensenova-6-8-flash-release-20261103-1421",
     "excerpt": "商汤正式发布日日新 SenseNova 6.8 Flash：多模态办公/设计 Agent，长期记忆与跨会话协作，支持动态PPT/海报/网页/SVG/Blender，并接入 Figma；已开放体验与 Token Plan。",
-    "review_14d": null
+    "review_14d": "miss|2026-11-18|q='SenseNova 6.8 Flash' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 410,
@@ -4097,7 +4097,7 @@
     "first_seen": "2026-11-03T20:32+08:00",
     "url": "https://www.anthropic.com/research/provable-inference",
     "excerpt": "Anthropic open-sourced FlashProve, a zkSNARK research prototype for provable LLM inference (Llama 4 Maverick on 1×H100 ~110 tok/s proofs); Apache-2.0 code + Lean proofs.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-18|q='FlashProve' pre7=0.0 last7=1.3 peak=100"
   },
   {
     "id": 411,
@@ -4107,7 +4107,7 @@
     "first_seen": "2026-11-03T20:32+08:00",
     "url": "https://huggingface.co/china-beipo/NorthCUA-Pro",
     "excerpt": "Open-source 397B-A17B computer-use MoE agent (Qwen3.5-based) with NorthCUA Harness; reports 93.3% ScreenSpot-Pro and strong OSWorld/WebArena results; Apache-2.0 weights.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-18|no Trends data for 'NorthCUA-Pro'"
   },
   {
     "id": 412,
@@ -4117,7 +4117,7 @@
     "first_seen": "2026-11-03T20:32+08:00",
     "url": "https://stackrails.ai/",
     "excerpt": "Enterprise context/governance layer for AI coding agents: Architecture Graph + read-only MCP into Claude Code/Copilot/Cursor/Codex with pre-gen context and policy checks.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-18|no Trends data for 'StackRails'"
   },
   {
     "id": 413,
@@ -4127,7 +4127,7 @@
     "first_seen": "2026-11-03T20:32+08:00",
     "url": "https://floci.io/",
     "excerpt": "Open-source MIT local multi-cloud emulator (AWS/Azure/GCP/OCI) aimed at AI coding agents—Docker-based, no cloud credentials; newly trending on GitHub.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-18|q='Floci' pre7=54.6 last7=51.9 peak=100"
   },
   {
     "id": 414,
@@ -4137,7 +4137,7 @@
     "first_seen": "2026-11-04T00:32+08:00",
     "url": "https://www.sarvam.ai/blogs/sarvam-prism",
     "excerpt": "Sarvam AI 于 2026-11-03 发布 Sarvam Prism：基于 Sarvam 105B 的 System One 决策模型，单次前向返回校准概率（非生成文本）；官方测得平均分 71.8、B200 中位延迟 44ms；Apache-2.0 开源权重 sarvamai/prism，并提供 Indus API。",
-    "review_14d": null
+    "review_14d": "miss|2026-11-18|q='Sarvam Prism' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 415,
@@ -4147,7 +4147,7 @@
     "first_seen": "2026-11-04T00:32+08:00",
     "url": "https://appliedcomputing.com/newsroom/orbital-world-model",
     "excerpt": "Applied Computing 于 ADIPEC（2026-11-03）发布新一代 Orbital：以能源 world model 重建，学习全厂因果物理；工程师可用自然语言建仪表盘与自运行 App，模型私有部署不出境。",
-    "review_14d": null
+    "review_14d": "hit|2026-11-18|q='Orbital 2.0' pre7=0.0 last7=64.9 peak=100"
   },
   {
     "id": 416,
@@ -4157,7 +4157,7 @@
     "first_seen": "2026-11-04T00:32+08:00",
     "url": "https://openai.com/index/scaling-git-at-openai/",
     "excerpt": "OpenAI 公开其 Git 兼容 monorepo 后端 Pando（Rust）：按分支因果一致性并发推送、复用 packfile；中位 push 延迟约降 80%，日均近 PB 级 Git 数据；为 Codex 级 agent 提交量而建，生产自 2026-04。",
-    "review_14d": null
+    "review_14d": "miss|2026-11-18|q='Pando' pre7=75.0 last7=78.3 peak=100"
   },
   {
     "id": 417,
@@ -4167,7 +4167,7 @@
     "first_seen": "2026-11-04T00:32+08:00",
     "url": "https://answerrails.com/",
     "excerpt": "AnswerRails：WordPress 站前 AI 客服插件，答案必须 grounded 于本站内容并带引用，不知则拒答；BYO API key（OpenAI/Anthropic/Mistral），含同意收据、留存与 DSAR 合规层。",
-    "review_14d": null
+    "review_14d": "miss|2026-11-18|no Trends data for 'AnswerRails'"
   },
   {
     "id": 418,
@@ -4177,7 +4177,7 @@
     "first_seen": "2026-11-04T04:32+08:00",
     "url": "https://www.pruna.ai/blog/oss-p-h3-image-launch",
     "excerpt": "Pruna AI 于 2026-11-03 开源 P-H3-Image：由 MiniMax-H3 视频模型改造的开源图像生成/编辑模型；8 步约 5× 加速，4MP 约 2.6s，体积约 7× 更小；Diffusers/ComfyUI 与 HF 权重 PrunaAI/P-H3-Image。",
-    "review_14d": null
+    "review_14d": "hit|2026-11-18|q='P-H3-Image' pre7=0.0 last7=15.4 peak=100"
   },
   {
     "id": 419,
@@ -4187,7 +4187,7 @@
     "first_seen": "2026-11-04T04:32+08:00",
     "url": "https://soniox.com/blog/soniox-stt-v6",
     "excerpt": "Soniox 于 2026-11-03 发布 STT v6：面向语音 Agent 的识别模型，支持 Agent text input 与 Agent voice echo cancellation，自动滤除 Agent 自身播放；60+ 语言实时/异步转录可用。",
-    "review_14d": null
+    "review_14d": "miss|2026-11-18|q='Soniox STT v6' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 420,
@@ -4197,7 +4197,7 @@
     "first_seen": "2026-11-04T04:32+08:00",
     "url": "https://www.intology.ai/blog/automating-ai-rd-for-molecular-discovery",
     "excerpt": "Intology 于 2026-11-03 介绍 Locus：自动化分子设计科研系统，可自主提出实验、在 GPU 上并行跑批并迭代；宣称在属性预测/小分子效力/抗体设计等基准上超过专家工具与通用 LLM agent。",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-18|generic word, Trends not attributable"
   },
   {
     "id": 421,
@@ -4207,7 +4207,7 @@
     "first_seen": "2026-11-04T08:32+08:00",
     "url": "https://openrouter.ai/stealth/crouton-alpha",
     "excerpt": "OpenRouter 于 2026-11-03 上线匿名 stealth 模型 Crouton Alpha：免费、1M 上下文、多模态输入（文/图/音/视频/文件），面向高并发 agent 子任务与工具调用；model id stealth/crouton-alpha；亦登陆 OpenCode / Perch。",
-    "review_14d": null
+    "review_14d": "miss|2026-11-18|q='Crouton Alpha' pre7=0.0 last7=2.0 peak=100"
   },
   {
     "id": 422,
@@ -6587,6 +6587,106 @@
     "first_seen": "2026-11-18T08:32+08:00",
     "url": "https://microsoft.ai/news/introducing-mai-licensed-weights/",
     "excerpt": "Microsoft AI 于 2026-11-17 发布官方文章《MAI Licensed Weights: Frontier performance you control》（https://microsoft.ai/news/introducing-mai-licensed-weights/），宣布推出 MAI Licensed Weights。文中写明：“That’s why we’re introducing MAI Licensed Weights, giving organizations the ability to deploy and customize Microsoft AI models in their own Azure environments.”官方新闻页 sitemap lastmod 为 2026-11-17T21:01:22Z。文章称客户可在自有 Azure 环境中部署并适配 MAI 模型，数据和适配结果仍归客户，微软仅在得到明确同意时才会将其用于训练；该计划将通过 Frontier Company 合作“即将推出”，目前需联系微软客户团队。配套的 Custom Models 页（https://microsoft.ai/models/microsoft-frontier-tuning/）是同一计划的说明页，不作为单独新词。",
+    "review_14d": null
+  },
+  {
+    "id": 660,
+    "term": "Devin Bots",
+    "source": "x+web",
+    "score": 0.95,
+    "first_seen": "2026-11-18T12:32+08:00",
+    "url": "https://devin.ai/blog/introducing-devin-bots",
+    "excerpt": "Cognition 于 2026-11-17 17:03 UTC 通过官方账号 @cognition 发帖（https://x.com/cognition/status/2122737511684587551，2836 赞、299 转发）宣布 “Meet Devin Bots.”，并写明 “From writing firmware to merging thousands of PRs a week, a Devin Bot leads a team of agents to get the job done.” 同期官方博客《Introducing Devin Bots》（https://devin.ai/blog/introducing-devin-bots，文中写 “Today, we’re introducing Devin Bots”）与产品页 https://devin.ai/bots 介绍这一新名字：在既有编码 agent Devin 之上，由常驻的 Bot 持有长期目标并带领一组 Devin 完成工作。",
+    "review_14d": null
+  },
+  {
+    "id": 661,
+    "term": "AIR-O",
+    "source": "x+web",
+    "score": 0.94,
+    "first_seen": "2026-11-18T12:32+08:00",
+    "url": "https://x.com/alljoined/status/2122736523007447048",
+    "excerpt": "Alljoined 于 2026-11-17 17:00 UTC 通过官方账号 @alljoined 发帖（https://x.com/alljoined/status/2122736523007447048，2052 赞、236 转发）宣布：“Introducing AIR-O, a model that decodes what a person is attending to directly from brain scans. Using only noninvasive brain data, we can generate an image from scratch in real time that depicts where a person is focusing their attention. This is the first of a new generation of algorithms that can read the shape of thoughts directly from brain activity.” 公司首页 https://www.alljoined.com/ 同期展示 “Multi-object attention demo November 2026”。这与该公司已有的 ENIGMA、NOVA、Alljoined-1.6M 不是同一个名字。",
+    "review_14d": null
+  },
+  {
+    "id": 662,
+    "term": "Interact-0",
+    "source": "x+web",
+    "score": 0.93,
+    "first_seen": "2026-11-18T12:32+08:00",
+    "url": "https://interact.inc/blog/interact-0/",
+    "excerpt": "Interact 于 2026 年 11 月 17 日发布官方文章《Interact-0》（https://interact.inc/blog/interact-0/），介绍同名全双工音频模型 Interact-0。官方写明它是 “a full-duplex audio model with 31B parameters, 3B active”，在 900 万小时单通道音频和 50 万小时已分轨的多说话人音频上训练，由 audio encoder、thinking trunk 以及 text / audio 输出头组成，并初始化自 Qwen3-Omni 的权重。音频按 80 毫秒一拍处理，训练过程依次经历单通道音频续写、text planning，以及同时预测用户与模型两路音频流。",
+    "review_14d": null
+  },
+  {
+    "id": 663,
+    "term": "Islo",
+    "source": "x+web",
+    "score": 0.92,
+    "first_seen": "2026-11-18T12:32+08:00",
+    "url": "https://islo.dev/blog/launching-islo-enterprise-software-factories/",
+    "excerpt": "Islo 于 2026 年 11 月 17 日发布官方文章《Introducing Islo: the safe way to run enterprise software factories》（https://islo.dev/blog/launching-islo-enterprise-software-factories/），作者 Adam Gold。文中写明：“Today we’re launching Islo enterprise software factories, backed by $15M from Insight Partners.” 官方把工厂理解为“生产信任的机器”，并论证在写代码的边际成本趋近算力成本之后，企业工程组织的工作是规模化地生产可交付的信任，而不是只给每位工程师配一个笔记本上的 agent。",
+    "review_14d": null
+  },
+  {
+    "id": 664,
+    "term": "Stitch AI",
+    "source": "x+web",
+    "score": 0.92,
+    "first_seen": "2026-11-18T12:32+08:00",
+    "url": "https://www.stitch.co/press/stitch-casts-patrick-j-adams-to-launch-stitch-ai-agentic-ai-for-banks",
+    "excerpt": "Stitch 于 2026 年 11 月 17 日发布官方新闻稿，宣布推出面向银行的代理式 AI 产品 **Stitch AI**（https://www.stitch.co/press/stitch-casts-patrick-j-adams-to-launch-stitch-ai-agentic-ai-for-banks），产品页为 https://www.stitch.co/ai。新闻稿在利雅得发布，并请来 Patrick J. Adams 出任宣传主角；CEO 为 Mohamed Oueida。官方产品页把 Stitch AI 写成做进 Stitch 银行操作系统里的三部分：用于查询、配置和发起变更的 copilot，面向入职、反欺诈、催收和客服等场景的预置 agent，以及用于构建自定义 agent 的 Agent Harness。本条使用全名 Stitch AI，以区别于 Google Stitch 或其他同名项目。",
+    "review_14d": null
+  },
+  {
+    "id": 665,
+    "term": "Second",
+    "source": "x+web",
+    "score": 0.93,
+    "first_seen": "2026-11-18T12:32+08:00",
+    "url": "https://2.computer/blog/a-model-of-ones-own",
+    "excerpt": "First Person Labs PBC 于官方博客《A Model of One’s Own》（https://2.computer/blog/a-model-of-ones-own）中宣布推出 **Second**，副题为 “Introducing Second by First Person Labs PBC”。文中写明：“We’re excited to introduce Second, a self-sovereign infrastructure to autonomously build and serve your portable user model across your devices and agents.” 公司站点还包括 https://fpl.company/。Andreessen Horowitz 的 Joel de la Garza 与 Martin Casado 在 2026 年 11 月 17 日发表投资公告（https://a16z.com/announcement/investing-in-first-person-labs/），介绍这家公司及创始人 Ken Liu、Erik Chi。本条的具体产品名是 Second，不要和泛称 “second brain” 或其他同名项目混淆。",
+    "review_14d": null
+  },
+  {
+    "id": 666,
+    "term": "SID-2",
+    "source": "x+web",
+    "score": 0.94,
+    "first_seen": "2026-11-18T12:32+08:00",
+    "url": "https://x.com/maxrumpf/status/2122758430721204407",
+    "excerpt": "SID.ai 创始人 Max Rumpf 于 2026-11-17 18:27 UTC 发帖（https://x.com/maxrumpf/status/2122758430721204407，2312 赞、197 转发）宣布：“Introducing SID-2, a new search model built on compute-scaling swarms. Our swarms find better results than Opus and Astra, while being 8x faster and 20x lower cost.” 长帖还写明当前搜索流水线建立在手写规则之上，无法跟上即将到来的数据量，并称 “SID-2 is available on our API today.” 同日 18:58 UTC 的后续帖（https://x.com/maxrumpf/status/2122766293212557682）补充 SID-2 与 SID-2 swarm 已在 https://sid.ai 上线，并发布完整技术报告。研究页列出《SID-2 Technical Report: Scaling Search Swarms》（https://www.sid.ai/research）。这与 2025 年 12 月介绍的 SID-1 不是同一个版本。",
+    "review_14d": null
+  },
+  {
+    "id": 667,
+    "term": "FastFrames-L / FastFrames-S",
+    "source": "hf+web",
+    "score": 0.93,
+    "first_seen": "2026-11-18T12:32+08:00",
+    "url": "https://apple-aiml-research.github.io/ml-fastframes/",
+    "excerpt": "Apple 研究团队在官方项目页《FastFrames: Video Generation at Interactive Latency》（https://apple-aiml-research.github.io/ml-fastframes/）介绍开源权重的自回归视频扩散模型家族 **FastFrames**，包括 FastFrames-S（1.3B）和 FastFrames-L（14B）。官方 TL;DR 写明它们 “are autoregressive video diffusion models that generate 480p video at interactive latency (<50 ms)”。项目页给出：S 在单块 B200 上为每帧 36 毫秒（28 RPS），L 在 8×B200 节点上为每帧 45 毫秒（22 RPS）。Hugging Face 仓库包括 apple/FastFrames-L（本轮扫描可见其创建于 2026-11-16T17:21:04Z）和 apple/FastFrames-S。作者为 Gene Chou（Apple、Cornell）以及 Apple 的 Guandao Yang、Fujun Luan、Lars Mescheder、Wei Dong、Stephan R. Richter、Vladlen Koltun。",
+    "review_14d": null
+  },
+  {
+    "id": 668,
+    "term": "JFinBench",
+    "source": "x+web",
+    "score": 0.9,
+    "first_seen": "2026-11-18T12:32+08:00",
+    "url": "https://sakana.ai/jfinbench/",
+    "excerpt": "Sakana AI 官方博客于 2026 年 11 月 17 日发表《JFinBench: 最新の金融資格試験を用いた日本語金融ベンチマークの公開》（https://sakana.ai/jfinbench/），介绍日语金融基准 **JFinBench**。官方账号 @SakanaAILabs 已在 2026-11-16 08:53 UTC 发帖（https://x.com/SakanaAILabs/status/2122251724564070518，228 赞）宣布同一工作。博客写明：基准来自日本 6 种金融资格考试的 2026 年版，评估了 12 个最新 LLM；在主要基准上有报道称可与 GPT-6 Astra 匹敌的 Kimi K3.1 Pro，在 JFinBench 上仍落后 GPT-6 Astra 约 10 分，差距主要不是计算，而是日本制度知识不足。配套资源包括论文、数据集与代码 SakanaAI/JFinBench，以及公开排行榜。",
+    "review_14d": null
+  },
+  {
+    "id": 669,
+    "term": "Atlas / Voyage Labs Atlas",
+    "source": "x+web",
+    "score": 0.9,
+    "first_seen": "2026-11-18T12:32+08:00",
+    "url": "https://voyagelabs.ai/",
+    "excerpt": "Voyage Labs 在官网 https://voyagelabs.ai/ 与产品页 https://atlas.voyagelabs.ai/ 推出旅行规划和预订助手 **Atlas**。官网把它写成从第一次提问到下单都在同一个 Web 应用（也可通过 iMessage）里完成：Atlas 的 Flight、Hotel、Restaurant、Local、Experiences 等 Expert 会审看选项并给出选择，用户再加入短名单并完成预订。2026 年 11 月 17 日前后，Voyage Labs 宣布获得由 Kleiner Perkins 领投、SignalFire 与 SV Angel 等参与的 1200 万美元种子轮，产品处于测试阶段。本条使用 “Atlas / Voyage Labs Atlas”，以区别于其他同名模型或系统。",
     "review_14d": null
   }
 ]

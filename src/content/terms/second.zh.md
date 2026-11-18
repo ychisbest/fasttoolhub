@@ -1,0 +1,13 @@
+---
+slug: "second"
+term: "Second"
+locale: "zh"
+date: "2026-11-18T12:32+08:00"
+source: "x+web"
+score: 0.93
+url: "https://2.computer/blog/a-model-of-ones-own"
+excerpt: "First Person Labs PBC 于官方博客《A Model of One’s Own》（https://2.computer/blog/a-model-of-ones-own）中宣布推出 **Second**，副题为 “Introducing Second by First Person Labs PBC”。文中写明：“We’re excited to introduce Second, a self-sovereign infrastructure to autonomously build and serve your portable user model across your devices and agents.” 公司站点还包括 https://fpl.company/。Andreessen Horowitz 的 Joel de la Garza 与 Martin Casado 在 2026 年 11 月 17 日发表投资公告（https://a16z.com/announcement/investing-in-first-person-labs/），介绍这家公司及创始人 Ken Liu、Erik Chi。本条的具体产品名是 Second，不要和泛称 “second brain” 或其他同名项目混淆。"
+intro: "**Second** 是 [First Person Labs PBC](https://2.computer/blog/a-model-of-ones-own) 推出的产品名，指一套由你自己控制的、可在设备和 agent 之间携带的用户模型基础设施。官方博客《A Model of One’s Own》以 “Introducing Second by First Person Labs PBC” 作副题，并写明：“We’re excited to introduce Second, a self-sovereign infrastructure to autonomously build and serve your portable user model across your devices and agents.” 相关站点还有 [2.computer](https://2.computer/) 与 [fpl.company](https://fpl.company/)。\n\n官方把它从“一个会聊天的助手”里分开：Second 先是一个会自己生长的流式、可移植上下文仓库，在后台持续从操作系统层的计算机活动中学习，生成关于近期项目、人物、写作样本和刚刚做过的事的记忆；长期再积累目标、优先级、风格、偏好、承诺和意图，形成一份“关于你的模型”，并可通过本地或云端的 API / MCP 对外提供，也就是官方说的 “the API of you”。\n\nAndreessen Horowitz 的 Joel de la Garza 与 Martin Casado 在 2026 年 11 月 17 日发表了[投资 First Person Labs 的公告](https://a16z.com/announcement/investing-in-first-person-labs/)，介绍创始人 Ken Liu 与 Erik Chi。本条以第一方博客为产品定义，以 a16z 公告作为同期公开信号，不把投资公告本身当成产品规格。"
+explain: "官方把隐私和主权写成产品的前提，而不是事后附加项。博客用“家”作比喻：模型里是最个人的东西，由你决定谁可以进门、看见什么、何时离开。具体主张包括：默认在你的设备上运行，模型就在计算机的一个文件夹里，可以检查、分析、编辑、备份，甚至拷到 U 盘；智能来源可以是已有的 Claude 或 ChatGPT 订阅、自带 API key、本地推理，或向他们购买私有推理额度；First Person Labs 默认看不到你的数据，数据也不会经过他们，除非你主动选择其托管的私有推理或 Second Cloud；官方还写明不训练、不记录、不向他人出售这些数据（除非你希望如此），并支持零数据保留（ZDR）。\n\n这些都是公司自己的架构承诺。谁托管推理、数据是否真的不经过 FPL，取决于用户有没有选择它们的云端选项。官方也承认，持有“关于你的模型”的一方会左右软件如何为你工作，因此他们把控制权放在被描述的人手里，包括他们自己的公司在内。\n\n名称很容易撞车。这里的 Second 是 First Person Labs 的这个基础设施，不是笔记软件里常说的 second brain，也不是其他叫 Second 的项目。引用时应带上公司名或 2.computer 链接。"
+usage: "第一方说明以 [A Model of One’s Own](https://2.computer/blog/a-model-of-ones-own) 为准，公司与产品入口还有 [2.computer](https://2.computer/) 和 [fpl.company](https://fpl.company/)。按官方设想，Second 在后台持续构建上下文，下一次在 Second 里或其他 agent 里提问时，不必再从头解释自己是谁、最近在做什么；你也可以通过本地或云端 API / MCP，在自己控制下把这份上下文提供给其他软件。\n\n选择推理方式时，官方列了已有订阅、自带密钥、本地推理和向 FPL 购买私有推理或 Second Cloud 几条路径。只有在选择后者时，数据才会经过该公司；这是官方自己写出的界限，也是评估隐私时要核对的地方。\n\n投资与人员背景可参考 a16z 在 11 月 17 日的[公告](https://a16z.com/announcement/investing-in-first-person-labs/)。具体安装、系统支持和开放范围以当时产品页为准。"
+---
