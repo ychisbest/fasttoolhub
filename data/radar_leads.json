@@ -6538,5 +6538,55 @@
     "url": "https://microsoft.ai/news/introducing-mai-image-2-7/",
     "excerpt": "Microsoft AI 于 2026-11-17 发布官方文章《MAI Image 2.7: Frontier quality at a fraction of the cost》（https://microsoft.ai/news/introducing-mai-image-2-7/），宣布推出 MAI Image 2.7 与更快速的 MAI Image 2.7 Flash，并同时推出由 Flash 驱动的交互工作区 Canvas。文中写明：“Today we’re introducing MAI Image 2.7 and MAI Image 2.7 Flash, delivering frontier image generation and editing at a fraction of the cost of the leading competitors. We’re also launching Canvas, a new interactive workspace powered by our Flash model to create, edit, and refine images.”两款模型以公开预览形式在 Microsoft Foundry 以及 fal、Genspark、OpenRouter、Vercel 等合作方提供。本轮 OpenRouter 站点地图也出现了 microsoft/mai-image-2.7 与 microsoft/mai-image-2.7-flash 条目。",
     "review_14d": null
+  },
+  {
+    "id": 655,
+    "term": "ChatGPT for Sales",
+    "source": "sitemap+web",
+    "score": 0.96,
+    "first_seen": "2026-11-18T08:32+08:00",
+    "url": "https://openai.com/index/introducing-chatgpt-for-sales/",
+    "excerpt": "OpenAI 于 2026-11-17 发布官方文章《Introducing ChatGPT for Sales》（https://openai.com/index/introducing-chatgpt-for-sales/），宣布推出面向销售团队的 ChatGPT for Sales。文中写明：“We’re introducing ChatGPT for Sales to help every sales team understand customers better, spend less time on busywork, and close more deals. It includes our new Sales plugin with dedicated skills for sellers, and more than 30 new and enhanced partner plugins in ChatGPT.”同日 openai.com 站点地图新增了上述介绍页，以及配套的 https://openai.com/business/plugins/clay-for-reps/（Clay for Reps 是合作插件页，本轮不作为独立新词收录）。ChatGPT Business 与 Enterprise 管理员可在 Admin Console 的 Plugins 中为工作区启用 Sales 插件及合作方插件。",
+    "review_14d": null
+  },
+  {
+    "id": 656,
+    "term": "MAI Code 2 / MAI Code 2 Flash",
+    "source": "sitemap+web",
+    "score": 0.95,
+    "first_seen": "2026-11-18T08:32+08:00",
+    "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+    "excerpt": "Microsoft AI 于 2026-11-17 发布官方文章《MAI Code 2 and Code 2 Flash: Everyday coding at scalable prices》（https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/），宣布推出面向日常企业编程任务的 MAI Code 2 与更偏高并发的 MAI Code 2 Flash。文中写明这两款是“two new coding models built for the everyday enterprise coding tasks, delivering leading performance at a fraction of the cost of competing models。”官方新闻页的 sitemap lastmod 为 2026-11-17T22:55:27Z。微软还写道，二者已可在 GitHub Copilot 中使用，Code 2 Flash 正在 Microsoft Foundry 做限量预览，并将陆续登陆 OpenRouter、Vercel、Hermes、Open Code 和 Kilo。同系列文章还提到从 Code 2 Flash 进一步优化得到主要用于 Microsoft 365 与 Fabric IQ 的 MAI Work Flash，该名称是产品内专用变体，本轮不单独收录。",
+    "review_14d": null
+  },
+  {
+    "id": 657,
+    "term": "MAI Cyber 2 Flash",
+    "source": "sitemap+web",
+    "score": 0.94,
+    "first_seen": "2026-11-18T08:32+08:00",
+    "url": "https://microsoft.ai/news/introducing-mai-cyber-2-flash/",
+    "excerpt": "Microsoft AI 于 2026-11-17 发布官方文章《MAI Cyber 2 Flash: Leading security. Lower cost》（https://microsoft.ai/news/introducing-mai-cyber-2-flash/），宣布推出最新的专业安全模型 MAI Cyber 2 Flash。文中写明它“is our latest specialist security model. It delivers leading performance on real-world security tasks at a fraction of the cost of larger models. And we’re bringing that capability directly into Microsoft’s security products.”官方新闻页 sitemap lastmod 为 2026-11-17T21:33:28Z。文章称其上下文窗口为 100 万 token，是 MAI Cyber 1.1 Flash 的四倍，并将从 12 月中旬起在包括 Codename MDASH 在内的微软安全产品中，替换符合条件客户的 MAI profile 现有模型。",
+    "review_14d": null
+  },
+  {
+    "id": 658,
+    "term": "MAI Realtime 1",
+    "source": "sitemap+web",
+    "score": 0.93,
+    "first_seen": "2026-11-18T08:32+08:00",
+    "url": "https://microsoft.ai/news/introducing-mai-realtime-1/",
+    "excerpt": "Microsoft AI 于 2026-11-17 发布官方文章《MAI Realtime 1: Leading voice AI at $0.01 per audio minute》（https://microsoft.ai/news/introducing-mai-realtime-1/），宣布推出其首个语音到语音模型 MAI Realtime 1。文中写明：“MAI Realtime 1, our first speech-to-speech model, is built for naturally flowing conversations for real-world enterprise applications starting at $0.01 per audio minute.”官方称它在公开基准和微软产品评估中，于质量、速度和价格上超过 GPT Realtime 2.1，并位于 Big Bench Audio 与 τ-Voice 的性能-价格 Pareto 前沿。该文可在 MAI Labs 试用，也可登记 Microsoft Foundry 限量预览；预览客户在公开预览开始前不会被计费。新闻页 sitemap lastmod 为 2026-11-17T19:23:33Z，同日 Ignite 模型套件的其余官方页在本轮窗口内继续更新。",
+    "review_14d": null
+  },
+  {
+    "id": 659,
+    "term": "MAI Licensed Weights",
+    "source": "sitemap+web",
+    "score": 0.88,
+    "first_seen": "2026-11-18T08:32+08:00",
+    "url": "https://microsoft.ai/news/introducing-mai-licensed-weights/",
+    "excerpt": "Microsoft AI 于 2026-11-17 发布官方文章《MAI Licensed Weights: Frontier performance you control》（https://microsoft.ai/news/introducing-mai-licensed-weights/），宣布推出 MAI Licensed Weights。文中写明：“That’s why we’re introducing MAI Licensed Weights, giving organizations the ability to deploy and customize Microsoft AI models in their own Azure environments.”官方新闻页 sitemap lastmod 为 2026-11-17T21:01:22Z。文章称客户可在自有 Azure 环境中部署并适配 MAI 模型，数据和适配结果仍归客户，微软仅在得到明确同意时才会将其用于训练；该计划将通过 Frontier Company 合作“即将推出”，目前需联系微软客户团队。配套的 Custom Models 页（https://microsoft.ai/models/microsoft-frontier-tuning/）是同一计划的说明页，不作为单独新词。",
+    "review_14d": null
   }
 ]

@@ -1,0 +1,13 @@
+---
+slug: "chatgpt-for-sales"
+term: "ChatGPT for Sales"
+locale: "zh"
+date: "2026-11-18T08:32+08:00"
+source: "sitemap+web"
+score: 0.96
+url: "https://openai.com/index/introducing-chatgpt-for-sales/"
+excerpt: "OpenAI 于 2026-11-17 发布官方文章《Introducing ChatGPT for Sales》（https://openai.com/index/introducing-chatgpt-for-sales/），宣布推出面向销售团队的 ChatGPT for Sales。文中写明：“We’re introducing ChatGPT for Sales to help every sales team understand customers better, spend less time on busywork, and close more deals. It includes our new Sales plugin with dedicated skills for sellers, and more than 30 new and enhanced partner plugins in ChatGPT.”同日 openai.com 站点地图新增了上述介绍页，以及配套的 https://openai.com/business/plugins/clay-for-reps/（Clay for Reps 是合作插件页，本轮不作为独立新词收录）。ChatGPT Business 与 Enterprise 管理员可在 Admin Console 的 Plugins 中为工作区启用 Sales 插件及合作方插件。"
+intro: "**ChatGPT for Sales** 是 [OpenAI](https://openai.com/index/introducing-chatgpt-for-sales/) 在 2026 年 11 月 17 日正式介绍的销售工作体验，目标是帮助销售团队更快理解客户、减少事务性工作并推动成交。官方把它写成一套完整体验：既包括 OpenAI 自己的 **Sales 插件**（为卖方准备了专用技能和工作流），也包括 ChatGPT 里新增和增强的 30 多个合作方插件，以便把 CRM、获客、通话记录、报价和合同等已有工具里的客户上下文接进同一段对话。\n\n官方强调，销售工作里“该追哪些账户、买方还缺什么才能往前走、哪些交易需要关注”这类判断，往往分散在同事、获客工具、客户通话和 CRM 中。ChatGPT for Sales 的定位是把这些信息汇到一处，用来准备通话、定制方案并更快跟进。它不是一个新的基础模型名称，而是建立在现有 ChatGPT 之上的销售场景产品；本轮收录的是这一产品名本身。\n\n配套出现的 [Clay for Reps 插件页](https://openai.com/business/plugins/clay-for-reps/) 属于合作插件入口，不是单独的新产品名。文中还提到可以把工作交给 ChatGPT 里的 **dot**（常驻 agent），让它用同一套插件和客户上下文准备会议简报、跟踪交易变化，并在人工审阅后再给出下一步建议。"
+explain: "官方把使用场景分成几类：用 Confluence、Guru、Seismic 等学习销售流程和产品更新，并用 ChatGPT Voice 演练演讲与异议处理；用 ChatGPT Slides、Gamma、Figma、Canva 或 ChatGPT Sites 制作演示、互动 demo 或 ROI 计算器；用 Salesforce、HubSpot、Close CRM 或 monday CRM 汇总账户上下文，准备通话并规划下一步；用 Apollo、Clay、Common Room 结合 ChatGPT 的网页研究寻找接触理由，再用 Outreach 或 Salesloft 规划触达；用 ChatGPT 的 Meetings 插件以及 Gong、Otter.ai、Granola 把通话记录变成待办和跟进邮件；用 Backstory、Data 插件或 Hex 观察流水线风险；在买方准备推进时，用 Docusign、Ironclad、PandaDoc 或 ServiceNow CPQ 协助准备报价与协议。\n\n发布稿中的客户证言来自 Michael J. Fox Foundation、NeoBid、Pallet、Datasite 和 Sculpted Agency 等，分别谈到潜在对象研究、CRM 充实、成交流水线风险，以及用 ChatGPT for Sales 与 Clay 把原来要数小时甚至数天的 play 缩短到几分钟。这些是官方引用，不是本雷达的独立实测。合作插件和功能的可用性会因套餐、地区和工作区设置而不同。"
+usage: "按官方“Get started”说明：先安装 [Sales 插件](https://openai.com/index/introducing-chatgpt-for-sales/) 作为起点，并按团队已有工具选择合作方插件。ChatGPT Business 和 Enterprise 管理员可打开 Admin Console，选择工作区后进入 Plugins，向成员开放 Sales 插件和相关合作方插件，或为团队默认安装，并审阅所需应用及可执行的操作。工作区成员在提示时完成账户连接。\n\n典型用法与官方用例一致：从 CRM 和 ZoomInfo、Clay 等研究工具生成优先账户名单并追问适配理由；会前把账户历史、过往通话和买方优先级汇总成简报，再用 Gamma 或 Canva 做成对客方案；会后起草跟进邮件、记录约定事项，并在连接 Attio 等 CRM 时把下一步写回客户记录；对卡住的交易，结合 CRM 历史和通话内容分析原因，也可用 Rox 让 dot 每天检查流水线并准备会议简报，始终由销售人员做最终决定。条款、权限和地区可用性以 OpenAI 当时页面为准。"
+---
