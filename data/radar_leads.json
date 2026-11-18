@@ -6688,5 +6688,85 @@
     "url": "https://voyagelabs.ai/",
     "excerpt": "Voyage Labs 在官网 https://voyagelabs.ai/ 与产品页 https://atlas.voyagelabs.ai/ 推出旅行规划和预订助手 **Atlas**。官网把它写成从第一次提问到下单都在同一个 Web 应用（也可通过 iMessage）里完成：Atlas 的 Flight、Hotel、Restaurant、Local、Experiences 等 Expert 会审看选项并给出选择，用户再加入短名单并完成预订。2026 年 11 月 17 日前后，Voyage Labs 宣布获得由 Kleiner Perkins 领投、SignalFire 与 SV Angel 等参与的 1200 万美元种子轮，产品处于测试阶段。本条使用 “Atlas / Voyage Labs Atlas”，以区别于其他同名模型或系统。",
     "review_14d": null
+  },
+  {
+    "id": 670,
+    "term": "eve 1.0 / Vercel eve",
+    "source": "x+web",
+    "score": 0.95,
+    "first_seen": "2026-11-18T16:32+08:00",
+    "url": "https://vercel.com/blog/eve-is-now-generally-available",
+    "excerpt": "Vercel 官方博客于 2026 年 11 月 17 日发表《Introducing eve 1.0》（https://vercel.com/blog/eve-is-now-generally-available），文中写 “Today we're announcing eve 1.0, the open-source framework for building production-ready agents.” 博客说明 eve 自 6 月公开预览以来已有 230 多次发布，此次 1.0 起正式一般可用（GA）。产品站 https://eve.dev ，代码在 https://github.com/vercel/eve 。本轮 X 检索中亦出现对这一 GA 的转述，例如 https://x.com/Pro_Algorithm/status/2122920162001031403 。须与 Anthropic 已收录的研究项目 Project EVE 区分，二者不是同一个名字。",
+    "review_14d": null
+  },
+  {
+    "id": 671,
+    "term": "HeyGen Avatar 6",
+    "source": "x+web",
+    "score": 0.94,
+    "first_seen": "2026-11-18T16:32+08:00",
+    "url": "https://www.heygen.com/research/avatar-6-model",
+    "excerpt": "HeyGen Research 于 2026 年 11 月 17 日发布技术介绍《Avatar 6: Talking Avatars That Are More Like You》（https://www.heygen.com/research/avatar-6-model），把 **Avatar 6** 写成新的数字人/对口型 avatar 模型：可用单张照片，并可选用一小段录像作为身份参考，生成最高 2K、时长跟随音频、没有固定时长上限的说话视频。同日 PR Newswire 稿（标题写 “HeyGen Introduces Avatar 6”）称其于当天推出，并提到在 Avatar Arena 等对比中排名第一、在并排对比中有 84.4% 的“难以与真实录像区分”结果。开发者文档见 https://developers.heygen.com/docs/models/avatar-6 。本轮 X news 也把这次发布列为新模型。",
+    "review_14d": null
+  },
+  {
+    "id": 672,
+    "term": "Pika Enact",
+    "source": "sitemap+web",
+    "score": 0.93,
+    "first_seen": "2026-11-18T16:32+08:00",
+    "url": "https://pika.art/blog/pika-enact",
+    "excerpt": "本轮竞品 sitemap 扫描在 pika.art 上发现新增页面《Research Preview: Pika Enact》（https://pika.art/blog/pika-enact）。官方把它写成研究预览：一个搭建在已收录的 **Pika H3 Flex** 之上的实验性直播环境，用亚秒级分块生成视频和声音，一边把场景上下文接着往下走，一边把新的导演指令送进正在生成的画面。文中介绍三种实时交互：Live Staging（用鼠标在播放中的画面里摆放演员或物体）、Live Actor Direction（对演员说话并让他们按讨论过的内容开拍）、Live Camera Control（在播放中的场景里用鼠标运镜）。页面标注 Research，可见 2026 年 11 月 17 日与 19 日的日期；这是新的产品/研究预览名，不是把 Pika H3 Flex 重新入库。",
+    "review_14d": null
+  },
+  {
+    "id": 673,
+    "term": "Microsoft Perception",
+    "source": "x+web",
+    "score": 0.92,
+    "first_seen": "2026-11-18T16:32+08:00",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/11/17/security-for-the-agentic-era-powered-by-microsoft-perception/",
+    "excerpt": "微软在 Ignite 2026 期间把先前的 Project Perception 正式定名为 **Microsoft Perception**，并宣布一般可用。官方安全博客 2026 年 11 月 17 日文章《Security for the agentic era, powered by Microsoft Perception》（https://www.microsoft.com/en-us/security/blog/2026/11/17/security-for-the-agentic-era-powered-by-microsoft-perception/）以及 Tech Community 博文《What's new with Microsoft Perception at Ignite 2026》（https://techcommunity.microsoft.com/blog/perception-blog/whats-new-with-microsoft-perception-at-ignite-2026/4571834）写明：“At Microsoft Ignite, Project Perception becomes Microsoft Perception and will be generally available”。产品被写成面向 agent 时代的安全平台：用红/蓝/绿三类专用 agent 和 playbook，做发现、调查与修复，关键动作仍需人工批准。本轮 X 上也有对 GA 的转述，例如 https://x.com/NiteshJaitwar/status/2122967041606902215 。",
+    "review_14d": null
+  },
+  {
+    "id": 674,
+    "term": "Genesys Standalone AI Agents",
+    "source": "x+web",
+    "score": 0.91,
+    "first_seen": "2026-11-18T16:32+08:00",
+    "url": "https://www.genesys.com/company/newsroom/announcements/genesys-launches-standalone-ai-agents-and-genesys-arena-for-faster-agentic-ai-deployment",
+    "excerpt": "Genesys 于 2026 年 11 月 17 日发布新闻稿《Genesys Launches Standalone AI Agents and Genesys Arena for Faster Agentic AI Deployment》（https://www.genesys.com/company/newsroom/announcements/genesys-launches-standalone-ai-agents-and-genesys-arena-for-faster-agentic-ai-deployment），宣布 **Genesys Standalone AI Agents** 与同期的 Genesys Arena。新闻稿写明：企业可以在现有客服环境中部署 Genesys Cloud Agentic Virtual Agent，而不必先把整套联络中心迁到 Genesys Cloud；并称可在数天内把 AI agent 投入生产，同时保留已有技术、流程和运营商接入。本轮 X 上也有对 GA 的转述，例如 https://x.com/oscarsuiza/status/2122970614881231182 （文中写 generally available from 17 Nov）。同场发布的 Genesys Arena 作为另一词条单独收录。",
+    "review_14d": null
+  },
+  {
+    "id": 675,
+    "term": "Copilot Home",
+    "source": "x+web",
+    "score": 0.9,
+    "first_seen": "2026-11-18T16:32+08:00",
+    "url": "https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/",
+    "excerpt": "微软在 Ignite 2026（2026-11-17）宣布，Microsoft Copilot 应用里的 **Home**（常被称作 Copilot Home）成为工作起点，并且 Chat 与 Cowork 在 Home 中一并一般可用。官方博文《Copilot at Microsoft Ignite: Expanding what’s possible with intelligence built for work》（https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/）写明 “Home, where Chat and Cowork come together, and Office in Copilot are now generally available.” Tech Community 文章《Home: Your starting place for work in the Microsoft Copilot app》（https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/home-your-starting-place-for-work-in-the-microsoft-copilot-app/4573945）进一步说明：Home 用一个输入框同时支持提问和把多步任务交出去，并由 Auto 为任务选择模型和力度。本轮 X 亦有转述，例如 https://x.com/StartUsingAiUK/status/2122963114161291587 。",
+    "review_14d": null
+  },
+  {
+    "id": 676,
+    "term": "Agentaus 1",
+    "source": "x+web",
+    "score": 0.9,
+    "first_seen": "2026-11-18T16:32+08:00",
+    "url": "https://trellisdata.com/newsroom/trellis-data-launches-agentaus-1/",
+    "excerpt": "澳大利亚公司 Trellis Data 在 2026 年 11 月 10 日发布新闻稿《Trellis Data launches Agentaus 1》（https://trellisdata.com/newsroom/trellis-data-launches-agentaus-1/），宣布 **Agentaus 1**：约 2200 亿参数、面向企业与政府的澳大利亚主权基础模型。官方写明“available today”，称其为澳大利亚首个达到这一规模的主权模型，并给出自评的 MMLU-Pro 84.4%、约全球第 43 名（截至 2026 年 11 月）。本轮源头扫描的 X 新闻流再次露出这个具体名字，而库中此前未收录，因此作为漏掉的正式发布名补入。不要把它和泛称 “Australian sovereign AI” 混为一谈。",
+    "review_14d": null
+  },
+  {
+    "id": 677,
+    "term": "Genesys Arena",
+    "source": "x+web",
+    "score": 0.88,
+    "first_seen": "2026-11-18T16:32+08:00",
+    "url": "https://www.genesys.com/company/newsroom/announcements/genesys-launches-standalone-ai-agents-and-genesys-arena-for-faster-agentic-ai-deployment",
+    "excerpt": "同一份 Genesys 2026 年 11 月 17 日新闻稿（https://www.genesys.com/company/newsroom/announcements/genesys-launches-standalone-ai-agents-and-genesys-arena-for-faster-agentic-ai-deployment）在宣布 Standalone AI Agents 的同时，推出 **Genesys Arena**：用来把经过验证的客户体验（CX）用例更快变成可投产的 AI agent。新闻稿把它写成面向希望加快 agentic AI 部署的团队的配套产品，与 Standalone AI Agents、以及按 Experience Units 计费的努力度定价一起发布。本条单独收录 Arena 这个产品名，避免和 Standalone AI Agents 混成一个词。",
+    "review_14d": null
   }
 ]
