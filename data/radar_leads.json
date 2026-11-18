@@ -6768,5 +6768,35 @@
     "url": "https://www.genesys.com/company/newsroom/announcements/genesys-launches-standalone-ai-agents-and-genesys-arena-for-faster-agentic-ai-deployment",
     "excerpt": "同一份 Genesys 2026 年 11 月 17 日新闻稿（https://www.genesys.com/company/newsroom/announcements/genesys-launches-standalone-ai-agents-and-genesys-arena-for-faster-agentic-ai-deployment）在宣布 Standalone AI Agents 的同时，推出 **Genesys Arena**：用来把经过验证的客户体验（CX）用例更快变成可投产的 AI agent。新闻稿把它写成面向希望加快 agentic AI 部署的团队的配套产品，与 Standalone AI Agents、以及按 Experience Units 计费的努力度定价一起发布。本条单独收录 Arena 这个产品名，避免和 Standalone AI Agents 混成一个词。",
     "review_14d": null
+  },
+  {
+    "id": 678,
+    "term": "Microsoft IQ",
+    "source": "x+web",
+    "score": 0.95,
+    "first_seen": "2026-11-18T20:32+08:00",
+    "url": "https://azure.microsoft.com/en-us/blog/introducing-the-new-microsoft-iq-putting-your-organizations-intelligence-to-work-in-every-agent/",
+    "excerpt": "微软在 2026 年 11 月 17 日 Ignite 上宣布推出 **Microsoft IQ**。Azure 博客《Introducing the new Microsoft IQ: Putting your organization's intelligence to work in every agent》（https://azure.microsoft.com/en-us/blog/introducing-the-new-microsoft-iq-putting-your-organizations-intelligence-to-work-in-every-agent/）由 Microsoft IQ 企业副总裁 Yitzhak Kesselman 撰写，文中写到：“Today, we are announcing Microsoft IQ, the enterprise context management platform that helps organizations create their own IQ.” 它把 Work IQ、Fabric IQ、Foundry IQ 和 Web IQ，以及 350 多个第三方连接器，收进同一套企业上下文管理平台，并引入可在 Microsoft Copilot、GitHub Copilot、Microsoft Foundry（经 MCP）以及 ChatGPT、Claude 市场里复用的 business plugins。本轮 X 上也有对一般可用的转述，例如 https://x.com/NiteshJaitwar/status/2122993233437372464 。",
+    "review_14d": null
+  },
+  {
+    "id": 679,
+    "term": "Replit Missions",
+    "source": "x+web",
+    "score": 0.94,
+    "first_seen": "2026-11-18T20:32+08:00",
+    "url": "https://replit.com/blog/introducing-replit-missions",
+    "excerpt": "Replit 于 2026 年 11 月 17 日在官方博客《Introducing Replit Missions》（https://replit.com/blog/introducing-replit-missions）宣布推出 **Replit Missions**。文中写到：“Today, we're launching Replit Missions to help your teams take on the complex work they haven't had time or capacity for.” 用户定义目标、成功标准和预算与审批边界，由一组云端 agent 组成的 swarm 去规划、构建、测试并迭代，直到达到标准或预算用尽。Replit 自己的示例是：在 3,000 美元预算内、用两天时间让 swarm 做出可自托管的监控平台 DataCat。本轮 X 上也出现了第三方介绍，例如 https://x.com/DanielHayesAI/status/2122977745840087417 。",
+    "review_14d": null
+  },
+  {
+    "id": 680,
+    "term": "Azure AI Gateway",
+    "source": "x+web",
+    "score": 0.91,
+    "first_seen": "2026-11-18T20:32+08:00",
+    "url": "https://techcommunity.microsoft.com/blog/integrationsonazureblog/azure-ai-gateway-is-now-generally-available-ship-faster-stay-in-control/4572644",
+    "excerpt": "微软在 2026 年 11 月 17 日 Ignite 上宣布 **Azure AI Gateway** 一般可用。Tech Community 文章《Azure AI Gateway is now generally available: Ship faster, stay in control》（https://techcommunity.microsoft.com/blog/integrationsonazureblog/azure-ai-gateway-is-now-generally-available-ship-faster-stay-in-control/4572644）写到：“Today at Microsoft Ignite 2026, we're announcing the general availability of Azure AI Gateway”，并说明它此前是 Azure API Management 的 AI Gateway 层公开预览，现在成为专注于治理模型与工具访问的独立产品。官方产品站为 https://ai.gateway.azure.com/ 。它在 17 个 Azure 区域提供，采用按量计费的免费额度（每个网关每月 10,000 次请求），付费计费从 2027 年 1 月 1 日开始。本轮 X 上也有对 GA 的转述，例如 https://x.com/omiossec_med/status/2122992430094114843 。",
+    "review_14d": null
   }
 ]
