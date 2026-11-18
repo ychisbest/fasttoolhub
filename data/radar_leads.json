@@ -6798,5 +6798,35 @@
     "url": "https://techcommunity.microsoft.com/blog/integrationsonazureblog/azure-ai-gateway-is-now-generally-available-ship-faster-stay-in-control/4572644",
     "excerpt": "微软在 2026 年 11 月 17 日 Ignite 上宣布 **Azure AI Gateway** 一般可用。Tech Community 文章《Azure AI Gateway is now generally available: Ship faster, stay in control》（https://techcommunity.microsoft.com/blog/integrationsonazureblog/azure-ai-gateway-is-now-generally-available-ship-faster-stay-in-control/4572644）写到：“Today at Microsoft Ignite 2026, we're announcing the general availability of Azure AI Gateway”，并说明它此前是 Azure API Management 的 AI Gateway 层公开预览，现在成为专注于治理模型与工具访问的独立产品。官方产品站为 https://ai.gateway.azure.com/ 。它在 17 个 Azure 区域提供，采用按量计费的免费额度（每个网关每月 10,000 次请求），付费计费从 2027 年 1 月 1 日开始。本轮 X 上也有对 GA 的转述，例如 https://x.com/omiossec_med/status/2122992430094114843 。",
     "review_14d": null
+  },
+  {
+    "id": 681,
+    "term": "Koyal",
+    "source": "x+web",
+    "score": 0.94,
+    "first_seen": "2026-11-19T00:32+08:00",
+    "url": "https://www.plivo.com/blog/introducing-koyal-text-to-speech/",
+    "excerpt": "Plivo 于 2026 年 11 月 18 日在官方博客《Introducing Koyal: Plivo's text-to-speech for voice agents》（https://www.plivo.com/blog/introducing-koyal-text-to-speech/）宣布推出 **Koyal**。文中写到：“Today we’re launching Koyal, our first in-house text-to-speech model, built from the ground up for voice AI agents that need the lowest possible latency.” 官方称它支持 14 种语言（英语、西班牙语和 12 种印度语言），首包音频延迟低于 200 毫秒，定价为每分钟 0.0065 美元、在印度为每分钟 0.65 卢比，并面向所有 Plivo 账户开放。官方账号 @plivo 同步发帖（https://x.com/plivo/status/2123041992859152385）。",
+    "review_14d": null
+  },
+  {
+    "id": 682,
+    "term": "CodeRabbit Verify",
+    "source": "x+web",
+    "score": 0.93,
+    "first_seen": "2026-11-19T00:32+08:00",
+    "url": "https://www.coderabbit.ai/blog/introducing-coderabbit-verify",
+    "excerpt": "CodeRabbit 于 2026 年 11 月 18 日在官方博客《Introducing CodeRabbit Verify: Agentic application testing and AI quality assurance》（https://www.coderabbit.ai/blog/introducing-coderabbit-verify）宣布 **CodeRabbit Verify** 进入公开测试。文中写到：“Today, we’re announcing that CodeRabbit Verify is in public beta.” 它会在隔离沙箱中启动你的应用，根据 pull request 的变更生成并执行测试场景，也可从代码库生成可复用的用户旅程做回归测试，再用录屏、截图和日志报告功能缺陷。产品页为 https://www.coderabbit.ai/verify ，文档为 https://docs.coderabbit.ai/verify 。本轮 X 上也有第三方介绍，例如 https://x.com/wallstengine/status/2123089764454932618 。",
+    "review_14d": null
+  },
+  {
+    "id": 683,
+    "term": "Gridline",
+    "source": "x+web",
+    "score": 0.82,
+    "first_seen": "2026-11-19T00:32+08:00",
+    "url": "https://gridlinegpu.com/",
+    "excerpt": "Gridline 于 2026 年 11 月 18 日公开推出，官方站点为 https://gridlinegpu.com/ ，文档为 https://gridlinegpu.com/docs 。X 上 @apareek05 发帖写到：“Today we're launching Gridline.”（https://x.com/apareek05/status/2123055594504687700），并出现 Show HN 介绍：Fine-tune open models and run them in batch, pay per token。它提供兼容 OpenAI 的 API，用于对开源模型做微调、蒸馏和批量推理，用户可下载训练得到的权重；官方称文本微调与批量推理目前已经上线。本条记录的是产品名 Gridline。",
+    "review_14d": null
   }
 ]

@@ -1,0 +1,13 @@
+---
+slug: "gridline"
+term: "Gridline"
+locale: "zh"
+date: "2026-11-19T00:32+08:00"
+source: "x+web"
+score: 0.82
+url: "https://gridlinegpu.com/"
+excerpt: "Gridline 于 2026 年 11 月 18 日公开推出，官方站点为 https://gridlinegpu.com/ ，文档为 https://gridlinegpu.com/docs 。X 上 @apareek05 发帖写到：“Today we're launching Gridline.”（https://x.com/apareek05/status/2123055594504687700），并出现 Show HN 介绍：Fine-tune open models and run them in batch, pay per token。它提供兼容 OpenAI 的 API，用于对开源模型做微调、蒸馏和批量推理，用户可下载训练得到的权重；官方称文本微调与批量推理目前已经上线。本条记录的是产品名 Gridline。"
+intro: "**Gridline** 是 2026 年 11 月 18 日推出的微调与批量推理 API。官方站点 [gridlinegpu.com](https://gridlinegpu.com/) 把它写成：用一套 API 对开源模型做微调、蒸馏和批量推理，你保留训练得到的权重，由 Gridline 运行 GPU。首页和 [llms.txt](https://gridlinegpu.com/llms.txt) 都写明，文本微调与批量推理今天已经上线，API 兼容 OpenAI。\n\n同一天，@apareek05 在 X 上宣布 “Today we're launching Gridline.”（https://x.com/apareek05/status/2123055594504687700），并有 Show HN 帖介绍这一服务。文档 [Quickstart](https://gridlinegpu.com/docs) 说明：把 OpenAI 客户端指向 `https://api.gridlinegpu.com/openai/v1`，用仪表盘签发的 `GRIDLINE_TOKEN` 即可上传训练集、创建微调任务或提交批量请求。\n\n本条记录的是这个 API 服务的产品名 Gridline。不要把它和同名的其他公司、项目，或只是“网格线”这类普通词混为一个词条。"
+explain: "Gridline 把三类工作收进同一套兼容 OpenAI 的接口。微调：上传至少 11 条 OpenAI chat JSONL，任务会留出部分样本做评估，并至少用 10 条做训练；默认训练 bf16 LoRA 适配器，较小基座会用 QLoRA。成功后模型名形如 `ft:qwen3.5-9b:...`，可用 token 下载 `adapter_model.safetensors` 和 `adapter_config.json`。批量推理：每行一个请求，完成窗口可选 24 小时或 72 小时（官方称价格相同），结果按 `custom_id` 回传；嵌入则走 `/v1/embeddings` 和 `bge-m3`。蒸馏：先用大模型跑一批提示，再调用 `POST /files/distill` 把结果转成训练/验证文件，然后在小模型上微调；官方称该转换接口本身不额外收费。\n\n计费是预付积分。微调在创建时给出报价，成功后扣费且不超过报价；创建任务即开始训练。批量在校验时预扣积分，结束时结算。积分不足会在开跑或校验阶段以 `insufficient_quota` 失败。账号同时只能训练一个微调任务，最多 16 个微调任务和 64 个批量处于打开状态。文档还写：注册并验证邮箱后可获得 5 美元免费额度（以当时仍有的当日额度为准），token 默认带 `read` 和 `routing:write` 权限，有效期 30、60 或 90 天。\n\n官方也划了能力边界：语音和视觉模型、更多基座还在后续计划里；站点写明 Gridline 是独立服务，与 Qwen、Mistral、Llama、gpt-oss、Nemotron、Gemma、bge-m3 等模型的原开发者没有隶属或背书关系。它由 Entrepreneurs First 支持，目前仍是新上线的自助 API，评估时应看文档与实际可用性，而不是把它当成已经大规模验证的云厂商服务。"
+usage: "先在 [gridlinegpu.com](https://gridlinegpu.com/) 注册并验证邮箱，按 [Quickstart](https://gridlinegpu.com/docs) 在控制台创建 token，然后设置：\n\n```bash\nexport GRIDLINE_TOKEN=\"gla_...\"\n```\n\n再用 OpenAI Python SDK 指向 `https://api.gridlinegpu.com/openai/v1`，上传 `purpose=fine-tune` 的 JSONL 并创建微调任务，或上传 `purpose=batch` 的请求文件做批量推理。文档示例使用目录模型如 `qwen3.5-9b` 或 `bge-m3`；微调成功后，把批量请求里的 `body.model` 换成你的 `ft:` 模型即可。官方称一个批量最多可以使用 8 个同一基座的 `ft:` 模型，且其他账号不能调用你的模型。\n\n蒸馏流程见 [Distillation](https://gridlinegpu.com/docs/distillation)：用教师模型跑 batch，对输出调用 `/files/distill`，再在学生模型上创建微调任务。创建任务前应阅读返回的 `job.gridline[\"quote\"]`，确认积分足够。也可以安装 CLI：`python -m pip install 'gridlinegpu[source-contract]>=0.3.2,<0.4'`，再运行 `gridline setup --apply`。\n\n如果只是要在自己的 GPU 上微调，并不需要这个新的托管 API 名称。接入前还要确认你对上传数据和教师模型输出拥有相应权利。"
+---
