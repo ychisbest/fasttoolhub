@@ -6828,5 +6828,25 @@
     "url": "https://gridlinegpu.com/",
     "excerpt": "Gridline 于 2026 年 11 月 18 日公开推出，官方站点为 https://gridlinegpu.com/ ，文档为 https://gridlinegpu.com/docs 。X 上 @apareek05 发帖写到：“Today we're launching Gridline.”（https://x.com/apareek05/status/2123055594504687700），并出现 Show HN 介绍：Fine-tune open models and run them in batch, pay per token。它提供兼容 OpenAI 的 API，用于对开源模型做微调、蒸馏和批量推理，用户可下载训练得到的权重；官方称文本微调与批量推理目前已经上线。本条记录的是产品名 Gridline。",
     "review_14d": null
+  },
+  {
+    "id": 684,
+    "term": "Stitch Loop",
+    "source": "sitemap+x+web",
+    "score": 0.95,
+    "first_seen": "2026-11-19T04:32+08:00",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/",
+    "excerpt": "Google Labs 于 2026 年 11 月 18 日在官方博客《Introducing Stitch Loop: A new way to build and evolve products》（https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/）宣布推出 **Stitch Loop**。文中写到：“Today, we are introducing Stitch Loop, a long-running product agent from Google Labs that connects to your codebase and live metrics, finds what needs fixing, and keeps working 24/7 on your product until your goals are met.” 官方称它是 Stitch 新方向下的一项实验：接入 GitHub 与线上指标后，持续提出改进、在隔离云沙箱写代码并打开 GitHub PR，必须由人审核后才会合并。候补名单即日起对全球用户开放，符合条件的 Google AI Ultra 用户优先，入口为 https://stitch.google.com/loop/waitlist。本轮扫描中，blog.google 站点地图新增了该博文。",
+    "review_14d": null
+  },
+  {
+    "id": 685,
+    "term": "HappyRobot Surface",
+    "source": "x+web",
+    "score": 0.88,
+    "first_seen": "2026-11-19T04:32+08:00",
+    "url": "https://www.happyrobot.ai/blog/discover-the-surface-of-work-so-you-can-reimagine-it",
+    "excerpt": "HappyRobot 联合创始人兼 CEO Pablo Palafox 于 2026 年 11 月 18 日在官方博客《Discover the Surface of work so you can reimagine it》（https://www.happyrobot.ai/blog/discover-the-surface-of-work-so-you-can-reimagine-it）宣布推出 **Surface**。博文写到：“Introducing Surface: see how the work actually gets done in your enterprise before you automate it.” 产品通过浏览器记录员工实际操作，并由 agent 在工作过程中询问原因，再跨团队对比，形成可审核的流程地图；目前向部分客户开放试点。Palafox 同步在 X 发帖（https://x.com/pablorpalafox/status/2123097605874057445）：“Today we’re launching Surface, a way to see how work actually gets done before you build a single agent on it.” 产品页为 https://www.happyrobot.ai/surface。",
+    "review_14d": null
   }
 ]
