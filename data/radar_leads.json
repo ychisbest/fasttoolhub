@@ -6928,5 +6928,15 @@
     "url": "https://corporate.ovhcloud.com/en/newsroom/news/ovhai-workspace-agentic-platform-business/",
     "excerpt": "On 19 November 2026 in Roubaix, OVHcloud published an official press release announcing **OVHai Workspace**, its collaborative and open agentic AI platform for businesses. The release is titled “OVHai Workspace the agentic platform for businesses” and led with: “Agentic AI within reach of our millions of business customers with a new generation of B2B applications.” It describes three spaces — Productivity, Web AI, and Knowledge Platform — and says the alpha of the Productivity space is available free of charge from today, with 5 GB of storage per user, with data hosted in Europe and not used to train models. English release: https://corporate.ovhcloud.com/en/newsroom/news/ovhai-workspace-agentic-platform-business/ ; French release: https://corporate.ovhcloud.com/fr/newsroom/news/ovhai-workspace-agentic-platform-business/ .",
     "review_14d": null
+  },
+  {
+    "id": 694,
+    "term": "Teamily Video Agent",
+    "source": "x+web",
+    "score": 0.95,
+    "first_seen": "2026-11-20T04:32+08:00",
+    "url": "https://x.com/Teamily_AI/status/2123431105495974001",
+    "excerpt": "Teamily 官方账号 @Teamily_AI 于 2026-11-19T15:00:01Z（北京时间 11 月 19 日 23:00）发布帖子 “Introducing Teamily Video Agent”（https://x.com/Teamily_AI/status/2123431105495974001），写到：“We give all Teamily agents a face. They also see the world you see through your AI glasses and your camera.” 该帖截至本轮扫描时约 574 次喜欢、约 12.8 万次展示。联合创始人兼 CEO Aiden Chaoyang He（@AidenChaoyangHe）在两分钟后发帖 “Preview of Teamily AI Glass”（https://x.com/AidenChaoyangHe/status/2123431651510505771），写到：“We are building Teamily AI Glass, powered by our Video Agent. It enables an egocentric AI agent that can see what you see, hear what you hear, and collaborate with you in real time.” 其长文开头为：“Today, we're unveiling Teamily Video Agent and AI Glasses”。产品站：https://teamily.ai/ 。",
+    "review_14d": null
   }
 ]
