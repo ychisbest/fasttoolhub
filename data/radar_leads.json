@@ -6848,5 +6848,65 @@
     "url": "https://www.happyrobot.ai/blog/discover-the-surface-of-work-so-you-can-reimagine-it",
     "excerpt": "HappyRobot 联合创始人兼 CEO Pablo Palafox 于 2026 年 11 月 18 日在官方博客《Discover the Surface of work so you can reimagine it》（https://www.happyrobot.ai/blog/discover-the-surface-of-work-so-you-can-reimagine-it）宣布推出 **Surface**。博文写到：“Introducing Surface: see how the work actually gets done in your enterprise before you automate it.” 产品通过浏览器记录员工实际操作，并由 agent 在工作过程中询问原因，再跨团队对比，形成可审核的流程地图；目前向部分客户开放试点。Palafox 同步在 X 发帖（https://x.com/pablorpalafox/status/2123097605874057445）：“Today we’re launching Surface, a way to see how work actually gets done before you build a single agent on it.” 产品页为 https://www.happyrobot.ai/surface。",
     "review_14d": null
+  },
+  {
+    "id": 686,
+    "term": "Gemini 4 Neon",
+    "source": "sitemap+x+web",
+    "score": 0.95,
+    "first_seen": "2026-11-19T08:32+08:00",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+    "excerpt": "Google 于 2026 年 11 月 18 日在官方博客《Introducing Gemini 4 Neon》（https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/）宣布推出 **Gemini 4 Neon**。Google DeepMind SVP、Google 首席 AI 架构师 Koray Kavukcuoglu 在文中写到：“Today, we’re introducing Gemini 4 Neon — bringing frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows.” 官方定价为每百万输入 token 3 美元（缓存输入 0.15 美元，即 95% 折扣）、每百万输出 token 15 美元，上下文窗口 100 万 token。即日起在 Google AI Studio 的 Gemini API、Gemini for business、付费 Google AI Pro / Ultra 的 Google Antigravity 以及 Gemini 应用中逐步开放。官方账号 @GoogleDeepMind 于 2026-11-18T21:34:04Z（北京时间 11 月 19 日 05:34）发帖：https://x.com/GoogleDeepMind/status/2123167884411077030 。配套模型卡：https://deepmind.google/models/model-cards/gemini-4-neon/ 。本轮 sitemap 扫描中，blog.google 与 deepmind.google 均新增了上述页面。此前多轮扫描仅见到非官方泄露或目录传闻，未予收录。",
+    "review_14d": null
+  },
+  {
+    "id": 687,
+    "term": "ChatGPT for Accounting",
+    "source": "sitemap+x+web",
+    "score": 0.93,
+    "first_seen": "2026-11-19T08:32+08:00",
+    "url": "https://openai.com/business/solutions/accounting/",
+    "excerpt": "OpenAI 官方账号 @ChatGPT 于 2026-11-18T20:59:18Z（北京时间 11 月 19 日 04:59）发帖宣布：**ChatGPT for Accounting** 现已可用。完整帖文写到：“Phew, ChatGPT for Accounting is now available. Our new Accounting plugin and partner plugins help you close your books with less manual work for tasks like: Month-end reports, Bank reconciliation, Data entry, Audit prep.” 并点名 QuickBooks、Xero、Oracle NetSuite、BILL、FreshBooks、Rillet 与 Campfire，入口为 https://openai.com/business/solutions/accounting/ 。官方帖：https://x.com/ChatGPT/status/2123159134963196357 。本轮 openai.com 站点地图新增了该解决方案页，以及配套插件页 https://openai.com/business/plugins/accounting/ 。这是继已收录的 ChatGPT for Sales 之后的第二个行业套装，请用全名以免与通用会计用法或 Sales 套装混淆。",
+    "review_14d": null
+  },
+  {
+    "id": 688,
+    "term": "Frostbite",
+    "source": "x+web",
+    "score": 0.9,
+    "first_seen": "2026-11-19T08:32+08:00",
+    "url": "https://architectlabs.com/blog/frostbite",
+    "excerpt": "Architect Labs 于 2026 年 11 月 18 日在官方研究博文《Introducing Frostbite: A new CPU architecture discovered, designed, and verified end-to-end by AI》（https://architectlabs.com/blog/frostbite）中宣布推出 **Frostbite**。文中写到：“Today, we're introducing Frostbite, a general-purpose CPU with a new instruction set built from the ground up.” 官方称其 AI 系统在编译器、指令集、架构、微架构、RTL、验证和最终 GDS 上自主迭代；在 25 项工作负载（其中 15 项留作最终评估）上，相对其称为 TCPU 的现代、已硅验证超标量 CPU 单核，Frostbite 一个 Quad+L3 簇的性能功耗几何平均值为 4.59 倍。官方账号 @architectlabs 同步介绍了这一名字。不要把它和 EA 的 Frostbite 游戏引擎，或该公司此前的加速器项目 Redwood 混为一个词条。",
+    "review_14d": null
+  },
+  {
+    "id": 689,
+    "term": "FlashDrive",
+    "source": "x+web",
+    "score": 0.88,
+    "first_seen": "2026-11-19T08:32+08:00",
+    "url": "https://flashdrive.ai/",
+    "excerpt": "FlashDrive 联合创始人 @daleverett 于 2026-11-18T22:00:03Z（北京时间 11 月 19 日 06:00）发帖宣布与 Y Combinator 一起推出 **FlashDrive**。原文写到：“Today we’re launching FlashDrive with @ycombinator. FlashDrive is a shared cloud drive where your team and all your AI agents work in the same files across computers and cloud sandboxes.” 官方站点为 https://flashdrive.ai/ ，定位是面向 AI agent 的共享云盘：可在 Mac 与 Linux 上挂载，云端 sandbox 也可通过 MCP 访问同一组文件。联合创始人 @daltonmeon 同步发帖确认。官方帖：https://x.com/daleverett/status/2123174423616258268 。",
+    "review_14d": null
+  },
+  {
+    "id": 690,
+    "term": "DaisyRose-27B",
+    "source": "x+web",
+    "score": 0.87,
+    "first_seen": "2026-11-19T08:32+08:00",
+    "url": "https://www.radixark.com/blog/daisyrose-27b",
+    "excerpt": "RadixArk 在 2026 年 11 月 18 日的官方博客《DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency》（https://www.radixark.com/blog/daisyrose-27b）中写到：“Today we are releasing DaisyRose-27B, RadixArk’s first model, built on Qwen3.8-27B and trained with reinforcement learning using Miles.” 官方称在约 1200 个长程 agent 任务、最长 100 万 token 的会话上，用 144 张 H200、历时 18 天完成训练，并把 Terminal-Bench 4.1 的 pass@1 从 5.6% 提升到 12.0%，同时以 Apache-2.0 发布 BF16、FP8 和 NVFP4 权重。Hugging Face 仓库为 https://huggingface.co/RadixArk/DaisyRose-27B ，创建时间为 2026-11-18T05:31:35Z（北京时间 13:31）。本轮 X 上 @mutianba 于 21:03 UTC 转发了该博文。这是对 11 月 18 日官方发布的补收：更早的扫描窗口未入库。Miles 是该公司已有的开源强化学习框架（GitHub 仓库创建于 2025 年），本轮不单独建条。",
+    "review_14d": null
+  },
+  {
+    "id": 691,
+    "term": "Rezora",
+    "source": "x+web",
+    "score": 0.82,
+    "first_seen": "2026-11-19T08:32+08:00",
+    "url": "https://rezora.io/",
+    "excerpt": "@Yevgeniyyyy 于 2026-11-18T21:40:47Z（北京时间 11 月 19 日 05:40）发帖宣布推出 YC F26 项目 **Rezora**（亦作 Rezora IO）。原文写到：“Today we're launching @rezoraio (YC F26). Self improving AI receptionists for home services. They answer every call 24/7, qualify the job, and book it. Live in 10 minutes. 40+ businesses and $23K MRR since August.” 官方站点为 https://rezora.io/ ，定位是面向房地产和上门服务的 AI 电话 agent：接通来电的前台，以及在新线索出现后数秒内回拨的外呼 agent。需要注意：发布帖称自 8 月起已有 40 多家企业和 2.3 万美元月经常性收入，因此这是一次公开/YC 发布，而不是产品从零开始的第一天。本条按这次公开亮相收录产品名 Rezora。",
+    "review_14d": null
   }
 ]
