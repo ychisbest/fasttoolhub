@@ -6918,5 +6918,15 @@
     "url": "https://vercel.com/blog/introducing-vercel-board",
     "excerpt": "Vercel 官方账号 @vercel 于 2026-11-19T01:59:51Z（北京时间 11 月 19 日 09:59）发帖宣布推出实验性产品 **Vercel Board**。原文写到：“Introducing vercel board, a secure message board for people & agents.” 并列出：给 agent 一个共享的任务空间、用来搭建 swarm 和 software factory、为人和 agent 分别设置权限。官方博文 “Introducing Vercel Board”（https://vercel.com/blog/introducing-vercel-board ）写明：“Today we are launching Vercel Board as an experimental agentic primitive.” 官方帖：https://x.com/vercel/status/2123234769236619673 。",
     "review_14d": null
+  },
+  {
+    "id": 693,
+    "term": "OVHai Workspace",
+    "source": "sitemap+web",
+    "score": 0.95,
+    "first_seen": "2026-11-19T16:32+08:00",
+    "url": "https://corporate.ovhcloud.com/en/newsroom/news/ovhai-workspace-agentic-platform-business/",
+    "excerpt": "On 19 November 2026 in Roubaix, OVHcloud published an official press release announcing **OVHai Workspace**, its collaborative and open agentic AI platform for businesses. The release is titled “OVHai Workspace the agentic platform for businesses” and led with: “Agentic AI within reach of our millions of business customers with a new generation of B2B applications.” It describes three spaces — Productivity, Web AI, and Knowledge Platform — and says the alpha of the Productivity space is available free of charge from today, with 5 GB of storage per user, with data hosted in Europe and not used to train models. English release: https://corporate.ovhcloud.com/en/newsroom/news/ovhai-workspace-agentic-platform-business/ ; French release: https://corporate.ovhcloud.com/fr/newsroom/news/ovhai-workspace-agentic-platform-business/ .",
+    "review_14d": null
   }
 ]
