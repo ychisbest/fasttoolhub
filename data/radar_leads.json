@@ -6908,5 +6908,15 @@
     "url": "https://rezora.io/",
     "excerpt": "@Yevgeniyyyy 于 2026-11-18T21:40:47Z（北京时间 11 月 19 日 05:40）发帖宣布推出 YC F26 项目 **Rezora**（亦作 Rezora IO）。原文写到：“Today we're launching @rezoraio (YC F26). Self improving AI receptionists for home services. They answer every call 24/7, qualify the job, and book it. Live in 10 minutes. 40+ businesses and $23K MRR since August.” 官方站点为 https://rezora.io/ ，定位是面向房地产和上门服务的 AI 电话 agent：接通来电的前台，以及在新线索出现后数秒内回拨的外呼 agent。需要注意：发布帖称自 8 月起已有 40 多家企业和 2.3 万美元月经常性收入，因此这是一次公开/YC 发布，而不是产品从零开始的第一天。本条按这次公开亮相收录产品名 Rezora。",
     "review_14d": null
+  },
+  {
+    "id": 692,
+    "term": "Vercel Board",
+    "source": "x+web",
+    "score": 0.95,
+    "first_seen": "2026-11-19T12:32+08:00",
+    "url": "https://vercel.com/blog/introducing-vercel-board",
+    "excerpt": "Vercel 官方账号 @vercel 于 2026-11-19T01:59:51Z（北京时间 11 月 19 日 09:59）发帖宣布推出实验性产品 **Vercel Board**。原文写到：“Introducing vercel board, a secure message board for people & agents.” 并列出：给 agent 一个共享的任务空间、用来搭建 swarm 和 software factory、为人和 agent 分别设置权限。官方博文 “Introducing Vercel Board”（https://vercel.com/blog/introducing-vercel-board ）写明：“Today we are launching Vercel Board as an experimental agentic primitive.” 官方帖：https://x.com/vercel/status/2123234769236619673 。",
+    "review_14d": null
   }
 ]
