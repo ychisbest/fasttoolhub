@@ -6988,5 +6988,45 @@
     "url": "https://x.com/nestframework/status/2123741121482489930",
     "excerpt": "NestJS 官方账号 @nestframework 于 2026-11-20T11:31:55Z（北京时间 19:31）发布帖子 “Introducing the official NestJS agent skills!”，写到这套技能会为编码智能体补上当前 API、官方一等包，以及那些测试仍能通过的错误写法，并给出安装命令 npx @nestjs/skills add，说明已内置到 nest new，可用于 Claude Code、Codex、Cursor 等。官方帖：https://x.com/nestframework/status/2123741121482489930 。配套仓库为 https://github.com/nestjs/agent-skills ，npm 包 @nestjs/skills 于 2026-11-20T08:10:00Z 创建，本窗口内的最新版本为 0.1.1（11:03 UTC）。",
     "review_14d": null
+  },
+  {
+    "id": 700,
+    "term": "MedChemBench",
+    "source": "sitemap+x+web",
+    "score": 0.95,
+    "first_seen": "2026-11-21T04:32+08:00",
+    "url": "https://openai.com/index/introducing-medchembench/",
+    "excerpt": "OpenAI 于 2026 年 11 月 20 日在官网发布 Introducing MedChemBench，这是一套面向药物化学推理的评测，检验模型能否阅读分子结构、解释实验结果并决定下一步该合成哪些化合物。同日 @OpenAI 官方账号发帖介绍该基准，并称它显示了前沿模型在协助科学家方面的进展。官网：https://openai.com/index/introducing-medchembench/",
+    "review_14d": null
+  },
+  {
+    "id": 701,
+    "term": "Inkling 2 Mini",
+    "source": "x+web",
+    "score": 0.95,
+    "first_seen": "2026-11-21T04:32+08:00",
+    "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+    "excerpt": "Thinking Machines Lab 于 2026 年 11 月 20 日发布 Inkling 2 Mini：循环 Transformer（中间层每个 token 跑三遍）的开源权重模型，总参数 26.4B、每 token 激活 3.4B，官方称小到可以在笔记本上运行。官方账号 @thinkymachines 在 20:10:34Z 发帖介绍，并给出 Artificial Analysis Index 20.1 的成绩。官网：https://thinkingmachines.ai/news/inkling-2-mini/",
+    "review_14d": null
+  },
+  {
+    "id": 702,
+    "term": "bison-1",
+    "source": "sitemap+x+web",
+    "score": 0.94,
+    "first_seen": "2026-11-21T04:32+08:00",
+    "url": "https://www.baseten.co/blog/meet-bison-1-and-groundhog-1",
+    "excerpt": "Baseten 于 2026 年 11 月 20 日在官网博客发布 Meet bison-1 and groundhog-1，称这是基于 Google Gemma 4 的新一代决策模型。bison-1 在 Artificial Analysis Decision Index v2.1 的 19 个决策模型中排名第一，得分 76。官方账号 @baseten 同日发帖宣布上线。博客：https://www.baseten.co/blog/meet-bison-1-and-groundhog-1",
+    "review_14d": null
+  },
+  {
+    "id": 703,
+    "term": "groundhog-1",
+    "source": "sitemap+x+web",
+    "score": 0.92,
+    "first_seen": "2026-11-21T04:32+08:00",
+    "url": "https://www.baseten.co/blog/meet-bison-1-and-groundhog-1",
+    "excerpt": "Baseten 于 2026 年 11 月 20 日与 bison-1 一同发布 groundhog-1：同样基于 Gemma 4，提供 128k 上下文和图像+文本输入。官方称其定价与 elephant-1 同档，并预期在官方 Artificial Analysis 指数上接近 mammoth-1 的表现。博客：https://www.baseten.co/blog/meet-bison-1-and-groundhog-1",
+    "review_14d": null
   }
 ]
