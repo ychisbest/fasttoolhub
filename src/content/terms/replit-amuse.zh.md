@@ -1,0 +1,13 @@
+---
+slug: "replit-amuse"
+term: "Amuse"
+locale: "zh"
+date: "2026-11-20T08:32+08:00"
+source: "x+web"
+score: 0.93
+url: "https://x.com/Replit/status/2123525657451954420"
+excerpt: "Replit 官方账号 @Replit 于 2026-11-19T21:15:44Z（北京时间 2026-11-20 05:15）发布长文，介绍开源、可自托管的个人 AI 助手 Amuse。帖子写到：公司已在个人 AI 助手上投入数十亿美元，但用户是在“租用”，记忆、聊天和登录凭证留在对方服务器上。他们给 Replit Missions 出了一道题：复刻领先的 AI 助手；三天后完成，并用 Security Scanner 查找并修补漏洞。随后写道：“Meet Amuse: a free, open-source AI assistant that runs on your own computer. It researches, browses, sets reminders and builds small apps, and it asks before it acts. Your data and logins stay with you.” 官方仓库：https://github.com/replit/amuse （创建于 2026-11-19T04:34:09Z，Apache-2.0）。该帖截至本轮核对时约 155 次喜欢、约 2.3 万次展示。"
+intro: "**Amuse** 是 Replit 在 2026 年 11 月 19 日公开的免费开源个人 AI 助手：它运行在你自己的电脑上，可以检索网页、使用你能看见并接管的实时浏览器、设置提醒，并构建小型应用，在发送、提交或支付等操作前先征求确认。官方账号 [@Replit](https://x.com/Replit/status/2123525657451954420) 于 2026-11-19T21:15:44Z（北京时间 11 月 20 日 05:15）发帖，完整长文以 “Meet Amuse: a free, open-source AI assistant that runs on your own computer.” 为产品定名，并给出仓库 [github.com/replit/amuse](https://github.com/replit/amuse)。\n\nReplit 把这次发布写成一次 **Replit Missions** 挑战：用自家的 agent swarm 去复刻市面上的个人助手，三天后交出可运行的产物，再用 Security Scanner 查找并修补漏洞。仓库说明（README）把它定位为“一个人、一台电脑”的自托管应用，需要你自己的 OpenAI API 密钥和 PostgreSQL，不要求再注册 Replit 或其他托管账号。\n\n本条记录的是这个开源助手的产品名 **Amuse**。不要把它和已收录的编排产品 [Replit Missions](/terms/replit-missions/)、Meta 的 **Muse** 系列，或其他也叫 Amuse 的本地图像生成应用混成同一个词条。仓库创建于 2026-11-19T04:34:09Z（北京时间 12:34），早于本窗口；本窗口收录的依据是官方账号在北京时间 05:15 的正式介绍帖。"
+explain: "Amuse 的卖点不是新的基础模型，而是把个人助手放到用户自己的机器上：记忆、聊天记录和登录凭证默认留在本地，而不是 Replit 的云端。官方仓库描述的能力包括：给助手命名并开侧边对话；用 OpenAI 的网页搜索做带来源的研究；在对话里嵌入可观看、可接管或可停止的实时浏览器；提醒、监控和后台心跳（只在有必要的时候通知你）；把目标拆成步骤并继续推进；以及文档、PDF、图片、播客和小型空间应用。敏感操作会弹出审批卡，范围可以是一次、一项任务、一个站点或始终允许。登录与密钥放在加密保险库里，模型侧只看到占位符。\n\n按仓库在扫描时的说明，默认对话模型是 `gpt-6.2-sol`，较快的步骤会用到 `gpt-6-luna`，图像则提到 `gpt-image-2`；这些默认值以仓库当时的 `.env.example` 为准，之后可能改动。它还设置了 `AMUSE_DAILY_LIMIT`（默认 2,000 个用量单位）作为当日花费上限。官方明确限制了范围：面向单人的 Web 应用、只用 OpenAI 模型、通过 API 密钥和浏览器而不是 MCP 去连接服务，并且目前没有推送到手机。\n\n安全模型同样写得很窄：没有登录，默认只监听 `127.0.0.1`，也不应暴露到公网。Docker Compose 一键启动时，浏览器可能跑在 Chromium 自身沙箱之外，隔离边界是容器。评估时要把“官方用 Missions 三天做出来并开源”和“它在你自己机器上的稳定性、费用与权限是否可控”分开看。"
+usage: "从官方介绍帖 [Meet Amuse](https://x.com/Replit/status/2123525657451954420) 和仓库 [github.com/replit/amuse](https://github.com/replit/amuse) 开始。仓库提供 Docker Compose 和从源码启动两种方式：复制 `.env.example`，写入你自己的 `OPENAI_API_KEY`（源码方式还需 `DATABASE_URL`），然后按 README 启动，并在本机打开 http://localhost:3000。Compose 会一并拉起 PostgreSQL，并把服务发布在 `127.0.0.1`。\n\n适合想把个人助手留在自己电脑上、又接受使用自己的 OpenAI 密钥的人。使用前先在 OpenAI 项目里设置花费上限，并看清哪些操作会弹出审批。不要把它暴露到局域网或公网；也不要把它当成 Replit 云端托管的新套餐，或与 Replit Missions 混用。模型名单、限制和安装步骤以仓库当前文档为准。"
+---

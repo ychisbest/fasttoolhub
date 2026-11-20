@@ -6938,5 +6938,25 @@
     "url": "https://x.com/Teamily_AI/status/2123431105495974001",
     "excerpt": "Teamily 官方账号 @Teamily_AI 于 2026-11-19T15:00:01Z（北京时间 11 月 19 日 23:00）发布帖子 “Introducing Teamily Video Agent”（https://x.com/Teamily_AI/status/2123431105495974001），写到：“We give all Teamily agents a face. They also see the world you see through your AI glasses and your camera.” 该帖截至本轮扫描时约 574 次喜欢、约 12.8 万次展示。联合创始人兼 CEO Aiden Chaoyang He（@AidenChaoyangHe）在两分钟后发帖 “Preview of Teamily AI Glass”（https://x.com/AidenChaoyangHe/status/2123431651510505771），写到：“We are building Teamily AI Glass, powered by our Video Agent. It enables an egocentric AI agent that can see what you see, hear what you hear, and collaborate with you in real time.” 其长文开头为：“Today, we're unveiling Teamily Video Agent and AI Glasses”。产品站：https://teamily.ai/ 。",
     "review_14d": null
+  },
+  {
+    "id": 695,
+    "term": "Amuse",
+    "source": "x+web",
+    "score": 0.93,
+    "first_seen": "2026-11-20T08:32+08:00",
+    "url": "https://x.com/Replit/status/2123525657451954420",
+    "excerpt": "Replit 官方账号 @Replit 于 2026-11-19T21:15:44Z（北京时间 2026-11-20 05:15）发布长文，介绍开源、可自托管的个人 AI 助手 Amuse。帖子写到：公司已在个人 AI 助手上投入数十亿美元，但用户是在“租用”，记忆、聊天和登录凭证留在对方服务器上。他们给 Replit Missions 出了一道题：复刻领先的 AI 助手；三天后完成，并用 Security Scanner 查找并修补漏洞。随后写道：“Meet Amuse: a free, open-source AI assistant that runs on your own computer. It researches, browses, sets reminders and builds small apps, and it asks before it acts. Your data and logins stay with you.” 官方仓库：https://github.com/replit/amuse （创建于 2026-11-19T04:34:09Z，Apache-2.0）。该帖截至本轮核对时约 155 次喜欢、约 2.3 万次展示。",
+    "review_14d": null
+  },
+  {
+    "id": 696,
+    "term": "Ideogram 4.6",
+    "source": "x+web",
+    "score": 0.95,
+    "first_seen": "2026-11-20T08:32+08:00",
+    "url": "https://x.com/ideogram_ai/status/2123461101224624402",
+    "excerpt": "Ideogram 官方账号 @ideogram_ai 于 2026-11-19T16:59:13Z（北京时间 2026-11-20 00:59）发布帖子 “Introducing Ideogram 4.6: the new frontier of precise editing, now in native 4K.” 正文写到：这是一个在真实感和纹理细节上明显更好的新图像模型，“Significantly less pixel drift outside your edits and much better color accuracy.” 官方模型页 https://ideogram.ai/models/4.6/ 写明发布日期为 2026 年 11 月 19 日，并介绍 Generate 与 Precise Edit 两个 API 端点，输出最高可达 4K。该官方帖截至本轮核对时约 692 次喜欢、约 4.9 万次展示。官方介绍实际落在上一档 00:32–04:32 窗口，当时未入库；本轮据官方帖、模型页以及 Replicate 上新出现的 ideogram-4-6 页面补录。",
+    "review_14d": null
   }
 ]

@@ -1,0 +1,13 @@
+---
+slug: "ideogram-4-6"
+term: "Ideogram 4.6"
+locale: "zh"
+date: "2026-11-20T08:32+08:00"
+source: "x+web"
+score: 0.95
+url: "https://x.com/ideogram_ai/status/2123461101224624402"
+excerpt: "Ideogram 官方账号 @ideogram_ai 于 2026-11-19T16:59:13Z（北京时间 2026-11-20 00:59）发布帖子 “Introducing Ideogram 4.6: the new frontier of precise editing, now in native 4K.” 正文写到：这是一个在真实感和纹理细节上明显更好的新图像模型，“Significantly less pixel drift outside your edits and much better color accuracy.” 官方模型页 https://ideogram.ai/models/4.6/ 写明发布日期为 2026 年 11 月 19 日，并介绍 Generate 与 Precise Edit 两个 API 端点，输出最高可达 4K。该官方帖截至本轮核对时约 692 次喜欢、约 4.9 万次展示。官方介绍实际落在上一档 00:32–04:32 窗口，当时未入库；本轮据官方帖、模型页以及 Replicate 上新出现的 ideogram-4-6 页面补录。"
+intro: "**Ideogram 4.6** 是 Ideogram 在 2026 年 11 月 19 日发布的图像生成与编辑模型，主打可重复进行的精确编辑，并支持原生最高 4K 输出。官方账号 [@ideogram_ai](https://x.com/ideogram_ai/status/2123461101224624402) 于 2026-11-19T16:59:13Z（北京时间 11 月 20 日 00:59）发帖：“Introducing Ideogram 4.6: the new frontier of precise editing, now in native 4K.” 并写到纹理更真实、编辑区域之外的像素漂移更少、颜色更准。官方说明页是 [ideogram.ai/models/4.6](https://ideogram.ai/models/4.6/)，页面写明发布日期为 2026 年 11 月 19 日。\n\n官方页把 4.6 定位为“一次改一处、看结果、再在同一张图上继续改”的工作流，并提供 Generate 与 Precise Edit 两个 API 端点。Generate 可用最多五张参考图；Precise Edit 可对已有图像做局部修改，并支持可选蒙版。质量档位包括 Very low、Low、Medium、High；Very low 最高到 2K，其余档位可到 4K。官方还提到由 Rapidata 做评估，具体名次和分数以模型页当时公布的内容为准。\n\n本条记录的是模型名 **Ideogram 4.6**，不要和已收录的 [Ideogram Vector](/terms/ideogram-vector/) 或更早的 4.5 混成同一个词条。官方介绍帖实际发于上一档 00:32–04:32（北京时间）窗口，当时雷达未入库；本窗口依据官方帖、官方模型页，以及 Replicate 站点新出现的 [ideogram-4-6](https://replicate.com/ideogram-ai/ideogram-4-6) 与 Precise Edit 页面补录。"
+explain: "4.6 相对前代最明确的变化，是官方强调原生 4K：细节从完整分辨率直接生成，而不是先出低分辨率再放大。官方同时把产品重点放在精确编辑：改颜色、替换产品外观、或改写场景时，尽量保住你想留下的部分，并减少选区外的“漂移”。这些都是官方页面和介绍帖里的主张；第三方转述中出现的排行榜分数或单价，只有在官方页或 API 文档里写明时应被当作该公司自己公布的数字。\n\n在 API 上，官方列出 `POST /v2/image/precise-edit/ideogram-4-6` 用于带可选蒙版的局部编辑，以及 `POST /v2/image/generate/ideogram-4-6` 用于文生图或带参考图的生成。请求用 `Api-Key` 头认证。模型也在 Ideogram 应用和部分合作平台上线；本轮扫描还在 Replicate 的 sitemap 增量里看到了对应模型页。官方在传播中还提到，将跳过 4.5 的开源、直接走向 4.6 开源，但没有在介绍帖里给出日期或许可证，不能把“即将开源”写成既成事实。\n\nIdeogram 4.6 是闭源商业模型，不是新的开源权重发布。评估时请把官方演示、官方页上的对比，和你自己提示词、参考图与分辨率下的实际效果分开。"
+usage: "先看官方介绍帖 [Introducing Ideogram 4.6](https://x.com/ideogram_ai/status/2123461101224624402) 和模型页 [ideogram.ai/models/4.6](https://ideogram.ai/models/4.6/)。在 Ideogram 应用里，到图像功能中选择 4.6（以你账号当时可见的模型列表为准），用自然语言描述一次修改，并在生成前查看积分或费用提示。开发者可通过 Generate（最多五张参考图）或 Precise Edit（可选蒙版）调用官方 API，认证方式以官方文档为准。合作平台（例如本轮 sitemap 中出现的 Replicate 模型页）的模型 ID 和计费可能不同，应按该平台文档接入。\n\n它更适合需要多次局部修改、又希望未编辑区域保持稳定的品牌或产品图工作。若你要的是矢量图形工作流，应看已收录的 Ideogram Vector，而不是把 4.6 当成同一条产品。价格、配额和开源计划以官方当时页面为准，不要沿用过时转述。"
+---
