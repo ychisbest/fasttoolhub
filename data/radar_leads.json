@@ -6968,5 +6968,25 @@
     "url": "https://community.openai.com/t/gpt-live-1-1-has-arrived-in-the-api/1418537",
     "excerpt": "OpenAI 开发者社区账号 @sps 于 2026-11-20T04:12:00Z（北京时间 12:12）发布公告 “GPT-Live-1.1 has arrived in the API”（https://community.openai.com/t/gpt-live-1-1-has-arrived-in-the-api/1418537），写到 GPT-Live-1.1 现已在 API 中可用，可用于构建口音更自然、跨语言更稳定的语音智能体，并更好理解字母、数字等细节。公告同时介绍新的 standby 配置：空闲 5–60 秒后暂停推理，WebRTC 通话保持连接，有人再开口时恢复；standby 按每分钟 0.02 美元计费，活跃会话为每分钟 0.05 美元，后端模型与工具用量另计。官方还写明：GPT-Live-1.1 自 10 月 15 日起已为 ChatGPT Plus 和 Pro 的语音功能提供支持，现在可用模型 ID gpt-live-1.1 接入自己的应用。OpenAI API Changelog 将此项列在 November 2026 的 Nov 19 条目下，模型页为 https://developers.openai.com/api/docs/models/gpt-live-1.1 。本窗口内 X 上已出现对 API 上线与 standby 计价的讨论。",
     "review_14d": null
+  },
+  {
+    "id": 698,
+    "term": "Syl",
+    "source": "x+web",
+    "score": 0.94,
+    "first_seen": "2026-11-20T20:32+08:00",
+    "url": "https://x.com/bolna_dev/status/2123755956454773188",
+    "excerpt": "Bolna 官方账号 @bolna_dev 于 2026-11-20T12:30:52Z（北京时间 20:30）发布帖子 “Introducing Syl, Bolna’s flagship short-utterance model that catches the smallest of affirmations and transcribes the way India actually speaks… not an easy job, but it’s what we signed up for! More details to follow soon.” 官方把 Syl 写成面向短句的旗舰语音识别模型，并说明稍后会提供更多细节。官方帖：https://x.com/bolna_dev/status/2123755956454773188 。同一天，Bolna 在班加罗尔举办 Symphony 2026，主舞台 16:45–17:30 IST 安排了 “Bolna Launches” 环节，主持人为 Siddharth Batra 与 Prabal Rastogi。11 月 16 日新闻稿已预告将在 Symphony 发布自研语音模型，首先是面向客服来电短句的 ASR。产品站：https://www.bolna.ai/ 。",
+    "review_14d": null
+  },
+  {
+    "id": 699,
+    "term": "NestJS Skills",
+    "source": "x+web",
+    "score": 0.88,
+    "first_seen": "2026-11-20T20:32+08:00",
+    "url": "https://x.com/nestframework/status/2123741121482489930",
+    "excerpt": "NestJS 官方账号 @nestframework 于 2026-11-20T11:31:55Z（北京时间 19:31）发布帖子 “Introducing the official NestJS agent skills!”，写到这套技能会为编码智能体补上当前 API、官方一等包，以及那些测试仍能通过的错误写法，并给出安装命令 npx @nestjs/skills add，说明已内置到 nest new，可用于 Claude Code、Codex、Cursor 等。官方帖：https://x.com/nestframework/status/2123741121482489930 。配套仓库为 https://github.com/nestjs/agent-skills ，npm 包 @nestjs/skills 于 2026-11-20T08:10:00Z 创建，本窗口内的最新版本为 0.1.1（11:03 UTC）。",
+    "review_14d": null
   }
 ]
