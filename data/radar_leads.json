@@ -7118,5 +7118,55 @@
     "url": "https://qoder.com/qoder",
     "excerpt": "Qoder（@qoder_ai_ide）于 2026 年 11 月 24 日 00:16（北京时间）上线隐身编码模型 HungerG：独家登陆 Qoder，开发者身份保密，11 月 23 日至 30 日在 Qoder 与 Qoder IDE 免费试用 7 天。入口：https://qoder.com/qoder 官方帖：https://x.com/qoder_ai_ide/status/2124899980632822148",
     "review_14d": null
+  },
+  {
+    "id": 713,
+    "term": "LingSante-Pulse",
+    "source": "x+hf+web",
+    "score": 0.95,
+    "first_seen": "2026-11-24T04:32+08:00",
+    "url": "https://huggingface.co/inclusionAI/LingSante-Pulse-1.0",
+    "excerpt": "蚂蚁百灵（@AntLingAGI）于 2026 年 11 月 24 日 00:40（北京时间）正式介绍并开源 LingSante-Pulse：覆盖 ECG/EEG/PPG/EMG 的开源生理基础模型，同一套冻结编码器支持多模态与单传感器，MIT 许可。官方称在 38 组任务、四个信号域上取得最好的数据集均衡平均排名。权重：https://huggingface.co/inclusionAI/LingSante-Pulse-1.0 官方帖：https://x.com/AntLingAGI/status/2124905985433272539",
+    "review_14d": null
+  },
+  {
+    "id": 714,
+    "term": "OpenWorks",
+    "source": "x+web+sitemap",
+    "score": 0.94,
+    "first_seen": "2026-11-24T04:32+08:00",
+    "url": "https://openai.com/openworks/",
+    "excerpt": "OpenAI（@OpenAI）于 2026 年 11 月 24 日 01:44（北京时间）推出 OpenWorks：资助本地 OpenWorks Partners（津贴最高每月 8,000 美元），为独立经营的美国小企业免费提供面对面的 AI 协助，并赠送 3 个月 ChatGPT Business。试点覆盖 20 个美国城市。官方页 https://openai.com/openworks/ 在本轮站点地图中首次出现。官方帖：https://x.com/OpenAI/status/2124922133545714160",
+    "review_14d": null
+  },
+  {
+    "id": 715,
+    "term": "Claude Ship",
+    "source": "x+web",
+    "score": 0.95,
+    "first_seen": "2026-11-24T04:32+08:00",
+    "url": "https://claude.com/resources/articles/introducing-claude-ship",
+    "excerpt": "Anthropic 官方开发者账号 @ClaudeDevs 于 2026 年 11 月 24 日 04:13（北京时间）宣布 Claude Ship 对 Team 与 Enterprise 开放测试：在 GitHub 上审查 pull request、修复失败检查与冲突，并按仓库策略批准常规变更。由已正式可用的 Code Review，加上测试中的 PR Steward 与 Claude Approvals 组成。介绍文章：https://claude.com/resources/articles/introducing-claude-ship 官方帖：https://x.com/ClaudeDevs/status/2124959436640858475",
+    "review_14d": null
+  },
+  {
+    "id": 716,
+    "term": "OCRia-nano-1",
+    "source": "x+web",
+    "score": 0.92,
+    "first_seen": "2026-11-24T04:32+08:00",
+    "url": "https://www.llamaindex.ai/blog/introducing-ocria-nano-1",
+    "excerpt": "LlamaIndex（@llama_index）于 2026 年 11 月 24 日 03:46（北京时间）发布 OCRia-nano-1：OCRia 家族中最小的开源文档解析模型，总参数 8.1M，经 LiteParse 在本地 CPU 上读文字、重建表格并恢复版面。官方称 ParseBench-2 整体 59.2、单核约 426 毫秒/页。博客：https://www.llamaindex.ai/blog/introducing-ocria-nano-1 官方帖：https://x.com/llama_index/status/2124952874316632394",
+    "review_14d": null
+  },
+  {
+    "id": 717,
+    "term": "Human Intelligence Index",
+    "source": "x+web",
+    "score": 0.86,
+    "first_seen": "2026-11-24T04:32+08:00",
+    "url": "https://www.designarena.ai/blog/human-intelligence-index",
+    "excerpt": "DesignArena（@DesignArena）于 2026 年 11 月 24 日 03:10（北京时间）发布 Human Intelligence Index（HII）：按对人类体验的影响为模型排名，并以美国人每年约 6240 亿小时的时间使用数据加权。首期官方成绩：Claude Fable 5.2 为 54，Claude Opus 5.5 为 50，Gemini 4 Carbon 与 GPT-6.2 Astra 并列 47。介绍：https://www.designarena.ai/blog/human-intelligence-index 官方帖：https://x.com/DesignArena/status/2124943628707713372",
+    "review_14d": null
   }
 ]
