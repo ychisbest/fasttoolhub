@@ -1,0 +1,14 @@
+---
+slug: "hungerg"
+term: "HungerG"
+locale: "en"
+date: "2026-11-24T00:32+08:00"
+source: "x+web"
+score: 0.9
+url: "https://qoder.com/qoder"
+excerpt: "Qoder (@qoder_ai_ide) launched the stealth coding model HungerG at 16:16 UTC on 23 November 2026 (00:16 on 24 November, Beijing time). It is exclusive to Qoder, the builder is classified, and it is free for seven days on Qoder and Qoder IDE from 23 to 30 November. Link: https://qoder.com/qoder Official post: https://x.com/qoder_ai_ide/status/2124899980632822148"
+intro: "**HungerG** is a stealth coding-model codename that **Qoder** launched on 23 November 2026. The official account [@qoder_ai_ide](https://x.com/qoder_ai_ide/status/2124899980632822148) posted at 16:16 UTC that a new model had landed exclusively on Qoder, that its builder was classified, and that it would be **free for seven days** on Qoder and Qoder IDE from **23 to 30 November**. A follow-up explained how to try it: download Qoder or Qoder IDE, pick HungerG in the model selector, and run. The product link is [qoder.com/qoder](https://qoder.com/qoder).\n\nThis is the same kind of move as the already-listed **Qoduck**: a named stealth model offered inside the existing Qoder workflow for a limited trial, not a standalone site or a public weight drop. The company has not published parameter counts, benchmarks, or the lab behind it.\n"
+explain: "## What was disclosed\n\nThe official introduction reads: “A new stealth model just landed exclusively on Qoder. Codename: HungerG. Identity: classified. Free for 7 days on Qoder and Qoder IDE (Nov 23 to Nov 30).” The campaign uses a Hunger Games motif (“May the tokens be ever in your favor”) but does not name the training lab or give context length, tool-use, or eval numbers.\n\nSome community posts immediately guessed at a domestic lab, or compared it with an earlier Qoder stealth model that was later unmasked. Until Qoder says otherwise, those remain guesses, not facts.\n\n## Limits\n\n- The free window is officially **through 30 November 2026**; after that, quota, pricing, and availability follow the in-product terms.\n- “Identity: classified” also means capabilities, routing, and limits can change. Do not treat the trial as a production SLA.\n- Trust the model list on qoder.com, and do not confuse this codename with unrelated games, films, or repositories.\n"
+usage: "## How to try it\n\n1. Open [qoder.com/qoder](https://qoder.com/qoder) and download Qoder or Qoder IDE;\n2. Select **HungerG** in the model picker;\n3. Run a real repository task and judge it yourself;\n4. Watch for usage and billing changes when the free week ends on 30 November.\n\nOfficial introduction: https://x.com/qoder_ai_ide/status/2124899980632822148\nHow-to post: https://x.com/qoder_ai_ide/status/2124899982675480849\n\nFollow the in-product model list, regional limits, and terms. Until the builder and evaluations are published, treat anecdotes and guesses as unofficial.\n"
+---
+

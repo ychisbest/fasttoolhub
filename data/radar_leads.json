@@ -7078,5 +7078,45 @@
     "url": "https://github.com/LuminaBench/lumina-sfx",
     "excerpt": "Lumina（@LuminaBench）于 2026 年 11 月 23 日 19:53（北京时间）发布免费技能 Lumina SFX：让编程智能体根据一句话在 2,844 个可编辑音效中检索、叠层并导出 WAV，用于游戏、应用和视频。安装：npx skills add LuminaBench/lumina-sfx -g。仓库：https://github.com/LuminaBench/lumina-sfx 官方帖：https://x.com/LuminaBench/status/2124833612143132733",
     "review_14d": null
+  },
+  {
+    "id": 709,
+    "term": "Ling-3.2-air",
+    "source": "x+hf+web",
+    "score": 0.95,
+    "first_seen": "2026-11-24T00:32+08:00",
+    "url": "https://huggingface.co/inclusionAI/Ling-3.2-air",
+    "excerpt": "蚂蚁百灵（@AntLingAGI）于 2026 年 11 月 23 日 23:42（北京时间）正式介绍并开源 Ling-3.2-air：与 Ling-3.0-flash-VL 同架构的原生多模态 MoE，总参数 124B、每 token 激活 5.5B，MIT 许可。官方称 AutomationBench-AA 从 15.7% 升至 61%，AA 智力指数 v5.0.1 得 23。权重：https://huggingface.co/inclusionAI/Ling-3.2-air 官方帖：https://x.com/AntLingAGI/status/2124891223597240338",
+    "review_14d": null
+  },
+  {
+    "id": 710,
+    "term": "Sarvam Dictate",
+    "source": "x+web+sitemap",
+    "score": 0.95,
+    "first_seen": "2026-11-24T00:32+08:00",
+    "url": "https://www.sarvam.ai/blogs/sarvam-dictate",
+    "excerpt": "Sarvam AI（@SarvamAI）于 2026 年 11 月 23 日 23:49（北京时间）发布听写 API Sarvam Dictate：用 Saaras V4 转写，再用微调后的 Sarvam 105B 把口述改成可直接使用的文本，支持英语和 22 种印度语言。官方称相对 Gemini 3.5 Transcribe，英语字符级编辑少 40%。定价每分钟 ₹0.50。官博：https://www.sarvam.ai/blogs/sarvam-dictate 官方帖：https://x.com/SarvamAI/status/2124893117069570473",
+    "review_14d": null
+  },
+  {
+    "id": 711,
+    "term": "Audited ZDR",
+    "source": "x+web",
+    "score": 0.93,
+    "first_seen": "2026-11-24T00:32+08:00",
+    "url": "https://vercel.com/blog/introducing-audited-zdr-on-ai-gateway",
+    "excerpt": "Vercel（@vercel）于 2026 年 11 月 23 日 21:34（北京时间）在 AI Gateway 推出 Audited ZDR：独立安全公司对照代码、基础设施和真实流量验证供应商的零数据保留承诺，并公布报告后才授予该标签。首批合作伙伴为 Baseten、Modal、Wafer，报告预计 2026 年 12 月 8 日前发布。官博：https://vercel.com/blog/introducing-audited-zdr-on-ai-gateway 官方帖：https://x.com/vercel/status/2124859223783727106",
+    "review_14d": null
+  },
+  {
+    "id": 712,
+    "term": "HungerG",
+    "source": "x+web",
+    "score": 0.9,
+    "first_seen": "2026-11-24T00:32+08:00",
+    "url": "https://qoder.com/qoder",
+    "excerpt": "Qoder（@qoder_ai_ide）于 2026 年 11 月 24 日 00:16（北京时间）上线隐身编码模型 HungerG：独家登陆 Qoder，开发者身份保密，11 月 23 日至 30 日在 Qoder 与 Qoder IDE 免费试用 7 天。入口：https://qoder.com/qoder 官方帖：https://x.com/qoder_ai_ide/status/2124899980632822148",
+    "review_14d": null
   }
 ]
