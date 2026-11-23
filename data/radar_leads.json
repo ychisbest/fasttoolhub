@@ -7048,5 +7048,15 @@
     "url": "https://huggingface.co/inclusionAI/LingSante-3.1-air-VL",
     "excerpt": "蚂蚁集团 inclusionAI 于 2026 年 11 月 23 日开源 LingSante-3.1-air-VL：蚂蚁医疗团队首个开源的大型多模态医疗模型，总参数 124B、每 token 激活 5.5B，支持文本和图像输入、256K 上下文。模型卡：https://huggingface.co/inclusionAI/LingSante-3.1-air-VL",
     "review_14d": null
+  },
+  {
+    "id": 706,
+    "term": "WALL-OSS-1.0",
+    "source": "x+web",
+    "score": 0.94,
+    "first_seen": "2026-11-23T16:32+08:00",
+    "url": "https://x2robot.com/en",
+    "excerpt": "自变量机器人（X Square Robot）于 2026 年 11 月 23 日 15:30（北京时间）通过官方账号 @XSquareRobot 宣布推出 WALL-OSS-1.0：基于 Qwen3.5、采用 native VLA 预训练的视觉-语言-动作基础模型。官方通稿称，在评测人员自选的 312 项真机任务上、不加任务微调，零样本成功率为 55.1%。官网：https://x2robot.com/en 官方帖：https://x.com/XSquareRobot/status/2124767551959757162",
+    "review_14d": null
   }
 ]
