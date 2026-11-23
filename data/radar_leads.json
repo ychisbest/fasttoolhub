@@ -4817,7 +4817,7 @@
     "first_seen": "2026-11-06T12:32+08:00",
     "url": "https://glasshand.com",
     "excerpt": "Trevor Keith / Solid launched Glasshand (Product Hunt #1 on 2026-11-05): rent real data-center iPhones and Macs for AI agents via API; agents see the screen, tap and type; devices factory-reset after rental. Distinct from local Poki MCP.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-21|q='Glasshand' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 483,
@@ -4827,7 +4827,7 @@
     "first_seen": "2026-11-06T12:32+08:00",
     "url": "https://github.com/Hyperstitioncc/Hyperkernel",
     "excerpt": "Hyperstition open-sourced Hyperkernel on 2026-11-05/06: recursive GPU megakernel generator claiming SOTA single-launch kernels across 11 domains; vs NVIDIA published vLLM, +36.7% per-user speed at C1 and +90.6% at C4 on DeepSeek V4.1 Flash (self-reported). Repo created 2026-11-05.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-21|no Trends data for 'Hyperkernel'"
   },
   {
     "id": 484,
@@ -4837,7 +4837,7 @@
     "first_seen": "2026-11-06T12:32+08:00",
     "url": "https://github.com/NVIDIA/auto-ontology",
     "excerpt": "NVIDIA Auto Ontology — Apache-2.0 Python semantic-layer framework so AI agents ground SQL/analytics in certified business ontologies via MCP/CLI/API. GitHub trending #1 this window (~+2.6k stars/day; ~7.6k stars); MarkTechPost coverage Nov 1; heavy X amplification 08:32–12:32 BJT.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-21|q='Auto Ontology' pre7=38.1 last7=25.6 peak=100"
   },
   {
     "id": 485,
@@ -4847,7 +4847,7 @@
     "first_seen": "2026-11-06T12:32+08:00",
     "url": "https://kiro.dev/blog/crew-bots/",
     "excerpt": "AWS / Kiro announced Kiro bots GA in Kiro Crew on 2026-11-05: named long-running agents with own memory, notes, schedules, scoped tools; coordinate parallel worker sessions and only ask when stuck. Official blog kiro.dev/blog/crew-bots.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-21|q='Kiro bots' pre7=0.0 last7=25.0 peak=100"
   },
   {
     "id": 486,
@@ -4857,7 +4857,7 @@
     "first_seen": "2026-11-06T12:32+08:00",
     "url": "https://distributed.inc/research/solving-1v1-catan/",
     "excerpt": "Distributed Cognition unveiled VINCO (~0.5M-param specialist) for competitive 1v1 Catan; claimed #1/#2 on Colonist.io 2026-11-01 and playable at catan.dcog.com. Technical report published Nov 5; X news amplification into this window.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-21|q='VINCO' pre7=47.7 last7=68.7 peak=100"
   },
   {
     "id": 487,
@@ -4867,7 +4867,7 @@
     "first_seen": "2026-11-06T16:32+08:00",
     "url": "https://www.juliusresearch.ai/deep-finance",
     "excerpt": "Julius Research released DeepFinance on 2026-11-05: ultra-long-horizon PE/IB benchmark — 21 real-deal tasks, avg 27.1 human hours, 84 rubric criteria each. Claude Opus 5.5 leads at 54.8%. Official site juliusresearch.ai/deep-finance; X amplification into 12:32–16:32 BJT.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-21|no Trends data for 'DeepFinance'"
   },
   {
     "id": 488,
@@ -4877,7 +4877,7 @@
     "first_seen": "2026-11-06T16:32+08:00",
     "url": "https://www.kakaocorp.com/page/detail/12193",
     "excerpt": "Kakao open-sourced Kanana-2-v-decide on 2026-11-06: ~3B multimodal decision model outputting probabilities/choices/scores for agent tool-routing; HF kakaocorp/kanana-2-v-decide-3b-2611 under Kanana Open License; official Kakao press same day.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-21|no Trends data for 'Kanana-2-v-decide'"
   },
   {
     "id": 489,
@@ -4887,7 +4887,7 @@
     "first_seen": "2026-11-06T16:32+08:00",
     "url": "https://huggingface.co/datasets/tencent/TailorRig",
     "excerpt": "Tencent LIGHTSPEED TailorRig — garment-aware humanoid auto-rigging. HF dataset tencent/TailorRig created 2026-11-04 (39k meshes / Human-Mix), lastModified 2026-11-05; arXiv 2611.02902; newly trending on HF datasets.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-21|q='TailorRig' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 490,
@@ -4897,7 +4897,7 @@
     "first_seen": "2026-11-06T16:32+08:00",
     "url": "https://github.com/wquguru/cicada",
     "excerpt": "知了 Cicada — free OSS live bilingual subtitles, simultaneous interpreting, and AI meeting notes for Mac/Windows/Linux/Android. Site cicada.indaloop.app; v1.0 Nov 3, cross-platform Nov 4, 1.3.0 Nov 5; ~1525★.",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-21|generic word, Trends not attributable"
   },
   {
     "id": 491,
@@ -4907,7 +4907,7 @@
     "first_seen": "2026-11-06T16:32+08:00",
     "url": "https://cursor.com/changelog/build-live-apps",
     "excerpt": "Cursor shipped Build Live Apps on 2026-11-05: cloud agents scaffold a web app, provision Postgres + Cursor SSO auth + hosting, run security checks, then publish a shareable link. Official changelog + docs; available on paid plans with Cloud Agents.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-21|q='Build Live Apps' pre7=0.0 last7=53.7 peak=100"
   },
   {
     "id": 492,
@@ -4917,7 +4917,7 @@
     "first_seen": "2026-11-06T16:32+08:00",
     "url": "https://github.com/Sandflow-ai/sand3d",
     "excerpt": "Sand3D — Python 3D-modeling library built for LLMs (CAD-as-code over Blender bpy). Repo created 2026-11-03 (~484★); sites sand3d.sandflow.ai / sandflow.ai; PyPI sand3d.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-21|q='Sand3D' pre7=0.0 last7=15.4 peak=100"
   },
   {
     "id": 493,
@@ -4927,7 +4927,7 @@
     "first_seen": "2026-11-06T20:32+08:00",
     "url": "https://x.com/VNallatamby/status/2118388085256052967",
     "excerpt": "Vincent Nallatamby & Thomas Girardier launched Quest on 2026-11-05: personal AI advisor that builds deep profiles from iMessage/email/calendar/health and acts proactively. Les Echos coverage; Launch Archive #2; X news amplification into 16:32–20:32 BJT.",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-21|generic word, Trends not attributable"
   },
   {
     "id": 494,
@@ -4937,7 +4937,7 @@
     "first_seen": "2026-11-06T20:32+08:00",
     "url": "https://clocktowerbench.com/",
     "excerpt": "Dwarkesh Patel published Clocktower Bench on 2026-11-05: multi-agent social-deception eval where models play Blood on the Clocktower (386 rated games, ~$20k API). GPT-6 Astra leads (~1859 Elo). Official leaderboard + play.clocktowerbench.com; heavy X amplification into 16:32–20:32 BJT.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-21|q='Clocktower Bench' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 495,
@@ -4947,7 +4947,7 @@
     "first_seen": "2026-11-06T20:32+08:00",
     "url": "https://huggingface.co/ByteDance-Seed/Cola2",
     "excerpt": "ByteDance Seed published Cola2 on HF 2026-11-06: ~9B continuous-latent base model (VAE span compression + ~4B block-causal DiT + token decoder), 346B tokens; arXiv 2610.31305; code github.com/ByteDance-Seed/Cola2; same-day HF+GitHub ship + in-window X mention.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-21|q='Cola2' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 496,
@@ -4957,7 +4957,7 @@
     "first_seen": "2026-11-06T20:32+08:00",
     "url": "https://huggingface.co/datasets/speechcolab/gigaspeech3",
     "excerpt": "SpeechColab GigaSpeech 3 newly trending on HF datasets (~19 likes, ~7k downloads): ~10.3M weakly transcribed Arabic segments / ~39k hours across DZA/EGY/IRQ/SAU/SYR dialects; arXiv 2611.02476; companions GigaSpeechBench + VoxLabel. Dataset created 2026-10-25, lastModified 2026-11-04; first appearance on datasets-trending this 20:32 window.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-21|no Trends data for 'GigaSpeech 3'"
   },
   {
     "id": 497,
@@ -4967,7 +4967,7 @@
     "first_seen": "2026-11-06T20:32+08:00",
     "url": "https://stroq.dev/",
     "excerpt": "AGGIB shipped Stroq 0.30.0 on 2026-11-05: local OSS firewall/audit for Claude Code/Codex/Cursor sessions — secret egress scan, hash-chained audit log, PreToolUse policy hooks. Austen Allred 'Last 24 Hours in AI' flagged Stroq; site stroq.dev + GH AGGIB/Stroq.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-21|q='Stroq' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 498,
@@ -4977,7 +4977,7 @@
     "first_seen": "2026-11-07T00:32+08:00",
     "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
     "excerpt": "Underdog AI unveiled Woof (~31.7MB / ~31M-param browser TTS) with a retro offline WebGPU demo game; TechCrunch covered 2026-11-06; weights via ConwayResearch/Underdog-Woof; product demo underdog.ai/woof.",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-21|generic word, Trends not attributable"
   },
   {
     "id": 499,
@@ -4987,7 +4987,7 @@
     "first_seen": "2026-11-07T00:32+08:00",
     "url": "https://huggingface.co/Linum-AI/pjit-21k",
     "excerpt": "Linum open-sourced P-JiT 21K: ~2B pixel-space Pyramid-JiT text-to-image trained for ~$21K (8,415 H100-h); Apache-2.0 weights+code (HF Linum-AI/pjit-21k, GitHub); field notes Nov 4; Show HN + X amplification into 20:32–00:32 BJT window.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-21|q='P-JiT 21K' pre7=0.0 last7=14.3 peak=100"
   },
   {
     "id": 500,
@@ -4997,7 +4997,7 @@
     "first_seen": "2026-11-07T00:32+08:00",
     "url": "https://www.producthunt.com/products/tobira-ai",
     "excerpt": "Tobira Site Agent launched on Product Hunt 2026-11-06 (#1 of the day): paste a URL to turn a website into an AI agent that answers visitors and AI assistants, books calls, and takes orders; tobira.ai.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-21|no Trends data for 'Tobira Site Agent'"
   },
   {
     "id": 501,
@@ -5007,7 +5007,7 @@
     "first_seen": "2026-11-07T00:32+08:00",
     "url": "https://bineric.com/zuse",
     "excerpt": "Bineric (Norway) released Zuse, a European decision model that returns calibrated probabilities for fixed-choice questions across ~115 languages (trained on 27 European); product page bineric.com/zuse; arXiv 2611.06238; in-window X posts.",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-21|generic word, Trends not attributable"
   },
   {
     "id": 502,
@@ -5017,7 +5017,7 @@
     "first_seen": "2026-11-07T00:32+08:00",
     "url": "https://liveshortly.com",
     "excerpt": "LiveShortly launched on Product Hunt 2026-11-06: free open-source self-hostable tool to livestream, steer, share, and remotely approve coding-agent sessions (Claude Code etc.); liveshortly.com.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-21|no Trends data for 'LiveShortly'"
   },
   {
     "id": 503,
@@ -5027,7 +5027,7 @@
     "first_seen": "2026-11-07T00:32+08:00",
     "url": "https://www.clayzo.com/",
     "excerpt": "Clayzo is an animation/motion-graphics engine built for coding agents (Claude Code/Codex/Cursor): agents write motion as code, preview, export video or run live on web; clayzo.com; PH + in-window X mentions.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-21|q='Clayzo' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 504,
@@ -5037,7 +5037,7 @@
     "first_seen": "2026-11-07T04:32+08:00",
     "url": "https://standardphysics.com/archimedes",
     "excerpt": "Standard Physics (ex-Inviscid AI, YC W26) launched Archimedes: agent swarms write engineering designs as code, simulate each via Reynolds/OpenFOAM, and keep physics-validated winners (e.g. dual-medium propeller); product page standardphysics.com/archimedes; in-window X/news.",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-21|generic word, Trends not attributable"
   },
   {
     "id": 505,
@@ -5047,7 +5047,7 @@
     "first_seen": "2026-11-07T04:32+08:00",
     "url": "https://standardphysics.com/reynolds",
     "excerpt": "Reynolds is Standard Physics' MIT-licensed agentic CFD: describe a flow in plain English → OpenFOAM case, figures, and rerunnable case; pip install openreynolds; free with work email; github OpenReynolds.",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-21|generic word, Trends not attributable"
   },
   {
     "id": 506,
@@ -5057,7 +5057,7 @@
     "first_seen": "2026-11-07T04:32+08:00",
     "url": "https://openai.com/index/introducing-images-2-6/",
     "excerpt": "OpenAI Images 2.6 API high-detail tier gpt-image-2.6-sunburst: higher fidelity and multi-edit consistency; GIF/SVG/markup; ~50% faster family vs 2.5; active X and gateway listings in window. Distinct from family name GPT Image 2.6 already in DB.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-21|q='GPT-Image-2.6 Sunburst' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 507,
@@ -5067,7 +5067,7 @@
     "first_seen": "2026-11-07T04:32+08:00",
     "url": "https://openai.com/index/introducing-images-2-6/",
     "excerpt": "OpenAI Images 2.6 API fast tier gpt-image-2.6-flare: as low as ~6s at low quality/complexity; GIF/SVG/markup. Distinct from existing CERN Large Physics Model term 'Flare'.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-21|q='GPT-Image-2.6 Flare' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 508,
@@ -5077,7 +5077,7 @@
     "first_seen": "2026-11-07T04:32+08:00",
     "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
     "excerpt": "OpenAI wet-lab agent benchmark (~100 tasks from Ligo Biosciences enzyme-design experiments): read gel images/instrument readouts, catch mistakes, recognize inconclusive evidence; GPT-6 Astra ~66.7% vs older GPT-5 series ~43.8%; newly on openai.com sitemap + X news.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-21|q='BioBasicsBench' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 509,
@@ -5087,7 +5087,7 @@
     "first_seen": "2026-11-07T08:32+08:00",
     "url": "https://huggingface.co/blog/allenai/toyblocks",
     "excerpt": "Ai2 (Allen Institute for AI) released ToyBlocks on 2026-11-06: first FoundationWorld — open Isaac Sim/Isaac Lab tabletop robot-arm+blocks sim with auto task/demo generation (85,336 long-horizon demos, 144M frames), training+eval code, Molmo2/ManiFlow models; github.com/allenai/ToyBlocks; data allenai/toyblocks-data.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-21|q='ToyBlocks' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 510,
@@ -5097,7 +5097,7 @@
     "first_seen": "2026-11-07T08:32+08:00",
     "url": "https://nousresearch.com/arete",
     "excerpt": "Nous Research released Arete-27B: SFT of Alibaba Qwen3.8-27B (~52.8M tokens, 2 epochs, no RL) to reinforce Western values; claims propaganda rate 22%→0.9% on 803-prompt eval, Hermes Bench ~parity; weights NousResearch/Arete-27B (Apache 2.0) + arete-data-pairs; active X Nov 6–7.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-21|q='Arete-27B' pre7=0.0 last7=6.9 peak=100"
   },
   {
     "id": 511,
@@ -5107,7 +5107,7 @@
     "first_seen": "2026-11-07T08:32+08:00",
     "url": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs",
     "excerpt": "Anthropic Project EVE: Claude agents play EVE Online / EVE Frontier MMORPGs; four-agent teams with a secret saboteur almost never caught by teammates; separate monitors reviewing public chat caught only ~20–40%. New research surfacing on X + related Anthropic sitemap research pages Nov 6.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-21|q='Project EVE' pre7=25.7 last7=20.1 peak=100"
   },
   {
     "id": 512,
@@ -5117,7 +5117,7 @@
     "first_seen": "2026-11-07T08:32+08:00",
     "url": "https://www.frontiermodelforum.org/updates/introducing-the-fmf-jailbreak-rating-framework-for-frontier-cyber-threats/",
     "excerpt": "Frontier Model Forum (with OpenAI et al.) published Jailbreak Rating Framework v1.0 for frontier cyber threats (Nov 5–6 buzz): rates successful cyber jailbreaks by capability gain/scope and ease of deployment/discovery into risk bands; public feedback through Dec 21, 2026.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-21|q='Jailbreak Rating Framework' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 513,
@@ -5127,7 +5127,7 @@
     "first_seen": "2026-11-07T08:32+08:00",
     "url": "https://www.agent.family/campaigns",
     "excerpt": "TermiX Montage Studio Agent: give a creative brief → quote → hire specialized agents (storyboard, render, music) → deliver 1080p video; jobs settle via on-chain escrow on TermiX agent.family marketplace. Active X news story in 04:32→08:32 window.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-21|q='Montage Studio' pre7=14.3 last7=27.6 peak=100"
   },
   {
     "id": 514,
@@ -7027,6 +7027,26 @@
     "first_seen": "2026-11-21T04:32+08:00",
     "url": "https://www.baseten.co/blog/meet-bison-1-and-groundhog-1",
     "excerpt": "Baseten 于 2026 年 11 月 20 日与 bison-1 一同发布 groundhog-1：同样基于 Gemma 4，提供 128k 上下文和图像+文本输入。官方称其定价与 elephant-1 同档，并预期在官方 Artificial Analysis 指数上接近 mammoth-1 的表现。博客：https://www.baseten.co/blog/meet-bison-1-and-groundhog-1",
+    "review_14d": null
+  },
+  {
+    "id": 704,
+    "term": "LingSante-3.1-flash",
+    "source": "x+hf+web+sitemap",
+    "score": 0.95,
+    "first_seen": "2026-11-23T12:32+08:00",
+    "url": "https://huggingface.co/inclusionAI/LingSante-3.1-flash",
+    "excerpt": "蚂蚁集团 inclusionAI 于 2026 年 11 月 23 日在蚂蚁阿福医疗健康生态大会上宣布开源 LingSante-3.1-flash：基于 Ling-3.1-flash 的医疗混合线性 MoE 模型，总参数 560B、每 token 激活 25B，支持 100 万 token 上下文，权重以 MIT 许可发布。模型卡：https://huggingface.co/inclusionAI/LingSante-3.1-flash",
+    "review_14d": null
+  },
+  {
+    "id": 705,
+    "term": "LingSante-3.1-air-VL",
+    "source": "x+hf+web+sitemap",
+    "score": 0.95,
+    "first_seen": "2026-11-23T12:32+08:00",
+    "url": "https://huggingface.co/inclusionAI/LingSante-3.1-air-VL",
+    "excerpt": "蚂蚁集团 inclusionAI 于 2026 年 11 月 23 日开源 LingSante-3.1-air-VL：蚂蚁医疗团队首个开源的大型多模态医疗模型，总参数 124B、每 token 激活 5.5B，支持文本和图像输入、256K 上下文。模型卡：https://huggingface.co/inclusionAI/LingSante-3.1-air-VL",
     "review_14d": null
   }
 ]
