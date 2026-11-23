@@ -7058,5 +7058,25 @@
     "url": "https://x2robot.com/en",
     "excerpt": "自变量机器人（X Square Robot）于 2026 年 11 月 23 日 15:30（北京时间）通过官方账号 @XSquareRobot 宣布推出 WALL-OSS-1.0：基于 Qwen3.5、采用 native VLA 预训练的视觉-语言-动作基础模型。官方通稿称，在评测人员自选的 312 项真机任务上、不加任务微调，零样本成功率为 55.1%。官网：https://x2robot.com/en 官方帖：https://x.com/XSquareRobot/status/2124767551959757162",
     "review_14d": null
+  },
+  {
+    "id": 707,
+    "term": "GLM-5.4",
+    "source": "x+web",
+    "score": 0.96,
+    "first_seen": "2026-11-23T20:32+08:00",
+    "url": "https://z.ai/blog/glm-5.4",
+    "excerpt": "智谱 Z.ai 于 2026 年 11 月 23 日发布旗舰模型 GLM-5.4：首个基于 Loop Transformer 架构的主力模型，将 GLM-5 基座中的 28 层循环两轮，官方称智能水平可对标 2T–3T 参数模型，并新增视觉能力、支持约 100 万 token 上下文。已向所有 GLM Coding Plan 用户开放，周额度较 GLM-5.3 提升 50%。官博：https://z.ai/blog/glm-5.4 官方介绍帖：https://x.com/Zai_org/status/2124811995912286352",
+    "review_14d": null
+  },
+  {
+    "id": 708,
+    "term": "Lumina SFX",
+    "source": "x+web",
+    "score": 0.86,
+    "first_seen": "2026-11-23T20:32+08:00",
+    "url": "https://github.com/LuminaBench/lumina-sfx",
+    "excerpt": "Lumina（@LuminaBench）于 2026 年 11 月 23 日 19:53（北京时间）发布免费技能 Lumina SFX：让编程智能体根据一句话在 2,844 个可编辑音效中检索、叠层并导出 WAV，用于游戏、应用和视频。安装：npx skills add LuminaBench/lumina-sfx -g。仓库：https://github.com/LuminaBench/lumina-sfx 官方帖：https://x.com/LuminaBench/status/2124833612143132733",
+    "review_14d": null
   }
 ]
