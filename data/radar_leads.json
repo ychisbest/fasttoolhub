@@ -7198,5 +7198,15 @@
     "url": "https://sakana.ai/applied-research-lab/",
     "excerpt": "Sakana AI（@SakanaAILabs）于 2026 年 11 月 24 日 09:57（北京时间，01:57 UTC）宣布成立 Sakana AI Applied Research Lab：设在东京的应用研究实验室，把公司已有研究应用到金融、经济等复杂现实系统，首个项目为 Computational Finance and Economics（COFE）。官方介绍：https://sakana.ai/applied-research-lab/ 官方帖：https://x.com/SakanaAILabs/status/2125046221631086970",
     "review_14d": null
+  },
+  {
+    "id": 721,
+    "term": "SenseNova U1.6",
+    "source": "x+web",
+    "score": 0.94,
+    "first_seen": "2026-11-24T16:32+08:00",
+    "url": "https://www.sensetime.com/cn/news/sensenova-u1-6-open-source-20261124-1152",
+    "excerpt": "商汤科技于 2026 年 11 月 24 日正式发布并开源 SenseNova U1.6：延续 U 系列理解与生成统一范式，首次为该系列 8B 开源模型带来原生图像自修正。官方稿发布于北京时间 11:52（UTC 03:52）。本页为对当日官方发布的补录。官方介绍：https://www.sensetime.com/cn/news/sensenova-u1-6-open-source-20261124-1152  开源仓库：https://github.com/OpenSenseNova/SenseNova-U1",
+    "review_14d": null
   }
 ]
