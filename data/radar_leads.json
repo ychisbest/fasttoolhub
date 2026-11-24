@@ -7208,5 +7208,25 @@
     "url": "https://www.sensetime.com/cn/news/sensenova-u1-6-open-source-20261124-1152",
     "excerpt": "商汤科技于 2026 年 11 月 24 日正式发布并开源 SenseNova U1.6：延续 U 系列理解与生成统一范式，首次为该系列 8B 开源模型带来原生图像自修正。官方稿发布于北京时间 11:52（UTC 03:52）。本页为对当日官方发布的补录。官方介绍：https://www.sensetime.com/cn/news/sensenova-u1-6-open-source-20261124-1152  开源仓库：https://github.com/OpenSenseNova/SenseNova-U1",
     "review_14d": null
+  },
+  {
+    "id": 722,
+    "term": "Sarvam Extract",
+    "source": "x+web+sitemap",
+    "score": 0.95,
+    "first_seen": "2026-11-25T00:32+08:00",
+    "url": "https://www.sarvam.ai/blogs/extract-api",
+    "excerpt": "Sarvam AI（@SarvamAI）于 2026 年 11 月 24 日发布文档结构化抽取 API Sarvam Extract，由已有模型 Sarvam Vision 2.1 驱动。官方称在公开基准 ExtractBench 上，Advanced 模式得 95.4 分、每页 ₹2.50，Basic 模式得 94.4 分、每页 ₹1，均落在准确率-成本帕累托前沿。支持最长 500 页，以及英语和 22 种印度语言。官博：https://www.sarvam.ai/blogs/extract-api 官方帖：https://x.com/SarvamAI/status/2125258873699442823",
+    "review_14d": null
+  },
+  {
+    "id": 723,
+    "term": "StreetPulse",
+    "source": "x+web",
+    "score": 0.88,
+    "first_seen": "2026-11-25T00:32+08:00",
+    "url": "https://cities.ccl.center",
+    "excerpt": "图卢兹经济学院（TSE）研究团队于 2026 年 11 月 24 日上线免费协作网站 StreetPulse（https://cities.ccl.center），用 AI 从街景照片为街道打分，覆盖安全、活力、可步行性、美观、舒适、富裕程度和历史风貌等七个维度。公开 1.0 数据包含约 248 万张 Mapillary/Panoramax 开放图像（150 座城市、67 个国家）以及约 51.7 万张 Google Street View 图像。TSE 稿：同日发布。介绍帖：https://x.com/cesifoti/status/2125248027648467170",
+    "review_14d": null
   }
 ]
