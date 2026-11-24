@@ -7168,5 +7168,15 @@
     "url": "https://www.designarena.ai/blog/human-intelligence-index",
     "excerpt": "DesignArena（@DesignArena）于 2026 年 11 月 24 日 03:10（北京时间）发布 Human Intelligence Index（HII）：按对人类体验的影响为模型排名，并以美国人每年约 6240 亿小时的时间使用数据加权。首期官方成绩：Claude Fable 5.2 为 54，Claude Opus 5.5 为 50，Gemini 4 Carbon 与 GPT-6.2 Astra 并列 47。介绍：https://www.designarena.ai/blog/human-intelligence-index 官方帖：https://x.com/DesignArena/status/2124943628707713372",
     "review_14d": null
+  },
+  {
+    "id": 718,
+    "term": "Shirudo",
+    "source": "x+web",
+    "score": 0.96,
+    "first_seen": "2026-11-24T08:32+08:00",
+    "url": "https://openai.com/index/introducing-shirudo/",
+    "excerpt": "OpenAI（@OpenAI）于 2026 年 11 月 24 日 05:37（北京时间）与 Cisco 共同推出 Shirudo：开源 Linux 运行时，用 eBPF「盾牌」在不停机、不重启的情况下为运行中的系统提供临时防护，等待正式补丁上线。名称来自日语「シールド」，读作 shee-roo-doh，意为「盾」。项目目前面向社区预发布，采用 BSD 2-Clause 许可。官方介绍：https://openai.com/index/introducing-shirudo/ 官方帖：https://x.com/OpenAI/status/2124980590717911527",
+    "review_14d": null
   }
 ]
