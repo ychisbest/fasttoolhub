@@ -1,0 +1,14 @@
+---
+slug: "epochal-time-portal"
+term: "Epochal Time Portal"
+locale: "zh"
+date: "2026-11-25T04:32+08:00"
+source: "x+web"
+score: 0.95
+url: "https://epochal.com/blog/introducing-time-portal"
+excerpt: "Epochal 于 2026 年 11 月 24 日发布首款产品 Epochal Time Portal：时间门控的智能体网络环境，官方称覆盖 1 万亿+ 页面、追踪 7 万亿+ URL、跨越 30 年以上历史，粒度可达 1 分钟，并提供 search / fetch / sandbox API、控制台和 SDK。官方称提供免费有限预览，企业档需联系。官博：https://epochal.com/blog/introducing-time-portal 预览说明帖：https://x.com/epochal/status/2125270860961603680"
+intro: "**Epochal Time Portal** 是新实验室 **Epochal** 的首款产品，于 2026 年 11 月 24 日与实验室一同发布：一个时间门控的智能体网络环境，宣称覆盖 **1 万亿+** 页面、追踪 **7 万亿+** URL、跨越 **30 年以上** 互联网历史，粒度可达 **1 分钟**。产品博文：[epochal.com/blog/introducing-time-portal](https://epochal.com/blog/introducing-time-portal)。官方账号 [@epochal](https://x.com/epochal/status/2125270860961603680) 同时宣布提供免费的有限预览，企业高级档需另行联系。\n\nTime Portal 以套件形式提供 **search**、**fetch** 和 **sandbox** 三组 API，并配有控制台和 Epochal SDK。实验室介绍见本站 [Epochal](/terms/epochal/) 词条。官方称这款产品是在 90 天内做出来的。\n"
+explain: "## 官方怎么介绍它\n\nEpochal 把预测未来视为智能的核心度量，但认为直接把今天的智能体用于预测，会碰到时间门控、信息覆盖、知识截止日期等问题。Time Portal 是他们给出的第一步：一个按历史时点使用的智能体网页环境，把时间当作“万能校验器”。\n\n- **搜索与抓取**：底层是互联网存档索引，搜索原生感知时间，时间门控是一等能力。同一 URL 可以对应多个历史版本，形成版本链或变更日志；在最动态的页面上，版本粒度可到分钟，系统还会根据查询和使用模式继续改进。\n- **Sandbox**：仅有时间门控的网页工具还不够——沙箱里的智能体用一条 `date` 或看文件系统，就能发现时钟对不上。因此他们做了 **Time Portal Sandbox**，一个时间门控的 Linux microVM：内核层把系统时钟设为 as-of 时刻；启动当时存在的 Ubuntu 版本，以及当时的系统库、语言运行时和命令行工具；`pip`、`npm`、`apt` 等包镜像也遵守门控；包括 `curl` 和 `requests` 在内的网页请求都走 Time Portal。\n- **他们如何评估“好的时间门”**：两个性质——**覆盖**（智能体拿得到 as-of 时刻公网上已有的信息）和 **泄漏**（不把事后才出现的特权信息暴露给智能体）。官方称在过去 90 天里按这个标准打磨产品。\n- **预测实验**（厂商自报）：他们先在 Kalshi 和 Polymarket 的 347 个实时预测任务上部署预测智能体，数周后再用 Time Portal 在相同问题上回放，并把 as-of 设为与当年实时预测同一时刻。对照包括“用今天的实时网页回放”和“完全无网页”。官方称 Time Portal 回放与历史实时预测没有显著偏离（文中标出相关系数 **r = 0.98**）；用已揭晓结果的实时网页回放时误差几乎降到零（**r = 0.16**，此处是“误差与原预测的相关”，含义是几乎可以查到结局）；完全无网页时误差更大、只是松散跟踪（**r = 0.49**）。\n\n接口方面，三个端点位于 `https://api.epochal.com/v1/time-portal/{search,fetch,sandbox}`。每个请求在 `x-api-key` 中放 API 密钥，在 `Accept-Datetime` 中放 as-of 时刻。官方还提供 Python SDK（`from epochal.api import Client`，再 `client.time_portal(\"2025-03-01T00:00:00Z\")`），以及一个交互式可视化界面，可用“穿越后的”智能体浏览历史网页。\n"
+usage: "## 现在能在哪里用\n\n- **产品介绍**：[epochal.com/blog/introducing-time-portal](https://epochal.com/blog/introducing-time-portal)\n- **实验室介绍**：[epochal.com/blog/introducing-epochal](https://epochal.com/blog/introducing-epochal)\n- **官网 / 控制台入口**：https://epochal.com/\n- **免费预览说明帖**：https://x.com/epochal/status/2125270860961603680\n\n官方示例：\n\n```\ncurl https://api.epochal.com/v1/time-portal/search \\\n  -H \"x-api-key: $EPOCHAL_API_KEY\" \\\n  -H \"Accept-Datetime: 2025-03-01T00:00:00Z\" \\\n  -H \"Content-Type: application/json\" \\\n  -d '{\"query\": \"fed rate decision\", \"num_results\": 3}'\n```\n\n发布时提供免费有限预览（API、控制台 playground 或 SDK）；企业高级档需联系他们。覆盖范围、分钟级粒度和预测回放相关系数都是厂商自报。使用历史网页和沙箱时，请遵守 API 条款，不要把密钥写进公开代码，也不要把回放环境当作可对外攻击真实系统的跳板。\n"
+---
+

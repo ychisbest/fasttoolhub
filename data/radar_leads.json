@@ -7228,5 +7228,75 @@
     "url": "https://cities.ccl.center",
     "excerpt": "图卢兹经济学院（TSE）研究团队于 2026 年 11 月 24 日上线免费协作网站 StreetPulse（https://cities.ccl.center），用 AI 从街景照片为街道打分，覆盖安全、活力、可步行性、美观、舒适、富裕程度和历史风貌等七个维度。公开 1.0 数据包含约 248 万张 Mapillary/Panoramax 开放图像（150 座城市、67 个国家）以及约 51.7 万张 Google Street View 图像。TSE 稿：同日发布。介绍帖：https://x.com/cesifoti/status/2125248027648467170",
     "review_14d": null
+  },
+  {
+    "id": 724,
+    "term": "SWE-2.1",
+    "source": "x+web",
+    "score": 0.96,
+    "first_seen": "2026-11-25T04:32+08:00",
+    "url": "https://cognition.com/blog/swe-2-1",
+    "excerpt": "Cognition（@cognition）于 2026 年 11 月 24 日发布编程模型 SWE-2.1：在 Kimi K3 上用纯强化学习训练，官方称为相对 SWE-2 的重大升级。官博给出 FrontierCode 2.0 41.3、Terminal-Bench 4.1 50.0 等厂商自报分数；同日还推出与 Cerebras 合作的 SWE-2.1 Lightning（约 600 tok/s）以及面向 Devin Security 的 SWE-2.1 Cyber。官博称已接入 Devin Cloud / Desktop / CLI，并对 Devin Pro、Max、Teams 免费约两周。官博：https://cognition.com/blog/swe-2-1 官方帖：https://x.com/cognition/status/2125305349414523061",
+    "review_14d": null
+  },
+  {
+    "id": 725,
+    "term": "Epochal",
+    "source": "x+web",
+    "score": 0.94,
+    "first_seen": "2026-11-25T04:32+08:00",
+    "url": "https://epochal.com/blog/introducing-epochal",
+    "excerpt": "新实验室 Epochal 于 2026 年 11 月 24 日公开亮相，使命是建造互联网时间机器，让 AI 按历史时点经历过去并学习预测未来。团队包括被介绍为 xAI 创始团队关键成员的 Guodong Zhang、Zihang Dai、Manuel Kroiss，以及 Alex Bocharoff 和 Frank Luan。首款产品 Epochal Time Portal 同日发布。官博：https://epochal.com/blog/introducing-epochal 官方帖：https://x.com/epochal/status/2125270859715875210",
+    "review_14d": null
+  },
+  {
+    "id": 726,
+    "term": "Epochal Time Portal",
+    "source": "x+web",
+    "score": 0.95,
+    "first_seen": "2026-11-25T04:32+08:00",
+    "url": "https://epochal.com/blog/introducing-time-portal",
+    "excerpt": "Epochal 于 2026 年 11 月 24 日发布首款产品 Epochal Time Portal：时间门控的智能体网络环境，官方称覆盖 1 万亿+ 页面、追踪 7 万亿+ URL、跨越 30 年以上历史，粒度可达 1 分钟，并提供 search / fetch / sandbox API、控制台和 SDK。官方称提供免费有限预览，企业档需联系。官博：https://epochal.com/blog/introducing-time-portal 预览说明帖：https://x.com/epochal/status/2125270860961603680",
+    "review_14d": null
+  },
+  {
+    "id": 727,
+    "term": "Taan V1",
+    "source": "x+web",
+    "score": 0.95,
+    "first_seen": "2026-11-25T04:32+08:00",
+    "url": "https://taan.ai/",
+    "excerpt": "音乐模型公司 Taan 于 2026 年 11 月 24 日正式发布 Taan V1，强调按秒级时间线控制的指令跟随音乐生成，并称相对 V1-preview 在质量和曲风支持上有提升。官网写训练数据 100% 已授权，数据和算力约相当于前沿音乐模型的千分之一；已发表的 TimingBench 对照中指令成功率 96.1%。产品站：https://taan.ai/ 创始人帖：https://x.com/mp3addi/status/2125277353609932891",
+    "review_14d": null
+  },
+  {
+    "id": 728,
+    "term": "Humanity's First Exam",
+    "source": "sitemap+web",
+    "score": 0.93,
+    "first_seen": "2026-11-25T04:32+08:00",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/",
+    "excerpt": "Google DeepMind 于 2026 年 11 月 24 日在 Kaggle 上线可靠性基准 Humanity’s First Exam（HFE），用于测试大模型在简单日常题目及其变体上能否稳定答对。官方称数据集有 544 道基础文本和图像提示，覆盖 20 项基础能力，并同步开放持续到 12 月 15 日的征题比赛。官博：https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/",
+    "review_14d": null
+  },
+  {
+    "id": 729,
+    "term": "RumiFold",
+    "source": "x+web",
+    "score": 0.9,
+    "first_seen": "2026-11-25T04:32+08:00",
+    "url": "https://rumifold.baulab.info/",
+    "excerpt": "东北大学研究者于 2026 年 11 月 24 日公开释放 RumiFold：基于 Qwen3-8B 的开源权重聊天模型，可在隐状态中折叠蛋白质并用英语解释功能。论文 arXiv:2611.29444 标注提交于 11 月 22 日；作者称折叠精度可与 SimpleFold 相比，并在蛋白质功能描述上达到先进水平。项目页：https://rumifold.baulab.info/ 介绍帖：https://x.com/davidbau/status/2125319691078107633",
+    "review_14d": null
+  },
+  {
+    "id": 730,
+    "term": "Glif Products",
+    "source": "sitemap+web",
+    "score": 0.88,
+    "first_seen": "2026-11-25T04:32+08:00",
+    "url": "https://glif.app/changelog/2026-11-24-glif-products",
+    "excerpt": "Glif 团队于 2026 年 11 月 24 日发布 Glif Products：用 2–5 张照片或一段 5–10 秒短视频保存一件商品，之后可在图像或视频里与 Glif Characters 一起出镜，并尽量保持标签、颜色和外形。官方称保存的商品仅对用户自己可见。更新说明：https://glif.app/changelog/2026-11-24-glif-products",
+    "review_14d": null
   }
 ]

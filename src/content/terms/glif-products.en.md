@@ -1,0 +1,14 @@
+---
+slug: "glif-products"
+term: "Glif Products"
+locale: "en"
+date: "2026-11-25T04:32+08:00"
+source: "sitemap+web"
+score: 0.88
+url: "https://glif.app/changelog/2026-11-24-glif-products"
+excerpt: "The Glif team launched Glif Products on 24 November 2026: save a product from 2–5 photos or a 5–10 second clip, then cast it with Glif Characters in images and videos while keeping its label, colors, and shape. The company says saved products are private to the user. Changelog: https://glif.app/changelog/2026-11-24-glif-products"
+intro: "**Glif Products** is a new feature from the image-and-video tool **Glif**, launched on 24 November 2026: you save a real product from a few phone photos or a short clip, then cast it with **Glif Characters** in images and videos while keeping its label, colors, and shape. Official changelog: [glif.app/changelog/2026-11-24-glif-products](https://glif.app/changelog/2026-11-24-glif-products), signed “By the Glif team” and dated 24 November 2026. The same URL appeared as a new sitemap entry in this scan.\n\nThis site already lists **Glif UGC Studio**. Glif Products is a separately named “product-in-shot” capability launched the same day on that product line, so it is filed as its own term.\n"
+explain: "## What the company says\n\nThe changelog’s line is: today Glif is launching Glif Products. Save a product once, and Glif keeps its label, colors, and shape in every image and video you make with it. Put it in the hands of a Glif Character and you have an ad.\n\nThe official create flow is:\n\n- Open Products in Customize and click Create product.\n- Add **2–3** photos from different angles, up to **5**. Show the whole product, including any text or logo.\n- For video, optionally add a **5–10 second** clip of someone using it; a phone video is enough.\n- Give it a name and create it. The company says your products are private to you.\n- You can also ask Glif to save a product from photos already added to a chat.\n\nTo generate, click Add product in the composer, or type `@` and open Products; add a character the same way. Glif says it sends the product (and character) into the generation so the item appears with the right label and shape in someone’s hands or in a scene. The post uses a line of Glif-designed goods—two drinks, a candle, a bag of coffee, a hat, and a tee—as examples, each saved from three photos.\n"
+usage: "## Where to try it\n\n- **Official changelog**: https://glif.app/changelog/2026-11-24-glif-products\n- **Product site**: https://glif.app/\n\nCheck Glif’s live UI and docs for access, plan limits, and commercial terms. The company says saved products are private to you, but you should still confirm you have the rights to any real brand packaging, client products, or logo photos you upload, and follow the platform’s brand and likeness rules. If you use the outputs as ads, you are responsible for trademark and advertising compliance.\n"
+---
+
