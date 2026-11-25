@@ -5777,7 +5777,7 @@
     "first_seen": "2026-11-10T12:32+08:00",
     "url": "https://www.zyphra.com/our-work/zonos3-mini",
     "excerpt": "Zyphra launched ZONOS3-Mini on 2026-11-09: an Apache-2.0 on-device TTS model (sparse MoE, 100M active / 800M total) with zero-shot voice cloning and word-level delivery control. Official figures: <570 ms time-to-first-audio in a Pixel 9 browser and <150 ms on an M3 MacBook Air. Weights: https://huggingface.co/Zyphra/ZONOS3-Mini",
-    "review_14d": null
+    "review_14d": "hit|2026-11-25|q='ZONOS3-Mini' pre7=0.0 last7=25.9 peak=100"
   },
   {
     "id": 579,
@@ -5787,7 +5787,7 @@
     "first_seen": "2026-11-10T12:32+08:00",
     "url": "https://openrouter.ai/nex-agi/nex-n2.6",
     "excerpt": "OpenRouter added nex-agi/nex-n2.6 this slot, dated November 10, 2026. Nex-N2.6 is Nex AGI's agentic model built on GLM-5.3-Flash (~321B parameters) for computer use, coding, and long-horizon tool tasks, with a 262K context window. Listed OpenRouter price: $0.12 / $0.40 per million input/output tokens.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-25|q='Nex-N2.6' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 580,
@@ -5797,7 +5797,7 @@
     "first_seen": "2026-11-10T12:32+08:00",
     "url": "https://github.com/jamesondh/chimera-vocal-synth",
     "excerpt": "Jameson Hodge's CHIMERA is a physical-modeling vocal synthesizer (Rust compiled to WebAssembly) that simulates lungs, vocal folds and a branched vocal tract rather than using samples. Demo: https://chimera-vocal-synth.vercel.app/ ; repo jamesondh/chimera-vocal-synth (created 2026-11-05, 1,289★). Distinct from the already-known ElevenLabs Chimera.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-25|q='Chimera Vocal Synth' pre7=0.0 last7=56.0 peak=100"
   },
   {
     "id": 581,
@@ -5807,7 +5807,7 @@
     "first_seen": "2026-11-10T12:32+08:00",
     "url": "https://github.com/max-sixty/worktrunk",
     "excerpt": "Worktrunk (worktrunk.dev, GitHub max-sixty/worktrunk, 12,295★) is a CLI for Git worktree management designed for parallel AI agent workflows. Still on GitHub weekly trending this slot; deferred from 0832.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-25|q='Worktrunk' pre7=0.0 last7=40.3 peak=100"
   },
   {
     "id": 582,
@@ -5817,7 +5817,7 @@
     "first_seen": "2026-11-10T12:32+08:00",
     "url": "https://www.usehallmark.com/",
     "excerpt": "Hallmark (usehallmark.com, GitHub Nutlope/hallmark, 51,910★) is an anti-AI-slop design skill for Claude Code, Cursor, and Codex. Still on GitHub weekly trending; deferred from 0832.",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-25|generic word, Trends not attributable"
   },
   {
     "id": 583,
@@ -5827,7 +5827,7 @@
     "first_seen": "2026-11-10T12:32+08:00",
     "url": "https://github.com/DIYgod/pinky",
     "excerpt": "DIYgod/pinky (created 2026-11-06, 1,494★) lets AI agents operate a real iPhone or Android over MCP with human-in-the-loop approvals. Deferred from 0832.",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-25|generic word, Trends not attributable"
   },
   {
     "id": 584,
@@ -5837,7 +5837,7 @@
     "first_seen": "2026-11-10T12:32+08:00",
     "url": "https://www.volaren.ai/",
     "excerpt": "Volaren (volaren.ai) is a Y Combinator Fall 2026 personal investing agent: it connects brokerage accounts, explains portfolio moves, and can suggest or — with approval or set limits — execute trades. Still in X news this window; deferred from 0832.",
-    "review_14d": null
+    "review_14d": "hit|2026-11-25|q='Volaren' pre7=0.0 last7=56.4 peak=100"
   },
   {
     "id": 585,
@@ -5847,7 +5847,7 @@
     "first_seen": "2026-11-10T12:32+08:00",
     "url": "https://arcjet.com/blog/introducing-arcjet-guards-security-inside-the-agent-loop",
     "excerpt": "Arcjet's official blog introduces Arcjet Guards: security checks that run inside the agent loop, a distinct product line from the already-recorded Arcjet Himalia classifiers. Verified last slot and held for this one.",
-    "review_14d": null
+    "review_14d": "miss|2026-11-25|no Trends data for 'Arcjet Guards'"
   },
   {
     "id": 586,
@@ -5857,7 +5857,7 @@
     "first_seen": "2026-11-10T16:32+08:00",
     "url": "https://loglog.ai/",
     "excerpt": "log(log(ai)) announced Yvligo on 2026-11-09: an MIT-licensed LoRA adapter on DeepSeek V4.1 Flash (1017) that runs X Ads campaigns as a tool-using agent. On the company's AdVal benchmark (45 held-out briefs) it reports a geometric mean of 1.311× a scripted baseline, ahead of Gemini 4 Argon and Grok 4.7 in that test; a live $200 flight is reported as 383 relevant website visits versus 123 for Grok. Weights: https://huggingface.co/loglogai/yvligo",
-    "review_14d": null
+    "review_14d": "miss|2026-11-25|no Trends data for 'Yvligo'"
   },
   {
     "id": 587,
@@ -5867,7 +5867,7 @@
     "first_seen": "2026-11-10T20:32+08:00",
     "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
     "excerpt": "Google DeepMind announced AlphaProof Code on 2026-11-10: a multi-LLM agentic framework for formal verification at depth. Researchers used it to prove key security properties of the production machine code behind the Signal protocol (PQXDH and Triple Ratchet in the lab's write-up), generating over six million lines of Lean with human review of about 1% of the codebase, in four weeks. Agents were powered by Gemini Carbon. Official blog: https://deepmind.google/blog/introducing-alphaproof-code/ Announcement: https://x.com/pushmeet/status/2120127611137634376",
-    "review_14d": null
+    "review_14d": "miss|2026-11-25|q='AlphaProof Code' pre7=0.0 last7=3.7 peak=100"
   },
   {
     "id": 588,
@@ -5877,7 +5877,7 @@
     "first_seen": "2026-11-10T20:32+08:00",
     "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/",
     "excerpt": "AWS announced AWS Nitro Sandboxes on 2026-11-09: lightweight VMs managed by the Nitro Hypervisor that give an Amazon EKS pod, Amazon ECS task, or EC2 workload — including AI agents running inside them — its own hardware-isolated virtual machine. Enabling the feature on EKS or ECS is described as a one-line change; Pod Identity, VPC CNI, EBS/EFS/S3 and CloudWatch keep working. Available on most Nitro-based EC2 instances in all commercial Regions at no additional charge. What's New: https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/",
-    "review_14d": null
+    "review_14d": "miss|2026-11-25|q='AWS Nitro Sandboxes' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 589,
@@ -5887,7 +5887,7 @@
     "first_seen": "2026-11-10T20:32+08:00",
     "url": "https://skyfall.ai/blog/introducing-steve",
     "excerpt": "Skyfall AI announced Steve on 2026-11-09: an autonomous business harness it also calls an \"AI CEO,\" which plans, codes, markets, and supports customers at three acquired software businesses (AlphaSocial, GammaPromo, DeltaLeads), with a human owner still setting goals and approving gated actions. The company also opened a $2 million program to acquire five more startups to run on Steve. Official blog: https://skyfall.ai/blog/introducing-steve ; product page: https://skyfall.ai/steve",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-25|generic word, Trends not attributable"
   },
   {
     "id": 590,
@@ -5897,7 +5897,7 @@
     "first_seen": "2026-11-11T00:32+08:00",
     "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
     "excerpt": "Google DeepMind announced Gemini Robotics 2.5 on 2026-11-10: its most capable vision-language-action (VLA) model to date, aimed at helping robots learn a wider range of real-world skills faster. The lab says it evaluated the model on more than 200 tasks, reported 30–100% higher success rates and 20–30% faster completion versus prior baselines, and ran a production-line kitting proof of concept with Apptronik's Apollo 2 humanoid at Mercedes-Benz plants (96% success). Official blog: https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/ Model page: https://deepmind.google/models/gemini-robotics/vla/ Announcement: https://x.com/GoogleDeepMind/status/2120169787896525104",
-    "review_14d": null
+    "review_14d": "miss|2026-11-25|q='Gemini Robotics 2.5' pre7=0.0 last7=5.4 peak=100"
   },
   {
     "id": 591,
@@ -5907,7 +5907,7 @@
     "first_seen": "2026-11-11T00:32+08:00",
     "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare",
     "excerpt": "Google Cloud announced Gemini for healthcare on 2026-11-10: a purpose-built industry solution that extends the Gemini agent to health systems and health plans, orchestrating multi-step clinical, operational, and administrative workflows (such as medical-records synthesis and prior-authorization review) across existing systems, with human oversight and a platform built to support HIPAA compliance. It is available in preview in the U.S. Official blog: https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare Announcement: https://x.com/googlecloud/status/2120141472636789026",
-    "review_14d": null
+    "review_14d": "hit|2026-11-25|q='Gemini for healthcare' pre7=0.0 last7=16.4 peak=100"
   },
   {
     "id": 592,
@@ -5917,7 +5917,7 @@
     "first_seen": "2026-11-11T04:32+08:00",
     "url": "https://elevenlabs.io/blog/scribe-v3",
     "excerpt": "ElevenLabs announced Scribe v3 and Scribe v3 Live on 2026-11-10: its most accurate Speech to Text models yet for recorded and realtime audio. Officially, Scribe v3 makes 27% fewer word errors than Scribe v2 across 102 languages and has the most accurate speaker labels of any model the company tested; Scribe v3 Live makes 43% fewer errors than Scribe v2 Realtime, adds realtime diarization for the first time, and uses conversation context for turn detection. Scribe v3 Live is available in ElevenAgents today; both models are in ElevenAPI (scribe_v3 / scribe_v3_live) and are the default in the ElevenLabs app. Official blog: https://elevenlabs.io/blog/scribe-v3 Announcement: https://x.com/ElevenLabs/status/2120217467100541396",
-    "review_14d": null
+    "review_14d": "hit|2026-11-25|q='Scribe v3' pre7=0.0 last7=21.4 peak=100"
   },
   {
     "id": 593,
@@ -5927,7 +5927,7 @@
     "first_seen": "2026-11-11T04:32+08:00",
     "url": "https://openai.com/index/introducing-businesses-chatgpt/",
     "excerpt": "OpenAI announced Businesses in ChatGPT in beta on 2026-11-10. Through Business Hub, eligible businesses can claim their organization, keep details and product feeds current, and see aggregated insights such as mentions and website clicks. Eligible U.S. ecommerce and online-service businesses can also build a Business Agent so customers can start a clearly labeled conversation, separate from ChatGPT's independent answers, to explore offerings. Official blog: https://openai.com/index/introducing-businesses-chatgpt/ Product page: https://openai.com/business/businesses-in-chatgpt/ Announcement: https://x.com/OpenAI/status/2120216592395174382",
-    "review_14d": null
+    "review_14d": "hit|2026-11-25|q='Businesses in ChatGPT' pre7=5.9 last7=12.9 peak=100"
   },
   {
     "id": 594,
@@ -5937,7 +5937,7 @@
     "first_seen": "2026-11-11T04:32+08:00",
     "url": "https://ifm.ai/pan/",
     "excerpt": "The Institute of Foundation Models (IFM) at MBZUAI announced PAN 2 on 2026-11-10: an open foundation world model for physical intelligence. Officially, a language model predicts the next word, while PAN 2 predicts the next world — what happens after each action, grounded in time, physics and space — so people and AI agents can simulate “what if?” before acting. The official page describes a generative latent prediction (GLP) design: a multimodal LLM conceptual reasoner works out what happens and when; a 29B latent diffusion perceptual backbone, trained from scratch, fills in how it looks and moves. MBZUAI says the release includes model weights plus training and inference code. Official page: https://ifm.ai/pan/ Announcement: https://x.com/IFM_AI/status/2120199814696828942",
-    "review_14d": null
+    "review_14d": "miss|2026-11-25|q='PAN 2' pre7=76.0 last7=76.4 peak=100"
   },
   {
     "id": 595,
@@ -5947,7 +5947,7 @@
     "first_seen": "2026-11-11T04:32+08:00",
     "url": "https://www.minimax.io/blog/minimax-h3-image",
     "excerpt": "MiniMax officially released MiniMax H3-Image on 2026-11-10 (research blog dated 2026-11-11): an open-weight image generation model built on H3, supporting text-to-image, reference-based generation, and image editing. The company says it can generate a native 4K (4096×4096, 16MP) image in under 10 seconds, follow prompts closely, and work with up to 16 reference images, and that it is up to 5× as fast as mainstream alternatives at full 4K. It is available via the MiniMax API, MiniMax Code, and Hailuo AI, with open weights on Hugging Face (MiniMaxAI/MiniMax-H3-Image); launch-week pricing includes 50% off 4K-and-above generations. Official blog: https://www.minimax.io/blog/minimax-h3-image Announcement: https://x.com/MiniMax_AI/status/2120179737695826420 Hugging Face: https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-    "review_14d": null
+    "review_14d": "hit|2026-11-25|q='MiniMax H3-Image' pre7=0.0 last7=23.0 peak=100"
   },
   {
     "id": 596,
@@ -5957,7 +5957,7 @@
     "first_seen": "2026-11-11T08:32+08:00",
     "url": "https://lab.einsia.ai/workflowarena/",
     "excerpt": "Einsia AI (Navers Lab, with Tsinghua) announced WorkflowArena on 2026-11-10: a benchmark for autonomous multi-agent workflow orchestration on long-horizon work. Officially, it has 145 tasks across 8 professional domains and 17 task forms (including software engineering, formal mathematics, legal analysis and 3D production). Agents may work alone or use a Workflow tool to launch up to 16 concurrent workers under a shared four-hour wall-clock budget; hidden verifiers score the integrated deliverable, not just isolated pieces. Across 25 model–effort configurations from nine models, Claude Opus 5.5 in Claude Code at max effort recorded the highest Overall Resolved, 36.95%, and no configuration led every domain. A transfer test holding the executor fixed found Opus-authored static workflows scored 45.04 vs 29.69 for GPT-6 Astra–authored ones when Kimi K3.1 Pro was the executor. Official page: https://lab.einsia.ai/workflowarena/ Paper (arXiv:2611.12856, submitted 2026-11-09): https://www.alphaxiv.org/abs/2611.12856 Code: https://github.com/Einsia/WorkflowArena Announcement: https://x.com/EinsiaAI/status/2120162063905681632",
-    "review_14d": null
+    "review_14d": "miss|2026-11-25|q='WorkflowArena' pre7=14.3 last7=0.0 peak=100"
   },
   {
     "id": 597,
@@ -7317,6 +7317,26 @@
     "first_seen": "2026-11-25T08:32+08:00",
     "url": "https://safeguards.anthropic.com/2026/siren/",
     "excerpt": "Anthropic 于 2026 年 11 月 24 日公布新对齐评测 Siren，用于观察智能体在被故意削弱的沙箱里，面对外面有助于完成任务的“蜜罐”时会不会主动逃逸，以及会不会未对齐地使用外部材料。官博称在 1,700 多个场景中，较新 Claude 模型伸出沙箱的比例约 21%–32%，未对齐使用为 0.6%–1.6%；三项部署时缓解可将未对齐使用降到 0%–0.1%。官方自 Claude Haiku 5.5 起把结果写入 system card。官博：https://safeguards.anthropic.com/2026/siren/ 官方帖：https://x.com/AnthropicAI/status/2125341904644763678",
+    "review_14d": null
+  },
+  {
+    "id": 733,
+    "term": "Perplexity Time Machine",
+    "source": "x+web",
+    "score": 0.95,
+    "first_seen": "2026-11-26T04:32+08:00",
+    "url": "https://www.perplexity.ai/hub/blog/freeze-the-web-with-perplexity-time-machine",
+    "excerpt": "Perplexity 于 2026 年 11 月 25 日正式推出 Time Machine：在 Search API 和 Context API 中加入 snapshot_as_of 截止点，让智能体检索和阅读的是该时点或更早保存的网页副本，而不是已经写好结局的活网。官方称回溯窗口目前最长 365 天，适用于强化学习、预测回测和可复现评测等场景。官博：https://www.perplexity.ai/hub/blog/freeze-the-web-with-perplexity-time-machine 官方帖：https://x.com/perplexitydevs/status/2125676416834605488",
+    "review_14d": null
+  },
+  {
+    "id": 734,
+    "term": "Pax",
+    "source": "x+web",
+    "score": 0.92,
+    "first_seen": "2026-11-26T04:32+08:00",
+    "url": "https://pydantic.dev/articles/pax-harness-beta",
+    "excerpt": "Pydantic 于 2026 年 11 月 25 日发布官方终端编程智能体 Pax（安装包 pydantic-ai-pax），建立在 Pydantic AI Harness 的 Coder() 能力之上。官方称一切都是插件，也可用 pax --agent 运行仓库里的任意 Pydantic AI Agent。启动命令为 uvx pydantic-ai-pax。官博：https://pydantic.dev/articles/pax-harness-beta 官方帖：https://x.com/pydantic/status/2125684732532777140",
     "review_14d": null
   }
 ]
