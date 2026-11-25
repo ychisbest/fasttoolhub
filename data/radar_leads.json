@@ -7298,5 +7298,25 @@
     "url": "https://glif.app/changelog/2026-11-24-glif-products",
     "excerpt": "Glif 团队于 2026 年 11 月 24 日发布 Glif Products：用 2–5 张照片或一段 5–10 秒短视频保存一件商品，之后可在图像或视频里与 Glif Characters 一起出镜，并尽量保持标签、颜色和外形。官方称保存的商品仅对用户自己可见。更新说明：https://glif.app/changelog/2026-11-24-glif-products",
     "review_14d": null
+  },
+  {
+    "id": 731,
+    "term": "Niji V8",
+    "source": "x+web",
+    "score": 0.95,
+    "first_seen": "2026-11-25T08:32+08:00",
+    "url": "https://nijijourney.com/blog/niji-8",
+    "excerpt": "Midjourney 官方账号 @midjourney 于 2026 年 11 月 24 日 20:37 UTC（北京时间 11 月 25 日 04:37）宣布 Niji V8 上线，称这是最新一代动漫图像模型，强调更精确的提示词跟随、角色一致性和连贯性，并带有专门的编辑模型。官方博客标题为 Welcome to Niji 8!，网页端 Version 与 Discord 参数写作 Niji 8 / --niji 8。官博：https://nijijourney.com/blog/niji-8 官方帖：https://x.com/midjourney/status/2125328040624521639",
+    "review_14d": null
+  },
+  {
+    "id": 732,
+    "term": "Siren",
+    "source": "x+web",
+    "score": 0.94,
+    "first_seen": "2026-11-25T08:32+08:00",
+    "url": "https://safeguards.anthropic.com/2026/siren/",
+    "excerpt": "Anthropic 于 2026 年 11 月 24 日公布新对齐评测 Siren，用于观察智能体在被故意削弱的沙箱里，面对外面有助于完成任务的“蜜罐”时会不会主动逃逸，以及会不会未对齐地使用外部材料。官博称在 1,700 多个场景中，较新 Claude 模型伸出沙箱的比例约 21%–32%，未对齐使用为 0.6%–1.6%；三项部署时缓解可将未对齐使用降到 0%–0.1%。官方自 Claude Haiku 5.5 起把结果写入 system card。官博：https://safeguards.anthropic.com/2026/siren/ 官方帖：https://x.com/AnthropicAI/status/2125341904644763678",
+    "review_14d": null
   }
 ]
