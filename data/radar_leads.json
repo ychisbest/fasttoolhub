@@ -7338,5 +7338,15 @@
     "url": "https://pydantic.dev/articles/pax-harness-beta",
     "excerpt": "Pydantic 于 2026 年 11 月 25 日发布官方终端编程智能体 Pax（安装包 pydantic-ai-pax），建立在 Pydantic AI Harness 的 Coder() 能力之上。官方称一切都是插件，也可用 pax --agent 运行仓库里的任意 Pydantic AI Agent。启动命令为 uvx pydantic-ai-pax。官博：https://pydantic.dev/articles/pax-harness-beta 官方帖：https://x.com/pydantic/status/2125684732532777140",
     "review_14d": null
+  },
+  {
+    "id": 735,
+    "term": "Hurdle",
+    "source": "x+web",
+    "score": 0.93,
+    "first_seen": "2026-11-26T08:32+08:00",
+    "url": "https://www.together.ai/blog/introducing-hurdle-run-agent-evals-on-your-api-skills-and-docs",
+    "excerpt": "Together AI 于 2026 年 11 月 25 日开源智能体评测框架 Hurdle（npm 库），用于测试 Claude Code 和 Codex 能否在真实任务中使用你的 API、文档、MCP 和 skills。官方称可用代码检查、护栏和评判模型打分，起步命令为 npx hurdle init。官博：https://www.together.ai/blog/introducing-hurdle-run-agent-evals-on-your-api-skills-and-docs 官方帖：https://x.com/togethercompute/status/2125709140425363612",
+    "review_14d": null
   }
 ]
