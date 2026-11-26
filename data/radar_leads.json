@@ -7358,5 +7358,25 @@
     "url": "https://popagent.ai/",
     "excerpt": "图拉鼎（@tualatrix）于 2026 年 11 月 26 日正式发布面向 Apple 平台的 Agent 工具 PopAgent，当日先推出 macOS 版，并称 iOS 版将随后到来。官网称它是原生 Mac 应用，可自行完成读写文件、联网调研和文档编写，也可调用 Claude Code、Codex 与 Antigravity；会话与凭据留在本机，模型请求直达用户自选的服务商。官网：https://popagent.ai/ 发布帖：https://x.com/tualatrix/status/2125836921549340977",
     "review_14d": null
+  },
+  {
+    "id": 737,
+    "term": "GigaChat 4",
+    "source": "x+web+hf",
+    "score": 0.95,
+    "first_seen": "2026-11-27T04:32+08:00",
+    "url": "https://giga.chat/blog/posts/gigachat-4",
+    "excerpt": "俄罗斯联邦储蓄银行 Sber 于 2026 年 11 月 26 日在莫斯科 AI Journey 2026 大会正式发布 GigaChat 4：含 708B（激活 41B）旗舰与 37B 轻量两款模型，均支持约 100 万 token 原生上下文、instant/reasoning 双模式，并可在 Claude Code、Codex、OpenHands 等智能体环境中多步工作。官方博文：https://giga.chat/blog/posts/gigachat-4  权重：https://huggingface.co/ai-sage/GigaChat4-708B-A41B",
+    "review_14d": null
+  },
+  {
+    "id": 738,
+    "term": "LingBot-Navi",
+    "source": "x+web",
+    "score": 0.92,
+    "first_seen": "2026-11-27T04:32+08:00",
+    "url": "https://technology.robbyant.com/lingbot-navi",
+    "excerpt": "蚂蚁集团具身智能公司 Robbyant 于 2026 年 11 月 26 日首次公开发布开源导航模型 LingBot-Navi：用可复用的三维空间记忆连接历史场景、当前画面与自然语言，支持目标定位、图像定位、空间问答和三维路径预测。产品页：https://technology.robbyant.com/lingbot-navi  发布帖：https://x.com/robbyant_brain/status/2126020732610302086",
+    "review_14d": null
   }
 ]
