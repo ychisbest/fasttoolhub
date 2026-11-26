@@ -5967,7 +5967,7 @@
     "first_seen": "2026-11-11T12:32+08:00",
     "url": "https://hedra.com/",
     "excerpt": "Hedra, an a16z-backed research company, officially launched Hedra Model Factory on 2026-11-10: an autonomous post-training and inference platform for building models for the real world, aimed at teams in robotics, manufacturing, biology and defense. Officially, the platform combines flexible GPU sandboxes (no long-term GPU commitment), post-training run by Hedra researchers working with autonomous AI agents, co-optimized low-latency deployment (on premises or at a partner data center), and a data flywheel that retrains from production performance and releases only versions that pass the customer's evals. In company-reported research results, a retrained H3 model scored 34.9 on Google DeepMind's Physics-IQ benchmark versus 30.3 for H3 Max, and Hedra said it cut 2K image edits from about 22 seconds to 3.6 seconds on the same four AMD Instinct MI355X GPUs in under a week. Founder and CEO Michael Lingelbach announced it in a GlobeNewswire release dated 2026-11-10 10:00 ET; the official account @hedra_labs posted at 2026-11-10T17:30:47Z. The company says the service is available at hedra.com. Official post: https://x.com/hedra_labs/status/2120207555263905973 Press release: https://www.globenewswire.com/news-release/2026/11/10/3399821/0/en/hedra-launches-model-factory-an-autonomous-post-training-and-inference-platform-for-real-world-ai.html Product: https://hedra.com/",
-    "review_14d": null
+    "review_14d": "miss|2026-11-26|no Trends data for 'Hedra Model Factory'"
   },
   {
     "id": 598,
@@ -5977,7 +5977,7 @@
     "first_seen": "2026-11-11T12:32+08:00",
     "url": "https://bay.io/",
     "excerpt": "Bay, a Tel Aviv AI security company, emerged from stealth on 2026-11-10 with $50 million in total funding and a platform that vets each action an AI agent proposes before it runs. The official press release says the total includes a $37 million Series A led by Battery Ventures and a previously undisclosed $13 million seed led by YL Ventures and Striker; Micron Ventures, M12 (Microsoft’s venture fund) and Wiz CEO Assaf Rappaport also joined the Series A. Named customers include Micron, Peloton, ClickUp and Wix. Officially, Bay evaluates each proposed action in the context of the full agent session and decides locally in milliseconds whether it can proceed, without requiring a persistent extra endpoint agent, kernel driver or network proxy; the company says installation across devices, cloud and SaaS can take under five minutes. Co-founders are CEO Yuval Zacharia, CPO Aner Morag and VP of R&D Boris Danilovich. Bay says the platform is available to enterprises today at bay.io. Official release: https://www.bay.io/blog/bay-emerges-from-stealth-with-50m-after-fortune-100-companies-used-its-platform-to-triple-autonomous-ai-agent-use-2 Site: https://bay.io/ Techmeme: https://x.com/Techmeme/status/2120161072787366244",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-26|generic word, Trends not attributable"
   },
   {
     "id": 599,
@@ -5987,7 +5987,7 @@
     "first_seen": "2026-11-11T12:32+08:00",
     "url": "https://vorflux.com/docs/autobots",
     "excerpt": "Vorflux founder Prasanna Sankar (co-founder of Rippling) launched Vorflux 2.0 on 2026-11-10, with AutoBots as the new product: 24×7 AI coworkers that live in Slack and take a standing role rather than a single task. The official founder post at 2026-11-10T17:22:15Z said teams can hire from a directory of opinionated AutoBots or create a new one with a goal, and can bring existing Codex or Claude Code subscriptions. Official docs say an AutoBot gets its own Slack channel, can start sessions, set its own schedules and report back inside a budget the team controls; 14 templates shipped at launch, each defaulting to $100 a day and $1,000 a week. Sankar also said Vorflux had closed a $15 million seed backed by Y Combinator, Peak XV Partners, Alliance DAO and others. The official @vorfluxai account posted “Vorflux 2.0 is now live.” Founder post: https://x.com/myprasanna/status/2120205408371634624 Official account: https://x.com/vorfluxai/status/2120207179034906827 Docs: https://vorflux.com/docs/autobots Directory: https://vorflux.com/bots Site: https://vorflux.com/",
-    "review_14d": null
+    "review_14d": "miss|2026-11-26|q='AutoBots' pre7=81.3 last7=80.1 peak=100"
   },
   {
     "id": 600,
@@ -5997,7 +5997,7 @@
     "first_seen": "2026-11-11T12:32+08:00",
     "url": "https://nod.n8n.io/",
     "excerpt": "n8n Labs, a new team inside n8n, released Nod on 2026-11-10 as a research preview: a standalone, open-source personal agent that runs on your computer with its own sandboxed virtual machine and browser. The official blog post by Ophir Prusak says Nod is a separate app from n8n, does not require an n8n account, is licensed under Apache 2.0, and can be downloaded for Mac and Windows (code is on GitHub). Officially, it works in connected apps such as Gmail, Calendar, Drive and Slack, and on websites with no integration; before it sends, pays, posts or deletes anything you did not ask for, a separate check confirms you asked. n8n reports a 93.2% score on LongMemEval, a public long-term memory benchmark; that figure is the company’s. Saved logins and cards are encrypted on the machine, and the model is not shown those secrets. Official blog: https://blog.n8n.io/meet-nod/ Product: https://nod.n8n.io/ Docs: https://nod.n8n.io/docs/ Code: https://github.com/n8n-io/nod",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-26|generic word, Trends not attributable"
   },
   {
     "id": 601,
@@ -6007,7 +6007,7 @@
     "first_seen": "2026-11-11T12:32+08:00",
     "url": "https://lightwheel.ai/robofinals-rl-env",
     "excerpt": "Lightwheel officially introduced RoboFinals RL-Env on 2026-11-11: reinforcement-learning simulation environments built from real industrial tasks captured with Lightwheel EgoSuite and from calibrated physics, as the training side of the existing RoboFinals evaluation benchmark. The official page says each task starts as a person doing the real work, recorded first-person by EgoSuite, then is rebuilt as SimReady OpenUSD assets and calibrated against measured physical parameters and industrial-grade CAE, running Newton-native. The first released task is automotive repair; official properties include long-horizon multi-stage work, a dexterous-hand embodiment, and deformable objects such as hoses, cables and gaskets. Agents build each stage and Lightwheel experts review them. A policy trained here is evaluated on the same task definitions RoboFinals uses. Early access is open; the full RoboFinals leaderboard is said to open later this year. Official page: https://lightwheel.ai/robofinals-rl-env Official post: https://x.com/LightwheelAI/status/2120350216679493836",
-    "review_14d": null
+    "review_14d": "miss|2026-11-26|no Trends data for 'RoboFinals RL-Env'"
   },
   {
     "id": 602,
@@ -6017,7 +6017,7 @@
     "first_seen": "2026-11-11T16:32+08:00",
     "url": "https://ernie.baidu.com/release/ernie-5-5-flash-preview/",
     "excerpt": "Baidu officially released ERNIE 5.5 Flash Preview on 2026-11-11: the first post-trained model built on the earlier ERNIE 5.5 Flash Base, described officially as an open-weight foundation model designed for efficient inference. The official product page states 280 billion total parameters with 14 billion active per token and a 1-million-token context, and says it is stronger at coding, 3D modeling, knowledge work and content creation while keeping decoding fast; the official account also said generation speed is above 200 tokens per second. Officially, the API is available on Baidu’s Qianfan platform, and the weights will be open-sourced under Apache 2.0 by 25 November; the Preview is an intermediate post-training checkpoint, training is still underway, and the official release will keep improving. Official demos include building a wuxia game in Unreal Engine 5.8 in an 11-hour coding task, 3D and CAD work in Blender and FreeCAD, and research reports and short videos; the official cases credit external assets and tools, and the model is text-only. The company account @Baidu_Inc announced it at 2026-11-11T05:42:38Z, and later posted that it can be tried for free on OpenRouter. Announcement: https://x.com/Baidu_Inc/status/2120391732248637734 Product: https://ernie.baidu.com/release/ernie-5-5-flash-preview/ Chinese page: https://ernie.baidu.com/zh/release/ernie-5-5-flash-preview/",
-    "review_14d": null
+    "review_14d": "hit|2026-11-26|q='ERNIE 5.5 Flash Preview' pre7=0.0 last7=24.9 peak=100"
   },
   {
     "id": 603,
@@ -6027,7 +6027,7 @@
     "first_seen": "2026-11-11T16:32+08:00",
     "url": "https://www.deepl.com/products/voice/aure",
     "excerpt": "DeepL officially unveiled Aure on 2026-11-11, calling it its most natural and lifelike Voice AI translation model yet, now available in DeepL Voice. The official release and product page say Aure continuously adapts, in real-time translation, to changes in how someone is speaking — tone, emotion, emphasis and pace — so a recognizable personal voice is preserved across languages, not just a fixed timbre. Unlike the earlier approach of deciding the translated voice from a static sample at the start of a conversation, DeepL says Aure analyses both the translated words and the source audio continuously, separates voice identity, prosody and spoken content, and uses reinforcement learning to keep translation quality; it does not permanently store a voice profile or meeting transcripts after a session ends. Aure needs no extra setup and is applied automatically across DeepL Voice for Online Meetings, DeepL Voice for In-Person Conversations and the DeepL API for Voice. It initially supports English, German, Spanish, French, Italian, Japanese, Portuguese and Korean; other languages keep using the previous Voice models. The official account @DeepLcom posted at 2026-11-11T08:15:00Z. Product: https://www.deepl.com/products/voice/aure Press release: https://www.prnewswire.com/news-releases/deepl-unveils-aure-its-most-lifelike-voice-ai-translation-model-yet-302935694.html Official post: https://x.com/DeepLcom/status/2120430075149443191",
-    "review_14d": null
+    "review_14d": "miss|2026-11-26|q='Aure' pre7=91.7 last7=88.0 peak=100"
   },
   {
     "id": 604,
@@ -6037,7 +6037,7 @@
     "first_seen": "2026-11-11T16:32+08:00",
     "url": "https://fish.audio/live3/",
     "excerpt": "Fish Audio officially introduced Live 3 on 2026-11-10 as a full-duplex voice model for real-time voice agents: it keeps listening while it speaks, so a pause, a backchannel, an interruption or a mid-sentence change of mind can shape what happens next. The official blog says conversational timing is learned inside the speech model itself, rather than as a long list of rules and thresholds. Co-founder and CEO Rissa Cao said a model should learn when to respond or stop from real conversations, the way language models learn grammar. Officially, Live 3 can decide to respond in as little as 186 milliseconds, can use short reactions such as “mm-hmm” or “okay” to confirm information without taking the floor, continues when the user is only acknowledging, and yields when the user truly interrupts. Live 3 speaks English today, is available on the Fish Agent Platform and through the API, and can be deployed on-premises for enterprises. The product page also lists promotional pricing that includes Live 3 at $0.035 per minute (50% off the $0.07 list price; confirm the live price on the site). A try-it link is at fish.audio/agents. The official account @FishAudio posted at 2026-11-10T18:02:05Z. Blog: https://fish.audio/blog/introducing-live-3/ Product: https://fish.audio/live3/ Official post: https://x.com/FishAudio/status/2120215430807904395",
-    "review_14d": null
+    "review_14d": "n/a|2026-11-26|generic word, Trends not attributable"
   },
   {
     "id": 605,
@@ -6047,7 +6047,7 @@
     "first_seen": "2026-11-11T20:32+08:00",
     "url": "https://helsing.ai/clarity",
     "excerpt": "Helsing officially unveiled Clarity on 2026-11-11 in Berlin: an AI-native agentic intelligence platform for armed forces, developed and built in Europe under European control. The official newsroom post says Clarity processes data a unit can access — sensor feeds, open sources, written reports and systems it already runs — analyses large volumes of data in seconds, detects military assets and positions, presents relevant adversary assets for human review, and prepares the information required by the most suitable weapon. Humans stay in command: an operator reviews the evidence, nominates each asset and authorises every hand-off to a weapon; a target is nominated only when independent sources agree, confidence is high and an operator confirms. Official account @HelsingAI posted at 2026-11-11T10:36:10Z.",
-    "review_14d": ""
+    "review_14d": "n/a|2026-11-26|generic word, Trends not attributable"
   },
   {
     "id": 606,
@@ -6057,7 +6057,7 @@
     "first_seen": "2026-11-11T20:32+08:00",
     "url": "https://huggingface.co/blog/qvac/botpsy",
     "excerpt": "Tether AI Research (QVAC) published BotPsy on 2026-11-11: a 0.8-billion-parameter on-device agentic language model for function calling and personal-assistant workflows, post-trained from Qwen3.5-0.8B. The official Hugging Face blog reports that BotPsy roughly doubles its base model on key agentic benchmarks (BFCL v4 23.4 to 44.0, ACEBench 30.1 to 58.7, τ-bench 23.2 to 51.5) and leads five of six tool-use benchmarks against models up to 1.2B, including the 2.5× larger Qwen3.5-2B-Think on five of six. Weights are released under Apache 2.0 as Hugging Face safetensors and as GGUF files (bf16, Q8, Q4) for the QVAC SDK and llama.cpp. The authors say it is best suited to low- to medium-difficulty tasks, is primarily trained and tested in English, and is not intended for safety-critical or high-stakes automated decisions involving money, personal information or health.",
-    "review_14d": ""
+    "review_14d": "miss|2026-11-26|q='BotPsy' pre7=0.0 last7=0.0 peak=100"
   },
   {
     "id": 607,
@@ -6067,7 +6067,7 @@
     "first_seen": "2026-11-12T00:32+08:00",
     "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
     "excerpt": "Google DeepMind officially announced AlphaGenome 2 on 2026-11-11: a next-generation DNA sequence model that predicts how genetic variants affect specific human cell types and cell states, giving scientists a tool to uncover cellular drivers of disease. The official blog says the model was trained on more than 100 million individual cell profiles across 68 tissues, turning static cell atlases into a predictive engine for human genetics, and that it identifies nearly twice as many variants that change gene expression in cells as the previous state-of-the-art model. It is available today for non-commercial research via the AlphaGenome API, and in private preview for commercial research. Official account @GoogleDeepMind posted at 2026-11-11T15:03:17Z. Official blog: https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/ Official post: https://x.com/GoogleDeepMind/status/2120532824465805749",
-    "review_14d": ""
+    "review_14d": "miss|2026-11-26|q='AlphaGenome 2' pre7=6.0 last7=6.4 peak=100"
   },
   {
     "id": 608,
@@ -6077,7 +6077,7 @@
     "first_seen": "2026-11-12T00:32+08:00",
     "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
     "excerpt": "Google Labs officially introduced Tabletop on 2026-11-11: a Google Labs experiment built for real-time group collaboration. The official blog says you add links, files and ideas, then prompt @tabletop — or pick a starter template — to generate custom interactive trip itineraries, dinner polls, expense splitters and tournament brackets; once the space is ready, you drop the invite link in a group chat so everyone can use it at the same time, like in a Google Doc. Tabletop is rolling out in the U.S. (18+) via waitlist at labs.google/tabletop. Official account @GoogleLabs posted at 2026-11-11T16:02:33Z. Official blog: https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/ Official post: https://x.com/GoogleLabs/status/2120547738609975788",
-    "review_14d": ""
+    "review_14d": "n/a|2026-11-26|generic word, Trends not attributable"
   },
   {
     "id": 609,
@@ -6087,7 +6087,7 @@
     "first_seen": "2026-11-12T00:32+08:00",
     "url": "https://x.com/meetgranola/status/2120551910789046391",
     "excerpt": "The official Granola account @meetgranola introduced Agent Briefs at 2026-11-11T16:19:08Z. The official post says: every night, Granola crunches everything it knows about you and summarizes it for your agents — priorities, habits, relationships, even how you communicate — so all agents have your best, most up-to-date context. Public materials are still largely this announcement post; the company’s updates page had not published a matching blog post at the time this entry was written. Official post: https://x.com/meetgranola/status/2120551910789046391",
-    "review_14d": ""
+    "review_14d": "hit|2026-11-26|q='Agent Briefs' pre7=0.0 last7=41.4 peak=100"
   },
   {
     "id": 610,
@@ -6097,7 +6097,7 @@
     "first_seen": "2026-11-12T04:32+08:00",
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
     "excerpt": "Google officially announced the Gemini Decisions API on 2026-11-11, powered by a new model, Gemini Decision 1 (gemini-decision-1). Officially, it scores up to 1,000 yes/no, multiple-choice or rubric questions in a single forward pass across text, images, audio, video and PDFs, returning probabilities and confidence scores in 150–250 ms end-to-end, at $0.10 per 1M input tokens with no output-token charge. It is available through the Gemini API in Google AI Studio. Sundar Pichai posted at 2026-11-11T18:15:20Z. Official blog: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ Official post: https://x.com/sundarpichai/status/2120581155078729728",
-    "review_14d": ""
+    "review_14d": "miss|2026-11-26|q='Gemini Decisions API' pre7=7.0 last7=3.6 peak=100"
   },
   {
     "id": 611,
@@ -6107,7 +6107,7 @@
     "first_seen": "2026-11-12T04:32+08:00",
     "url": "https://x.ai/news/grok-bot-1-0",
     "excerpt": "xAI officially introduced Grok Bot 1.0 in the news post “Introducing Grok Bot 1.0”: a major update to its AI teammates. Officially, the three main improvements since the Grok Bot beta are multiplayer teammates that you can share and bring into Slack, Microsoft Teams and video calls; proactive teammates that can spot work and offer to take it on; and more capable teammates that are faster and more reliable at using the browser, writing documents and building presentations. Team Bots are on Team and Enterprise plans; Meetings are on Team, Enterprise and Ultra plans. The official account @bot posted at 2026-11-11T18:22:30Z. Official news: https://x.ai/news/grok-bot-1-0 Official post: https://x.com/bot/status/2120582957782200586",
-    "review_14d": ""
+    "review_14d": "miss|2026-11-26|q='Grok Bot 1.0' pre7=0.0 last7=7.0 peak=100"
   },
   {
     "id": 612,
@@ -6117,7 +6117,7 @@
     "first_seen": "2026-11-12T04:32+08:00",
     "url": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/",
     "excerpt": "AWS officially announced AWS Emulator as generally available on 2026-11-11: a local emulator that you run on your machine, which the AWS CLI, AWS SDKs and coding agents speak to over a local HTTPS endpoint using the same AWS APIs they would use in the cloud. Officially, there is no additional service fee, the source is on GitHub, Linux installs are RPM or Debian packages, and macOS and Windows run it in Docker. AWS says agents build and maintain it from AWS API models. Amazon CTO Werner Vogels posted at 2026-11-11T18:02:21Z that it gives a high-fidelity local environment for more than 200 AWS services. Official blog: https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/ Official post: https://x.com/Werner/status/2120577888844148891",
-    "review_14d": ""
+    "review_14d": "miss|2026-11-26|q='AWS Emulator' pre7=2.7 last7=8.1 peak=100"
   },
   {
     "id": 613,
@@ -6127,7 +6127,7 @@
     "first_seen": "2026-11-12T04:32+08:00",
     "url": "https://developers.googleblog.com/en/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
     "excerpt": "Google officially released A2UI 1.0 on 2026-11-11 on the Google Developers Blog: the first stable version of its open protocol for generative UI, so agents can answer with interactive screens such as a form or a chart, and each app draws those screens with its own native components. Officially, open-source renderer SDKs are available for the web, Android and iOS, and agent SDKs for Python, TypeScript and Dart; companies such as Atlassian, Alation, Bloomberg and ByteDance are already building with it. The official Google Cloud Tech account posted at 2026-11-11T17:03:51Z. Official blog: https://developers.googleblog.com/en/a2ui-10-build-delightful-fast-reliable-agentic-experiences/ Official post: https://x.com/GoogleCloudTech/status/2120563165557571629 Site: https://a2ui.org",
-    "review_14d": ""
+    "review_14d": "hit|2026-11-26|q='A2UI 1.0' pre7=0.0 last7=26.3 peak=100"
   },
   {
     "id": 614,
@@ -6137,7 +6137,7 @@
     "first_seen": "2026-11-12T08:32+08:00",
     "url": "https://rayline.ai/arc",
     "excerpt": "Rayline founder David Valerio Gilmore announced ARC (ARC by Rayline; officially also called the Adaptive Routing Controller) at 2026-11-11T18:26:29Z: a routing decision model that picks a model and a reasoning level for each step of an agent workflow. Officially, in the hybrid edge-cloud setup in its technical report, it retains about 97.5% of Claude Opus 5.5 quality at 92.9% lower cost; the 800-million-parameter router is open-weight under Apache 2.0, based on Qwen3.5-0.8B. Product: https://rayline.ai/arc Technical report: https://rayline.ai/research/report Announcement: https://x.com/davidvgilmore/status/2120583960447029699 Weights: https://huggingface.co/rayline-ai/ARC-1.0",
-    "review_14d": ""
+    "review_14d": "miss|2026-11-26|no Trends data for 'Rayline ARC'"
   },
   {
     "id": 615,
@@ -7347,6 +7347,16 @@
     "first_seen": "2026-11-26T08:32+08:00",
     "url": "https://www.together.ai/blog/introducing-hurdle-run-agent-evals-on-your-api-skills-and-docs",
     "excerpt": "Together AI 于 2026 年 11 月 25 日开源智能体评测框架 Hurdle（npm 库），用于测试 Claude Code 和 Codex 能否在真实任务中使用你的 API、文档、MCP 和 skills。官方称可用代码检查、护栏和评判模型打分，起步命令为 npx hurdle init。官博：https://www.together.ai/blog/introducing-hurdle-run-agent-evals-on-your-api-skills-and-docs 官方帖：https://x.com/togethercompute/status/2125709140425363612",
+    "review_14d": null
+  },
+  {
+    "id": 736,
+    "term": "PopAgent",
+    "source": "x+web",
+    "score": 0.93,
+    "first_seen": "2026-11-26T16:32+08:00",
+    "url": "https://popagent.ai/",
+    "excerpt": "图拉鼎（@tualatrix）于 2026 年 11 月 26 日正式发布面向 Apple 平台的 Agent 工具 PopAgent，当日先推出 macOS 版，并称 iOS 版将随后到来。官网称它是原生 Mac 应用，可自行完成读写文件、联网调研和文档编写，也可调用 Claude Code、Codex 与 Antigravity；会话与凭据留在本机，模型请求直达用户自选的服务商。官网：https://popagent.ai/ 发布帖：https://x.com/tualatrix/status/2125836921549340977",
     "review_14d": null
   }
 ]

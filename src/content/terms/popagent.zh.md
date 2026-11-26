@@ -1,0 +1,14 @@
+---
+slug: "popagent"
+term: "PopAgent"
+locale: "zh"
+date: "2026-11-26T16:32+08:00"
+source: "x+web"
+score: 0.93
+url: "https://popagent.ai/"
+excerpt: "图拉鼎（@tualatrix）于 2026 年 11 月 26 日正式发布面向 Apple 平台的 Agent 工具 PopAgent，当日先推出 macOS 版，并称 iOS 版将随后到来。官网称它是原生 Mac 应用，可自行完成读写文件、联网调研和文档编写，也可调用 Claude Code、Codex 与 Antigravity；会话与凭据留在本机，模型请求直达用户自选的服务商。官网：https://popagent.ai/ 发布帖：https://x.com/tualatrix/status/2125836921549340977"
+intro: "**PopAgent** 是开发者图拉鼎（[@tualatrix](https://x.com/tualatrix)）于 2026 年 11 月 26 日正式发布的 Agent 工具，面向 Apple 平台，当日先推出 macOS 版。他在[发布帖](https://x.com/tualatrix/status/2125836921549340977)中写道，这款产品开发了 150 个日日夜夜，“今天终于正式发布了”，并称 iOS 版也会很快到来。官网为 [popagent.ai](https://popagent.ai/)，英文页为 [popagent.ai/en](https://popagent.ai/en/)。发帖时间为 2026-11-26 06:19 UTC（北京时间 14:19）。\n\n图拉鼎在帖中把 PopAgent 定位为给不想被单一厂商锁定、或希望“通过一个 Agent 来使用各种其他 Agent”的人使用的工具，并称采用完全自研技术栈，安装包仅 25MB，在 8GB 内存的 MacBook Neo 上也能流畅运行。他同时说明，当天的 1.0 只是一个开始，并提到首发优惠。以下功能与定价描述均来自官网和这条发布帖，属于厂商说明。\n"
+explain: "## 官方怎么介绍它\n\n以下内容来自 11 月 26 日的[发布帖](https://x.com/tualatrix/status/2125836921549340977)和官网 [popagent.ai](https://popagent.ai/)，属于厂商说明。\n\n官网英文标题是 “The agent native to Mac.”，并称 PopAgent 会停在屏幕一角，点一下即可弹出提问；也可以把 PDF、截图、网页链接或文本拖上去再发问。官网称，它能自己把一项任务做完：读写并整理本地文件、做联网调研、撰写和编辑文档；也可以运行 Claude Code、Codex 和 Antigravity，以便沿用已有工具，并按会话比较结果。\n\n### 模型与订阅\n\n官网称支持自带已有订阅或 API 密钥：可用已付费的 ChatGPT、Grok 或 Kimi 方案登录，通过 Claude Code 使用 Claude 方案，或直接添加 API 密钥。列出的接入方包括 Anthropic、OpenAI、Google、xAI、DeepSeek、Mistral、Moonshot AI、Z.ai、MiniMax、OpenRouter、Groq、Cerebras、Fireworks、Together、Hugging Face、Amazon Bedrock、Google Vertex、Azure OpenAI、GitHub Copilot、Vercel AI Gateway、Cloudflare，以及 Ollama、LM Studio 和任何 OpenAI 兼容服务。官网写明：模型用量不向 PopAgent 付费，由用户选择的服务商直接计费，PopAgent 不转售 token、也不抽成。\n\n### 本地优先与体积\n\n官网强调本地优先和隐私优先：会话、文件和凭据留在 Mac 上；提示词直达用户选择的 AI 服务商，不经过 PopAgent 的服务器；popagent.ai 只负责更新和许可证。技术栈写明为 macOS 上的 Swift、AppKit 与 SwiftUI，而不是跨平台框架。官网给出的测量数据是：空闲、一个窗口时约 90 MB 内存；三个会话同时运行时约 140 MB；磁盘上的应用体积约 70 MB（含应用、execution host 和 workers）。发布帖则写安装包仅 25MB，并称在 8GB 内存的 MacBook Neo 上也能流畅运行。这两处表述来源不同，此处一并记录为厂商说法。\n\n### 工作方式\n\n官网还列出：每个会话都保存在本机，可为任务单独建立 git worktree，以便并行会话互不干扰；可连接 MCP 服务器（包括需 OAuth 登录的），并可通过扩展添加工具；可预约提示词自动运行，完成后再查看结果；可用 iPhone 或 Apple Watch 配对，在离开工位时跟进会话；自动化、MCP 服务器和 Skills 的配置可通过 iCloud 带到其他 Mac，但每台机器自行决定开启哪些项；可以查看已加载的 skill、随时关闭，并在安装新 skill 前检查其文件和脚本。\n\n这些是厂商对自己产品的说明，不是第三方复现。\n"
+usage: "## 现在怎么用\n\n根据官网和发布帖，目前先提供 macOS 版，下载与购买入口在 [popagent.ai](https://popagent.ai/)。官网称所有付费功能可免绑卡试用 7 天；试用结束后进入免费档，同时只运行一个会话，此前创建的会话仍保留。许可证为买断：每次购买含 1 年功能更新，到期后可自愿再付一年更新费，不续费也不影响已购版本。官网列出的首发价是：Basic（1 台 Mac）现价 21 美元（原标价 30 美元），可选每年 15 美元续期更新；Team 现价 56 美元（原标价 80 美元）。发布帖也提到当天有首发优惠。\n\n模型调用需自备订阅或 API 密钥，费用由对应服务商收取。更完整的功能说明见官网，作者后续也可能继续在 X 上介绍。\n\n### 相关链接\n\n- 官网：[popagent.ai](https://popagent.ai/)（英文页：[popagent.ai/en](https://popagent.ai/en/)）\n- 发布帖：https://x.com/tualatrix/status/2125836921549340977（2026-11-26 06:19 UTC）\n"
+---
+
