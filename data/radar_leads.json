@@ -7378,5 +7378,15 @@
     "url": "https://technology.robbyant.com/lingbot-navi",
     "excerpt": "蚂蚁集团具身智能公司 Robbyant 于 2026 年 11 月 26 日首次公开发布开源导航模型 LingBot-Navi：用可复用的三维空间记忆连接历史场景、当前画面与自然语言，支持目标定位、图像定位、空间问答和三维路径预测。产品页：https://technology.robbyant.com/lingbot-navi  发布帖：https://x.com/robbyant_brain/status/2126020732610302086",
     "review_14d": null
+  },
+  {
+    "id": 739,
+    "term": "d1.3-ultra",
+    "source": "x+web",
+    "score": 0.95,
+    "first_seen": "2026-11-28T12:32+08:00",
+    "url": "https://x.com/liquidai/status/2126374995399975380",
+    "excerpt": "Liquid AI 官方账号 @liquidai 于 2026-11-27T17:57:59Z（北京时间 11 月 28 日 01:57:59）发帖：“Today we release d1.3-ultra, our most powerful decision model, recursively improved from d1-ultra.” 官方称其在 Artificial Analysis Decision Index v2.1 上得到 76.4 分、位列第一，并已在 Liquid console 上线；OpenRouter 与 Vercel 仍写 soon。官方帖：https://x.com/liquidai/status/2126374995399975380  控制台：https://console.liquid.ai",
+    "review_14d": null
   }
 ]
